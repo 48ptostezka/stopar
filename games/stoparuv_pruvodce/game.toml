@@ -3958,3 +3958,446 @@ to = "posts_01"
 id = "red"
 label = { cs = "Zmáčknout červené tlačítko", en = "X" }
 to = "red_24"
+
+
+# ---------------------------------- developer location
+
+[locations.developer]
+code = "S4Y7-W6QK"
+name = { cs = "Planeta vývojářů", en = "X" }
+
+[locations.developer.scenes.arrival]
+text = { cs = "Planeta vývojářů. Nikdo moc neví, co tu dělají. Včetně jich samých.", en = "X" }
+pick = "any"
+
+[[locations.developer.scenes.arrival.choices]]
+id = "items"
+label = { cs = "Předměty", en = "X" }
+to = "items"
+
+[[locations.developer.scenes.arrival.choices]]
+id = "clues"
+label = { cs = "Stopy", en = "X" }
+to = "clues"
+
+[[locations.developer.scenes.arrival.choices]]
+id = "flags"
+label = { cs = "Příznaky", en = "X" }
+to = "flags"
+
+[locations.developer.scenes.items]
+text = { cs = "Přidat předmět do inventáře.", en = "X" }
+pick = "any"
+
+[[locations.developer.scenes.items.choices]]
+id = "back"
+label = { cs = "← Zpět", en = "X" }
+to = "arrival"
+
+[[locations.developer.scenes.items.choices]]
+id = "junk_shop_address"
+label = { cs = "Adresa vetešnictví", en = "X" }
+give = { items = { junk_shop_address = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "diamond_fork"
+label = { cs = "Diamantová dezintegrační vidlička Excelsior", en = "X" }
+give = { items = { diamond_fork = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "quantum_screwdriver"
+label = { cs = "Zlatý kvantový šroubovák Absolutum", en = "X" }
+give = { items = { quantum_screwdriver = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "towel"
+label = { cs = "Ručník", en = "X" }
+give = { items = { towel = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "bubble_blower"
+label = { cs = "Bublifuk", en = "X" }
+give = { items = { bubble_blower = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "holy_soap"
+label = { cs = "Svěcené mýdlo", en = "X" }
+give = { items = { holy_soap = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "magnet"
+label = { cs = "Magnetka", en = "X" }
+give = { items = { magnet = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "cup"
+label = { cs = "Hrnek", en = "X" }
+give = { items = { cup = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "shirt"
+label = { cs = "Tričko", en = "X" }
+give = { items = { shirt = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "form_67b_unsigned"
+label = { cs = "Formulář 67B (bez razítka)", en = "X" }
+give = { items = { form_67b_unsigned = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "form_67b_signed"
+label = { cs = "Formulář 67B (orazítkovaný)", en = "X" }
+give = { items = { form_67b_signed = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "official_document"
+label = { cs = "Osvědčení o identitě kamene", en = "X" }
+give = { items = { official_document = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "grey_tile"
+label = { cs = "Šedá kachlička", en = "X" }
+give = { items = { grey_tile = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "jeep_et"
+label = { cs = "Džíp E.T.", en = "X" }
+give = { items = { jeep_et = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "prism"
+label = { cs = "Hranol", en = "X" }
+give = { items = { prism = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "memorial_candle"
+label = { cs = "Pamětní svíčka svatého Arthura", en = "X" }
+give = { items = { memorial_candle = 1 } }
+to = "items"
+
+[[locations.developer.scenes.items.choices]]
+id = "arthurs_bathrobe"
+label = { cs = "Arthurův župan", en = "X" }
+give = { items = { arthurs_bathrobe = 1 } }
+to = "items"
+
+[locations.developer.scenes.clues]
+text = { cs = "Přidat stopu do deníku.", en = "X" }
+pick = "any"
+
+[[locations.developer.scenes.clues.choices]]
+id = "back"
+label = { cs = "← Zpět", en = "X" }
+to = "arrival"
+
+[[locations.developer.scenes.clues.choices]]
+id = "vogons"
+label = { cs = "Stojí za únosem Vogoni?", en = "X" }
+give = { clues = ["vogons"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "society"
+label = { cs = "Stojí za únosem Společnost?", en = "X" }
+give = { clues = ["society"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "cult"
+label = { cs = "Stojí za únosem Kult?", en = "X" }
+give = { clues = ["cult"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "junk_shop"
+label = { cs = "Vetešnictví na planetě Lollilil", en = "X" }
+give = { clues = ["junk_shop"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "cult_password"
+label = { cs = "Kultovní slevový kupón", en = "X" }
+give = { clues = ["cult_password"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "jeep_arthur"
+label = { cs = "Arthur je na Ištvánii", en = "X" }
+give = { clues = ["jeep_arthur"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "jeep_arthur_not"
+label = { cs = "Arthur není na Ištvánii", en = "X" }
+give = { clues = ["jeep_arthur_not"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "jeep_holy_items"
+label = { cs = "Svaté předměty se prodávají na Ištvánii", en = "X" }
+give = { clues = ["jeep_holy_items"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "jeep_holy_items_not"
+label = { cs = "Svaté předměty se asi neprodávají na Ištvánii", en = "X" }
+give = { clues = ["jeep_holy_items_not"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "arthur_not_on_istvania"
+label = { cs = "Arthur opravdu není na Ištvánii", en = "X" }
+give = { clues = ["arthur_not_on_istvania"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "holy_items_not_on_istvania"
+label = { cs = "Svaté předměty se neprodávají na Ištvánii", en = "X" }
+give = { clues = ["holy_items_not_on_istvania"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "nothing_is_on_istvania"
+label = { cs = "Na Ištvánii nic není", en = "X" }
+give = { clues = ["nothing_is_on_istvania"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "lejstrbach_inspection"
+label = { cs = "Lejstrbach je na inspekci", en = "X" }
+give = { clues = ["lejstrbach_inspection"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "det_racker_att_blunda"
+label = { cs = "Stačí zavřít oči", en = "X" }
+give = { clues = ["det_racker_att_blunda"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "boring_official"
+label = { cs = "Úředník chce nudný dárek", en = "X" }
+give = { clues = ["boring_official"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "dumb_creatures_expedition"
+label = { cs = "Výprava za nejhloupějšími tvory Galaxie", en = "X" }
+give = { clues = ["dumb_creatures_expedition"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "director_station"
+label = { cs = "Ředitel na Překladišti Mezitím", en = "X" }
+give = { clues = ["director_station"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "cargo_station"
+label = { cs = "Podezřelý náklad na Překladišti Mezitím", en = "X" }
+give = { clues = ["cargo_station"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "director_not_on_bublanina"
+label = { cs = "Ředitel na Bublanině není", en = "X" }
+give = { clues = ["director_not_on_bublanina"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "director_not_on_magrathea"
+label = { cs = "Ředitel na Magrathey není", en = "X" }
+give = { clues = ["director_not_on_magrathea"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "soap_automat"
+label = { cs = "Automat na svěcené mýdlo", en = "X" }
+give = { clues = ["soap_automat"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "virus_needs_paradox"
+label = { cs = "Virus v Muzeu Šedi", en = "X" }
+give = { clues = ["virus_needs_paradox"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "gift_for_official"
+label = { cs = "Extrémně nudný dárek", en = "X" }
+give = { clues = ["gift_for_official"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "nefron_rename"
+label = { cs = "Muzeum jedné šedi", en = "X" }
+give = { clues = ["nefron_rename"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "universe_complaint"
+label = { cs = "Žaloba na vesmír", en = "X" }
+give = { clues = ["universe_complaint"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "bathrobe_lost"
+label = { cs = "Ztracený župan", en = "X" }
+give = { clues = ["bathrobe_lost"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "society_did_not_kidnap_arthur"
+label = { cs = "Společnost Arthura neunesla", en = "X" }
+give = { clues = ["society_did_not_kidnap_arthur"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "bathrobe_seen"
+label = { cs = "Pozemský župan", en = "X" }
+give = { clues = ["bathrobe_seen"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "snail_station"
+label = { cs = "Kde se odpovídá", en = "X" }
+give = { clues = ["snail_station"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "need_prism"
+label = { cs = "Jak mluvit s húlúvú", en = "X" }
+give = { clues = ["need_prism"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "lost_minute"
+label = { cs = "Ztracená minuta", en = "X" }
+give = { clues = ["lost_minute"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "heretics"
+label = { cs = "Kacíři", en = "X" }
+give = { clues = ["heretics"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "ask_oracle"
+label = { cs = "Zefyrův osud", en = "X" }
+give = { clues = ["ask_oracle"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "tuesday_prophecy"
+label = { cs = "Zefyrovo úterý", en = "X" }
+give = { clues = ["tuesday_prophecy"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "jeep_hint"
+label = { cs = "Kandidát do sbírky", en = "X" }
+give = { clues = ["jeep_hint"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "bathrobe_lost_twice"
+label = { cs = "Ztráty a nálezy ze Ztrát a nálezů", en = "X" }
+give = { clues = ["bathrobe_lost_twice"] }
+to = "clues"
+
+[[locations.developer.scenes.clues.choices]]
+id = "bathrobe_found"
+label = { cs = "Arthurův župan", en = "X" }
+give = { clues = ["bathrobe_found"] }
+to = "clues"
+
+[locations.developer.scenes.flags]
+text = { cs = "Nastavit příznak.", en = "X" }
+pick = "any"
+
+[[locations.developer.scenes.flags.choices]]
+id = "back"
+label = { cs = "← Zpět", en = "X" }
+to = "arrival"
+
+[[locations.developer.scenes.flags.choices]]
+id = "cult_allow_help"
+label = { cs = "Strážce chrámu poradí, kde sehnat svaté předměty", en = "X" }
+set = ["cult_allow_help"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "angered_junk_shop_owner"
+label = { cs = "Vetešnice je naštvaná", en = "X" }
+set = ["angered_junk_shop_owner"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "traal_lead"
+label = { cs = "Lejstrbach na Traalu je ochoten mluvit", en = "X" }
+set = ["traal_lead"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "bublanina_lead"
+label = { cs = "Na Bublanině jsou vidět automat a kámen", en = "X" }
+set = ["bublanina_lead"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "director_met"
+label = { cs = "Setkali jste se s ředitelem na Překladišti", en = "X" }
+set = ["director_met"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "promised_creature"
+label = { cs = "Slíbili jste řediteli tvora", en = "X" }
+set = ["promised_creature"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "creature_delivered"
+label = { cs = "Předali jste řediteli Džípa", en = "X" }
+set = ["creature_delivered"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "met_jeep"
+label = { cs = "Setkali jste se s Džípem E.T.", en = "X" }
+set = ["met_jeep"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "museum_renamed"
+label = { cs = "Muzeum je přejmenované", en = "X" }
+set = ["museum_renamed"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "virus_is_bored"
+label = { cs = "Virus už slyšel paradox lháře", en = "X" }
+set = ["virus_is_bored"]
+to = "flags"
+
+[[locations.developer.scenes.flags.choices]]
+id = "archive_done"
+label = { cs = "Žádost v archivu je vyřízená", en = "X" }
+set = ["archive_done"]
+to = "flags"
