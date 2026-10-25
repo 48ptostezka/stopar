@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="ztraty_lide.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview96"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="235.5477"
+     inkscape:cy="176.72702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg96" />
+  <!-- Ztráty a nálezy, oddělení lidí a živých tvorů: ztracení lidé s cedulkami čekají na lavičkách jako na autobus, pán vedle si nahlas zpívá operu; dál papoušek-bývalý profesor latiny, tvor se ztracenou identitou (kráva, nebo básník) a tuleň. Bogdan ukazuje. -->
+  <defs
+     id="defs1" />
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect1" />
+  <rect
+     width="480"
+     height="18"
+     fill="#1c1e3f"
+     id="rect2" />
+  <path
+     d="M0 236 H480 V280 H0Z"
+     fill="#141848"
+     id="path2" />
+  <g
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="g3">
+    <path
+       d="M0 252 H480 M0 268 H480"
+       id="path3" />
+  </g>
+  <!-- lavičky jako na zastávce -->
+  <rect
+     x="12"
+     y="200"
+     width="150"
+     height="8"
+     rx="3"
+     fill="#8a5a3a"
+     id="rect3" />
+  <path
+     d="M20 208 V236 M154 208 V236"
+     stroke="#6b452c"
+     stroke-width="5"
+     id="path4" />
+  <rect
+     x="12"
+     y="172"
+     width="150"
+     height="6"
+     rx="3"
+     fill="#8a5a3a"
+     id="rect4" />
+  <!-- ukazatel jako na zastávce, bez nápisu -->
+  <path
+     d="M 170,236 V 164"
+     stroke="#595d82"
+     stroke-width="4"
+     id="path5" />
+  <rect
+     x="158"
+     y="148"
+     width="24"
+     height="20"
+     rx="3"
+     fill="#e3e5ee"
+     id="rect5"
+     ry="3" />
+  <rect
+     x="162"
+     y="152"
+     width="16"
+     height="12"
+     rx="2"
+     fill="#14c2b0"
+     id="rect6"
+     ry="2" />
+  <g
+     transform="translate(28 206) scale(0.80 0.80)"
+     id="g11">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect7" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect8" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff5a36"
+       id="rect9" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle9" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle10" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle11" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#8a5a3a"
+       id="path11" />
+  </g>
+  <g
+     transform="translate(32 172) rotate(14)"
+     id="g13">
+    <path
+       d="M0 0 L0 -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path12" />
+    <path
+       d="M-5 0 H5 V10 H-5Z"
+       fill="#e3e5ee"
+       id="path13" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle13" />
+  </g>
+  <g
+     transform="translate(66 206) scale(0.80 0.80)"
+     id="g17">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#6b452c"
+       id="rect13" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#6b452c"
+       id="rect14" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#14c2b0"
+       id="rect15" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#c98a5a"
+       id="circle15" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle16" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle17" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#1c1e3f"
+       id="path17" />
+  </g>
+  <g
+     transform="translate(70 172) rotate(14)"
+     id="g19">
+    <path
+       d="M0 0 L0 -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path18" />
+    <path
+       d="M-5 0 H5 V10 H-5Z"
+       fill="#e3e5ee"
+       id="path19" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle19" />
+  </g>
+  <g
+     transform="translate(104 206) scale(0.80 0.80)"
+     id="g23">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#1c1e3f"
+       id="rect19" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#1c1e3f"
+       id="rect20" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#595d82"
+       id="rect21" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#7d8c78"
+       id="circle21" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle22" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle23" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#595d82"
+       id="path23" />
+  </g>
+  <g
+     transform="translate(108 172) rotate(14)"
+     id="g25">
+    <path
+       d="M0 0 L0 -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path24" />
+    <path
+       d="M-5 0 H5 V10 H-5Z"
+       fill="#e3e5ee"
+       id="path25" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle25" />
+  </g>
+  <g
+     transform="translate(142 206) scale(0.80 0.80)"
+     id="g29">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect25" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect26" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff5a36"
+       id="rect27" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle27" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle28" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle29" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#8a5a3a"
+       id="path29" />
+  </g>
+  <g
+     transform="translate(146 172) rotate(14)"
+     id="g31">
+    <path
+       d="M0 0 L0 -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path30" />
+    <path
+       d="M-5 0 H5 V10 H-5Z"
+       fill="#e3e5ee"
+       id="path31" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle31" />
+  </g>
+  <g
+     transform="translate(12 240) scale(0.75 0.75)"
+     id="g38">
+    <path
+       d="M-4 0 L-2 -40 M4 0 L2 -40"
+       stroke="#8a73ee"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="path32" />
+    <ellipse
+       cx="0"
+       cy="-52"
+       rx="7"
+       ry="14"
+       fill="#6b4fe0"
+       id="ellipse32" />
+    <path
+       d="M0 -64 Q2 -80 6 -88"
+       stroke="#8a73ee"
+       stroke-width="3"
+       fill="none"
+       stroke-linecap="round"
+       id="path33" />
+    <ellipse
+       cx="8"
+       cy="-92"
+       rx="7"
+       ry="5"
+       fill="#8a73ee"
+       id="ellipse33" />
+    <circle
+       cx="6"
+       cy="-93"
+       r="1.6"
+       fill="#e3e5ee"
+       id="circle33" />
+    <circle
+       cx="6.6"
+       cy="-93"
+       r="0.8"
+       fill="#1c1e3f"
+       id="circle34" />
+    <circle
+       cx="10"
+       cy="-93"
+       r="1.6"
+       fill="#e3e5ee"
+       id="circle35" />
+    <circle
+       cx="10.6"
+       cy="-93"
+       r="0.8"
+       fill="#1c1e3f"
+       id="circle36" />
+    <circle
+       cx="8"
+       cy="-96.5"
+       r="1.4"
+       fill="#e3e5ee"
+       id="circle37" />
+    <circle
+       cx="8.5"
+       cy="-96.5"
+       r="0.7"
+       fill="#1c1e3f"
+       id="circle38" />
+  </g>
+  <g
+     transform="translate(16 200) rotate(-10)"
+     id="g39">
+    <path
+       d="M0 0 L0 -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path38" />
+    <path
+       d="M-5 0 H5 V10 H-5Z"
+       fill="#e3e5ee"
+       id="path39" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle39" />
+  </g>
+  <g
+     transform="matrix(1.1,0,0,1.1,216,238)"
+     id="g45">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#1c1e3f"
+       id="rect39"
+       ry="3" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#1c1e3f"
+       id="rect40"
+       ry="3" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#1c1e3f"
+       id="rect41"
+       ry="7" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle41" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle42" />
+    <circle
+       cx="4.6999998"
+       cy="-61"
+       r="1"
+       fill="#1c1e3f"
+       id="circle43" />
+    <path
+       d="m -10,-62 q 0,-10 10,-10 9,0 10,8 -8,-4 -20,2 z"
+       fill="#e3e5ee"
+       id="path43" />
+    <path
+       d="M 8,-46 22,-62 M -8,-46 -22,-60"
+       stroke="#f0c8a0"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path44" />
+    <ellipse
+       cx="6"
+       cy="-55"
+       rx="3"
+       ry="3.5"
+       fill="#1c1e3f"
+       id="ellipse44" />
+    <path
+       d="m -5,-50 5,4 5,-4"
+       fill="#e3e5ee"
+       id="path45" />
+  </g>
+  <g
+     transform="rotate(8,-1263.864,1654.7724)"
+     id="g47">
+    <path
+       d="M 0,0 V -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path46" />
+    <path
+       d="M -5,0 H 5 V 10 H -5 Z"
+       fill="#e3e5ee"
+       id="path47" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle47" />
+  </g>
+  <g
+     transform="translate(238,130)"
+     fill="#ffd36b"
+     id="g48">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="3.5"
+       ry="2.5999999"
+       transform="rotate(-20)"
+       id="ellipse47" />
+    <rect
+       x="2.4000001"
+       y="-14"
+       width="1.6"
+       height="14"
+       id="rect47" />
+    <path
+       d="m 4,-14 q 6,2 6,8 -2,-4 -6,-4 z"
+       id="path48" />
+  </g>
+  <g
+     transform="matrix(0.8,0,0,0.8,252,112)"
+     fill="#ff8a6a"
+     id="g49">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="3.5"
+       ry="2.5999999"
+       transform="rotate(-20)"
+       id="ellipse48" />
+    <rect
+       x="2.4000001"
+       y="-14"
+       width="1.6"
+       height="14"
+       id="rect48" />
+    <path
+       d="m 4,-14 q 6,2 6,8 -2,-4 -6,-4 z"
+       id="path49" />
+  </g>
+  <g
+     transform="matrix(0.7,0,0,0.7,232,100)"
+     fill="#ffd36b"
+     id="g50">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="3.5"
+       ry="2.5999999"
+       transform="rotate(-20)"
+       id="ellipse49" />
+    <rect
+       x="2.4000001"
+       y="-14"
+       width="1.6"
+       height="14"
+       id="rect49" />
+    <path
+       d="m 4,-14 q 6,2 6,8 -2,-4 -6,-4 z"
+       id="path50" />
+  </g>
+  <g
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity="0.4"
+     stroke-width="1.5"
+     id="g52"
+     transform="translate(26)">
+    <path
+       d="m 206,142 q 8,-4 14,2"
+       id="path51" />
+    <path
+       d="m 208,150 q 10,-6 18,2"
+       id="path52" />
+  </g>
+  <!-- dělicí zábradlí: oddělení živých tvorů -->
+  <path
+     d="m 316,236 v -86 m 190,0 H 316"
+     stroke="#595d82"
+     stroke-width="4"
+     id="path53" />
+  <!-- papoušek, bývalý profesor latiny -->
+  <path
+     d="M 342,236 V 130 m -16,0 h 40"
+     stroke="#8a5a3a"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path54" />
+  <g
+     transform="translate(348,128)"
+     id="g63">
+    <path
+       d="m -6,0 q -6,-20 6,-30 12,8 8,30 z"
+       fill="#ff5a36"
+       id="path55" />
+    <path
+       d="m -4,0 -6,22 8,-2 4,6 4,-26 z"
+       fill="#14c2b0"
+       id="path56" />
+    <path
+       d="m 6,-14 q 8,6 2,14"
+       fill="#f0a400"
+       id="path57" />
+    <circle
+       cx="2"
+       cy="-30"
+       r="9"
+       fill="#ff5a36"
+       id="circle57" />
+    <path
+       d="m 9,-32 q 7,2 5,8 -2,2 -5,-2 z"
+       fill="#e3e5ee"
+       id="path58" />
+    <path
+       d="m 9,-26 q 4,4 1,6"
+       fill="#1c1e3f"
+       id="path59" />
+    <circle
+       cx="4"
+       cy="-33"
+       r="3.5"
+       fill="#ffffff"
+       id="circle59" />
+    <circle
+       cx="5"
+       cy="-33"
+       r="1.6"
+       fill="#1c1e3f"
+       id="circle60" />
+    <circle
+       cx="4"
+       cy="-33"
+       r="4.5"
+       fill="none"
+       stroke="#f0a400"
+       stroke-width="1.2"
+       id="circle61" />
+    <path
+       d="m 0,-37 7,2"
+       stroke="#1c1e3f"
+       stroke-width="1.6"
+       id="path61" />
+    <!-- akademická čapka -->
+    <path
+       d="m -10,-42 14,-5 14,5 -14,5 z"
+       fill="#1c1e3f"
+       id="path62" />
+    <rect
+       x="-1"
+       y="-42"
+       width="10"
+       height="4"
+       fill="#1c1e3f"
+       id="rect62" />
+    <path
+       d="m 18,-42 v 8"
+       stroke="#f0a400"
+       stroke-width="1.2"
+       id="path63" />
+    <circle
+       cx="18"
+       cy="-33"
+       r="1.5"
+       fill="#f0a400"
+       id="circle63" />
+  </g>
+  <!-- rozzlobené latinské nadávky: jen klikyháky -->
+  <path
+     d="m 368,98 4,-6 3,6 4,-6 3,6"
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="2"
+     stroke-linejoin="round"
+     id="path64" />
+  <path
+     d="m 370,86 q 4,-6 8,0 4,6 8,0"
+     fill="none"
+     stroke="#ffd36b"
+     stroke-width="2"
+     id="path65" />
+  <!-- tvor se ztracenou identitou: kráva, nebo básník -->
+  <g
+     transform="rotate(33.988031,-18.30544,610.77034)"
+     id="g76">
+    <path
+       d="M 0,0 V -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path75" />
+    <path
+       d="M -5,0 H 5 V 10 H -5 Z"
+       fill="#e3e5ee"
+       id="path76" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle76" />
+  </g>
+  <!-- tuleň -->
+  <ellipse
+     cx="430"
+     cy="238"
+     rx="30"
+     ry="5"
+     fill="#3a6fd8"
+     opacity="0.35"
+     id="ellipse76" />
+  <g
+     transform="translate(430,236)"
+     id="g80">
+    <path
+       d="m -26,0 q -4,-20 20,-28 14,-18 20,-10 6,12 4,38 z"
+       fill="#8a8ea8"
+       id="path77" />
+    <path
+       d="m -26,0 -8,-6 2,8 z m 44,0 8,-4 -4,6 z"
+       fill="#7f839c"
+       id="path78" />
+    <circle
+       cx="8"
+       cy="-36"
+       r="2.2"
+       fill="#1c1e3f"
+       id="circle78" />
+    <circle
+       cx="14"
+       cy="-34"
+       r="1"
+       fill="#1c1e3f"
+       id="circle79" />
+    <g
+       stroke="#1c1e3f"
+       stroke-width="0.8"
+       id="g79">
+      <path
+         d="m 14,-32 8,-2 m -8,3 8,1"
+         id="path79" />
+    </g>
+    <path
+       d="m -4,-12 -10,6"
+       stroke="#7f839c"
+       stroke-width="5"
+       stroke-linecap="round"
+       id="path80" />
+  </g>
+  <g
+     transform="rotate(20,-430.85485,1303.969)"
+     id="g82">
+    <path
+       d="M 0,0 V -8"
+       stroke="#caccdc"
+       stroke-width="1"
+       id="path81" />
+    <path
+       d="M -5,0 H 5 V 10 H -5 Z"
+       fill="#e3e5ee"
+       id="path82" />
+    <circle
+       cx="0"
+       cy="2"
+       r="1"
+       fill="#595d82"
+       id="circle82" />
+  </g>
+  <g
+     transform="matrix(0.82,0,0,0.82,298,252)"
+     id="g96">
+    <path
+       d="M -14,0 V -40 M 12,0 v -40"
+       stroke="#4c5074"
+       stroke-width="12"
+       stroke-linecap="round"
+       id="path83" />
+    <ellipse
+       cx="-16"
+       cy="2"
+       rx="10"
+       ry="4"
+       fill="#1c1e3f"
+       id="ellipse83" />
+    <ellipse
+       cx="14"
+       cy="2"
+       rx="10"
+       ry="4"
+       fill="#1c1e3f"
+       id="ellipse84" />
+    <g
+       transform="translate(0,-38)"
+       id="g95">
+      <path
+         d="m -34,0 q -4,-54 34,-58 38,4 34,58 z"
+         fill="#8a5a3a"
+         id="path84" />
+      <rect
+         x="-24"
+         y="-30"
+         width="12"
+         height="12"
+         fill="#14c2b0"
+         transform="rotate(-8,-18,-24)"
+         id="rect84" />
+      <rect
+         x="14"
+         y="-22"
+         width="11"
+         height="11"
+         fill="#ff8a6a"
+         transform="rotate(10,19,-16)"
+         id="rect85" />
+      <ellipse
+         cx="0"
+         cy="-74"
+         rx="22"
+         ry="20"
+         fill="#a8c070"
+         id="ellipse85" />
+      <path
+         d="m -22,-70 q -8,30 22,34 30,-4 22,-34 -8,16 -22,14 -14,2 -22,-14 z"
+         fill="#ff8a6a"
+         id="path85" />
+      <path
+         d="m -20,-84 q -8,-4 -6,-12 m 46,12 q 8,-4 6,-12"
+         stroke="#ff8a6a"
+         stroke-width="5"
+         stroke-linecap="round"
+         fill="none"
+         id="path86" />
+      <path
+         d="m -20,-86 q 0,-20 20,-20 20,0 20,20 z"
+         fill="#f0a400"
+         id="path87" />
+      <rect
+         x="-22"
+         y="-90"
+         width="44"
+         height="7"
+         rx="3"
+         fill="#c98400"
+         id="rect87"
+         ry="3" />
+      <circle
+         cx="0"
+         cy="-108"
+         r="5"
+         fill="#ff5a36"
+         id="circle87" />
+      <circle
+         cx="-8"
+         cy="-76"
+         r="4"
+         fill="#ffffff"
+         id="circle88" />
+      <circle
+         cx="8"
+         cy="-76"
+         r="4"
+         fill="#ffffff"
+         id="circle89" />
+      <circle
+         cx="-7"
+         cy="-77"
+         r="2.2"
+         fill="#1c1e3f"
+         id="circle90" />
+      <circle
+         cx="9"
+         cy="-77"
+         r="2.2"
+         fill="#1c1e3f"
+         id="circle91" />
+      <path
+         d="m -14,-84 q 6,-4 10,-1 m 8,0 q 6,-3 10,1"
+         stroke="#ff8a6a"
+         stroke-width="2.5"
+         stroke-linecap="round"
+         fill="none"
+         id="path91" />
+      <ellipse
+         cx="0"
+         cy="-68"
+         rx="5"
+         ry="4"
+         fill="#86a050"
+         id="ellipse91" />
+      <path
+         d="m -9,-60 q 9,8 18,0 z"
+         fill="#1c1e3f"
+         id="path92" />
+      <path
+         d="m -28,-30 q -22,-6 -36,-16"
+         stroke="#8a5a3a"
+         stroke-width="10"
+         stroke-linecap="round"
+         fill="none"
+         id="path93" />
+      <circle
+         cx="-67"
+         cy="-48"
+         r="5.5"
+         fill="#a8c070"
+         id="circle93" />
+      <path
+         d="m -70,-50 -8,-4"
+         stroke="#a8c070"
+         stroke-width="3.5"
+         stroke-linecap="round"
+         id="path94" />
+      <path
+         d="m 28,-30 q 8,16 0,28"
+         stroke="#8a5a3a"
+         stroke-width="10"
+         stroke-linecap="round"
+         fill="none"
+         id="path95" />
+      <circle
+         cx="28"
+         cy="0"
+         r="5.5"
+         fill="#a8c070"
+         id="circle95" />
+    </g>
+  </g>
+</svg>

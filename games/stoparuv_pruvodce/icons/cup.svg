@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Hrnek: na hrnku je obrázek téhož hrnku -->
+  <path d="M-11 -9H6V7Q6 10 3 10H-8Q-11 10 -11 7Z"/>
+  <path d="M6 -5H9Q12 -5 12 -1Q12 3 9 3H6"/>
+  <path d="M-7 -4H0V2Q0 3 -1 3H-6Q-7 3 -7 2Z"/>
+  <path d="M0 -2.5H1.5Q2.5 -2.5 2.5 -0.75Q2.5 1 1.5 1H0"/>
+</svg>

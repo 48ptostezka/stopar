@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Arthurův župan: župan s opaskem, z kapsy vykukuje čajový sáček -->
+  <path d="M-5 -12L-11 -9L-13 4L-9 5L-8 -2V12H8V-2L9 5L13 4L11 -9L5 -12L0 -4Z"/>
+  <path d="M0 -4V12"/>
+  <path d="M-8 1H8"/>
+  <path d="M0 1L-2 6M0 1L2 6"/>
+  <path d="M2.5 7H7.5V11.5H2.5Z"/>
+  <path d="M3.5 7L3 3.8L6.8 3.4L6.8 7"/>
+</svg>

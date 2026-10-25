@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Stanice húlúvú v souhvězdí Pozpátku se pohybujícího slimáka: téměř prázdná hala; prostředek modré podlahy barví poslední húlúvú, superinteligentní odstín modré. Na podlaze a stěnách zůstaly vybledlé skvrny po ostatních. -->
+  <defs>
+    <radialGradient id="modra" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4a82ee"/><stop offset=".6" stop-color="#3a6fd8" stop-opacity=".95"/><stop offset="1" stop-color="#3a6fd8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vybledla" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8ab4e8" stop-opacity=".35"/><stop offset="1" stop-color="#8ab4e8" stop-opacity="0"/>
+    </radialGradient>
+    
+  </defs>
+  <rect width="480" height="280" fill="#1c1e3f"/>
+  <!-- stěny haly -->
+  <path d="M0 0 H480 V150 H0Z" fill="#23275e"/>
+  <path d="M0 18 H480" stroke="#2e3370" stroke-width="6"/>
+  <g stroke="#2e3370" stroke-width="3"><path d="M80 18 V150 M240 18 V150 M400 18 V150"/></g>
+  <!-- průzory: souhvězdí Pozpátku se pohybujícího slimáka -->
+  <circle cx="160" cy="80" r="40" fill="#0b0d2a"/><circle cx="160" cy="80" r="40" fill="none" stroke="#595d82" stroke-width="6"/>
+  <g fill="#fff"><circle cx="138" cy="94" r="1.6"/><circle cx="148" cy="90" r="1.3"/><circle cx="160" cy="92" r="1.5"/><circle cx="172" cy="88" r="1.3"/><circle cx="178" cy="78" r="1.6"/><circle cx="170" cy="70" r="1.2"/><circle cx="160" cy="74" r="1.4"/><circle cx="164" cy="82" r="1.1"/><circle cx="134" cy="84" r="1.2"/><circle cx="130" cy="78" r="1.1"/></g>
+  <path d="M138 94 L148 90 L160 92 L172 88 L178 78 L170 70 L160 74 L164 82 M138 94 L134 84 L130 78" fill="none" stroke="#e3e5ee" stroke-opacity=".35" stroke-width=".8"/>
+  <circle cx="320" cy="80" r="40" fill="#0b0d2a"/><circle cx="320" cy="80" r="40" fill="none" stroke="#595d82" stroke-width="6"/>
+  <g fill="#fff"><circle cx="300" cy="64" r="1"/><circle cx="336" cy="96" r="1.2"/><circle cx="330" cy="62" r="1"/><circle cx="306" cy="98" r="1"/></g>
+  <circle cx="330" cy="86" r="10" fill="#8a73ee" opacity=".7"/>
+  <!-- podlaha haly v perspektivě -->
+  <path d="M0 150 H480 V280 H0Z" fill="#2e3370"/>
+  <g stroke="#262a5a" stroke-width="2">
+    <path d="M0 176 H480 M0 210 H480 M0 252 H480"/>
+    <path d="M240 150 V280 M180 150 L120 280 M300 150 L360 280 M120 150 L0 262 M360 150 L480 262"/>
+  </g>
+  <!-- vybledlé skvrny po ostatních húlúvú -->
+  <ellipse cx="60" cy="200" rx="50" ry="14" fill="url(#vybledla)"/>
+  <ellipse cx="420" cy="236" rx="60" ry="16" fill="url(#vybledla)"/>
+  <ellipse cx="420" cy="110" rx="26" ry="30" fill="url(#vybledla)"/>
+  <ellipse cx="44" cy="70" rx="20" ry="26" fill="url(#vybledla)"/>
+  <!-- opuštěné věci -->
+  <g transform="translate(70 196) rotate(-80)"><rect x="-10" y="-4" width="20" height="5" rx="2" fill="#595d82"/><path d="M-8 1 V12 M8 1 V12" stroke="#4c5074" stroke-width="3"/></g>
+  <rect x="404" y="214" width="30" height="20" rx="2" fill="#4c5074"/><rect x="408" y="206" width="22" height="8" rx="2" fill="#595d82"/>
+  <!-- poslední húlúvú: prostředek podlahy je modrý -->
+  <ellipse cx="240" cy="214" rx="120" ry="34" fill="url(#modra)"/>
+  <ellipse cx="240" cy="214" rx="80" ry="22" fill="#4a82ee" opacity=".6"/>
+  <g fill="none" stroke="#8ab4e8" stroke-opacity=".45" stroke-width="1.5">
+    <ellipse cx="240" cy="214" rx="56" ry="15"/><ellipse cx="240" cy="214" rx="30" ry="8"/>
+  </g>
+  <!-- modrá záře na stropě a stěně -->
+  <ellipse cx="240" cy="150" rx="140" ry="10" fill="#4a82ee" opacity=".15"/>
+</svg>

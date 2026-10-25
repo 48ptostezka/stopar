@@ -1,0 +1,78 @@
+/* Orbit: a light console panel between starry side rails. For space games.
+ * Fonts: Saira and Saira Wide (SIL Open Font License). */
+
+@font-face {
+  font-family: "Saira Wide";
+  src: url("fonts/saira-wide-700.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Saira";
+  src: url("fonts/saira-400.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Saira";
+  src: url("fonts/saira-600.woff2") format("woff2");
+  font-weight: 600;
+  font-display: swap;
+}
+
+:root {
+  --theme-color: #121642;
+
+  --panel: #e3e5ee;
+  --surface: #fafbfd;
+  --ink: #1c1e3f;
+  --muted: #595d82;
+  --line: #caccdc;
+  --on-accent: #fff;
+  --on-ink: #fff;
+  --accent-1: #ff5a36;
+  --accent-2: #6b4fe0;
+  --accent-3: #0e9c8e;
+  --accent-4: #f0a400;
+
+  --font-display: "Saira Wide", "Arial Black", sans-serif;
+  --font-body: "Saira", system-ui, sans-serif;
+  --display-weight: 700;
+  --display-transform: uppercase;
+  --display-tracking: 0.02em;
+
+  --radius: 16px;
+  --radius-small: 12px;
+  --border: 2.5px;
+  --depth-x: 0px;
+  --depth-y: 6px;
+
+  --size-key-label: 24px;
+  --size-heading: 25px;
+  --size-title: 32px;
+
+  --rail-edge: 3px;
+  --marker-size: 20px;
+  --marker-gap: 170px;
+  --badge-size: 62px;
+}
+
+.rail {
+  background:
+    url("stars.svg") 0 0 / 160px 320px repeat,
+    linear-gradient(170deg, #121642, #1f1b52 55%, #0e1d3a);
+}
+
+/* Planet badge: a lit disc with a shadowed crescent. */
+.badge {
+  border: var(--border) solid var(--ink);
+  background: radial-gradient(
+    circle at 36% 34%,
+    var(--key-accent) 0 63%,
+    color-mix(in srgb, var(--key-accent), #000 28%) 64%
+  );
+}
+
+.badge .icon {
+  translate: -2px -2px;
+}

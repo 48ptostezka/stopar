@@ -1,0 +1,87 @@
+/* Case file: a detective's desk. Manila panel, paper keys stacked on a
+ * second sheet, evidence-label badges, cork rails with pins.
+ * Fonts: Special Elite (Apache License 2.0), Barlow (SIL Open Font License). */
+
+@font-face {
+  font-family: "Special Elite";
+  src: url("fonts/special-elite-400.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Barlow";
+  src: url("fonts/barlow-400.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Barlow";
+  src: url("fonts/barlow-600.woff2") format("woff2");
+  font-weight: 600;
+  font-display: swap;
+}
+
+:root {
+  --theme-color: #6b4a2b;
+
+  --panel: #e8d5a4;
+  --surface: #fcf8ec;
+  --ink: #2b2420;
+  --muted: #6b5c4b;
+  --line: #d8c89d;
+  --on-accent: #fff;
+  --on-ink: #fcf8ec;
+  --accent-1: #c3262f;
+  --accent-2: #2e4e9c;
+  --accent-3: #3d7a49;
+  --accent-4: #d49a10;
+
+  --font-display: "Special Elite", "Courier New", monospace;
+  --font-body: "Barlow", system-ui, sans-serif;
+  --display-weight: 400;
+  --display-transform: uppercase;
+  --display-tracking: 0.03em;
+
+  --radius: 2px;
+  --radius-small: 2px;
+  --border: 1.6px;
+  --depth-x: 4px;
+  --depth-y: 4px;
+  /* A second sheet peeking out below: paper-coloured with an ink edge. */
+  --key-shadow: 4px 4px 0 -1.6px var(--surface), 4px 4px 0 0 var(--ink);
+  --key-shadow-small: 3px 3px 0 -1.6px var(--surface), 3px 3px 0 0 var(--ink);
+
+  --size-key-label: 26px;
+  --size-heading: 26px;
+  --size-title: 32px;
+
+  --marker-size: 18px;
+  --marker-gap: 160px;
+  --badge-size: 58px;
+}
+
+.rail {
+  background: url("cork.svg") 0 0 / 180px 180px repeat, #b98a57;
+}
+
+/* Evidence label: a tilted tag with a punched hole. */
+.badge {
+  border: var(--border) solid var(--ink);
+  border-radius: 2px;
+  background:
+    radial-gradient(circle at 10px 10px, var(--panel) 0 3px, var(--ink) 3.2px 4.4px, transparent 4.6px),
+    var(--key-accent);
+  rotate: -4deg;
+}
+
+.key--nav:nth-child(even) .badge {
+  rotate: 3deg;
+}
+
+.tag {
+  border-radius: 2px;
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  rotate: 4deg;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Test picture: a signpost with two arrows. -->
+  <rect width="480" height="280" fill="#efe7d6"/>
+  <path d="M0 230 H480 V280 H0Z" fill="#c9b893"/>
+  <rect x="232" y="70" width="16" height="170" fill="#5a4630"/>
+  <path d="M248 86 H352 L376 106 L352 126 H248Z" fill="#d2452f"/>
+  <path d="M232 140 H128 L104 160 L128 180 H232Z" fill="#2f5fd2"/>
+  <circle cx="240" cy="64" r="10" fill="#5a4630"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Hranol: paprsek světla se rozkládá do vějíře barev -->
+  <path d="M0 -10L10 8H-10Z"/>
+  <path d="M-14 3L-4 -1"/>
+  <path d="M4 -1L14 0M4.6 0.5L14 4M5.2 2L13 8"/>
+</svg>

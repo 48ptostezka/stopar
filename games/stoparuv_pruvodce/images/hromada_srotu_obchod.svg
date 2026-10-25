@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="hromada_srotu_obchod.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72" />
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="253.56485"
+     inkscape:cy="180.96635"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g66" />
+  <!-- Kalobahno Supreme 9000, uvnitř obchůdku: starý želvovitý prodavač nevěřícně počítá kredity a upouští je; stopař Zefyr Klakuflonk v šortkách, žabkách a s ručníkem přes rameno si prohlíží hranol proti světlu; ve dveřích se zjevují dva inspektoři náhodnosti. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#c98a5a"
+     id="rect1" />
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     opacity=".55"
+     id="rect2" />
+  <path
+     d="M0 230 H480 V280 H0Z"
+     fill="#8a5a3a"
+     id="path2" />
+  <g
+     stroke="#6b452c"
+     stroke-width="2"
+     id="g3">
+    <path
+       d="M0 246 H480 M0 262 H480"
+       id="path3" />
+  </g>
+  <!-- okno s rozkvetlou loukou -->
+  <rect
+     x="190"
+     y="36"
+     width="110"
+     height="74"
+     rx="4"
+     fill="#ff8a6a"
+     id="rect3" />
+  <rect
+     x="190"
+     y="36"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#6b4fe0"
+     id="rect4" />
+  <path
+     d="M190 80 Q240 66 300 78 V110 H190Z"
+     fill="#14c2b0"
+     id="path4" />
+  <g
+     fill="#ffd36b"
+     id="g7">
+    <circle
+       cx="210"
+       cy="96"
+       r="2"
+       id="circle4" />
+    <circle
+       cx="236"
+       cy="90"
+       r="2"
+       id="circle5" />
+    <circle
+       cx="262"
+       cy="100"
+       r="2"
+       id="circle6" />
+    <circle
+       cx="286"
+       cy="92"
+       r="2"
+       id="circle7" />
+  </g>
+  <path
+     d="M245 36 V110 M190 73 H300"
+     stroke="#8a5a3a"
+     stroke-width="4"
+     id="path7" />
+  <rect
+     x="190"
+     y="36"
+     width="110"
+     height="74"
+     rx="4"
+     fill="none"
+     stroke="#8a5a3a"
+     stroke-width="6"
+     id="rect7" />
+  <!-- světlo z okna -->
+  <path
+     d="M190 110 L120 230 H330 L300 110Z"
+     fill="#ffd36b"
+     opacity=".07"
+     id="path8" />
+  <!-- prázdné police -->
+  <rect
+     x="24"
+     y="70"
+     width="120"
+     height="6"
+     rx="2"
+     fill="#6b452c"
+     id="rect8" />
+  <rect
+     x="24"
+     y="120"
+     width="120"
+     height="6"
+     rx="2"
+     fill="#6b452c"
+     id="rect9" />
+  <!-- místo po hranolu na polici: obrys v prachu -->
+  <path
+     d="M84 70 L92 58 L100 70Z"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".45"
+     stroke-width="1.2"
+     stroke-dasharray="2 2"
+     id="path9" />
+  <!-- zarámovaná reklama ve Stopařově průvodci -->
+  <rect
+     x="336"
+     y="44"
+     width="52"
+     height="64"
+     rx="2"
+     fill="#f0a400"
+     id="rect10" />
+  <rect
+     x="342"
+     y="50"
+     width="40"
+     height="52"
+     fill="#1c1e3f"
+     id="rect11" />
+  <g
+     transform="translate(362 76) scale(1.1)"
+     id="g12">
+    <path
+       d="M0 -14 L12 8 H-12Z"
+       fill="#e3e5ee"
+       fill-opacity=".35"
+       stroke="#e3e5ee"
+       stroke-width="1.6"
+       stroke-linejoin="round"
+       id="path11" />
+    <path
+       d="M-3 -6 L-7 2"
+       stroke="#fff"
+       stroke-width="1.2"
+       stroke-linecap="round"
+       id="path12" />
+  </g>
+  <path
+     d="M370 76 L382 70 V84Z"
+     fill="#ff8a6a"
+     opacity=".6"
+     id="path13" />
+  <rect
+     x="348"
+     y="92"
+     width="28"
+     height="4"
+     rx="2"
+     fill="#14c2b0"
+     id="rect13" />
+  <!-- dveře s inspektory náhodnosti -->
+  <rect
+     x="400"
+     y="96"
+     width="64"
+     height="134"
+     rx="3"
+     fill="#ffd36b"
+     opacity=".85"
+     id="rect14" />
+  <rect
+     x="400"
+     y="96"
+     width="64"
+     height="134"
+     rx="3"
+     fill="none"
+     stroke="#6b452c"
+     stroke-width="5"
+     id="rect15" />
+  <!-- pult -->
+  <rect
+     x="20"
+     y="170"
+     width="160"
+     height="60"
+     rx="3"
+     fill="#6b452c"
+     id="rect16" />
+  <rect
+     x="14"
+     y="164"
+     width="172"
+     height="10"
+     rx="3"
+     fill="#a36b45"
+     id="rect17" />
+  <!-- komínky kreditů na pultu -->
+  <g
+     fill="#f0a400"
+     id="g20">
+    <rect
+       x="128"
+       y="156"
+       width="14"
+       height="8"
+       rx="2"
+       id="rect18" />
+    <rect
+       x="128"
+       y="150"
+       width="14"
+       height="6"
+       rx="2"
+       id="rect19" />
+    <rect
+       x="148"
+       y="158"
+       width="14"
+       height="6"
+       rx="2"
+       id="rect20" />
+  </g>
+  <!-- starý želvovitý prodavač -->
+  <g
+     transform="translate(78 164)"
+     id="g29">
+    <ellipse
+       cx="0"
+       cy="-22"
+       rx="30"
+       ry="26"
+       fill="#0b5f57"
+       id="ellipse20" />
+    <g
+       fill="none"
+       stroke="#0e9c8e"
+       stroke-width="2"
+       id="g21">
+      <path
+         d="M-18 -36 l10 6 l10 -6 l10 6 M-22 -18 l12 6 l10 -6 l10 6 l10 -6"
+         id="path20" />
+    </g>
+    <path
+       d="M-22 -8 Q0 -2 22 -8 V0 H-22Z"
+       fill="#8a73ee"
+       id="path21" />
+    <path
+       d="M0 -44 Q-4 -56 0 -64"
+       stroke="#7da36b"
+       stroke-width="10"
+       stroke-linecap="round"
+       fill="none"
+       id="path22" />
+    <ellipse
+       cx="4"
+       cy="-70"
+       rx="14"
+       ry="11"
+       fill="#7da36b"
+       id="ellipse22" />
+    <circle
+       cx="0"
+       cy="-72"
+       r="5"
+       fill="#fff"
+       id="circle22" />
+    <circle
+       cx="10"
+       cy="-72"
+       r="5"
+       fill="#fff"
+       id="circle23" />
+    <circle
+       cx="0"
+       cy="-72"
+       r="3"
+       fill="#1c1e3f"
+       id="circle24" />
+    <circle
+       cx="10"
+       cy="-72"
+       r="3"
+       fill="#1c1e3f"
+       id="circle25" />
+    <circle
+       cx="0"
+       cy="-72"
+       r="6"
+       fill="none"
+       stroke="#f0a400"
+       stroke-width="1.5"
+       id="circle26" />
+    <circle
+       cx="10"
+       cy="-72"
+       r="6"
+       fill="none"
+       stroke="#f0a400"
+       stroke-width="1.5"
+       id="circle27" />
+    <ellipse
+       cx="8"
+       cy="-62"
+       rx="4"
+       ry="3"
+       fill="#1c1e3f"
+       id="ellipse27" />
+    <path
+       d="M-4 -80 q4 -4 8 0 M6 -80 q4 -4 8 0"
+       stroke="#e3e5ee"
+       stroke-width="1.5"
+       fill="none"
+       id="path27" />
+    <!-- ruce: kredity padají -->
+    <path
+       d="M-24 -26 Q-34 -16 -28 -4"
+       stroke="#7da36b"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path28" />
+    <path
+       d="M24 -26 Q36 -24 40 -14"
+       stroke="#7da36b"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path29" />
+  </g>
+  <g
+     fill="#f0a400"
+     id="g33">
+    <ellipse
+       cx="122"
+       cy="168"
+       rx="4"
+       ry="2"
+       id="ellipse29" />
+    <ellipse
+       cx="114"
+       cy="184"
+       rx="4"
+       ry="1.6"
+       transform="rotate(30 114 184)"
+       id="ellipse30" />
+    <ellipse
+       cx="126"
+       cy="198"
+       rx="4"
+       ry="2"
+       id="ellipse31" />
+    <ellipse
+       cx="110"
+       cy="212"
+       rx="4"
+       ry="1.8"
+       transform="rotate(-30 110 212)"
+       id="ellipse32" />
+    <ellipse
+       cx="120"
+       cy="226"
+       rx="4"
+       ry="1.5"
+       id="ellipse33" />
+  </g>
+  <g
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".5"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="g34">
+    <path
+       d="M130 176 l6 -2 M104 196 l-6 -1 M132 210 l6 2"
+       id="path33" />
+  </g>
+  <!-- stopař Zefyr Klakuflonk -->
+  <g
+     transform="translate(276 230)"
+     id="g66">
+    <!-- žabky -->
+    <!-- výrazné žabky -->
+    <g
+       transform="translate(-8 0)"
+       id="g40">
+      <ellipse
+         cx="0"
+         cy="1"
+         rx="14"
+         ry="5.5"
+         fill="#0b5f57"
+         id="ellipse34" />
+      <ellipse
+         cx="0"
+         cy="-1"
+         rx="14"
+         ry="5"
+         fill="#14c2b0"
+         id="ellipse35" />
+      <path
+         d="M-8 -2 Q-9 -10 0 -12 Q9 -10 8 -2 Q0 1 -8 -2Z"
+         fill="#c98a5a"
+         id="path35" />
+      <g
+         fill="#c98a5a"
+         id="g39">
+        <circle
+           cx="-8"
+           cy="1"
+           r="2.4"
+           id="circle35" />
+        <circle
+           cx="-4"
+           cy="2.5"
+           r="2.4"
+           id="circle36" />
+        <circle
+           cx="0"
+           cy="3"
+           r="2.6"
+           id="circle37" />
+        <circle
+           cx="4"
+           cy="2.5"
+           r="2.4"
+           id="circle38" />
+        <circle
+           cx="8"
+           cy="1"
+           r="2.2"
+           id="circle39" />
+      </g>
+      <path
+         d="M-11 -4 L-2 1 M11 -4 L-2 1"
+         stroke="#ff5a36"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path39" />
+      <circle
+         cx="-2"
+         cy="1"
+         r="1.8"
+         fill="#ffd36b"
+         id="circle40" />
+    </g>
+    <g
+       transform="translate(10 0)"
+       id="g46">
+      <ellipse
+         cx="0"
+         cy="1"
+         rx="14"
+         ry="5.5"
+         fill="#0b5f57"
+         id="ellipse40" />
+      <ellipse
+         cx="0"
+         cy="-1"
+         rx="14"
+         ry="5"
+         fill="#14c2b0"
+         id="ellipse41" />
+      <path
+         d="M-8 -2 Q-9 -10 0 -12 Q9 -10 8 -2 Q0 1 -8 -2Z"
+         fill="#c98a5a"
+         id="path41" />
+      <g
+         fill="#c98a5a"
+         id="g45">
+        <circle
+           cx="-8"
+           cy="1"
+           r="2.4"
+           id="circle41" />
+        <circle
+           cx="-4"
+           cy="2.5"
+           r="2.4"
+           id="circle42" />
+        <circle
+           cx="0"
+           cy="3"
+           r="2.6"
+           id="circle43" />
+        <circle
+           cx="4"
+           cy="2.5"
+           r="2.4"
+           id="circle44" />
+        <circle
+           cx="8"
+           cy="1"
+           r="2.2"
+           id="circle45" />
+      </g>
+      <path
+         d="M-11 -4 L-2 1 M11 -4 L-2 1"
+         stroke="#ff5a36"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path45" />
+      <circle
+         cx="-2"
+         cy="1"
+         r="1.8"
+         fill="#ffd36b"
+         id="circle46" />
+    </g>
+    <!-- nohy -->
+    <path
+       d="M-8 -4 V-46 M10 -4 V-46"
+       stroke="#c98a5a"
+       stroke-width="7"
+       stroke-linecap="round"
+       id="path46" />
+    <!-- květované šortky -->
+    <path
+       d="M-14 -40 V-66 H16 V-40 H4 L1 -54 L-2 -40Z"
+       fill="#ff5a36"
+       id="path47" />
+    <g
+       fill="#ffd36b"
+       id="g50">
+      <circle
+         cx="-8"
+         cy="-58"
+         r="2"
+         id="circle47" />
+      <circle
+         cx="8"
+         cy="-50"
+         r="2"
+         id="circle48" />
+      <circle
+         cx="10"
+         cy="-62"
+         r="1.6"
+         id="circle49" />
+      <circle
+         cx="-6"
+         cy="-46"
+         r="1.6"
+         id="circle50" />
+    </g>
+    <!-- holý trup -->
+    <path
+       d="M-13 -66 Q-16 -104 1 -108 Q18 -104 15 -66Z"
+       fill="#c98a5a"
+       id="path50" />
+    <path
+       d="M-4 -90 q4 2 8 0"
+       stroke="#a36b45"
+       stroke-width="1.2"
+       fill="none"
+       id="path51" />
+    <!-- duhový odlesk z hranolu na hrudi -->
+    <!-- ruka zvedá hranol proti světlu -->
+    <path
+       d="M12 -100 Q24 -112 26 -132"
+       stroke="#c98a5a"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path56" />
+    <circle
+       cx="26"
+       cy="-134"
+       r="4.5"
+       fill="#c98a5a"
+       id="circle56" />
+    <path
+       d="M-12 -98 Q-18 -84 -14 -72"
+       stroke="#c98a5a"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path57" />
+    <!-- ručník kolem krku, oba konce visí vpředu přes hruď -->
+    <path
+       d="m -15.468591,-103.04552 c 2,-5.33333 5.8019243,-4.28781 12.468591,-2.95448 v 8 c -4.6666667,-1.333333 -6.3333333,-2.66667 -9,0 z"
+       fill="#14c2b0"
+       id="path58"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="M19 -100 Q16 -108 6 -106 L5 -98 Q12 -100 16 -96Z"
+       fill="#14c2b0"
+       id="path59" />
+    <path
+       d="M-12 -101 L-3 -104 L-2 -74 L-11 -74Z"
+       fill="#14c2b0"
+       id="path60" />
+    <path
+       d="M14 -101 L5 -104 L5 -78 L14 -78Z"
+       fill="#14c2b0"
+       id="path61" />
+    <g
+       stroke="#e3e5ee"
+       stroke-width="2"
+       id="g62">
+      <path
+         d="M-11 -84 h9 M-11 -80 h9 M5 -88 h9 M5 -84 h9"
+         id="path62" />
+    </g>
+    <g
+       stroke="#0e9c8e"
+       stroke-width="1.2"
+       id="g63">
+      <path
+         d="M-10 -74 v3 M-7 -74 v3 M-4 -74 v3 M6 -78 v3 M9 -78 v3 M12 -78 v3"
+         id="path63" />
+    </g>
+    <!-- hlava -->
+    <rect
+       x="-3"
+       y="-118"
+       width="8"
+       height="12"
+       rx="3"
+       fill="#c98a5a"
+       id="rect63" />
+    <circle
+       cx="1"
+       cy="-128"
+       r="13"
+       fill="#c98a5a"
+       id="circle63" />
+    <path
+       d="M-12 -132 Q-10 -146 2 -146 Q14 -146 14 -134 Q6 -140 -12 -132Z"
+       fill="#f0a400"
+       id="path64" />
+    <!-- sluneční brýle na čele -->
+    <rect
+       x="-8"
+       y="-138"
+       width="8"
+       height="5"
+       rx="2"
+       fill="#1c1e3f"
+       id="rect64" />
+    <rect
+       x="3"
+       y="-138"
+       width="8"
+       height="5"
+       rx="2"
+       fill="#1c1e3f"
+       id="rect65" />
+    <circle
+       cx="-2"
+       cy="-128"
+       r="1.6"
+       fill="#1c1e3f"
+       id="circle65" />
+    <circle
+       cx="7"
+       cy="-128"
+       r="1.6"
+       fill="#1c1e3f"
+       id="circle66" />
+    <path
+       d="M-3 -121 q5 4 10 0"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path66" />
+  </g>
+  <g
+     transform="translate(302 98) scale(1.3)"
+     id="g68">
+    <path
+       d="M0 -14 L12 8 H-12Z"
+       fill="#e3e5ee"
+       fill-opacity=".35"
+       stroke="#e3e5ee"
+       stroke-width="1.6"
+       stroke-linejoin="round"
+       id="path67" />
+    <path
+       d="M-3 -6 L-7 2"
+       stroke="#fff"
+       stroke-width="1.2"
+       stroke-linecap="round"
+       id="path68" />
+  </g>
+  <!-- duha z hranolu -->
+  <path
+     d="M310 98 L360 120 L360 128Z"
+     fill="#ff5a36"
+     opacity=".55"
+     id="path69" />
+  <path
+     d="M310 99 L360 128 L360 136Z"
+     fill="#ffd36b"
+     opacity=".55"
+     id="path70" />
+  <path
+     d="M310 100 L360 136 L360 144Z"
+     fill="#14c2b0"
+     opacity=".55"
+     id="path71" />
+  <path
+     d="M310 101 L360 144 L360 152Z"
+     fill="#8a73ee"
+     opacity=".55"
+     id="path72" />
+</svg>

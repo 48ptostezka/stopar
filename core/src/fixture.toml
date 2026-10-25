@@ -1,0 +1,126 @@
+# A tiny game used by the unit tests. It exercises every story feature.
+[game]
+id = "test"
+skin = "orbit"
+default_language = "en"
+title = { cs = "Test", en = "Test" }
+
+[items.key]
+name = { cs = "Klíč", en = "Key" }
+description = { cs = "Klíč", en = "Key" }
+
+[items.coin]
+name = { cs = "Mince", en = "Coin" }
+description = { cs = "Mince", en = "Coin" }
+
+[clues.knock]
+title = { cs = "Klepání", en = "Knocking" }
+text = { cs = "Někdo odpověděl.", en = "Someone answered." }
+
+[clues.bribe]
+title = { cs = "Úplatek", en = "Bribe" }
+text = { cs = "Strážce vzal minci.", en = "The guard took a coin." }
+
+[clues.safe]
+title = { cs = "Trezor", en = "Safe" }
+text = { cs = "Je zamčený.", en = "It's locked." }
+
+[clues.map]
+title = { cs = "Mapa", en = "Map" }
+text = { cs = "Ukazuje cestu.", en = "It shows the way." }
+
+[locations.door]
+code = "DOOR-0001"
+name = { cs = "Dveře", en = "Door" }
+
+[locations.door.scenes.hall]
+text = { cs = "Chodba.", en = "A hall." }
+give = { items = { coin = 2 } }
+pick = "any"
+
+[[locations.door.scenes.hall.paragraphs]]
+when = { without_items = ["key"] }
+text = { cs = "Dveře jsou zamčené.", en = "The door is locked." }
+
+[[locations.door.scenes.hall.choices]]
+id = "open"
+label = { cs = "Odemknout", en = "Unlock" }
+take = { key = 1 }
+locked = { cs = "Chybí klíč", en = "You need a key" }
+to = "room"
+
+[[locations.door.scenes.hall.choices]]
+id = "knock"
+label = { cs = "Zaklepat", en = "Knock" }
+give = { clues = ["knock"] }
+to = "hall"
+
+[[locations.door.scenes.hall.choices]]
+id = "secret"
+label = { cs = "Tajný vchod", en = "Secret way" }
+when = { flags = ["friend"] }
+to = "room"
+
+[locations.door.scenes.room]
+text = { cs = "Strážce.", en = "A guard." }
+
+[[locations.door.scenes.room.choices]]
+id = "pay"
+label = { cs = "Zaplatit", en = "Pay" }
+take = { coin = 1 }
+give = { clues = ["bribe"] }
+set = ["friend"]
+to = "end"
+
+[[locations.door.scenes.room.choices]]
+id = "leave"
+label = { cs = "Odejít", en = "Leave" }
+to = "end"
+
+[locations.door.scenes.end]
+text = { cs = "Konec.", en = "The end." }
+
+[locations.gate]
+code = "GATE-0001"
+name = { cs = "Brána", en = "Gate" }
+
+[locations.gate.scenes.lock]
+text = { cs = "Zámek.", en = "A lock." }
+
+[locations.gate.scenes.lock.password]
+answers = ["Vega-3"]
+give = { items = { key = 1 } }
+to = "open"
+
+[locations.gate.scenes.open]
+text = { cs = "Otevřeno.", en = "Open." }
+
+# A final decision that waits until the player has the key.
+[locations.vault]
+code = "VAULT-0001"
+name = { cs = "Trezor", en = "Vault" }
+
+[locations.vault.scenes.safe]
+text = { cs = "Trezor.", en = "A safe." }
+give = { clues = ["safe"] }
+requires = { items = { key = 1 } }
+waiting = { cs = "Bez klíče to nepůjde.", en = "Not without a key." }
+
+[[locations.vault.scenes.safe.choices]]
+id = "gold"
+label = { cs = "Zlato", en = "Gold" }
+to = "rich"
+
+[[locations.vault.scenes.safe.choices]]
+id = "map"
+label = { cs = "Mapa", en = "Map" }
+when = { items = { key = 1 } }
+to = "wise"
+
+[locations.vault.scenes.rich]
+text = { cs = "Bohatství.", en = "Riches." }
+give = { items = { coin = 5 } }
+
+[locations.vault.scenes.wise]
+text = { cs = "Moudrost.", en = "Wisdom." }
+give = { clues = ["map"] }

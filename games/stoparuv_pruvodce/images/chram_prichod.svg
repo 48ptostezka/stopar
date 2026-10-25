@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg138"
+   sodipodi:docname="chram_prichod.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview138"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="298.60772"
+     inkscape:cy="147.05171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg138" />
+  <defs
+     id="defs14">
+    <linearGradient
+       id="iri"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#ff8a6a"
+         id="stop1" />
+      <stop
+         offset=".35"
+         stop-color="#f0a400"
+         id="stop2" />
+      <stop
+         offset=".65"
+         stop-color="#14c2b0"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#8a73ee"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="duha"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0"
+         stop-color="#ff5a36"
+         id="stop5" />
+      <stop
+         offset=".25"
+         stop-color="#f0a400"
+         id="stop6" />
+      <stop
+         offset=".5"
+         stop-color="#a8c070"
+         id="stop7" />
+      <stop
+         offset=".75"
+         stop-color="#14c2b0"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#8a73ee"
+         id="stop9" />
+    </linearGradient>
+    <radialGradient
+       id="film"
+       cx=".35"
+       cy=".35"
+       r=".8">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         stop-opacity=".25"
+         id="stop10" />
+      <stop
+         offset=".6"
+         stop-color="#8a73ee"
+         stop-opacity=".12"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#14c2b0"
+         stop-opacity=".25"
+         id="stop12" />
+    </radialGradient>
+    <linearGradient
+       id="nebe"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#1c1e3f"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="#3a3f80"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <!-- Chrám Kultu Velké Mýdlové Bubliny: kopule je obří bublina, skrz ni prosvítají ponožky. Zvoník se naklání přes zábradlí a šeptá - z úst mu stoupají dvě drobné bublinky. Zvon je obalený, aby nezazvonil. Strážce v kápi natahuje ruku. -->
+  <rect
+     width="480"
+     height="280"
+     fill="url(#nebe)"
+     id="rect14" />
+  <g
+     fill="#fff"
+     id="g53">
+    <circle
+       cx="155"
+       cy="23"
+       r="1.1"
+       opacity="0.33"
+       id="circle14" />
+    <circle
+       cx="394"
+       cy="14"
+       r="1.1"
+       opacity="0.33"
+       id="circle15" />
+    <circle
+       cx="244"
+       cy="6"
+       r="0.8"
+       opacity="0.55"
+       id="circle16" />
+    <circle
+       cx="116"
+       cy="83"
+       r="0.6"
+       opacity="0.80"
+       id="circle17" />
+    <circle
+       cx="59"
+       cy="33"
+       r="1.1"
+       opacity="0.65"
+       id="circle18" />
+    <circle
+       cx="30"
+       cy="88"
+       r="0.6"
+       opacity="0.89"
+       id="circle19" />
+    <circle
+       cx="22"
+       cy="129"
+       r="0.8"
+       opacity="0.55"
+       id="circle20" />
+    <circle
+       cx="260"
+       cy="86"
+       r="1.1"
+       opacity="0.79"
+       id="circle21" />
+    <circle
+       cx="87"
+       cy="87"
+       r="1.1"
+       opacity="0.41"
+       id="circle22" />
+    <circle
+       cx="47"
+       cy="107"
+       r="1.1"
+       opacity="0.34"
+       id="circle23" />
+    <circle
+       cx="99"
+       cy="102"
+       r="0.8"
+       opacity="0.77"
+       id="circle24" />
+    <circle
+       cx="223"
+       cy="139"
+       r="0.8"
+       opacity="0.48"
+       id="circle25" />
+    <circle
+       cx="381"
+       cy="105"
+       r="0.6"
+       opacity="0.35"
+       id="circle26" />
+    <circle
+       cx="144"
+       cy="74"
+       r="0.8"
+       opacity="0.74"
+       id="circle27" />
+    <circle
+       cx="138"
+       cy="147"
+       r="0.6"
+       opacity="0.61"
+       id="circle28" />
+    <circle
+       cx="79"
+       cy="51"
+       r="0.8"
+       opacity="0.55"
+       id="circle29" />
+    <circle
+       cx="462"
+       cy="12"
+       r="1.1"
+       opacity="0.64"
+       id="circle30" />
+    <circle
+       cx="420"
+       cy="47"
+       r="1.1"
+       opacity="0.51"
+       id="circle31" />
+    <circle
+       cx="238"
+       cy="120"
+       r="0.6"
+       opacity="0.80"
+       id="circle32" />
+    <circle
+       cx="453"
+       cy="71"
+       r="1.1"
+       opacity="0.34"
+       id="circle33" />
+    <circle
+       cx="351"
+       cy="46"
+       r="1.1"
+       opacity="0.90"
+       id="circle34" />
+    <circle
+       cx="395"
+       cy="43"
+       r="0.8"
+       opacity="0.83"
+       id="circle35" />
+    <circle
+       cx="167"
+       cy="141"
+       r="0.8"
+       opacity="0.40"
+       id="circle36" />
+    <circle
+       cx="56"
+       cy="9"
+       r="0.8"
+       opacity="0.38"
+       id="circle37" />
+    <circle
+       cx="119"
+       cy="59"
+       r="0.8"
+       opacity="0.35"
+       id="circle38" />
+    <circle
+       cx="216"
+       cy="82"
+       r="0.6"
+       opacity="0.79"
+       id="circle39" />
+    <circle
+       cx="415"
+       cy="42"
+       r="0.8"
+       opacity="0.89"
+       id="circle40" />
+    <circle
+       cx="328"
+       cy="57"
+       r="0.6"
+       opacity="0.39"
+       id="circle41" />
+    <circle
+       cx="85"
+       cy="35"
+       r="0.6"
+       opacity="0.31"
+       id="circle42" />
+    <circle
+       cx="399"
+       cy="27"
+       r="0.8"
+       opacity="0.30"
+       id="circle43" />
+    <circle
+       cx="201"
+       cy="55"
+       r="1.1"
+       opacity="0.49"
+       id="circle44" />
+    <circle
+       cx="60"
+       cy="129"
+       r="1.1"
+       opacity="0.69"
+       id="circle45" />
+    <circle
+       cx="355"
+       cy="68"
+       r="1.1"
+       opacity="0.78"
+       id="circle46" />
+    <circle
+       cx="188"
+       cy="60"
+       r="0.6"
+       opacity="0.59"
+       id="circle47" />
+    <circle
+       cx="192"
+       cy="29"
+       r="0.6"
+       opacity="0.56"
+       id="circle48" />
+    <circle
+       cx="53"
+       cy="90"
+       r="0.6"
+       opacity="0.30"
+       id="circle49" />
+    <circle
+       cx="73"
+       cy="15"
+       r="0.8"
+       opacity="0.67"
+       id="circle50" />
+    <circle
+       cx="34"
+       cy="31"
+       r="0.8"
+       opacity="0.39"
+       id="circle51" />
+    <circle
+       cx="121"
+       cy="52"
+       r="0.8"
+       opacity="0.58"
+       id="circle52" />
+    <circle
+       cx="55"
+       cy="73"
+       r="0.8"
+       opacity="0.59"
+       id="circle53" />
+  </g>
+  <path
+     d="M0 214 Q120 200 240 206 Q360 212 480 202 V280 H0Z"
+     fill="#2e3370"
+     id="path53" />
+  <path
+     d="M248 280 L262 214 H290 L318 280Z"
+     fill="#3a3f80"
+     id="path54" />
+  <!-- stavba -->
+  <rect
+     x="170"
+     y="140"
+     width="190"
+     height="76"
+     fill="#6f739b"
+     id="rect54" />
+  <g
+     fill="#595d82"
+     id="g59">
+    <rect
+       x="186"
+       y="160"
+       width="14"
+       height="24"
+       rx="7"
+       id="rect56" />
+    <rect
+       x="216"
+       y="160"
+       width="14"
+       height="24"
+       rx="7"
+       id="rect57" />
+    <rect
+       x="300"
+       y="160"
+       width="14"
+       height="24"
+       rx="7"
+       id="rect58" />
+    <rect
+       x="330"
+       y="160"
+       width="14"
+       height="24"
+       rx="7"
+       id="rect59" />
+  </g>
+  <path
+     d="M256 216 V178 Q276 156 296 178 V216Z"
+     fill="#1c1e3f"
+     id="path59" />
+  <path
+     d="M260 216 V180 Q276 162 292 180"
+     fill="none"
+     stroke="url(#duha)"
+     stroke-width="2"
+     opacity=".5"
+     id="path60" />
+  <!-- kopule-bublina, skrz kterou prosvítají ponožky -->
+  <path
+     d="m 206,126 q 34,-10 70,-2"
+     stroke="#caccdc"
+     stroke-opacity="0.4"
+     stroke-width="0.7"
+     fill="none"
+     id="path61" />
+  <path
+     d="m 214,104 q 48,-12 110,-2"
+     stroke="#caccdc"
+     stroke-opacity="0.4"
+     stroke-width="0.7"
+     fill="none"
+     id="path62" />
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,212,123)"
+     id="g65">
+    <g
+       id="g64">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff8a6a"
+         id="path63" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path64" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,222,124)"
+     id="g67">
+    <g
+       id="g66">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#f0a400"
+         id="path65" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path66" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,232,125)"
+     id="g69">
+    <g
+       id="g68">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#f0a400"
+         id="path67" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path68" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,242,125)"
+     id="g71">
+    <g
+       id="g70">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#c8b8f0"
+         id="path69" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path70" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,252,126)"
+     id="g73">
+    <g
+       id="g72">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#e3e5ee"
+         id="path71" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path72" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,262,126)"
+     id="g75">
+    <g
+       id="g74">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#e0a0d0"
+         id="path73" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path74" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,272,126)"
+     id="g77">
+    <g
+       id="g76">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#e0a0d0"
+         id="path75" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path76" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,282,126)"
+     id="g79">
+    <g
+       id="g78">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#a8c070"
+         id="path77" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path78" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,292,125)"
+     id="g81">
+    <g
+       id="g80">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff8a6a"
+         id="path79" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path80" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,302,125)"
+     id="g83">
+    <g
+       id="g82">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#e3e5ee"
+         id="path81" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path82" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,312,124)"
+     id="g85">
+    <g
+       id="g84">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff5a36"
+         id="path83" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path84" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,322,123)"
+     id="g87">
+    <g
+       id="g86">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff5a36"
+         id="path85" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path86" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,220,101)"
+     id="g89">
+    <g
+       id="g88">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#c8b8f0"
+         id="path87" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path88" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,230,103)"
+     id="g91">
+    <g
+       id="g90">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#caccdc"
+         id="path89" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path90" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,240,104)"
+     id="g93">
+    <g
+       id="g92">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#e0a0d0"
+         id="path91" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path92" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,250,105)"
+     id="g95">
+    <g
+       id="g94">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff8a6a"
+         id="path93" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path94" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,260,106)"
+     id="g97">
+    <g
+       id="g96">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff8a6a"
+         id="path95" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path96" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,270,106)"
+     id="g99">
+    <g
+       id="g98">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#c8b8f0"
+         id="path97" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path98" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,280,106)"
+     id="g101">
+    <g
+       id="g100">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#caccdc"
+         id="path99" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path100" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,290,105)"
+     id="g103">
+    <g
+       id="g102">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#c8b8f0"
+         id="path101" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path102" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,300,104)"
+     id="g105">
+    <g
+       id="g104">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff5a36"
+         id="path103" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path104" />
+    </g>
+  </g>
+  <g
+     opacity="0.55"
+     transform="matrix(0.5,0,0,0.5,310,103)"
+     id="g107">
+    <g
+       id="g106">
+      <path
+         d="m -3,0 v 11 q 0,5 5,5 H 7 Q 9.5,16 9.5,13.5 9.5,11 6,11 H 3 V 0 Z"
+         fill="#ff5a36"
+         id="path105" />
+      <path
+         d="M -3,2.5 H 3"
+         stroke="#1c1e3f"
+         stroke-opacity="0.3"
+         stroke-width="1.5"
+         id="path106" />
+    </g>
+  </g>
+  <path
+     d="M190 136 A76 76 0 0 1 342 136Z"
+     fill="url(#film)"
+     id="path107" />
+  <path
+     d="M190 136 A76 76 0 0 1 342 136"
+     fill="none"
+     stroke="url(#iri)"
+     stroke-width="3"
+     id="path108" />
+  <path
+     d="M210 108 A60 60 0 0 1 242 76"
+     stroke="#fff"
+     stroke-opacity=".6"
+     stroke-width="3"
+     fill="none"
+     stroke-linecap="round"
+     id="path109" />
+  <circle
+     cx="266"
+     cy="56"
+     r="6"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="1.2"
+     id="circle109" />
+  <path
+     d="M266 62 V60"
+     stroke="#f0a400"
+     stroke-width="2"
+     id="path110" />
+  <!-- věž se zvoníkem -->
+  <rect
+     x="120"
+     y="70"
+     width="40"
+     height="146"
+     fill="#595d82"
+     id="rect110" />
+  <g
+     fill="#4c5074"
+     id="g111">
+    <rect
+       x="132"
+       y="150"
+       width="16"
+       height="22"
+       rx="8"
+       id="rect111" />
+  </g>
+  <path
+     d="M114 28 L140 8 L166 28Z"
+     fill="#8a73ee"
+     id="path111" />
+  <circle
+     cx="140"
+     cy="6"
+     r="4"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="1"
+     id="circle111" />
+  <path
+     d="M118 28 V60 M162 28 V60"
+     stroke="#6f739b"
+     stroke-width="4"
+     id="path112" />
+  <!-- zvon obalený peřinkou a převázaný -->
+  <path
+     d="M130 50 Q130 32 140 32 Q150 32 150 50 L153 54 H127Z"
+     fill="#f0a400"
+     id="path113" />
+  <path
+     d="M128 36 Q140 28 152 36 L154 52 Q140 58 126 52Z"
+     fill="#e3e5ee"
+     opacity=".92"
+     id="path114" />
+  <path
+     d="m 127,43.5 q 13,3.833333 26,0 M 140,32 v 23"
+     stroke="#ff8a6a"
+     stroke-width="1.6"
+     fill="none"
+     id="path115" />
+  <!-- zvoník: stojí na ochozu a naklání se přes zábradlí, dlaň u pusy -->
+  <path
+     d="M132 64 L128 50 Q124 42 114 44 L108 50 L118 64Z"
+     fill="#8a73ee"
+     id="path116" />
+  <circle
+     cx="106"
+     cy="44"
+     r="7"
+     fill="#e0a0d0"
+     id="circle116" />
+  <path
+     d="M100 41 Q101 34 109 36 Q113 38 112 44 Q107 38 100 41Z"
+     fill="#6b4fe0"
+     id="path117" />
+  <circle
+     cx="102"
+     cy="44"
+     r="1.3"
+     fill="#1c1e3f"
+     id="circle117" />
+  <path
+     d="M118 50 Q108 54 101 49"
+     stroke="#8a73ee"
+     stroke-width="4"
+     fill="none"
+     stroke-linecap="round"
+     id="path118" />
+  <circle
+     cx="100"
+     cy="48"
+     r="2.4"
+     fill="#e0a0d0"
+     id="circle118" />
+  <!-- ochoz se zábradlím -->
+  <rect
+     x="112"
+     y="64"
+     width="56"
+     height="6"
+     fill="#8a8ea8"
+     id="rect118" />
+  <path
+     d="M114 64 V54 M124 64 V54 M134 64 V54 M146 64 V54 M156 64 V54 M166 64 V54 M112 54 H168"
+     stroke="#8a8ea8"
+     stroke-width="2"
+     id="path119" />
+  <!-- šeptané „bim bam“: dvě drobné bublinky -->
+  <circle
+     cx="90"
+     cy="44"
+     r="2.5"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle119" />
+  <path
+     d="M88.6 43.4 A1.5 1.5 0 0 1 89.5 42.5"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path120" />
+  <circle
+     cx="82"
+     cy="34"
+     r="3.5"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle120" />
+  <path
+     d="M80.1 33.1 A2.1 2.1 0 0 1 81.3 32.0"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path121" />
+  <!-- strážce v kápi s nataženou rukou -->
+  <circle
+     cx="392"
+     cy="120"
+     r="10"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="1.1"
+     id="circle132" />
+  <path
+     d="M386.5 117.5 A6.0 6.0 0 0 1 390.0 114.2"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="1.0"
+     fill="none"
+     stroke-linecap="round"
+     id="path132" />
+  <circle
+     cx="420"
+     cy="80"
+     r="6"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle133" />
+  <path
+     d="M416.7 78.5 A3.6 3.6 0 0 1 418.8 76.5"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path133" />
+  <circle
+     cx="40"
+     cy="120"
+     r="8"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.9"
+     id="circle134" />
+  <path
+     d="M35.6 118.0 A4.8 4.8 0 0 1 38.4 115.4"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path134" />
+  <circle
+     cx="60"
+     cy="170"
+     r="5"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle135" />
+  <path
+     d="M57.2 168.8 A3.0 3.0 0 0 1 59.0 167.1"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path135" />
+  <circle
+     cx="430"
+     cy="170"
+     r="4"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle136" />
+  <path
+     d="M427.8 169.0 A2.4 2.4 0 0 1 429.2 167.7"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path136" />
+  <circle
+     cx="220"
+     cy="40"
+     r="5"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle137" />
+  <path
+     d="M217.2 38.8 A3.0 3.0 0 0 1 219.0 37.1"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path137" />
+  <circle
+     cx="300"
+     cy="30"
+     r="4"
+     fill="url(#film)"
+     stroke="url(#iri)"
+     stroke-width="0.8"
+     id="circle138" />
+  <path
+     d="M297.8 29.0 A2.4 2.4 0 0 1 299.2 27.7"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="0.8"
+     fill="none"
+     stroke-linecap="round"
+     id="path138" />
+  <rect
+     x="166"
+     y="136"
+     width="198"
+     height="8"
+     rx="2"
+     fill="#8a8ea8"
+     id="rect55"
+     ry="2" />
+  <g
+     transform="translate(330 262)"
+     id="g131">
+    <path
+       d="M-28 0 L-22 -78 Q0 -90 22 -78 L28 0Z"
+       fill="#6b4fe0"
+       id="path122" />
+    <path
+       d="M0 -84 V0"
+       stroke="#4f3ab8"
+       stroke-width="2"
+       id="path123" />
+    <path
+       d="M-20 -76 Q-46 -66 -78 -60"
+       stroke="#6b4fe0"
+       stroke-width="13"
+       stroke-linecap="round"
+       fill="none"
+       id="path125" />
+    <path
+       d="M-80 -64 Q-94 -64 -94 -58 Q-90 -54 -80 -55Z"
+       fill="#c8a080"
+       id="path126" />
+    <path
+       d="M-92 -60 l-3 -3 M-89 -62 l-2 -4"
+       stroke="#c8a080"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="path127" />
+    <path
+       d="M18 -76 Q30 -50 22 -30"
+       stroke="#6b4fe0"
+       stroke-width="12"
+       stroke-linecap="round"
+       fill="none"
+       id="path128" />
+    <!-- kápě -->
+    <path
+       d="M-20 -78 Q-24 -110 0 -124 Q24 -110 20 -78 Q0 -70 -20 -78Z"
+       fill="#8a73ee"
+       id="path129" />
+    <path
+       d="M-12 -82 Q-14 -104 0 -110 Q14 -104 12 -82 Q0 -78 -12 -82Z"
+       fill="#1c1e3f"
+       id="path130" />
+    <circle
+       cx="-5"
+       cy="-95"
+       r="2.2"
+       fill="#e3e5ee"
+       id="circle130" />
+    <circle
+       cx="5"
+       cy="-95"
+       r="2.2"
+       fill="#e3e5ee"
+       id="circle131" />
+  </g>
+</svg>

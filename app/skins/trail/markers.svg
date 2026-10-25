@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- A trail blaze: white, colour, white. The colour is currentColor.
+       The CSS variable marker-outline draws a frame (ink in page headers, none on the rails). -->
+  <symbol id="marker" viewBox="-12 -12 24 24">
+    <rect x="-8" y="-8" width="16" height="16" fill="#fff" stroke-width="1.5" style="stroke: var(--marker-outline, none)"/>
+    <rect x="-8" y="-2.7" width="16" height="5.4" fill="currentColor"/>
+  </symbol>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Kvantový šroubovák: šroubovák s elektronovou dráhou kolem dříku -->
+  <path d="M-4 3H4V12Q4 14 2 14H-2Q-4 14 -4 12Z" transform="rotate(40)"/>
+  <path d="M-1.5 6V11M1.5 6V11" transform="rotate(40)"/>
+  <path d="M-1 3V-9L0 -12L1 -9V3" transform="rotate(40)"/>
+  <path d="M-8 -3A8 3 0 1 0 8 -3A8 3 0 1 0 -8 -3Z" transform="rotate(40) rotate(-20 0 -3)"/>
+</svg>

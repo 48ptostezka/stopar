@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Uvnitř úřadu: vogon za přepážkou nevzhlédne od šanonu, na pultu tlustý formulář, čekárna je prázdná. -->
+  <rect width="480" height="280" fill="#23275e"/>
+  <rect width="480" height="20" fill="#1c1e3f"/>
+  <path d="M0 230 H480 V280 H0Z" fill="#141848"/>
+  <g stroke="#1c1e3f" stroke-width="2"><path d="M0 246 H480"/><path d="M0 262 H480"/></g>
+  <!-- zářivka -->
+  <rect x="80" y="20" width="80" height="6" rx="2" fill="#e3e5ee"/><path d="M60 26 H180 L200 90 H40Z" fill="#e3e5ee" opacity=".04"/>
+  <rect x="330" y="20" width="80" height="6" rx="2" fill="#e3e5ee"/>
+
+  <!-- čekárna -->
+  <!-- zmatené hodiny: ukazují několik časů naráz -->
+  <g transform="translate(120 82) scale(1.4) translate(-120 -70)">
+  <g transform="rotate(-12 120 70)">
+    <circle cx="120" cy="70" r="24" fill="#e3e5ee"/><circle cx="120" cy="70" r="24" fill="none" stroke="#595d82" stroke-width="3"/>
+    <g fill="#595d82"><circle cx="120" cy="50" r="1.6"/><circle cx="140" cy="70" r="1.6"/><circle cx="120" cy="90" r="1.6"/><circle cx="100" cy="70" r="1.6"/></g>
+    <g stroke-linecap="round" fill="none">
+      <path d="M120 70 L121 50" stroke="#1c1e3f" stroke-width="2.5"/>
+      <path d="M120 70 L106 70" stroke="#1c1e3f" stroke-width="3.5"/>
+      <path d="M120 70 L136 58" stroke="#ff5a36" stroke-width="2"/>
+      <path d="M120 70 L128 88" stroke="#0e9c8e" stroke-width="2.5"/>
+      <path d="M120 70 L104 84" stroke="#6b4fe0" stroke-width="2"/>
+      <path d="M120 70 Q130 72 132 80 Q134 86 140 84" stroke="#f0a400" stroke-width="2"/>
+      <path d="M120 70 L112 54" stroke="#1c1e3f" stroke-width="1.2"/>
+    </g>
+    <circle cx="120" cy="70" r="3" fill="#1c1e3f"/>
+  </g>
+  </g>
+  <!-- chvění -->
+  <g fill="none" stroke="#e3e5ee" stroke-opacity=".5" stroke-width="2" stroke-linecap="round">
+    <path d="M78 72 q-6 6 -4 16"/><path d="M162 76 q6 6 2 16"/>
+  </g>
+  <!-- automat na pořadová čísla -->
+  <rect x="20" y="120" width="30" height="110" rx="4" fill="#595d82"/>
+  <rect x="24" y="126" width="22" height="12" rx="2" fill="#1c1e3f"/>
+  <g fill="#ff5a36"><circle cx="29" cy="132" r="1.5"/><circle cx="35" cy="132" r="1.5"/><circle cx="41" cy="132" r="1.5"/></g>
+  <rect x="26" y="150" width="18" height="4" rx="1" fill="#1c1e3f"/>
+  <path d="M30 154 h10 v34 h-10Z" fill="#e3e5ee"/>
+  <!-- prázdné židle -->
+  <g>
+    <rect x="66" y="196" width="160" height="6" rx="2" fill="#4c5074"/>
+    <path d="M76 202 V230 M216 202 V230" stroke="#4c5074" stroke-width="4"/>
+    <g fill="#6b4fe0"><rect x="70" y="160" width="32" height="34" rx="6"/><rect x="108" y="160" width="32" height="34" rx="6"/><rect x="146" y="160" width="32" height="34" rx="6"/><rect x="184" y="160" width="32" height="34" rx="6"/></g>
+    <g fill="#8a73ee"><rect x="68" y="186" width="36" height="10" rx="4"/><rect x="106" y="186" width="36" height="10" rx="4"/><rect x="144" y="186" width="36" height="10" rx="4"/><rect x="182" y="186" width="36" height="10" rx="4"/></g>
+  </g>
+  <!-- opuštěný klobouk -->
+  <path d="M152 186 Q152 172 162 172 Q172 172 172 186Z" fill="#1c1e3f"/><rect x="146" y="184" width="32" height="4" rx="2" fill="#1c1e3f"/>
+  <!-- pavučina -->
+  <g fill="none" stroke="#caccdc" stroke-opacity=".5" stroke-width="1">
+    <path d="M102 196 L120 214 M102 206 L118 216 M110 196 L122 212"/>
+    <path d="M106 200 Q112 204 114 196 M104 208 Q114 210 116 202"/>
+  </g>
+  <!-- uvadlá kytka -->
+  <path d="M234 230 L238 210 H254 L258 230Z" fill="#ff5a36"/>
+  <path d="M246 210 Q246 186 236 184" fill="none" stroke="#0e9c8e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M236 184 q-6 2 -6 10" fill="none" stroke="#0e9c8e" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="230" cy="196" r="3.5" fill="#595d82"/>
+
+  <!-- přepážka -->
+  <rect x="270" y="40" width="210" height="190" fill="#1c1e3f"/>
+  <!-- regál se šanony za vogonem -->
+  <rect x="290" y="62" width="180" height="5" fill="#2e3370"/>
+  <rect x="290" y="108" width="180" height="5" fill="#2e3370"/>
+  <g>
+    <rect x="296" y="30" width="14" height="32" rx="1" fill="#a3a6bb"/><rect x="311" y="30" width="14" height="32" rx="1" fill="#8a8ea8"/><rect x="326" y="30" width="14" height="32" rx="1" fill="#a3a6bb"/>
+    <rect x="420" y="30" width="14" height="32" rx="1" fill="#8a8ea8"/><rect x="435" y="30" width="14" height="32" rx="1" fill="#a3a6bb"/><rect x="450" y="30" width="14" height="32" rx="1" fill="#8a8ea8"/>
+    <rect x="296" y="76" width="14" height="32" rx="1" fill="#8a8ea8"/><rect x="311" y="76" width="14" height="32" rx="1" fill="#a3a6bb"/>
+    <rect x="435" y="76" width="14" height="32" rx="1" fill="#a3a6bb"/><rect x="450" y="76" width="14" height="32" rx="1" fill="#8a8ea8"/>
+    <rect x="404" y="80" width="14" height="32" rx="1" fill="#8a8ea8" transform="rotate(-18 404 108)"/>
+  </g>
+  <g fill="#e3e5ee"><circle cx="303" cy="52" r="3"/><circle cx="318" cy="52" r="3"/><circle cx="333" cy="52" r="3"/><circle cx="427" cy="52" r="3"/><circle cx="442" cy="52" r="3"/><circle cx="457" cy="52" r="3"/><circle cx="303" cy="98" r="3"/><circle cx="318" cy="98" r="3"/><circle cx="442" cy="98" r="3"/><circle cx="457" cy="98" r="3"/></g>
+
+  <!-- vogon úředník -->
+  <path d="M316 200 Q314 140 370 136 Q426 140 424 200Z" fill="#595d82"/><path d="M330 200 Q332 170 338 160 M410 200 Q408 170 402 160" fill="none" stroke="#4c5074" stroke-width="3"/>
+  <path d="M360 138 L370 158 L380 138Z" fill="#e3e5ee"/><path d="M368 142 L370 164 L372 142Z" fill="#1c1e3f"/>
+  <g transform="translate(222 -12) rotate(10 150 125)">
+    <path d="M120 140 Q112 92 148 84 Q186 86 184 134 Q182 160 150 162 Q124 160 120 140Z" fill="#7d8c78"/>
+    <path d="M126 150 Q150 170 178 150 Q172 166 150 168 Q130 166 126 150Z" fill="#66755f"/>
+    <g fill="#95a48c"><circle cx="134" cy="100" r="4"/><circle cx="172" cy="98" r="3"/><circle cx="128" cy="124" r="2.5"/><circle cx="178" cy="122" r="3.5"/></g>
+    <path d="M132 114 Q150 106 170 114" fill="none" stroke="#66755f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M140 120 q4 2 8 0 M154 120 q4 2 8 0" fill="none" stroke="#1c1e3f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M150 118 Q164 130 160 142 Q152 146 146 140 Q144 128 150 118Z" fill="#66755f"/>
+    <path d="M134 150 Q152 142 170 150 Q152 156 134 150Z" fill="#595d82"/>
+</g>
+
+  <!-- sklo přepážky -->
+  <rect x="270" y="40" width="210" height="160" fill="none" stroke="#595d82" stroke-width="6"/>
+  <rect x="274" y="44" width="202" height="152" fill="#8a73ee" opacity=".08"/>
+  <path d="M290 60 L310 50 M440 150 L466 128" stroke="#e3e5ee" stroke-opacity=".25" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- ruce na pultu za sklem: listuje v šanonu -->
+  <path d="M332 190 L400 190 L404 172 L336 172Z" fill="#a3a6bb" opacity=".0"/>
+  <!-- pult -->
+  <rect x="264" y="196" width="216" height="10" rx="2" fill="#6f739b"/>
+  <rect x="270" y="206" width="210" height="24" fill="#595d82"/>
+  <!-- otevřený šanon s rukama vogona -->
+  <path d="M344 196 L370 186 L396 196Z" fill="#e3e5ee"/>
+  <path d="M370 186 V196" stroke="#caccdc" stroke-width="1.5"/>
+  <circle cx="348" cy="192" r="6" fill="#7d8c78"/><circle cx="394" cy="192" r="6" fill="#7d8c78"/>
+  <!-- tlustý formulář na pultu -->
+  <g>
+    <rect x="292" y="176" width="40" height="20" rx="1.5" fill="#e3e5ee"/>
+    <g stroke="#caccdc" stroke-width="1"><path d="M292 180 H332"/><path d="M292 184 H332"/><path d="M292 188 H332"/><path d="M292 192 H332"/></g>
+    <rect x="292" y="172" width="40" height="5" rx="1" fill="#f3f4f8"/>
+    <path d="M318 172 V196" stroke="#ff5a36" stroke-width="3"/>
+    <rect x="296" y="174" width="12" height="3" fill="#caccdc"/>
+  </g>
+  <!-- zvonek -->
+  <path d="M428 196 Q428 184 438 184 Q448 184 448 196Z" fill="#f0a400"/><circle cx="438" cy="182" r="2" fill="#f0a400"/>
+</svg>

@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg195"
+   sodipodi:docname="ztraty_ztrat_sv_arthur.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview195"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.334375"
+     inkscape:cx="109.78923"
+     inkscape:cy="145.76112"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g177" />
+  <!-- Ztráty a nálezy ze Ztrát a nálezů, náměstí: antibogdanisté drží minutu ticha (a pak druhou) se svíčkami; arcibiskup svatořečí Arthura Denta, za ním tři nové kostely a trochu nepovedená socha v županu se svatozáří. -->
+  <defs
+     id="defs2">
+    <linearGradient
+       id="opar"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#1c1e3f"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#3a3f80"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="480"
+     height="280"
+     fill="url(#opar)"
+     id="rect2" />
+  <!-- nekonečně vzdálený strop skladu s lampami -->
+  <g
+     stroke="#2e3370"
+     stroke-width="2"
+     id="g3">
+    <path
+       d="M0 14 L240 4 L480 14 M0 34 L240 22 L480 34"
+       id="path2" />
+    <path
+       d="M60 0 L80 40 M180 0 L190 40 M300 0 L290 40 M420 0 L400 40"
+       id="path3" />
+  </g>
+  <g
+     fill="#f0a400"
+     id="g6">
+    <circle
+       cx="90"
+       cy="30"
+       r="2"
+       id="circle3" />
+    <circle
+       cx="200"
+       cy="22"
+       r="1.6"
+       id="circle4" />
+    <circle
+       cx="300"
+       cy="24"
+       r="1.6"
+       id="circle5" />
+    <circle
+       cx="400"
+       cy="30"
+       r="2"
+       id="circle6" />
+  </g>
+  <g
+     fill="#f0a400"
+     opacity=".08"
+     id="g8">
+    <circle
+       cx="90"
+       cy="30"
+       r="20"
+       id="circle7" />
+    <circle
+       cx="400"
+       cy="30"
+       r="20"
+       id="circle8" />
+  </g>
+  <path
+     d="M0 150 Q40 90 90 120 Q130 70 190 110 Q240 60 300 108 Q350 80 400 116 Q440 90 480 120 V170 H0Z"
+     fill="#2e3370"
+     id="path8" />
+  <g
+     id="g68">
+    <circle
+       cx="299"
+       cy="148"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle9" />
+    <circle
+       cx="14"
+       cy="130"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle10" />
+    <circle
+       cx="432"
+       cy="107"
+       r="2"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle11" />
+    <circle
+       cx="183"
+       cy="107"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle12" />
+    <circle
+       cx="351"
+       cy="127"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle13" />
+    <circle
+       cx="77"
+       cy="152"
+       r="1.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle14" />
+    <circle
+       cx="296"
+       cy="108"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle15" />
+    <circle
+       cx="101"
+       cy="114"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle16" />
+    <circle
+       cx="139"
+       cy="162"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle17" />
+    <circle
+       cx="87"
+       cy="163"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle18" />
+    <circle
+       cx="143"
+       cy="123"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle19" />
+    <circle
+       cx="127"
+       cy="122"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle20" />
+    <circle
+       cx="2"
+       cy="144"
+       r="2"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle21" />
+    <circle
+       cx="149"
+       cy="153"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle22" />
+    <circle
+       cx="89"
+       cy="131"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle23" />
+    <circle
+       cx="123"
+       cy="161"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle24" />
+    <circle
+       cx="406"
+       cy="101"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle25" />
+    <circle
+       cx="181"
+       cy="155"
+       r="2"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle26" />
+    <circle
+       cx="340"
+       cy="141"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle27" />
+    <circle
+       cx="363"
+       cy="160"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle28" />
+    <circle
+       cx="246"
+       cy="158"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle29" />
+    <circle
+       cx="52"
+       cy="149"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle30" />
+    <circle
+       cx="18"
+       cy="161"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle31" />
+    <circle
+       cx="164"
+       cy="140"
+       r="1.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle32" />
+    <circle
+       cx="132"
+       cy="146"
+       r="1.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle33" />
+    <circle
+       cx="329"
+       cy="120"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle34" />
+    <circle
+       cx="346"
+       cy="120"
+       r="2"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle35" />
+    <circle
+       cx="346"
+       cy="105"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle36" />
+    <circle
+       cx="443"
+       cy="102"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle37" />
+    <circle
+       cx="165"
+       cy="116"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle38" />
+    <circle
+       cx="70"
+       cy="164"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle39" />
+    <circle
+       cx="385"
+       cy="122"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle40" />
+    <circle
+       cx="471"
+       cy="137"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle41" />
+    <circle
+       cx="51"
+       cy="128"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle42" />
+    <circle
+       cx="405"
+       cy="119"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle43" />
+    <circle
+       cx="409"
+       cy="163"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle44" />
+    <circle
+       cx="331"
+       cy="121"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle45" />
+    <circle
+       cx="226"
+       cy="159"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle46" />
+    <circle
+       cx="395"
+       cy="135"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle47" />
+    <circle
+       cx="417"
+       cy="112"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle48" />
+    <circle
+       cx="247"
+       cy="136"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle49" />
+    <circle
+       cx="30"
+       cy="152"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle50" />
+    <circle
+       cx="319"
+       cy="149"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle51" />
+    <circle
+       cx="338"
+       cy="118"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle52" />
+    <circle
+       cx="369"
+       cy="145"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle53" />
+    <circle
+       cx="312"
+       cy="138"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle54" />
+    <circle
+       cx="263"
+       cy="116"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle55" />
+    <circle
+       cx="222"
+       cy="153"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle56" />
+    <circle
+       cx="167"
+       cy="142"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle57" />
+    <circle
+       cx="168"
+       cy="155"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle58" />
+    <circle
+       cx="469"
+       cy="162"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle59" />
+    <circle
+       cx="254"
+       cy="111"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle60" />
+    <circle
+       cx="136"
+       cy="105"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle61" />
+    <circle
+       cx="82"
+       cy="151"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle62" />
+    <circle
+       cx="319"
+       cy="127"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle63" />
+    <circle
+       cx="372"
+       cy="141"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle64" />
+    <circle
+       cx="94"
+       cy="138"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle65" />
+    <circle
+       cx="105"
+       cy="145"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle66" />
+    <circle
+       cx="474"
+       cy="164"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle67" />
+    <circle
+       cx="428"
+       cy="107"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle68" />
+  </g>
+  <path
+     d="M0 176 Q240 164 480 174 V280 H0Z"
+     fill="#30366e"
+     id="path68" />
+  <path
+     d="M305 214 Q182 244 60 176"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1"
+     id="path191" />
+  <!-- tři kostely svatého Arthura -->
+  <rect
+     x="40"
+     y="106"
+     width="40"
+     height="70"
+     fill="#a596f2"
+     id="rect68" />
+  <path
+     d="M36 106 L60 76 L84 106Z"
+     fill="#6b4fe0"
+     id="path69" />
+  <circle
+     cx="60"
+     cy="68"
+     r="6"
+     fill="none"
+     stroke="#f0a400"
+     stroke-width="2"
+     id="circle69" />
+  <path
+     d="M54 176 V148 Q60 138 66 148 V176Z"
+     fill="#1c1e3f"
+     id="path70" />
+  <circle
+     cx="60"
+     cy="124"
+     r="6"
+     fill="#f0a400"
+     opacity=".8"
+     id="circle70" />
+  <rect
+     x="130"
+     y="86"
+     width="40"
+     height="90"
+     fill="#e3e5ee"
+     id="rect70" />
+  <path
+     d="M126 86 L150 56 L174 86Z"
+     fill="#6b4fe0"
+     id="path71" />
+  <circle
+     cx="150"
+     cy="48"
+     r="6"
+     fill="none"
+     stroke="#f0a400"
+     stroke-width="2"
+     id="circle71" />
+  <path
+     d="M144 176 V140 Q150 126 156 140 V176Z"
+     fill="#1c1e3f"
+     id="path72" />
+  <circle
+     cx="150"
+     cy="108"
+     r="6"
+     fill="#f0a400"
+     opacity=".8"
+     id="circle72" />
+  <rect
+     x="390"
+     y="100"
+     width="40"
+     height="76"
+     fill="#ff8a6a"
+     id="rect72" />
+  <path
+     d="M386 100 L410 70 L434 100Z"
+     fill="#6b4fe0"
+     id="path73" />
+  <circle
+     cx="410"
+     cy="62"
+     r="6"
+     fill="none"
+     stroke="#f0a400"
+     stroke-width="2"
+     id="circle73" />
+  <path
+     d="M404 176 V146 Q410 134 416 146 V176Z"
+     fill="#1c1e3f"
+     id="path74" />
+  <circle
+     cx="410"
+     cy="119"
+     r="6"
+     fill="#f0a400"
+     opacity=".8"
+     id="circle74" />
+  <!-- trochu nepovedená socha svatého Arthura v županu -->
+  <rect
+     x="226"
+     y="150"
+     width="56"
+     height="34"
+     rx="2"
+     fill="#a3a6bb"
+     id="rect74" />
+  <rect
+     x="220"
+     y="146"
+     width="68"
+     height="8"
+     rx="2"
+     fill="#caccdc"
+     id="rect75" />
+  <g
+     transform="translate(254 146)"
+     id="g82">
+    <path
+       d="M-16 0 Q-22 -50 -2 -62 Q22 -58 18 0Z"
+       fill="#c9b8a0"
+       id="path75" />
+    <path
+       d="M-6 -60 L-1 -40 L6 -58"
+       fill="#a8977f"
+       id="path76" />
+    <path
+       d="M-18 -26 H18"
+       stroke="#a8977f"
+       stroke-width="3"
+       id="path77" />
+    <path
+       d="M-16 -50 Q-30 -40 -26 -20"
+       stroke="#c9b8a0"
+       stroke-width="8"
+       stroke-linecap="round"
+       fill="none"
+       id="path78" />
+    <path
+       d="M16 -50 Q22 -46 26 -54"
+       stroke="#c9b8a0"
+       stroke-width="7"
+       stroke-linecap="round"
+       fill="none"
+       id="path79" />
+    <!-- hlava trochu nakřivo a moc malá, jedno ucho chybí -->
+    <g
+       transform="rotate(14 0 -70)"
+       id="g81">
+      <ellipse
+         cx="2"
+         cy="-72"
+         rx="8"
+         ry="10"
+         fill="#c9b8a0"
+         id="ellipse79" />
+      <ellipse
+         cx="-6"
+         cy="-72"
+         rx="2.5"
+         ry="4"
+         fill="#c9b8a0"
+         id="ellipse80" />
+      <circle
+         cx="0"
+         cy="-74"
+         r="1.2"
+         fill="#8a7a64"
+         id="circle80" />
+      <circle
+         cx="6"
+         cy="-71"
+         r="1.6"
+         fill="#8a7a64"
+         id="circle81" />
+      <path
+         d="M0 -66 h5"
+         stroke="#8a7a64"
+         stroke-width="1"
+         id="path81" />
+    </g>
+    <ellipse
+       cx="4"
+       cy="-88"
+       rx="12"
+       ry="3"
+       fill="none"
+       stroke="#f0a400"
+       stroke-width="2.5"
+       transform="rotate(10 4 -88)"
+       id="ellipse81" />
+  </g>
+  <g
+     fill="#f0a400"
+     opacity=".2"
+     id="g83">
+    <circle
+       cx="254"
+       cy="110"
+       r="44"
+       id="circle82" />
+  </g>
+  <!-- svíčky u sochy -->
+  <g
+     id="g89">
+    <rect
+       x="230"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect83" />
+    <path
+       d="M232 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path83" />
+    <rect
+       x="238"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect84" />
+    <path
+       d="M240 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path84" />
+    <rect
+       x="246"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect85" />
+    <path
+       d="M248 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path85" />
+    <rect
+       x="254"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect86" />
+    <path
+       d="M256 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path86" />
+    <rect
+       x="262"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect87" />
+    <path
+       d="M264 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path87" />
+    <rect
+       x="270"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect88" />
+    <path
+       d="M272 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path88" />
+    <rect
+       x="278"
+       y="176"
+       width="4"
+       height="8"
+       fill="#e3e5ee"
+       id="rect89" />
+    <path
+       d="M280 175 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path89" />
+  </g>
+  <g
+     transform="translate(320 238) scale(1.15 1.15)"
+     id="g103">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect90" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect91" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#e3e5ee"
+       id="rect92" />
+    <path
+       d="M-10 -44 Q-15 -32 -13 -22 M10 -44 Q18 -54 20 -66"
+       stroke="#e3e5ee"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path92" />
+    <circle
+       cx="-13"
+       cy="-21"
+       r="2.6"
+       fill="#c8b8f0"
+       id="circle92" />
+    <circle
+       cx="20"
+       cy="-68"
+       r="2.6"
+       fill="#c8b8f0"
+       id="circle93" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#c8b8f0"
+       id="circle94" />
+    <path
+       d="M1 -62 q3 -2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path94" />
+    <path
+       d="M2 -55 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       fill="none"
+       id="path95" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#e3e5ee"
+       id="path96" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#c8b8f0"
+       stroke-width="2"
+       fill="none"
+       id="path97" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle97" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle98" />
+    <path
+       d="M-8 -68 L0 -90 L8 -68Z"
+       fill="#e3e5ee"
+       id="path98" />
+    <g
+       transform="translate(0 -78) scale(0.32)"
+       id="g101">
+      <circle
+         r="12"
+         fill="#e3e5ee"
+         id="circle99" />
+      <path
+         d="M-7 3 Q-7 -7 0 -7 Q7 -7 7 3Z"
+         fill="#f0a400"
+         id="path99" />
+      <rect
+         x="-8"
+         y="1"
+         width="16"
+         height="3.5"
+         rx="1.5"
+         fill="#c98400"
+         id="rect99" />
+      <circle
+         cx="0"
+         cy="-8.5"
+         r="2.3"
+         fill="#ff5a36"
+         id="circle100" />
+      <circle
+         r="10.5"
+         fill="none"
+         stroke="#ff5a36"
+         stroke-width="2.5"
+         id="circle101" />
+      <path
+         d="M-7.5 -7.5 L7.5 7.5"
+         stroke="#ff5a36"
+         stroke-width="2.5"
+         id="path101" />
+    </g>
+    <path
+       d="M-11 -50 L-12 -14 H12 L11 -50Z"
+       fill="#e3e5ee"
+       id="path102" />
+    <path
+       d="M0 -50 V-14"
+       stroke="#f0a400"
+       stroke-width="3"
+       id="path103" />
+  </g>
+  <path
+     d="M343 162 V122"
+     stroke="#f0a400"
+     stroke-width="2"
+     id="path104" />
+  <path
+     d="M343 122 q8 -6 4 -14"
+     fill="none"
+     stroke="#f0a400"
+     stroke-width="2.5"
+     id="path105" />
+  <g
+     transform="translate(40 262) scale(1.00 1.00)"
+     id="g114">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect105" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect106" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#14c2b0"
+       id="rect107" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#14c2b0"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path107" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect108" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path108" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle108" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path109" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle109" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle110" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle111" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path111" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#8a5a3a"
+       id="path112" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#f0c8a0"
+       stroke-width="2"
+       fill="none"
+       id="path113" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle113" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle114" />
+  </g>
+  <g
+     transform="translate(80 268) scale(1.00 1.00)"
+     id="g123">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect114" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect115" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff5a36"
+       id="rect116" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#ff5a36"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path116" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect117" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path117" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle117" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path118" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle118" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle119" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#c98a5a"
+       id="circle120" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path120" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#1c1e3f"
+       id="path121" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#c98a5a"
+       stroke-width="2"
+       fill="none"
+       id="path122" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle122" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle123" />
+  </g>
+  <g
+     transform="translate(120 260) scale(1.00 1.00)"
+     id="g132">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect123" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect124" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#8a73ee"
+       id="rect125" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#8a73ee"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path125" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect126" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path126" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle126" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path127" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#e0a0d0"
+       id="circle127" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#e0a0d0"
+       id="circle128" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#e0a0d0"
+       id="circle129" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path129" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#ff8a6a"
+       id="path130" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#e0a0d0"
+       stroke-width="2"
+       fill="none"
+       id="path131" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle131" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle132" />
+  </g>
+  <g
+     transform="translate(420 268) scale(1.00 1.00)"
+     id="g150">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect141" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect142" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#14c2b0"
+       id="rect143" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#14c2b0"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path143" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect144" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path144" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle144" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path145" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle145" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle146" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle147" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path147" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#f0a400"
+       id="path148" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#f0c8a0"
+       stroke-width="2"
+       fill="none"
+       id="path149" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle149" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle150" />
+  </g>
+  <g
+     transform="translate(460 260) scale(1.00 1.00)"
+     id="g159">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect150" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect151" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff8a6a"
+       id="rect152" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#ff8a6a"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path152" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect153" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path153" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle153" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path154" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle154" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle155" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#c98a5a"
+       id="circle156" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path156" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#e3e5ee"
+       id="path157" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#c98a5a"
+       stroke-width="2"
+       fill="none"
+       id="path158" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle158" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle159" />
+  </g>
+  <g
+     transform="translate(170 270) scale(1.00 1.00)"
+     id="g168">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect159" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect160" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#6b4fe0"
+       id="rect161" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#6b4fe0"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path161" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect162" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path162" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle162" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path163" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#a8c070"
+       id="circle163" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#a8c070"
+       id="circle164" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#a8c070"
+       id="circle165" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path165" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#8a5a3a"
+       id="path166" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#a8c070"
+       stroke-width="2"
+       fill="none"
+       id="path167" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle167" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle168" />
+  </g>
+  <g
+     transform="translate(200 262) scale(1.00 1.00)"
+     id="g177">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect168" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect169" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff8a6a"
+       id="rect170" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#ff8a6a"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path170" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect171" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path171" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle171" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path172" />
+    <path
+       d="m 143,-100 c 4,2.666667 9.16667,-1.75973 6.5,1.573599 -2.66667,1.333333 -5.16667,4.549734 -6.5,-0.783599"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width="0.8"
+       id="path172-5"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle172" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle173" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle174" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path174" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#1c1e3f"
+       id="path175" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#f0c8a0"
+       stroke-width="2"
+       fill="none"
+       id="path176" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle176" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle177" />
+  </g>
+  <g
+     transform="matrix(0.9,0,0,0.9,140,269.57004)"
+     id="g186">
+    <path
+       d="M -4,0 V -6 M 4,0 V -6"
+       stroke="#4c5074"
+       stroke-width="4"
+       id="path177" />
+    <path
+       d="m -11,-6 q -1,-32 11,-34 12,2 11,34 z"
+       fill="#8a73ee"
+       id="path178" />
+    <g
+       fill="#e3e5ee"
+       id="g180">
+      <circle
+         cx="-4"
+         cy="-20"
+         r="1.3"
+         id="circle178" />
+      <circle
+         cx="4"
+         cy="-28"
+         r="1.3"
+         id="circle179" />
+      <circle
+         cx="3"
+         cy="-14"
+         r="1.3"
+         id="circle180" />
+    </g>
+    <path
+       d="M 10,-24 16,0"
+       stroke="#8a5a3a"
+       stroke-width="2"
+       id="path180" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="8"
+       fill="#f0c8a0"
+       id="circle181" />
+    <circle
+       cx="0"
+       cy="-58"
+       r="5"
+       fill="#e3e5ee"
+       id="circle182" />
+    <path
+       d="m -8,-50 q 0,-7 8,-7 8,0 8,7 -8,-4 -16,0 z"
+       fill="#e3e5ee"
+       id="path182" />
+    <circle
+       cx="-3"
+       cy="-48"
+       r="2.4000001"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="0.8"
+       id="circle183" />
+    <circle
+       cx="3"
+       cy="-48"
+       r="2.4000001"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="0.8"
+       id="circle184" />
+    <path
+       d="m -2,-43 q 2,1 4,0"
+       stroke="#1c1e3f"
+       stroke-width="0.9"
+       fill="none"
+       id="path184" />
+    <path
+       d="m -3,-62 q -4,-8 -8,-10 m 14,10 q 4,-8 8,-10"
+       stroke="#f0c8a0"
+       stroke-width="1.5"
+       fill="none"
+       id="path185" />
+    <circle
+       cx="-11"
+       cy="-72"
+       r="2"
+       fill="#8a73ee"
+       id="circle185" />
+    <circle
+       cx="11"
+       cy="-72"
+       r="2"
+       fill="#8a73ee"
+       id="circle186" />
+    <path
+       d="m -11,-26 c -4.666667,0 -2.95063,-14.170613 -6.95063,-16.83728"
+       stroke="#caccdc"
+       stroke-width="0.9"
+       fill="none"
+       id="path186"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <!-- vaše pamětní svíčka -->
+  <rect
+     x="268"
+     y="252"
+     width="44"
+     height="6"
+     rx="2"
+     fill="#8a5a3a"
+     id="rect187" />
+  <rect
+     x="284"
+     y="224"
+     width="12"
+     height="28"
+     rx="2"
+     fill="#e3e5ee"
+     id="rect188" />
+  <path
+     d="M290 222 q-4 -6 0 -12 q4 6 0 12Z"
+     fill="#f0a400"
+     id="path188" />
+  <circle
+     cx="290"
+     cy="216"
+     r="12"
+     fill="#f0a400"
+     opacity=".2"
+     id="circle188" />
+  <ellipse
+     cx="290"
+     cy="238"
+     rx="6"
+     ry="9"
+     fill="#8a5a3a"
+     opacity=".6"
+     id="ellipse188" />
+  <path
+     d="M286 232 L290 244 L294 232"
+     fill="none"
+     stroke="#c98400"
+     stroke-width="1"
+     id="path189" />
+  <!-- arcibiskup má přivázané všechny tři kostely i sochu -->
+  <path
+     d="M305 214 Q280 244 254 184"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1"
+     id="path190" />
+  <path
+     d="M305 214 Q228 244 150 176"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1"
+     id="path192" />
+  <path
+     d="M305 214 Q358 244 410 176"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1"
+     id="path193" />
+  <path
+     d="M290 258 Q295.0 298 300 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path194" />
+  <path
+     d="M256 184 Q243.0 298 230 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path195" />
+  <g
+     transform="translate(380 264) scale(1.00 1.00)"
+     id="g141">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect132" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect133" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#f0a400"
+       id="rect134" />
+    <path
+       d="M-10 -44 Q-12 -34 -2 -32 M10 -44 Q12 -34 2 -32"
+       stroke="#f0a400"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path134" />
+    <rect
+       x="-2"
+       y="-44"
+       width="4"
+       height="12"
+       fill="#e3e5ee"
+       id="rect135" />
+    <path
+       d="M0 -46 q-2 -3 0 -6 q2 3 0 6Z"
+       fill="#f0a400"
+       id="path135" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="5"
+       fill="#f0a400"
+       opacity=".2"
+       id="circle135" />
+    <path
+       d="M1 -32 q6 4 2 9 q-4 2 -6 -6"
+       fill="none"
+       stroke="#e3e5ee"
+       stroke-width=".8"
+       id="path136" />
+    <circle
+       cx="-2"
+       cy="-31"
+       r="2.6"
+       fill="#a8c0e8"
+       id="circle136" />
+    <circle
+       cx="2"
+       cy="-31"
+       r="2.6"
+       fill="#a8c0e8"
+       id="circle137" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#a8c0e8"
+       id="circle138" />
+    <path
+       d="M1 -60 q3 2 6 0"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       fill="none"
+       stroke-linecap="round"
+       id="path138" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#595d82"
+       id="path139" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#a8c0e8"
+       stroke-width="2"
+       fill="none"
+       id="path140" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle140" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle141" />
+  </g>
+</svg>

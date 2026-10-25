@@ -1,0 +1,241 @@
+# Galaxy: the first game. Placeholder story for developing the app.
+#
+# Every text has a Czech (cs) and an English (en) version.
+# Ids (the part after "items.", "clues." or "locations.") are used in code
+# and in saved progress: lowercase letters, digits, _ and -.
+# A location is a small story made of scenes (screens). See the spec or the
+# README, "Write content", for every key. Pictures live in images/.
+# Check this file and print its QR codes with:
+#   cargo run -p stopa-codes -- games/galaxy/game.toml > codes.html
+
+[game]
+id = "galaxy"
+skin = "orbit"               # folder in app/skins/: orbit, trail or case
+default_language = "cs"
+title = { cs = "Název hry", en = "Game title" }
+
+# ---------------------------------------------------------------- items
+# Listed in the inventory in this order. Icons: generic, map, key, coin,
+# lantern, feather, cell, crystal, decoder, tank, letter, flask.
+
+[items.star_chart]
+icon = "map"
+name = { cs = "Díl hvězdné mapy", en = "Star chart piece" }
+description = { cs = "Část staré navigační mapy. Je na ní vyznačená trasa kolem dvojhvězdy.", en = "Part of an old navigation chart. It marks a route past a double star." }
+
+[items.fuel_cell]
+icon = "cell"
+name = { cs = "Palivový článek", en = "Fuel cell" }
+description = { cs = "Energie na jeden krátký skok.", en = "Enough power for one short jump." }
+
+[items.crystal]
+icon = "crystal"
+name = { cs = "Mimozemský krystal", en = "Alien crystal" }
+description = { cs = "Polovina krystalu, který září poblíž své druhé poloviny.", en = "Half of a crystal that glows near its other half." }
+
+[items.decoder]
+icon = "decoder"
+name = { cs = "Dekodér signálu", en = "Signal decoder" }
+description = { cs = "Promění šum ve slova, pokud v něm nějaká jsou.", en = "Turns noise into words, if there are any in it." }
+
+[items.oxygen]
+icon = "tank"
+name = { cs = "Kyslíková bombička", en = "Oxygen canister" }
+description = { cs = "Vzduch na hodinu mimo loď.", en = "Air for one hour outside the ship." }
+
+# ---------------------------------------------------------------- clues
+# The logbook shows clues in no particular order (newest first).
+
+[clues.distress_signal]
+title = { cs = "Nouzový signál", en = "Distress signal" }
+text = { cs = "Signál se opakuje každých 17 minut. Vysílá ho loď Vega-3, která podle registru shořela před deseti lety.", en = "The signal repeats every 17 minutes. It comes from the Vega-3, a ship that burned up ten years ago, according to the registry." }
+
+[clues.last_entry]
+title = { cs = "Poslední zápis", en = "Last log entry" }
+text = { cs = "Kapitánův poslední zápis končí uprostřed věty.", en = "The captain's last log entry stops in the middle of a sentence." }
+
+[clues.broken_crystal]
+title = { cs = "Zlomený krystal", en = "Broken crystal" }
+text = { cs = "Svítí, jen když je poblíž jeho druhá polovina.", en = "It only glows when its other half is nearby." }
+
+[clues.star_map]
+title = { cs = "Hvězdná mapa", en = "Star map" }
+text = { cs = "Z kapitánovy mapy někdo vymazal jednu planetu.", en = "Someone has erased one planet from the captain's map." }
+
+[clues.hull_scratches]
+title = { cs = "Škrábance na trupu", en = "Scratches on the hull" }
+text = { cs = "Nejsou od meteoritů. Jsou zevnitř.", en = "They are not from meteorites. They were made from the inside." }
+
+[clues.coordinates]
+title = { cs = "Souřadnice", en = "Coordinates" }
+text = { cs = "Hlas z vysílače nadiktoval souřadnice planety, která na kapitánově mapě chybí.", en = "The voice on the transmitter read out the coordinates of the planet missing from the captain's map." }
+
+[clues.radio_voice]
+title = { cs = "Hlas v rádiu", en = "Voice on the radio" }
+text = { cs = "Mluví česky, ale pozpátku.", en = "It speaks Czech, but backwards." }
+
+# ---------------------------------------------------------------- locations
+# `code` goes into the location's QR code as STOPA:galaxy:<code>.
+# Make codes hard to guess and never reuse one.
+#
+# Each location has scenes. The first scene in the file is where a first
+# visit starts. A scene ends with one of: next (a Continue key), choices,
+# password, or nothing (the end of this location's story).
+
+# Relay station: two scenes, a picture, and a paragraph that depends on
+# whether the player already carries the decoder.
+
+[locations.relay_k7]
+code = "7Q4M-2KD9"
+name = { cs = "Reléová stanice K-7", en = "Relay station K-7" }
+
+[locations.relay_k7.scenes.arrival]
+image = "relay.svg"
+alt = { cs = "Reléová stanice s vysokou anténou pod hvězdnou oblohou", en = "A relay station with a tall antenna under a starry sky" }
+text.cs = """
+Reléová stanice běží na nouzové napájení. Většina přístrojů je tmavá, jen jedna kontrolka pravidelně bliká.
+
+Na polici leží zásoby, které tu někdo nechal.
+"""
+text.en = """
+The relay station runs on emergency power. Most of the panels are dark; one light blinks at a steady rhythm.
+
+On a shelf lie supplies that someone left behind.
+"""
+give = { items = { star_chart = 1, fuel_cell = 2, oxygen = 1 } }
+next = "console"
+
+[locations.relay_k7.scenes.console]
+text = { cs = "V záznamu stanice je nouzový signál, který se opakuje každých 17 minut.", en = "The station's log holds a distress signal that repeats every 17 minutes." }
+give = { clues = ["distress_signal"] }
+
+[[locations.relay_k7.scenes.console.paragraphs]]
+when = { items = { decoder = 1 } }
+text = { cs = "Dekodér zachytí pod šumem jediné slovo: ORION.", en = "The decoder picks out a single word under the noise: ORION." }
+
+[[locations.relay_k7.scenes.console.paragraphs]]
+when = { without_items = ["decoder"] }
+text = { cs = "Pod šumem je ještě něco, ale bez dekodéru to nerozluštíš.", en = "There is something else under the noise, but you can't make it out without a decoder." }
+
+# Wreck: the first scene is a menu (pick = "any"). Going inside needs and
+# uses an oxygen canister. Inside, a final decision sets a flag that the
+# crystal cave reacts to. The decision waits (`requires`) until the player
+# has the signal decoder from the radio mast, because the log is in code.
+# Until then the player reads the scene, sees `waiting`, and gets only Done;
+# scanning the wreck again later returns to the cabin.
+
+[locations.wreck_vega]
+code = "X3TB-9PLW"
+name = { cs = "Vrak lodi Vega-3", en = "Wreck of the Vega-3" }
+
+[locations.wreck_vega.scenes.airlock]
+image = "wreck.svg"
+alt = { cs = "Vrak lodi s pootevřenou přechodovou komorou", en = "A wrecked ship with its airlock ajar" }
+text = { cs = "Trup lodi Vega-3 je studený a temný. Přechodová komora je pootevřená.", en = "The hull of the Vega-3 is cold and dark. The airlock stands ajar." }
+pick = "any"
+
+[[locations.wreck_vega.scenes.airlock.paragraphs]]
+when = { without_items = ["oxygen"] }
+text = { cs = "Uvnitř není vzduch. Bez kyslíku dovnitř nemůžeš.", en = "There is no air inside. Without oxygen you can't go in." }
+
+[[locations.wreck_vega.scenes.airlock.choices]]
+id = "enter"
+label = { cs = "Vstoupit dovnitř (spotřebuje kyslíkovou bombičku)", en = "Go inside (uses an oxygen canister)" }
+take = { oxygen = 1 }
+locked = { cs = "Potřebuješ kyslíkovou bombičku", en = "You need an oxygen canister" }
+to = "cabin"
+
+[[locations.wreck_vega.scenes.airlock.choices]]
+id = "hull"
+label = { cs = "Prohlédnout trup zvenku", en = "Look at the hull from outside" }
+to = "hull"
+
+[locations.wreck_vega.scenes.hull]
+text = { cs = "Do kovu někdo vyškrábal rýhy. Vedou zevnitř ven.", en = "Someone has scratched marks into the metal. They run from the inside out." }
+give = { clues = ["hull_scratches"] }
+next = "airlock"
+
+[locations.wreck_vega.scenes.cabin]
+text = { cs = "V kapitánské kajutě leží otevřený lodní deník a vedle něj hvězdná mapa. Stránky deníku jsou popsané signálovým kódem.", en = "In the captain's cabin, the ship's log lies open, with a star chart beside it. The log's pages are written in signal code." }
+give = { clues = ["star_map"] }
+requires = { items = { decoder = 1 } }
+waiting = { cs = "Bez dekodéru signálu deník nepřečteš. Vrať se, až ho budeš mít.", en = "You can't read the log without a signal decoder. Come back when you have one." }
+
+[[locations.wreck_vega.scenes.cabin.paragraphs]]
+when = { items = { decoder = 1 } }
+text = { cs = "Dekodér přečte poslední zápis. Končí uprostřed věty. Mapa vedle něj jako by čekala, co uděláš.", en = "The decoder reads the last entry. It stops in the middle of a sentence. The chart beside it seems to wait for what you'll do." }
+
+[[locations.wreck_vega.scenes.cabin.choices]]
+id = "take_chart"
+label = { cs = "Vzít si kapitánovu mapu", en = "Take the captain's chart" }
+give = { items = { star_chart = 1 }, clues = ["last_entry"] }
+set = ["took_chart"]
+to = "leave_with_chart"
+
+[[locations.wreck_vega.scenes.cabin.choices]]
+id = "leave_chart"
+label = { cs = "Nechat mapu, kde leží", en = "Leave the chart where it lies" }
+give = { clues = ["last_entry"] }
+set = ["left_chart"]
+to = "leave_empty"
+
+[locations.wreck_vega.scenes.leave_with_chart]
+text = { cs = "Mapu si schováš. Když odcházíš, světla v lodi na okamžik zablikají.", en = "You pocket the chart. As you leave, the ship's lights flicker for a moment." }
+
+[locations.wreck_vega.scenes.leave_empty]
+text = { cs = "Deník zavřeš a mapu necháš ležet. Cestou ven máš pocit, že ti někdo kývl na pozdrav.", en = "You close the log and leave the chart. On the way out, you feel as if someone nodded to you." }
+
+# Crystal cave: one scene whose text depends on the decision made in the wreck.
+
+[locations.crystal_cave]
+code = "M8RC-4VNE"
+name = { cs = "Krystalová jeskyně", en = "Crystal cave" }
+
+[locations.crystal_cave.scenes.cave]
+image = "crystal.svg"
+alt = { cs = "Jeskyně plná zářících krystalů", en = "A cave full of glowing crystals" }
+text = { cs = "Stěny jeskyně slabě září, kdykoli se přiblížíš. Jeden krystal je rozlomený vejpůl a druhá polovina chybí.", en = "The cave walls glow faintly whenever you come close. One crystal is broken in half, and the other half is missing." }
+give = { items = { crystal = 1 }, clues = ["broken_crystal"] }
+
+[[locations.crystal_cave.scenes.cave.paragraphs]]
+when = { flags = ["took_chart"] }
+text = { cs = "Krystal v tvé ruce neklidně pomrkává.", en = "The crystal in your hand flickers uneasily." }
+
+[[locations.crystal_cave.scenes.cave.paragraphs]]
+when = { flags = ["left_chart"] }
+text = { cs = "Krystal v tvé ruce se rozzáří teplým světlem.", en = "The crystal in your hand glows with a warm light." }
+
+# Radio mast: a password. The answer comes from the distress signal clue
+# found at the relay station.
+
+[locations.radio_mast]
+code = "K2ZH-6QAF"
+name = { cs = "Rádiový stožár", en = "Radio mast" }
+
+[locations.radio_mast.scenes.mast]
+text.cs = """
+Ze starého reproduktoru praská šum. Mezi ním zazní hlas, který mluví česky, ale pozpátku.
+
+U paty stožáru leží dekodér signálu.
+"""
+text.en = """
+Static crackles from an old speaker. Through the noise comes a voice speaking Czech, but backwards.
+
+A signal decoder lies at the foot of the mast.
+"""
+give = { items = { decoder = 1 }, clues = ["radio_voice"] }
+next = "transmitter"
+
+[locations.radio_mast.scenes.transmitter]
+text = { cs = "Starý vysílač se probudí. Na displeji svítí: VOLACÍ ZNAK?", en = "The old transmitter wakes up. The display reads: CALL SIGN?" }
+
+[locations.radio_mast.scenes.transmitter.password]
+answers = ["VEGA-3"]
+prompt = { cs = "Volací znak", en = "Call sign" }
+hint = { cs = "Jak se jmenovala loď z nouzového signálu?", en = "What was the ship in the distress signal called?" }
+wrong = { cs = "Vysílač zapípá a zhasne. Zkus jiný znak.", en = "The transmitter beeps and goes dark. Try another call sign." }
+to = "contact"
+
+[locations.radio_mast.scenes.contact]
+text = { cs = "Z reproduktoru se ozve jasný hlas: „Vega-3, slyšíme vás.“ Na displeji naskočí souřadnice.", en = "A clear voice comes through: “Vega-3, we hear you.” Coordinates appear on the display." }
+give = { items = { fuel_cell = 1 }, clues = ["coordinates"] }

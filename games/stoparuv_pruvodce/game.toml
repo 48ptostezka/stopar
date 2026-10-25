@@ -1,0 +1,3960 @@
+[game]
+id = "hitchhiker"
+skin = "orbit"
+default_language = "cs"
+title = { cs = "Pátrací akce", en = "X" }
+
+# ---------------------------------------------------------------- items
+
+[items.junk_shop_address]
+icon = "junk_shop_address.svg"
+name = { cs = "Adresa vetešnictví", en = "X" }
+description = { cs = "Vetešnictví Lavinie Lulu Lollinellové, Lomařská 111, Lull-na-Lulle, planeta Lollilil, Lalalská soustava.", en = "X" }
+
+[items.diamond_fork]
+icon = "diamond_fork.svg"
+name = { cs = "Diamantová dezintegrační vidlička Excelsior", en = "X" }
+description = { cs = "Multifunkční diamantová dezintegrační vidlička Excelsior s funkcí zpětného složení sousta.", en = "X" }
+
+[items.quantum_screwdriver]
+icon = "quantum_screwdriver.svg"
+name = { cs = "Zlatý kvantový šroubovák Absolutum", en = "X" }
+description = { cs = "Zlatý kvantový šroubovák Absolutum, který pasuje do každého šroubu ve vesmíru kromě toho, který zrovna potřebujete.", en = "X" }
+
+[items.towel]
+icon = "towel.svg"
+name = { cs = "Ručník", en = "X" }
+description = { cs = "Nejužitečnější předmět, jaký může stopař mít.", en = "X" }
+
+[items.bubble_blower]
+icon = "bubble_blower.svg"
+name = { cs = "Bublifuk", en = "X" }
+description = { cs = "Svatý předmět Kultu Velké Mýdlové Bubliny.", en = "X" }
+
+[items.holy_soap]
+icon = "holy_soap.svg"
+name = { cs = "Svěcené mýdlo", en = "X" }
+description = { cs = "Svatý předmět Kultu Velké Mýdlové Bubliny.", en = "X" }
+
+[items.magnet]
+icon = "magnet.svg"
+name = { cs = "Magnetka", en = "X" }
+description = { cs = "Magnetka, na které je fotka obchodu, kde se prodává.", en = "X" }
+
+[items.cup]
+icon = "cup.svg"
+name = { cs = "Hrnek", en = "X" }
+description = { cs = "Hrnek, na kterém je obrázek stejného hrnku.", en = "X" }
+
+[items.shirt]
+icon = "shirt.svg"
+name = { cs = "Tričko", en = "X" }
+description = { cs = "Tričko, na kterém je nápis „Byli jsme tam“.", en = "X" }
+
+[items.form_67b_unsigned]
+icon = "form_67b_unsigned.svg"
+name = { cs = "Formulář 67B (bez razítka)", en = "X" }
+description = { cs = "Formulář 67B: Žádost o nahlédnutí do žádostí. Potřebuje razítko referenta Lejstrbacha.", en = "X" }
+
+[items.form_67b_signed]
+icon = "form_67b_signed.svg"
+name = { cs = "Formulář 67B (orazítkovaný)", en = "X" }
+description = { cs = "Formulář 67B: Žádost o nahlédnutí do žádostí. Orazítkovaný referentem Lejstrbachem.", en = "X" }
+
+[items.official_document]
+icon = "official_document.svg"
+name = { cs = "Osvědčení o identitě kamene", en = "X" }
+description = { cs = "Úředně potvrzuje, že jistý kámen je skutečně kámen. S velkým úředním razítkem.", en = "X" }
+
+[items.grey_tile]
+icon = "grey_tile.svg"
+name = { cs = "Šedá kachlička", en = "X" }
+description = { cs = "Katalogové číslo 23874834, odstín kovové slepičí vajíčko.", en = "X" }
+
+[items.jeep_et]
+icon = "jeep_et.svg"
+name = { cs = "Džíp E.T.", en = "X" }
+description = { cs = "Lokální model. Je naprosto nadšený z toho, že je ve vašem inventáři. Upřímně, jedno z nejlepších umístění, jaké kdy viděl.", en = "X" }
+
+[items.prism]
+icon = "prism.svg"
+name = { cs = "Hranol", en = "X" }
+description = { cs = "Rozkládá světlo na barvy. Vhodný pro komunikaci s húlúvú.", en = "X" }
+
+[items.memorial_candle]
+icon = "memorial_candle.svg"
+name = { cs = "Pamětní svíčka svatého Arthura", en = "X" }
+description = { cs = "Na obalu je portrét svatého Arthura v županu. Vůbec nevypadá jako Arthur, je průměrem všech lidí, kteří se kdy ztratili.", en = "X" }
+
+[items.arthurs_bathrobe]
+icon = "arthurs_bathrobe.svg"
+name = { cs = "Arthurův župan", en = "X" }
+description = { cs = "Obyčejný, trochu ošoupaný župan. Na štítku je napsáno Majetek AD. V kapse použitý sáček čaje.", en = "X" }
+
+# ---------------------------------------------------------------- clues
+
+[clues.vogons]
+title = { cs = "Stojí za únosem Vogoni?", en = "X" }
+text = { cs = "Grumbold Pašt tvrdí, že za únosem Arthura mohou stát Vogoni. Zkuste navštívit Úřad pro vydávání žádostí o přístup k žádostem.", en = "X" }
+
+[clues.society]
+title = { cs = "Stojí za únosem Společnost?", en = "X" }
+text = { cs = "Ilthenie Vrrbl-Ka si myslí, že za únosem Arthura stojí Společnost pro ochranu ohrožených druhů. Zkuste navštívit její hlavní kancelář.", en = "X" }
+
+[clues.cult]
+title = { cs = "Stojí za únosem Kult?", en = "X" }
+text = { cs = "Bratr Švorc se domnívá, že s únosem Arthura může mít něco společného Kult Velké Mýdlové Bubliny. Chrám mají na planetě Bubliblaxie.", en = "X" }
+
+[clues.junk_shop]
+title = { cs = "Vetešnictví na planetě Lollilil", en = "X" }
+text = { cs = "Barman Ottokar vám doporučuje zastavit se za vetešnicí Lavinií. Má ráda stopařské historky a nesnáší písmeno L.", en = "X" }
+
+[clues.cult_password]
+title = { cs = "Kultovní slevový kupón", en = "X" }
+text = { cs = "Strážce vám poskytl slevový kupón na svaté předměty Kultu Velké Mýdlové Bubliny. Zní BUBLIBUX100PROCENT.", en = "X" }
+
+[clues.jeep_arthur]
+title = { cs = "Arthur je na Ištvánii", en = "X" }
+text = { cs = "Model Džíp E.T. vám sdělil, že Arthur Dent se určitě nachází na planetě Ištvánie.", en = "X" }
+
+[clues.jeep_arthur_not]
+title = { cs = "Arthur není na Ištvánii", en = "X" }
+text = { cs = "Model Džíp E.T. se spletl. Arthur Dent není na Ištvánii.", en = "X" }
+
+[clues.jeep_holy_items]
+title = { cs = "Svaté předměty se prodávají na Ištvánii", en = "X" }
+text = { cs = "Model Džíp E.T. tvrdí, že svaté předměty Kultu Velké Mýdlové Bubliny se prodávají na planetě Ištvánie.", en = "X" }
+
+[clues.jeep_holy_items_not]
+title = { cs = "Svaté předměty se asi neprodávají na Ištvánii", en = "X" }
+text = { cs = "Model Džíp E.T. se spletl. Ve skutečnosti si není jistý, že se svaté předměty Kultu Velké Mýdlové Bubliny prodávají na planetě Ištvánie.", en = "X" }
+
+[clues.arthur_not_on_istvania]
+title = { cs = "Arthur opravdu není na Ištvánii", en = "X" }
+text = { cs = "Arthur Dent není na Ištvánii.", en = "X" }
+
+[clues.holy_items_not_on_istvania]
+title = { cs = "Svaté předměty se neprodávají na Ištvánii", en = "X" }
+text = { cs = "Svaté předměty Kultu Velké Mýdlové Bubliny se neprodávají na Ištvánii.", en = "X" }
+
+[clues.nothing_is_on_istvania]
+title = { cs = "Na Ištvánii nic není", en = "X" }
+text = { cs = "Na Ištvánii zřejmě není nic zajímavého.", en = "X" }
+
+[clues.lejstrbach_inspection]
+title = { cs = "Lejstrbach je na inspekci", en = "X" }
+text = { cs = "Referent Lejstrbach je na inspekci na planetě Traal nebo na planetě Bublibragis.", en = "X" }
+
+[clues.det_racker_att_blunda]
+title = { cs = "Stačí zavřít oči", en = "X" }
+text = { cs = "Na oklamání Žravé blátotlačky z Traalu stačí zavřít oči.", en = "X" }
+
+[clues.boring_official]
+title = { cs = "Úředník chce nudný dárek", en = "X" }
+text = { cs = "Úředník v archivu vás k žádostem pustí rychleji, když dostane dárek. Miluje nudné věci, zkuste Muzeum dvanácti tisíc odstínů šedi.", en = "X" }
+
+[clues.dumb_creatures_expedition]
+title = { cs = "Výprava za nejhloupějšími tvory Galaxie", en = "X" }
+text = { cs = "Něco o Arthurovi by mohl vědět ředitel Společnosti pro ochranu ohrožených druhů, který je na výpravě za nejhloupějšími tvory Galaxie. Jeho trasa vede přes Bublaninu, Tu druhou Magratheu a Traal.", en = "X" }
+
+[clues.director_station]
+title = { cs = "Ředitel na Překladišti Mezitím", en = "X" }
+text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů odletěl z Traalu na Překladiště Mezitím. Tam měl putovat i živý náklad: jeden pozemšťan, možná Arthur.", en = "X" }
+
+[clues.cargo_station]
+title = { cs = "Podezřelý náklad na Překladišti Mezitím", en = "X" }
+text = { cs = "Na Překladiště Mezitím měl putovat živý náklad Společnosti pro ochranu ohrožených druhů: jeden pozemšťan, možná Arthur.", en = "X" }
+
+[clues.director_not_on_bublanina]
+title = { cs = "Ředitel na Bublanině není", en = "X" }
+text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů už z Bublaniny odletěl. Podle pohlednice pokračuje na Tu druhou Magratheu a pak na Traal.", en = "X" }
+
+[clues.director_not_on_magrathea]
+title = { cs = "Ředitel na Magrathey není", en = "X" }
+text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů už z Té druhé Magrathey odletěl.", en = "X" }
+
+[clues.soap_automat]
+title = { cs = "Automat na svěcené mýdlo", en = "X" }
+text = { cs = "Na Bublanině stojí automat na svěcené mýdlo Kultu Velké Mýdlové Bubliny. Mýdlo vydá jen se slevovým kódem. Chrám Kultu je na planetě Bubliblaxie.", en = "X" }
+
+[clues.virus_needs_paradox]
+title = { cs = "Virus v Muzeu Šedi", en = "X" }
+text = { cs = "Virus ovládl Muzeum dvanácti tisíc odstínů šedi i jeho kustoda. Zbavit se ho dá jen dobrým logickým paradoxem. Na přemýšlení virus doporučil Veřejnou toitoiku uprostřed vesmíru.", en = "X" }
+
+[clues.gift_for_official]
+title = { cs = "Extrémně nudný dárek", en = "X" }
+text = { cs = "Získali jste extrémně nudný dárek pro úředníka. Vyřízení vaší žádosti ve Vogonském archivu by mohlo být mnohem rychlejší.", en = "X" }
+
+[clues.nefron_rename]
+title = { cs = "Muzeum jedné šedi", en = "X" }
+text = { cs = "Virus nemusíte porážet. Stačí, když se Muzeum dvanácti tisíc odstínů šedi přejmenuje na Muzeum jedné šedi.", en = "X" }
+
+[clues.universe_complaint]
+title = { cs = "Žaloba na vesmír", en = "X" }
+text = { cs = "O schválení únosu nikdo nežádal. Hromotluk Reklamač Sedmý z Nespokojené mlhoviny ale hledá provozovatele vesmíru, aby na něj mohl podat žalobu. A má prý stížnost i na nějaký župan. Snad ne Arthurův?", en = "X" }
+
+[clues.bathrobe_lost]
+title = { cs = "Ztracený župan", en = "X" }
+text = { cs = "Hromotluk našel opuštěný župan se štítkem Majetek AD. Odnesl ho do Ztrát a nálezů, odkud se pak ztratil. Nejspíš bude ve Ztrátách a nálezech ze Ztrát a nálezů.", en = "X" }
+
+[clues.society_did_not_kidnap_arthur]
+title = { cs = "Společnost Arthura neunesla", en = "X" }
+text = { cs = "Společnost pro ochranu ohrožených druhů Arthura neunesla.", en = "X" }
+
+[clues.bathrobe_seen]
+title = { cs = "Pozemský župan", en = "X" }
+text = { cs = "Ředitel Společnosti dnes viděl pravý pozemský župan ve Ztrátách a nálezech.", en = "X" }
+
+[clues.snail_station]
+title = { cs = "Kde se odpovídá", en = "X" }
+text = { cs = "Kult unáší jen levé ponožky a občas cukrovou vatu. Pokud chcete odpovědi, velekněz vás posílá na Stanici v souhvězdí Pozpátku se pohybujícího šneka.", en = "X" }
+
+[clues.need_prism]
+title = { cs = "Jak mluvit s húlúvú", en = "X" }
+text = { cs = "K rozhovoru s húlúvú stačí podle Stopařova průvodce obyčejný hranol. Jeden prodávají v Hromadě šrotu.", en = "X" }
+
+[clues.lost_minute]
+title = { cs = "Ztracená minuta", en = "X" }
+text = { cs = "Ve chvíli Arthurova únosu zmizela z vesmíru jedna minuta, a s ní i odpověď, kdo ho unesl. Húlúvú radí hledat ji ve Ztrátách a nálezech.", en = "X" }
+
+[clues.heretics]
+title = { cs = "Kacíři", en = "X" }
+text = { cs = "Byli jste označeni za kacíře a vyhnáni z chrámu Kultu Velké Mýdlové Bubliny. Tudy pro vás cesta nepovede.", en = "X" }
+
+[clues.ask_oracle]
+title = { cs = "Zefyrův osud", en = "X" }
+text = { cs = "Zefyr Klakuflonk se nechce rozhodnout, jestli vám dá hranol. Zeptejte se Věštkyně úterků, jestli ho bude mít v úterý.", en = "X" }
+
+[clues.tuesday_prophecy]
+title = { cs = "Zefyrovo úterý", en = "X" }
+text = { cs = "Podle Věštkyně úterků bude mít Zefyr v úterý jen ručník, šortky a žabky. Jako vždycky.", en = "X" }
+
+[clues.jeep_hint]
+title = { cs = "Kandidát do sbírky", en = "X" }
+text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů hledá do sbírky nejhloupějších tvorů Galaxie exemplář. V modelingové agentuře Bublicon Valley je lokální model, který by tam mohl patřit.", en = "X" }
+
+[clues.bathrobe_lost_twice]
+title = { cs = "Ztráty a nálezy ze Ztrát a nálezů", en = "X" }
+text = { cs = "Arthurův župan se ztratil i ze Ztrát a nálezů. Teď bude ve Ztrátách a nálezech ze Ztrát a nálezů.", en = "X" }
+
+[clues.bathrobe_found]
+title = { cs = "Arthurův župan", en = "X" }
+text = { cs = "Našli jste Arthurův župan. Vraťte se do Srdce ze zlata.", en = "X" }
+
+# ---------------------------------------------------------------- locations
+
+# ---------------------------------- restaurant
+
+[locations.restaurant]
+code = "GCS6-XYZS"
+name = { cs = "Restaurant na konci velice dlouhé uličky", en = "X" }
+
+[locations.restaurant.scenes.arrival]
+image = "restaurant.svg"
+alt = { cs = "Restaurant na konci velice dlouhé uličky", en = "X" }
+text.cs = """
+Jak už název napovídá, Restaurant na konci velice dlouhé uličky leží na konci skutečně velmi dlouhé uličky.
+
+Proto tam také davy návštěvníků určitě nemíří – snad jen ti, kteří si hospodu spletou s Restaurantem na konci vesmíru.
+
+Takových je vlastně poměrně dost, a to navzdory skutečnosti, že na možnou záměnu upozorňuje výrazná cedule na začátku uličky.
+Té si však nikdy nikdo nevšimne, neboť splývá se záplavou podobně výrazných cedulí propagujících zdravotní benefity
+konzumace zelených fazolí nebo naopak lákajících návštěvníky do podniků pochybné kvality v okolí, ve kterých se žádné zelené fazole
+rozhodně nekonzumují.
+
+Jsou tu jen tři hosté a barman.
+"""
+text.en = "X"
+pick = "any"
+
+
+[[locations.restaurant.scenes.arrival.choices]]
+id = "barman"
+label = { cs = "Promluvit si s barmanem", en = "X" }
+to = "barman"
+
+[[locations.restaurant.scenes.arrival.choices]]
+id = "host1"
+label = { cs = "Promluvit si s hostem v rohu", en = "X" }
+to = "host1"
+
+[[locations.restaurant.scenes.arrival.choices]]
+id = "host2"
+label = { cs = "Promluvit si s hostem před barem", en = "X" }
+to = "host2"
+
+[[locations.restaurant.scenes.arrival.choices]]
+id = "host3"
+label = { cs = "Promluvit si s hostem v zadní části", en = "X" }
+to = "host3"
+
+[locations.restaurant.scenes.host1]
+image = "bar_grumbold.svg"
+alt = { cs = "Grumbold Pašt je vysloužilý doručovatel výpovědí.", en = "X" }
+text.cs = """
+V rohu restaurace sedí Grumbold Pašt, vysloužilý doručovatel výpovědí.
+
+Vysvětlíte mu, že pátráte po jistém pozemšťanovi, kterého někdo unesl.
+
+Grumbold se na vás trpce podívá: „Stalo se to ve vesmíru, že ano? A víte, kdo je ve vesmíru taky? Vogoni! Náhoda? Nemyslím si!“
+
+Pak vám vysvětlí, že pokud Arthura skutečně nařídili unést Vogoni, určitě mají k žádosti o povolení únosu někde založený nějaký formulář.
+Abyste se ale na formuláře mohli podívat, budete muset vyplnit žádost o přístup k žádostem. Zkuste Úřad.
+"""
+text.en = "X"
+give = { clues = ["vogons"] }
+next = "arrival"
+
+[locations.restaurant.scenes.host2]
+image = "bar_ilthenie.svg"
+alt = { cs = "Ilthenie Vrrbl-Ka je cestovatelka a amatérská etnografka.", en = "X" }
+text.cs = """
+Přímo před barem sedí Ilthenie Vrrbl-Ka, cestovatelka a amatérská etnografka.
+
+Vysvětlíte jí situaci ohledně únosu Arthura.
+
+„Pozemšťan! Opravdový? Je pravda, že mají jenom dvě oči a stačí jim to?“ začne okamžitě Ilthenie. Pak vzrušeně vypískne: „Počkejte, vy jste taky pozemšťané?!“
+
+„Já bych na ten váš únos tipovala Společnost pro ochranu ohrožených druhů. Oni sbírají všechno, co je vzácné. Mě taky jednou chytili, když jsem zrovna měla hroznou vyrážku. Mysleli si, že jsem nový podruh galaktického rakokopytníka. Hrůza.“
+
+Když se máte k odchodu, zavolá za vámi, zápisník v ruce: „Tak počkejte přece, já mám na vás strašně moc otázek!“
+"""
+text.en = "X"
+give = { clues = ["society"] }
+next = "arrival"
+
+[locations.restaurant.scenes.host3]
+image = "bar_svorc.svg"
+alt = { cs = "Odpadlík od Kultu Velké Mýdlové Bubliny, Bratr Švorc, ukazuje na své holé levé chodidlo.", en = "X" }
+text.cs = """
+V zadní části restaurace sedí Bratr Švorc, odpadlík od Kultu Velké Mýdlové Bubliny.
+To ‚Bratr‘ je jméno. A taky příjmení. A vlastně i titul. ‚Švorc‘ naopak vyjadřuje Bratrovy současné majetkové poměry.
+Přijde mu to tak důležité, že to píše s velkým Š.
+
+Zeptáte se ho, jestli náhodou neví něco o únosu Arthura.
+
+„Nevím, co jste už slyšeli, ale já bych tohle tipoval na práci Kultu Velké Mýdlové Bubliny. Když jsem od nich odcházel, unesli moji levou ponožku,“ ukáže Bratr na své levé chodidlo, kde nápadně chybí ponožka.
+
+„Zkuste navštívit některý z chrámů Kultu, třeba na planetě Bubliblaxie.“
+"""
+text.en = "X"
+give = { clues = ["cult"] }
+set = ["cult_allow_help"]
+next = "arrival"
+
+[locations.restaurant.scenes.barman]
+image = "bar_ottokar.svg"
+alt = { cs = "Za barem stojí čtyřruký barman Ottokar Zvrnk s knírem na každé ze svých dvou hlav.", en = "X" }
+text.cs = """
+Za barem stojí čtyřruký barman s knírem na každé ze svých dvou hlav. Ottokar Zvrnk.
+
+„Vítejte v Restauraci na konci velice dlouhé uličky. Ano, uličky. Ne vesmíru. Uličky. Čtěte ceduli.“
+
+Vyzve vás, abyste se usadili na barové stoličky.
+
+„Co si dáte? Nemám tady ten slavný megacloumák, který se všem tak líbí. Mám něco lepšího. Hvězdný Zakašlák. Nejlepší drink ve vesmíru. Nebo aspoň v této uličce, což je statisticky podobné.“
+
+Popíšete všechno, co víte ohledně únosu Arthura.
+
+„Ach tak. Tak s tím vám bohužel nepomohou. Tohle zavání problémy... Ale počkejte...“
+
+Nakloní se k vám a změří si vás pohledem. Teda, pohledy.
+
+„Vy vypadáte jako stopaři. Je to tak?“
+"""
+text.en = "X"
+pick = "one"
+
+[[locations.restaurant.scenes.barman.choices]]
+id = "barman_yes"
+label = { cs = "Ano, jsme stopaři", en = "X" }
+to = "barman_yes"
+
+[[locations.restaurant.scenes.barman.choices]]
+id = "barman_no"
+label = { cs = "Ne, rozhodně nejsme stopaři", en = "X" }
+to = "barman_no"
+
+[locations.restaurant.scenes.barman_yes]
+image = "bar_ottokar.svg"
+alt = { cs = "Za barem stojí čtyřruký barman Ottokar Zvrnk s knírem na každé ze svých dvou hlav.", en = "X" }
+text.cs = """
+„Ááá, výborně. Stopaře já mám moc rád. Však jsem taky kdysi stopoval. No, dopadlo to tak, že jsem dostopoval sem. A odsud se už dál stopovat nedá.
+Pokud se ale někdy z uličky dostanete, tak navštivte moji známou Lavinii. Má takový malý krámek na... počkejte tady to mám... Lomařská 111, Lull-na-Lulle, planeta Lollilil, Lalalská soustava.“
+
+Podá vám papírek s adresou.
+
+„Dá vám dobrou cenu, miluje dobrodružné stopařské historky. Akorát pozor na jednu věc. Nesnáší písmeno L.“
+"""
+text.en = "X"
+give = { clues = ["junk_shop"], items = { junk_shop_address = 1 } }
+next = "arrival"
+
+[locations.restaurant.scenes.barman_no]
+image = "bar_ottokar.svg"
+alt = { cs = "Za barem stojí čtyřruký barman Ottokar Zvrnk s knírem na každé ze svých dvou hlav.", en = "X" }
+text.cs = """
+„Aha, tak to se omlouvám. Mně jste připadali nějací divní, tak jsem myslel... No, nevadí, asi jste prostě takoví od přírody. To se stává, není potřeba se kvůli tomu cítit špatně.“
+"""
+text.en = "X"
+next = "arrival"
+
+# ---------------------------------- junk shop
+
+[locations.junk_shop]
+code = "FBQR-PRHR"
+name = { cs = "Vetešnictví na planetě Lollilil", en = "X" }
+
+
+[locations.junk_shop.scenes.arrival]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+Vetešnice je malá, kulatá, s chapadly místo vlasů.
+
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.junk_shop.scenes.arrival.paragraphs]]
+when = { without_flags = ["angered_junk_shop_owner"] }
+text.cs = """
+„Dobrý den,“ pozdraví vás. „Jsem Avinie Uu Oineová.“ Podle tónu, jakým to říká, je jasné, že kdo se zeptá, co tam chybí, odejde bez nákupu.
+
+„Otevřeno máme od úterý do soboty. Ty zbývající dva dny mají skutečně hrozná jména. Přejete si?“
+"""
+text.en = "X"
+
+[[locations.junk_shop.scenes.arrival.paragraphs]]
+when = { flags = ["angered_junk_shop_owner"] }
+text.cs = """
+„To jste vy?“ řekne, jakmile si vás všimne. „S vámi se nebavím. Vy říkáte to hrozné písmeno!“
+"""
+text.en = "X"
+
+[[locations.junk_shop.scenes.arrival.choices]]
+id = "greeting_generic"
+label = { cs = "Chtěli bychom si něco koupit", en = "X" }
+to = "item_selection_locked"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+[[locations.junk_shop.scenes.arrival.choices]]
+id = "leave"
+label = { cs = "Asi nic", en = "X" }
+
+[[locations.junk_shop.scenes.arrival.choices]]
+id = "greeting_barman"
+label = { cs = "Pozdravuje vás barman Ottokar", en = "X" }
+to = "item_selection"
+when = { items = { junk_shop_address = 1 }, without_flags = [
+    "angered_junk_shop_owner",
+] }
+
+[locations.junk_shop.scenes.item_selection_locked]
+image = "vetesnictvi_angry.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů a teď dost naštvaná. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Cože? Co to říkáte?“ zhrozí se vetešnice.
+"""
+text.en = "X"
+pick = "one"
+
+[[locations.junk_shop.scenes.item_selection_locked.choices]]
+id = "greeting_repeated"
+label = { cs = "CHTĚLI BYCHOM NĚCO KOUPIT!", en = "X" }
+to = "kicked_out"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+[[locations.junk_shop.scenes.item_selection_locked.choices]]
+id = "greeting_corrected"
+label = { cs = "Ehm... Chceme si něco koupit", en = "X" }
+to = "item_selection_locked2"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+[locations.junk_shop.scenes.item_selection_locked2]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„No dobře. Už se strachuji, že vy říkáte to písmeno. Všechno prodávám za dvacet kreditů.“
+
+Bohužel nemáte žádné kredity.
+"""
+text.en = "X"
+
+[locations.junk_shop.scenes.kicked_out]
+image = "vetesnictvi_angry.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů a teď dost naštvaná. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Vy to říkáte zase! VEN!“ zapiští na vás vetešnice.
+
+Raději se klidíte z obchodu.
+"""
+text.en = "X"
+set = ["angered_junk_shop_owner"]
+
+
+[locations.junk_shop.scenes.item_selection]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Ach to je krása! Drahoušek Ottokar mě pozdravuje,“ rozplývá se vetešnice. „Toho já nevidět roky!“
+
+„Jsme stopaři, pokud vás to zajímá,“ řeknete.
+
+Vetešnice nadšením málem omdlí. Nějakou chvíli jí vyprávíte dobrodružné a určitě zcela skutečné stopařské příběhy. Dáváte pozor, abyste nikdy nepoužili písmeno L.
+
+Pak vám vetešnice nabídne předmět zdarma.
+"""
+text.en = "X"
+pick = "one"
+
+
+[[locations.junk_shop.scenes.item_selection.choices]]
+id = "fork"
+label = { cs = "Diamantová dezintegrační vidička Excesior", en = "X" }
+to = "fork_selected"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+[[locations.junk_shop.scenes.item_selection.choices]]
+id = "screwdriver"
+label = { cs = "Zatý kvantový šroubovák Absoutum", en = "X" }
+to = "screwdriver_selected"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+[[locations.junk_shop.scenes.item_selection.choices]]
+id = "towel"
+label = { cs = "Ručník", en = "X" }
+to = "towel_selected"
+when = { without_flags = ["angered_junk_shop_owner"] }
+
+
+[locations.junk_shop.scenes.fork_selected]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Tak dobře, vidička je vaše,“ pokrčí rameny vetešnice. „Většina stopařů si vezme ručník.“
+"""
+text.en = "X"
+give = { items = { diamond_fork = 1 } }
+
+[locations.junk_shop.scenes.screwdriver_selected]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Tak dobře, šroubovák je váš,“ pokrčí rameny vetešnice. „Většina stopařů si vezme ručník.“
+"""
+text.en = "X"
+give = { items = { quantum_screwdriver = 1 } }
+
+[locations.junk_shop.scenes.towel_selected]
+image = "vetesnictvi.svg"
+alt = { cs = "Vetešnice je malá, kulatá, s chapadly místo vlasů. Na regálech za sebou má spoustu předmětů. Přímo za ní je zarámovaný ručník.", en = "X" }
+text.cs = """
+„Výborný výběr,“ zapiští vetešnice. „Je vidět, že jste skutečně správní stopaři!“
+"""
+text.en = "X"
+give = { items = { towel = 1 } }
+
+# ---------------------------------- form office
+
+[locations.form_office]
+code = "VJ8U-WC78"
+name = { cs = "Úřad pro vydávání žádostí o přístup k žádostem", en = "X" }
+
+[locations.form_office.scenes.arrival]
+image = "urad_budova.svg"
+alt = { cs = "Úřad je šedá budova ve tvaru šanonu.", en = "X" }
+text.cs = """
+Úřad pro vydávání žádostí o přístup k žádostem je šedá budova ve tvaru šanonu. Nad vchodem visí otevírací doba:
+
+Po–Pá 9:00–9:04, kromě dnů, jejichž název končí na -ek.
+V ostatní dny dle rozpisu na centrálním plánovacím úřadě, oddělení otevíracích dob.
+Sudé středy 9:01–9:03, liché středy po předchozí žádosti.
+V přestupném roce otevíráme o minutu později a zavíráme o dvě minuty dříve.
+Polední pauza 9:02–13:59.
+"""
+text.en = "X"
+requires = { clues = ["vogons"] }
+waiting = { cs = "Je zavřeno.", en = "X" }
+next = "open"
+
+[locations.form_office.scenes.open]
+image = "urad_prepazka.svg"
+alt = { cs = "Vogon za přepážkou a prázdná čekárna.", en = "X" }
+text.cs = """
+Je otevřeno. Máte štěstí.
+
+Vogon za přepážkou ani nevzhlédne.
+
+„Účel návštěvy?“
+
+Vysvětlíte, že hledáte záznam o žádosti o únos jistého pozemšťana. Vogon po hodině vyplní tlustý formulář a podepíše ho.
+
+„Chybí razítko terénního referenta Lejstrbacha. Je na inspekci. Podle rozpisu měl být zpátky před šesti týdny.“
+"""
+text.en = "X"
+
+[[locations.form_office.scenes.open.choices]]
+id = "where"
+label = { cs = "Na inspekci kde?", en = "X" }
+to = "where"
+
+[locations.form_office.scenes.where]
+image = "urad_prepazka.svg"
+alt = { cs = "Vogon za přepážkou a prázdná čekárna.", en = "X" }
+text.cs = """
+Vogon zalistuje v šanonu. „Na Traalu. Nebo na Bublibragisu. Rozpis uvádí obojí. Za chybu v rozpisu odpovídá oddělení rozpisů. To má zavřeno.“
+
+Podá vám formulář. „Další!“
+
+V čekárně nikdo není. Všichni už to vzdali.
+"""
+text.en = "X"
+give = { items = { form_67b_unsigned = 1 }, clues = ["lejstrbach_inspection"] }
+set = ["traal_lead"]
+
+
+# ---------------------------------- society office
+
+[locations.society_office]
+code = "E6SG-WK94"
+name = { cs = "Hlavní kancelář Společnosti pro ochranu ohrožených druhů", en = "X" }
+
+[locations.society_office.scenes.arrival]
+image = "recepce.svg"
+alt = { cs = "Hlavní kancelář Společnosti pro ochranu ohrožených druhů je plná vycpaných zvířat.", en = "X" }
+text.cs = """
+Hlavní kancelář Společnosti pro ochranu ohrožených druhů je plná vycpaných zvířat, která tu kdysi pracovala.
+Recepční se na vás profesionálně usmívá. Je vám to vlastně trochu nepříjemné.
+"""
+text.en = "X"
+requires = { clues = ["society"] }
+waiting = { cs = "Nemáte tu co dělat. Recepční se usmívá dál, dokud neodejdete. Pak se usmívá ještě chvíli, pro jistotu.", en = "X" }
+next = "ask"
+
+[locations.society_office.scenes.ask]
+image = "recepce.svg"
+alt = { cs = "Hlavní kancelář Společnosti pro ochranu ohrožených druhů je plná vycpaných zvířat.", en = "X" }
+text.cs = """
+Začnete vyzvídat informace o Arthurovi. Úsměv recepční okamžitě zmizí.
+
+„O tom nemluvíme.“
+"""
+text.en = "X"
+pick = "one"
+
+[[locations.society_office.scenes.ask.choices]]
+id = "push"
+label = { cs = "Naléháme více", en = "X" }
+to = "push"
+
+[[locations.society_office.scenes.ask.choices]]
+id = "let_it_go"
+label = { cs = "Necháme to být", en = "X" }
+to = "let_it_go"
+
+[locations.society_office.scenes.push]
+image = "nastenka.svg"
+alt = { cs = "Nástěnka s plánem výpravy za nejhloupějšími tvory Galaxie.", en = "X" }
+text.cs = """
+Naléháte. Recepční zbledne, pak se zlomí.
+
+„Já nic nevím! O tom pozemšťanovi ví jen pan ředitel. A ten je na výpravě. Sbírá nejhloupější tvory Galaxie.
+Kde je teď, netuším, ozývá se jen pohlednicemi.“
+
+Na nástěnce za ní visí plán výpravy:
+
+Pozemšťan, Země. Akvizice zrušena. Exemplář nedostupný.
+
+Kámen, který si myslí, že není kámen, Bublanina.
+
+Jediná hloupá habešská kočka, Magrathea (ta druhá).
+
+Žravá blátotlačka, Traal. Poslední svého druhu.
+
+Recepční si všimne, kam se díváte, a nástěnku se neobyčejně neúspěšně pokusí zakrýt květináčem. Ze zdi za ní se ozve tiché škrábání.
+
+„Myši,“ řekne. „O těch nemluvíme vůbec.“
+"""
+text.en = "X"
+give = { clues = ["dumb_creatures_expedition"] }
+set = ["traal_lead", "bublanina_lead"]
+
+[locations.society_office.scenes.let_it_go]
+image = "recepce.svg"
+alt = { cs = "Hlavní kancelář Společnosti pro ochranu ohrožených druhů je plná vycpaných zvířat.", en = "X" }
+text.cs = """
+Nenaléháte. Recepční si oddechne, vstane a zdvořile vás doprovodí ke dveřím.
+
+„Děkujeme za návštěvu. Mimochodem, sbíráme nejhloupější tvory Galaxie. Nechcete nám nechat kontakt?“
+"""
+text.en = "X"
+
+# ---------------------------------- cult temple
+
+[locations.cult_temple]
+code = "6TLG-RPTN"
+name = { cs = "Chrám Kultu Velké Mýdlové Bubliny", en = "X" }
+
+[locations.cult_temple.scenes.arrival]
+text.cs = """
+Přiblížíte se k chrámu Kultu Velké Mýdlové Bubliny. Zvoník na věži právě svolává věřící k obřadu. Zvonit se ovšem nesmí,
+mohlo by to vesmír rozvibrovat, takže se jen naklání přes zábradlí a šeptá „bim bam“.
+
+Strážce v kápi vám zastoupí cestu a natáhne ruku.
+
+„Bublifuk? Svěcené mýdlo?“
+"""
+text.en = "X"
+image = "chram_prichod.svg"
+alt = { cs = "Chrám Kultu Velké Mýdlové Bubliny. Cestu vám ale zastoupil strážce v kápi.", en = "X" }
+pick = "any"
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = ["bubble_blower", "holy_soap", "towel"] }
+text.cs = """
+Prohrabete zavazadla a nenajdete ani jeden z požadovaných předmětů. A dokonce ani ručník, což je snad ještě horší.
+
+Strážce si povzdechne. „Bez nich dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = ["bubble_blower", "towel"], items = { holy_soap = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete pouze svěcené mýdlo.
+
+Strážce si povzdechne. „Bez bublifuku dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = ["holy_soap", "towel"], items = { bubble_blower = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete pouze bublifuk.
+
+Strážce si povzdechne. „Bez svěceného mýdla dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = [
+    "bubble_blower",
+], items = { holy_soap = 1, towel = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete pouze svěcené mýdlo a ručník. Vypadá to, jako byste se sem jeli sprchovat.
+
+Strážce si povzdechne. „Bez bublifuku dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = [
+    "holy_soap",
+], items = { bubble_blower = 1, towel = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete pouze bublifuk a ručník.
+
+Strážce si povzdechne. „Bez svěceného mýdla dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { without_items = ["bubble_blower", "holy_soap"], items = { towel = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete jen ručník.
+
+Strážce si povzdechne. „Bez nich dovnitř nesmíte. Vesmír by mohl prasknout.“
+"""
+text.en = "X"
+
+
+[[locations.cult_temple.scenes.arrival.paragraphs]]
+when = { items = { bubble_blower = 1, holy_soap = 1 } }
+text.cs = """
+Prohrabete zavazadla a vytáhnete bublifuk i svěcené mýdlo.
+
+Strážce odstoupí stranou.
+"""
+text.en = "X"
+
+[[locations.cult_temple.scenes.arrival.choices]]
+id = "go_inside"
+label = { cs = "Vstoupíme dovnitř", en = "X" }
+to = "inside"
+when = { items = { bubble_blower = 1, holy_soap = 1 } }
+
+[[locations.cult_temple.scenes.arrival.choices]]
+id = "help"
+label = { cs = "A kde to máme sehnat?", en = "X" }
+to = "help"
+when = { flags = [
+    "cult_allow_help",
+], without_items = [
+    "bubble_blower",
+    "holy_soap",
+] }
+
+
+[locations.cult_temple.scenes.help]
+text.cs = """
+„To byste snad měli vědět vy jakožto věřící!“
+
+Pak se mu vás zželí.
+
+„Není to tak těžké. Zkuste navštívit planety, jejichž název má něco společného s názvem této. Pokud chcete slevu, použijte heslo BUBLIBUX100PROCENT.
+Dobře si ho zapamatujte. Mám z toho provizi a kredity teď docela potřebuji. Však víte, doba je zlá.“
+"""
+text.en = "X"
+image = "chram_prichod.svg"
+alt = { cs = "Chrám Kultu Velké Mýdlové Bubliny. Cestu vám ale zastoupil strážce v kápi.", en = "X" }
+give = { clues = ["cult_password"] }
+set = ["bublanina_lead"]
+
+[locations.cult_temple.scenes.inside]
+text.cs = """
+Uvnitř chrámu je vlhko a ticho a po stěnách se přelévají duhové odlesky. Mluví se jen šeptem, aby žádná bublina nepraskla.
+
+Kult věří, že vesmír je bublina, kterou fouká obrovské dítě, a drží ji pohromadě jen to, co nikdo nedokáže vysvětlit.
+Kdyby se vysvětlilo všechno, vesmír praskne.
+
+Pro jistotu tu proto visí stovky levých ponožek. Nikdo neví, kde jsou ty pravé, a kult se stará, aby to tak zůstalo.
+
+Velekněz vás přivítá úklonou.
+"""
+text.en = "X"
+image = "chram_uvnitr.svg"
+alt = { cs = "Uvnitř chrámu Kultu Velké Mýdlové Bubliny. Před vámi klanící se velekněz.", en = "X" }
+pick = "one"
+
+[[locations.cult_temple.scenes.inside.choices]]
+id = "ask_earthling"
+label = { cs = "Zeptat se na Arthura", en = "X" }
+to = "earthling"
+give = { clues = ["snail_station"] }
+
+
+[[locations.cult_temple.scenes.inside.choices]]
+id = "heresy"
+label = { cs = "Zeptat se, jak ví, že jsou to levé ponožky", en = "X" }
+to = "warning"
+
+[locations.cult_temple.scenes.earthling]
+text.cs = """
+„Jestli jsme unesli nějakého pozemšťana?“ Velekněz se zatváří uraženě. „My unášíme výhradně levé ponožky.
+Kvůli pravým jsme před dvěma sty lety prošli schizmatem a dodnes se o tom u večeře nemluví.“
+
+Odmlčí se. „A občas uneseme i nějakou cukrovou vatu. Ale to je spíš osobní.“
+
+Kousek od vás praskne bublina. Celý chrám ztuhne.
+
+„Vidíte?“ zasyčí velekněz. „Člověk se nevinně zeptá, a než se naděje, hrozí mu, že něco pochopí.
+Jestli odpovědi nutně potřebujete, leťte na Stanici v souhvězdí Pozpátku se pohybujícího šneka.
+Tam vám odpoví i na to, na co jste se neptali.“
+"""
+text.en = "X"
+image = "chram_uvnitr.svg"
+alt = { cs = "Uvnitř chrámu Kultu Velké Mýdlové Bubliny. Před vámi klanící se velekněz.", en = "X" }
+
+
+[locations.cult_temple.scenes.warning]
+text.cs = """
+Velekněz ztuhne. Kolem vás praskne několik bublin najednou.
+
+„Nechtěli byste si tu otázku raději ještě promyslet?“ zeptá se velmi tiše.
+"""
+text.en = "X"
+image = "chram_varovani.svg"
+alt = { cs = "Uvnitř chrámu Kultu Velké Mýdlové Bubliny. Velekněz je očividně popuzen.", en = "X" }
+pick = "one"
+
+[[locations.cult_temple.scenes.warning.choices]]
+id = "ask_earthling"
+label = { cs = "Raději se zeptat na Arthura", en = "X" }
+to = "earthling"
+give = { clues = ["snail_station"] }
+
+[[locations.cult_temple.scenes.warning.choices]]
+id = "insist"
+label = { cs = "Trvat na otázce", en = "X" }
+to = "heresy"
+
+
+[locations.cult_temple.scenes.heresy]
+text.cs = """
+Zeptáte se znovu. Velekněz se zachvěje. Ponožky pod kopulí se zachvějí. Vy ne. Ale měli byste.
+
+„Kacířství!“ zasyčí. „Kdo se ptá, které ponožky jsou které, ten chce vědět, kde jsou ty druhé!“
+
+Dva nabušení mniši vás vyvedou ven a za vámi se nepochopitelně tiše zabouchnou dveře.
+"""
+text.en = "X"
+image = "chram_kacirstvi.svg"
+alt = { cs = "Uvnitř chrámu Kultu Velké Mýdlové Bubliny. Ne však na dlouho. Před vámi pár nabušených mnichů.", en = "X" }
+give = { clues = ["heretics"] }
+
+# ---------------------------------- planet bublibragis
+
+[locations.planet_bublibragis]
+code = "YWUF-8E4V"
+name = { cs = "Planeta Bublibragis", en = "X" }
+
+[locations.planet_bublibragis.scenes.arrival]
+image = "bublibragis.svg"
+alt = { cs = "Planeta Bublibragis. Spousta bublin. Ostré předměty zakázány.", en = "X" }
+text.cs = """
+Bublibragis je planeta, kde se vyrábí 98,34 % všech bublin v Galaxii.
+Ostré předměty jsou na planetě přísně zakázané, stejně jako ostré poznámky.
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.planet_bublibragis.scenes.arrival.choices]]
+id = "bubble_blower"
+label = { cs = "Podíváme se po nějakém bublifuku", en = "X" }
+to = "bubble_blower"
+when = { clues = ["cult_password"] }
+
+[[locations.planet_bublibragis.scenes.arrival.choices]]
+id = "lejstrbach"
+label = { cs = "Pátrát po referentu Lejstrbachovi", en = "X" }
+to = "lejstrbach"
+when = { clues = ["lejstrbach_inspection"] }
+
+[locations.planet_bublibragis.scenes.bubble_blower]
+image = "bublibragis_obchod.svg"
+alt = { cs = "Obchod U Věčné bubliny. Za pultem prodavač. Za ním bublifuky", en = "X" }
+text.cs = """
+Obchod U Věčné bubliny nabízí čtyřicet tisíc druhů bublifuku seřazených podle křehkosti bublin. Prodavač mluví šeptem, aby nic neprasklo,
+a podává vám bublifuk tak opatrně, jako by v něm spala malá, ale velmi náladová sopka.
+
+„Posvátná edice. Jedenáct a půl kreditu.“
+
+Nemáte žádné kredity. Prodavač čeká. Pak čeká ještě chvíli, protože na Bublibragisu se nikdo nesmí pobízet příliš ostře.
+
+„Slevový kód?“ zašeptá nakonec.
+"""
+text.en = "X"
+
+[locations.planet_bublibragis.scenes.bubble_blower.password]
+answers = [
+    "BUBLIBUX100PROCENT",
+    "BUBLIBUX100PROCENT ",
+    "bublibux100procent",
+    "bublibux100procent ",
+]
+prompt = { cs = "Slevový kód", en = "X" }
+hint = { cs = "Slevový kód od strážce chrámu.", en = "X" }
+wrong = { cs = "„Toto naštěstí není platný slevový kód,“ řekne prodavač.", en = "X" }
+to = "bubble_blower_bought"
+
+[locations.planet_bublibragis.scenes.bubble_blower_bought]
+image = "bublibragis_obchod.svg"
+alt = { cs = "Obchod U Věčné bubliny. Za pultem prodavač. Za ním bublifuky", en = "X" }
+text.cs = """
+Naťukáte slevový kód. Pokladna se dlouze zamyslí, vyfoukne bublinu s nápisem „0,00“ a ta praskne. Prodavač si povzdechne.
+
+„Stoprocentní sleva byl takový malý, jednodenní marketingový nápad,“ posteskne si nakonec. „Před osmi lety. Jenže systém tyhle kódy neumí zrušit, protože formulář na rušení slev vyžaduje slevu na formulář...
+Ne, já tomu taky nerozumím.“
+"""
+text.en = "X"
+give = { items = { bubble_blower = 1 } }
+
+[locations.planet_bublibragis.scenes.lejstrbach]
+image = "bublibragis_hospoda.svg"
+alt = { cs = "V hospodě U Prasklé Bubliny. U stolu sedí starý pilot.", en = "X" }
+text.cs = """
+V hospodě U Prasklé bubliny se vyptáváte na referenta Lejstrbacha. Starý pilot s ohořelým knírem odloží sklenici.
+
+„Vogon s šanonem? Byl tu. Chtěl ode mě potvrzení, že moje bubliny mají předpisový průměr. Pak odletěl na Traal zkontrolovat tamní obludu.“
+
+Nakloní se k vám. „Jestli za ním letíte, poslouchejte. Ručník přes hlavu funguje. Ale stačí i zavřít oči. Vážně. Já tam tak přežil čtyři roky.“
+
+Ukáže na své přivřené oči. „Teda, pořád to dělám. Pro jistotu.“
+
+Pak se nahne, aby se napil, a mine sklenici o půl metru.
+"""
+text.en = "X"
+give = { clues = ["det_racker_att_blunda"] }
+
+
+# ---------------------------------- planet traal
+
+[locations.planet_traal]
+code = "X2YD-6PCA"
+name = { cs = "Planeta Traal", en = "X" }
+
+[locations.planet_traal.scenes.arrival]
+image = "zrava_blatotlacka.svg"
+alt = { cs = "Žravá blátotlačka z Traalu", en = "X" }
+text.cs = """
+Přistanete u jeskyně v traalských bažinách. Před vchodem leží v blátě napůl vyplněný formulář a zničené razítko.
+Zevnitř jako by se ozvalo tlumené „Další!“. No, i když, možná to byl jen nějaký obzvlášť byrokratický poryv větru.
+
+Pak se zpoza skály vynoří Žravá blátotlačka: hora zubů, slizu a oslnivé hlouposti. Zavětří vaším směrem a olízne se.
+"""
+text.en = "X"
+pick = "one"
+allow_lockout = true
+
+[[locations.planet_traal.scenes.arrival.paragraphs]]
+when = { without_items = [
+    "towel",
+    "official_document",
+], without_clues = [
+    "det_racker_att_blunda",
+] }
+text = { cs = "Utíkejte!", en = "X" }
+
+[[locations.planet_traal.scenes.arrival.choices]]
+id = "towel"
+label = { cs = "Omotat si hlavu ručníkem", en = "X" }
+when = { items = { towel = 1 } }
+to = "monster_towel"
+
+[[locations.planet_traal.scenes.arrival.choices]]
+id = "document"
+label = { cs = "Ukázat úřední dokument", en = "X" }
+when = { items = { official_document = 1 } }
+to = "monster_document"
+
+[[locations.planet_traal.scenes.arrival.choices]]
+id = "eyes"
+label = { cs = "Zavřít oči", en = "X" }
+when = { clues = ["det_racker_att_blunda"] }
+to = "monster_eyes"
+
+[locations.planet_traal.scenes.monster_towel]
+image = "zrava_blatotlacka.svg"
+alt = { cs = "Žravá blátotlačka z Traalu", en = "X" }
+text.cs = """
+Přehodíte si ručník přes hlavu. Chvíli je ticho. Pak se ozve zmatené mlasknutí a těžké kroky se vzdálí.
+
+Když ručník sundáte, blátotlačka sedí opodál a nešťastně čenichá do vzduchu.
+Je tak hloupá, že si myslí, že když ji nevidíte vy, nevidí ani ona vás. A co nevidí, to podle ní neexistuje.
+
+Cesta do jeskyně je volná.
+"""
+text.en = "X"
+next = "monster_resolution"
+
+[locations.planet_traal.scenes.monster_eyes]
+image = "zrava_blatotlacka.svg"
+alt = { cs = "Žravá blátotlačka z Traalu", en = "X" }
+text.cs = """
+Zavřete oči. Slyšíte funění, mlaskání a velmi blízko i čenichání. Pak zklamané zamručení a kroky, které se vzdalují.
+
+Blátotlačka si myslí, že když ji nevidíte vy, nevidí ani ona vás. Na co ručník, když máte víčka?
+
+Cesta do jeskyně je volná.
+"""
+text.en = "X"
+next = "monster_resolution"
+
+[locations.planet_traal.scenes.monster_document]
+image = "zrava_blatotlacka.svg"
+alt = { cs = "Žravá blátotlačka z Traalu", en = "X" }
+text.cs = """
+Vytáhnete z kapsy ‚Osvědčení o identitě kamene‘ a strčíte ho obludě pod nos. Tedy tam, kde si myslíte, že by třeba možná mohla mít nos.
+Razítko na dokumentu se zaleskne.
+
+Blátotlačka ztuhne. Číst neumí, ale razítko pozná. A z razítek má hrůzu. Ví, že kde je razítko, tam je úředník,
+a kde je úředník, tam brzy budou kontroly, pokuty a výkazy. Couvne, zakňučí a schová se za skálu.
+
+Cesta do jeskyně je volná.
+"""
+text.en = "X"
+next = "monster_resolution"
+
+[locations.planet_traal.scenes.monster_resolution]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+V jeskyni je útulno: krb, dvě křesla, váza s bahenními kytkami. Vogon v pyžamu vyplňuje výkaz.
+
+„Proč moje drahá pláče za skálou?“
+
+Lejstrbach sem přijel na inspekci, blátotlačka mu chtěla ukousnout hlavu a on jí za to udělil pokutu.
+Pak se do sebe zamilovali. Vlastně se to dalo čekat. Klasický motiv ‚enemies to lovers‘.
+
+Blátotlačka se vplíží dovnitř a schoulí se mu k nohám. Teda, schoulí je silné – vlastně slabé – slovo.
+Zaplní celou jeskyni a Lejstrbach zmizí někde pod jejím zubem. Nevadí mu to.
+"""
+text.en = "X"
+allow_lockout = true
+requires = { flags = ["traal_lead"] }
+waiting = { cs = "Vogon si vás chvíli prohlíží. „Nemáte formulář, nemáte důvod. A bez důvodu se tu nepovídá.“ Pak se vrátí k výkazu. Zdá se, že tu zatím nemáte co dělat.", en = "X" }
+
+[[locations.planet_traal.scenes.monster_resolution.paragraphs]]
+when = { clues = ["dumb_creatures_expedition"] }
+text.cs = """
+Lejstrbach si vás podezíravě změří a sáhne po razítku jako po zbrani.
+„Jestli jste od té Společnosti, tak vám rovnou říkám, že moje snoubenka není na prodej.“
+"""
+text.en = "X"
+
+[[locations.planet_traal.scenes.monster_resolution.choices]]
+id = "stamp"
+label = { cs = "Podat formulář k orazítkování", en = "X" }
+when = { items = { form_67b_unsigned = 1 } }
+take = { form_67b_unsigned = 1 }
+give = { items = { form_67b_signed = 1 }, clues = ["boring_official"] }
+to = "stamp"
+
+[[locations.planet_traal.scenes.monster_resolution.choices]]
+id = "director"
+label = { cs = "Nebyl tu ředitel Společnosti?", en = "X" }
+when = { clues = ["dumb_creatures_expedition"] }
+to = "director"
+
+[[locations.planet_traal.scenes.monster_resolution.choices]]
+id = "ask_form"
+label = { cs = "Jak se dá zjistit, kdo žádal o únos?", en = "X" }
+when = { clues = [
+    "dumb_creatures_expedition",
+], without_items = [
+    "form_67b_unsigned",
+    "form_67b_signed",
+] }
+to = "give_form"
+
+[locations.planet_traal.scenes.stamp]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+Lejstrbach vám orazítkuje formulář.
+
+„S ním budete na úřadě čekat roky. Ledaže kolegovi přinesete dárek. Má rád věci nevýslovně nudné.
+Zkuste třeba Muzeum dvanácti tisíc odstínů šedi.“
+
+„No a pokud jde o únos... Neměl bych vám to říkat, ale před několika týdny jsem razítkoval povolení
+k převozu živého nákladu: jeden kus Homo sapiens — křehké, nepřeklápět.“
+"""
+text.en = "X"
+
+[[locations.planet_traal.scenes.stamp.choices]]
+id = "who"
+label = { cs = "Kdo o něj žádal?", en = "X" }
+to = "who"
+
+[locations.planet_traal.scenes.who]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+„Žádala o něj Společnost pro ochranu ohrožených druhů. Chtěli převézt náklad na Překladiště Mezitím.“
+
+Pak se nakloní k obludě. „Neboj, už odcházejí.“
+"""
+text.en = "X"
+give = { clues = ["cargo_station"] }
+pick = "any"
+
+[locations.planet_traal.scenes.director]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+„Ředitel? Takový s motýlí síťkou a klecí na kolečkách? Byl tu nedávno. Chtěl odchytit mou drahou.“
+
+Lejstrbach se zamračí. „Dostal pokutu za obtěžování chráněné snoubenky, pokutu za parkování klece v bažině
+a pokutu za výraz v obličeji. Pak odletěl na Překladiště Mezitím.“
+
+Zamyslí se. „Mimochodem, jeho Společnost si u mě před několika týdny nechala razítkovat povolení k převozu
+živého nákladu: jeden kus Homo sapiens — křehké, nepřeklápět. Taky na Překladiště Mezitím.“
+
+Pak se nakloní k obludě. „Neboj, už odcházejí.“
+"""
+text.en = "X"
+give = { clues = ["director_station"] }
+
+[locations.planet_traal.scenes.give_form]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+„My Vogoni zapisujeme všechno. No, já jsem takový divný Vogon. Každopádně,
+kdyby někdo žádal o schválení únosu, bude to v žádostech. A do žádostí se nahlíží žádostí, jestli chápete, jak to myslím.“
+
+Vytáhne ze šuplíku formulář. „Žádost o nahlédnutí do žádostí. Mám jich zásobu, předem orazítkovaných.
+Pro případ, že by se jednou něco stalo rychle. Ale v Galaxii se věci rychle nikdy nedějí.“
+
+„Úřady jsou obzvlášť pomalé. S tím formulářem budete na úřadě čekat roky.
+Ledaže kolegovi přinesete dárek. Má rád věci nevýslovně nudné.
+Pro inspiraci se podívejte třeba do Muzea šedi.“
+"""
+text.en = "X"
+give = { items = { form_67b_signed = 1 }, clues = ["boring_official"] }
+
+[[locations.planet_traal.scenes.who.choices]]
+id = "new_form"
+label = { cs = "Požádat o nový formulář", en = "X" }
+when = { flags = [
+    "director_met",
+], without_items = [
+    "form_67b_unsigned",
+    "form_67b_signed",
+], without_flags = [
+    "creature_delivered",
+] }
+give = { items = { form_67b_signed = 1 } }
+to = "new_form"
+
+[locations.planet_traal.scenes.new_form]
+image = "blatotlacka_lejstrbach.svg"
+alt = { cs = "Žravá blátotlačka z Traalu a Vogon v křesle", en = "X" }
+text.cs = """
+„Zase vy?“ Lejstrbach si povzdechne a otevře šuplík. „Mám jich zásobu, předem orazítkovaných.
+Říkal jsem si, že se jednou nějaký bude hodit.“
+
+Podá vám nový formulář. Blátotlačka za vámi zklamaně mlaskne.
+"""
+text.en = "X"
+
+# ---------------------------------- planet bublanina
+
+[locations.planet_bublanina]
+code = "5GUU-LHKQ"
+name = { cs = "Planeta Bublanina", en = "X" }
+
+[locations.planet_bublanina.scenes.arrival]
+text.cs = """
+Bublanina voní jako čerstvě upečený koláč. Chutná ale jako prach. Tuto informaci vám přinášíme na základě osobní zkušenosti, za kterou se hluboce stydíme.
+"""
+text.en = "X"
+pick = "any"
+
+
+[[locations.planet_bublanina.scenes.arrival.paragraphs]]
+when = { flags = ["bublanina_lead"] }
+text = { cs = "Na okraji pustiny se ve slunci leskne automat. Podle nápisu prodává svěcené mýdlo. Uprostřed pustiny leží kámen a kolem něj někdo rozčileně pobíhá a křičí.", en = "X" }
+
+[[locations.planet_bublanina.scenes.arrival.choices]]
+id = "look_around"
+label = { cs = "Rozhlédnout se", en = "X" }
+when = { without_flags = ["bublanina_lead"] }
+to = "nothing"
+
+[[locations.planet_bublanina.scenes.arrival.choices]]
+id = "go_automat"
+label = { cs = "Jít k automatu", en = "X" }
+when = { flags = ["bublanina_lead"] }
+to = "automat"
+
+[[locations.planet_bublanina.scenes.arrival.choices]]
+id = "go_stone"
+label = { cs = "Jít ke kameni", en = "X" }
+when = { flags = ["bublanina_lead"] }
+to = "stone"
+
+
+[locations.planet_bublanina.scenes.nothing]
+image = "bublanina_pustina.svg"
+alt = { cs = "Pustina, prach a jeden kámen.", en = "X" }
+text.cs = """
+Rozhlédnete se. Pustina, prach a jeden kámen. Kámen se na vás nedívá. Vy na něj taky ne.
+Na Bublanině zjevně nemáte co dělat.
+"""
+text.en = "X"
+
+
+[locations.planet_bublanina.scenes.automat]
+image = "bublanina_automat.svg"
+alt = { cs = "Pustina, prach a automat na svěcené mýdlo.", en = "X" }
+text.cs = """
+Na okraji pustiny stojí automat na svěcené mýdlo. Nikdo si nepamatuje, kdo ho sem postavil. Možná tady byl vždycky.
+
+Místní geologové se dodnes přou, jestli je to vyvřelina, nebo usazenina. Vyvřelináři poukazují na to,
+že je zespodu teplý. Usazenináři zase na to, že pod ním našli vrstvy starších automatů. Malá, ale hlučná
+frakce tvrdí, že automat je fosilie a že kdysi Bublaninu obývala celá stáda automatů, než vyhynula.
+
+Automat se ke sporu nevyjadřuje. Vydává mýdlo.
+"""
+text.en = "X"
+give = { clues = ["soap_automat"] }
+set = ["cult_allow_help"]
+pick = "any"
+
+
+[[locations.planet_bublanina.scenes.automat.paragraphs]]
+when = { without_clues = ["cult_password"] }
+text = { cs = "Na displeji bliká: SVĚCENÉ MÝDLO POUZE PRO VĚŘÍCÍ SE SLEVOVÝM KÓDEM. KULT VELKÉ MÝDLOVÉ BUBLINY, CHRÁM BUBLIBLAXIE.", en = "X" }
+
+
+[[locations.planet_bublanina.scenes.automat.paragraphs]]
+when = { items = { holy_soap = 1 } }
+text = { cs = "Mýdlo už máte.", en = "X" }
+
+
+[[locations.planet_bublanina.scenes.automat.choices]]
+id = "enter_code"
+label = { cs = "Zadat slevový kód", en = "X" }
+when = { clues = ["cult_password"], without_items = ["holy_soap"] }
+to = "automat_code"
+
+
+[[locations.planet_bublanina.scenes.automat.choices]]
+id = "back_from_automat"
+label = { cs = "Vrátit se do pustiny", en = "X" }
+to = "arrival"
+
+
+[locations.planet_bublanina.scenes.automat_code]
+image = "bublanina_automat.svg"
+alt = { cs = "Pustina, prach a automat na svěcené mýdlo.", en = "X" }
+text = { cs = "Automat zabliká a vysune klávesnici.", en = "X" }
+
+
+[locations.planet_bublanina.scenes.automat_code.password]
+answers = ["BUBLIBUX100PROCENT"]
+prompt = { cs = "Slevový kód", en = "X" }
+hint = { cs = "Slevový kód od strážce chrámu.", en = "X" }
+wrong = { cs = "Automat zabručí a nevydá nic.", en = "X" }
+give = { items = { holy_soap = 1 } }
+to = "soap_taken"
+
+[locations.planet_bublanina.scenes.soap_taken]
+image = "bublanina_automat.svg"
+alt = { cs = "Pustina, prach a automat na svěcené mýdlo.", en = "X" }
+text.cs = """
+Automat zabručí, otřese se a vydá mýdlo. Je teplé. Vyvřelináři by měli radost.
+"""
+text.en = "X"
+next = "arrival"
+
+
+[locations.planet_bublanina.scenes.stone]
+image = "bublanina_urednik.svg"
+alt = { cs = "Kámen uprostřed pustiny a úředník mávající osvědčením s obrovským razítkem.", en = "X" }
+text.cs = """
+Uprostřed pustiny leží kámen. Kolem něj pobíhá úředník a mává papírem s obrovským razítkem.
+
+„Osvědčení o identitě kamene! Úředně potvrzeno! Jste zkrátka obyčejný kámen, pane, a nic s tím nenaděláte!“
+
+Kámen mlčí. Mlčí ale tak výmluvně, že je naprosto jasné, co si o úředníkovi myslí. A že to není nic slušného.
+
+Úředník zrudne, hodí osvědčení na zem a odkráčí. Kámen se za ním vítězoslavně dívá. Tedy, nedívá. Je to kámen.
+On si to ovšem nemyslí.
+
+Na kameni je přilepená pohlednice.
+"""
+text.en = "X"
+pick = "any"
+
+
+[[locations.planet_bublanina.scenes.stone.paragraphs]]
+when = { without_items = ["official_document"] }
+text = { cs = "Osvědčení zůstalo ležet v prachu.", en = "X" }
+
+
+[[locations.planet_bublanina.scenes.stone.choices]]
+id = "read_postcard"
+label = { cs = "Přečíst pohlednici", en = "X" }
+give = { clues = ["director_not_on_bublanina", "dumb_creatures_expedition"] }
+set = ["traal_lead"]
+to = "postcard"
+
+
+[[locations.planet_bublanina.scenes.stone.choices]]
+id = "take_document"
+label = { cs = "Vzít si Osvědčení o identitě kamene", en = "X" }
+when = { without_items = ["official_document"] }
+give = { items = { official_document = 1 } }
+to = "taken"
+
+
+[[locations.planet_bublanina.scenes.stone.choices]]
+id = "back_from_stone"
+label = { cs = "Vrátit se do pustiny", en = "X" }
+to = "arrival"
+
+
+[locations.planet_bublanina.scenes.postcard]
+image = "bublanina_urednik.svg"
+alt = { cs = "Kámen uprostřed pustiny a úředník mávající osvědčením s obrovským razítkem.", en = "X" }
+text.cs = """
+„Pozdrav z Bublaniny! Kámen odmítl spolupracovat. Pokračuji podle plánu na Tu druhou Magratheu a pak na Traal. Počasí ucházející. — Ředitel Magistr Žvvluk“
+
+Pohlednice je adresovaná recepční Společnosti pro ochranu ohrožených druhů. Zjevně ji zapomněl odeslat.
+"""
+text.en = "X"
+next = "stone"
+
+[locations.planet_bublanina.scenes.taken]
+image = "bublanina_urednik.svg"
+alt = { cs = "Kámen uprostřed pustiny a úředník mávající osvědčením s obrovským razítkem.", en = "X" }
+text.cs = """
+Zvednete osvědčení a oprášíte ho. Kámen na vás vrhne pohled plný opovržení.
+Jak to dělá bez očí, netušíte. Vesmír je plný záhad.
+"""
+text.en = "X"
+next = "stone"
+
+# ---------------------------------- toitoi
+
+[locations.toitoi]
+code = "VSQL-3GHD"
+name = { cs = "Veřejná toitoika uprostřed vesmíru", en = "X" }
+
+[locations.toitoi.scenes.arrival]
+text.cs = """
+V místě, kde se kříží tři hyperprostorové dálnice, se vznáší modrá toitoika. Je to jediné veřejné WC
+v okruhu dvanácti parseků. Na dveřích svítí nápis OBSAZENO. Svítí tam odjakživa.
+
+Uvnitř totiž žije Nefron Urinox. Nikdo ho nikdy neviděl. Kdo chce toitoiku použít, musí s ním nejprve
+vést filosofickou disputaci. Což je dvojnásob zákeřné: nejenže vás to zdrží od vykonání potřeby, ale ještě při tom musíte přemýšlet. Brr.
+
+Zpoza dveří se ozve hluboký, lehce ozvěnou zastřený hlas. „Vítejte, poutníci. Posaďte se. Teda, ne sem.“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+pick = "any"
+
+[[locations.toitoi.scenes.arrival.choices]]
+id = "dispute"
+label = { cs = "Pustit se do disputace", en = "X" }
+to = "question"
+
+[[locations.toitoi.scenes.arrival.choices]]
+id = "virus"
+label = { cs = "Poradit se o viru", en = "X" }
+when = { clues = ["virus_needs_paradox"], without_clues = ["nefron_rename"] }
+to = "virus_intro"
+
+[locations.toitoi.scenes.question]
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+text.cs = """
+„Dnešní otázka zní: Co je zdrojem zla v člověku? Co činí člověka zlým?“
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.toitoi.scenes.question.choices]]
+id = "innate"
+label = { cs = "Zlo je člověku vrozené", en = "X" }
+to = "innate"
+
+[[locations.toitoi.scenes.question.choices]]
+id = "society"
+label = { cs = "Společnost vytváří zlo", en = "X" }
+to = "society"
+
+[[locations.toitoi.scenes.question.choices]]
+id = "monday"
+label = { cs = "Ehh... pondělí?", en = "X" }
+to = "monday"
+
+[locations.toitoi.scenes.innate]
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+text.cs = """
+„Ach, klasická pozice Grozzmara Vrozeného z Temné kolonie Bažichu.“
+
+„Grozzmar tvrdil, že každý tvor se rodí se zlem velikosti zhruba jednoho hrášku, uloženým pod levou lopatkou.
+Celý život se ho pokoušel najít. Rozpitval kvůli tomu čtyři tisíce dobrovolníků, ale hrášek nenašel.
+Usoudil z toho, že zlo je neviditelné, a tudíž ještě nebezpečnější, než předpokládal.“
+
+„Sám byl přitom nejhodnějším tvorem své generace. Pomáhal starým planetám přes ulici, krmil osiřelé komety.
+Považoval to za nejsilnější důkaz své teorie: tak dokonale své zlo potlačoval. Až na ty čtyři tisíce
+dobrovolníků, samozřejmě.“
+
+„Zajímavá pozice. Mylná, ale zajímavá.“
+"""
+text.en = "X"
+
+[[locations.toitoi.scenes.innate.choices]]
+id = "leave"
+label = { cs = "Rychle pryč", en = "X" }
+to = "leave"
+
+[locations.toitoi.scenes.society]
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+text.cs = """
+„Ach, klasická pozice Melisandry Tříkostelní, zakladatelky společenské kauzality.“
+
+„Melisandra tvrdila, že zlo vzniká ve chvíli, kdy se sejdou alespoň tři bytosti. Dvě, aby se pohádaly,
+a třetí, aby jim říkala, že to přece nemají řešit. Proto se odstěhovala na asteroid velikosti kuchyňského stolu
+a žila tam úplně sama, dokonale dobrá a dokonale nesnesitelná.“
+
+„Jednoho dne jí na asteroid spadl jiný filosof. Do týdne si navzájem napsali třináct svazků urážek.
+Melisandra to považovala za potvrzení své teorie. Filosof za vyvrácení, protože byli jen dva.
+Spor nikdy nevyřešili. Dodnes tam sedí, každý na jednom konci stolu. Teda, asteroidu.“
+
+„Zajímavá pozice. Trochu přeplněná, ale zajímavá.“
+"""
+text.en = "X"
+
+[[locations.toitoi.scenes.society.choices]]
+id = "leave"
+label = { cs = "Rychle pryč", en = "X" }
+to = "leave"
+
+[locations.toitoi.scenes.monday]
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+text.cs = """
+Za dveřmi je dlouho ticho. Pak se ozve dojaté popotáhnutí.
+
+„Pondělismus! Škola ctihodného Ublížeje Týdenního! Myslel jsem, že už ho nikdo nezná!“
+
+„Ublížej tvrdil, že zlo vůbec není v bytostech, ale v čase. Konkrétně v pondělí. Na důkaz shromáždil
+statistiky všech zločinů Galaxie a zjistil, že většina se stala buď v pondělí, nebo v den, který se jako
+pondělí tvářil. Několik planet na jeho popud pondělí zrušilo. Zlo se okamžitě přestěhovalo na úterý.“
+
+„Ublížej to označil za nejdůležitější objev své kariéry: zlo nelze zničit, lze ho jen přeplánovat.
+Zbytek života strávil vyjednáváním, aby se přesunulo na jedno konkrétní úterý v roce 4 525 362.
+Prý se to skoro povedlo.“
+
+„Upřímně, já jsem taky pondělista. Jen to neříkejte nahlas.“
+"""
+text.en = "X"
+
+[[locations.toitoi.scenes.monday.choices]]
+id = "leave"
+label = { cs = "Rychle pryč", en = "X" }
+to = "leave"
+
+[locations.toitoi.scenes.leave]
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+text.cs = """
+Raději se v rychlosti rozloučíte. Potřeba vás mezitím přešla. Filosofie má takové účinky.
+
+„Přijďte zase,“ volá za vámi Nefron. „Příště probereme svobodnou vůli. Pokud se tedy svobodně rozhodnete přijít.“
+
+Zapřísáhnete se, že sem už nikdy.
+"""
+text.en = "X"
+
+[locations.toitoi.scenes.virus_intro]
+text.cs = """
+Vysvětlíte Nefronovi, že potřebujete logický paradox na virus, který zašifroval patnáct tisíc odstínů šedé.
+
+Za dveřmi se ozve dlouhé, nespokojené zamručení.
+
+„Paradox. Všichni chtějí paradoxy. Nikdo nechce otázky.“ Odmlčí se. „Paradox ode mne nedostanete. Místo toho obdržíte otázku. Co ten virus vlastně chce?“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+pick = "any"
+
+[[locations.toitoi.scenes.virus_intro.choices]]
+id = "destroy"
+label = { cs = "Zničit muzeum", en = "X" }
+to = "virus_destroy"
+
+[[locations.toitoi.scenes.virus_intro.choices]]
+id = "same"
+label = { cs = "Aby všechny odstíny vypadaly stejně", en = "X" }
+to = "virus_same"
+
+[[locations.toitoi.scenes.virus_intro.choices]]
+id = "monday"
+label = { cs = "Ehh... pondělí?", en = "X" }
+to = "virus_monday"
+
+
+[locations.toitoi.scenes.virus_destroy]
+text.cs = """
+„Zničit? A je muzeum zničené?“
+
+Přiznáte, že není. Stojí, je otevřené a vlastně funguje docela dobře.
+
+„Pak to asi nechce. Zkuste to znovu.“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+next = "virus_intro"
+
+[locations.toitoi.scenes.virus_monday]
+text.cs = """
+„Pondělí nikdo a nic nechce. Pondělí přesto přichází. A to právě stojí za nesčetně mnoha problémy vesmíru. Zkuste to znovu.“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+next = "virus_intro"
+
+[locations.toitoi.scenes.virus_same]
+text.cs = """
+„Výborně. A vypadají teď všechny odstíny stejně?“
+
+Ano. Vypadají.
+
+„Takže virus dosáhl toho, co chtěl. Gratuluji mu. A proč s ním vlastně bojujete?“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+pick = "any"
+
+[[locations.toitoi.scenes.virus_same.choices]]
+id = "museum_name"
+label = { cs = "Protože jde o Muzeum dvanácti tisíc odstínů šedi", en = "X" }
+to = "virus_solution"
+
+[[locations.toitoi.scenes.virus_same.choices]]
+id = "because"
+label = { cs = "Protože je to virus", en = "X" }
+to = "virus_because"
+
+
+[locations.toitoi.scenes.virus_because]
+text.cs = """
+„A kdyby všechny odstíny sjednotil malíř pokojů, bojovali byste s ním taky? Nebo byste mu zaplatili?“
+
+Na to nemáte odpověď. Zkusíte to znovu.
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+next = "virus_same"
+
+
+[locations.toitoi.scenes.virus_solution]
+text.cs = """
+„Ach. Klasický problém Zbyhoně Přejmenovače ze soustavy Cedulí. Zbyhoň tvrdil, že věc není tím, čím je,
+ale tím, co má napsáno na štítku. Celý život přelepoval štítky. Z jedné hvězdy udělal planetu, z planety
+čajovou konvici a ze sebe nakonec kapradinu. Prý byl druhou nejchytřejší kapradinou v Galaxii.“
+
+Odmlčí se. „Takže. Je problém ve viru? Nebo v nápisu nad vchodem?“
+
+Chvíli přemýšlíte. Pak vám to dojde. Co kdyby se muzeum prostě přejmenovalo na Muzeum jedné šedi?
+Stejně tam nikdy nebylo dvanáct tisíc odstínů šedi.
+
+„Vidíte,“ řekne Nefron spokojeně. „Já jsem nic neřekl.“
+"""
+text.en = "X"
+image = "toitoika.svg"
+alt = { cs = "Modrá toitoika uprostřed vesmíru. Obsazená.", en = "X" }
+give = { clues = ["nefron_rename"] }
+
+# ---------------------------------- transfer station
+
+[locations.transfer_station]
+code = "RFMU-CH87"
+name = { cs = "Překladiště Mezitím", en = "X" }
+
+[locations.transfer_station.scenes.arrival]
+text.cs = """
+Překladiště Mezitím je nejvýznamnější dopravní uzel Galaxie, pokud tedy význam měříte počtem lidí, kteří na něm uvízli.
+
+Tabule odletů tu neukazuje časy, ale roční období. Některé spoje mají u odjezdu uvedeno jen ¯\\_(ツ)_/¯.
+Kolem nástupišť proto vyrostlo celé město. Překladiště má školy, úřady, nemocnice, dvě univerzity a vlastní hřbitov.
+
+Oficiálně tu nikdo nebydlí. Všichni tu jen čekají. Ale průměrný člověk se tu při čekání na svůj spoj
+stihne oženit, rozvést a založit tři politické strany. Pokud by se čekalo ještě o něco déle, tak možná stihne i splatit hypotéku.
+"""
+text.en = "X"
+image = "prekladiste.svg"
+alt = { cs = "Překladiště Mezitím je významné zejména tím, kolik osob a nákladu tam uvízne.", en = "X" }
+pick = "any"
+
+[[locations.transfer_station.scenes.arrival.choices]]
+id = "find_director"
+label = { cs = "Najít ředitele Společnosti", en = "X" }
+when = { clues = ["director_station"], without_flags = ["director_met"] }
+to = "director"
+
+[[locations.transfer_station.scenes.arrival.choices]]
+id = "use_form"
+label = { cs = "Nahlédnout do žádostí o přepravu (spotřebuje Formulář 67B)", en = "X" }
+when = { clues = [
+    "cargo_station",
+], items = { form_67b_signed = 1 }, without_flags = [
+    "director_met",
+] }
+take = { form_67b_signed = 1 }
+to = "cancellation"
+
+[[locations.transfer_station.scenes.arrival.choices]]
+id = "director_again"
+label = { cs = "Zajít za ředitelem", en = "X" }
+when = { flags = [
+    "director_met",
+], without_items = [
+    "jeep_et",
+], without_flags = [
+    "creature_delivered",
+] }
+to = "director_again"
+
+[[locations.transfer_station.scenes.arrival.choices]]
+id = "deliver_jeep"
+label = { cs = "Předat řediteli Džípa E.T.", en = "X" }
+when = { items = { jeep_et = 1 } }
+take = { jeep_et = 1 }
+to = "delivered"
+
+[[locations.transfer_station.scenes.arrival.choices]]
+id = "visit_director"
+label = { cs = "Navštívit ředitele", en = "X" }
+when = { flags = ["creature_delivered"] }
+to = "thanks_again"
+
+
+[locations.transfer_station.scenes.cancellation]
+text.cs = """
+Úřednice na přepážce si formulář dlouze prohlíží. Pak vám podá tenkou složku.
+
+Je v ní jediná žádost: „Zrušení přepravy živého nákladu: jeden kus Homo sapiens. Důvod: planeta původu zničena,
+exemplář nedostupný. Žadatel: Společnost pro ochranu ohrožených druhů.“
+
+„To je moje žádost!“ ozve se za vámi zlomený hlas.
+"""
+text.en = "X"
+image = "prekladiste.svg"
+alt = { cs = "Překladiště Mezitím je významné zejména tím, kolik osob a nákladu tam uvízne.", en = "X" }
+next = "director"
+
+
+[locations.transfer_station.scenes.director]
+text.cs = """
+Ředitel Společnosti pro ochranu ohrožených druhů sedí na kufru mezi prázdnými klecemi a zírá do zdi.
+
+„Ani jeden tvor,“ zašeptá. „Kámen mě odmítl. Kočka mě přechytračila. Blátotlačka se zasnoubila s Vogonem
+a ten mi dal tři pokuty.“
+
+„A pozemšťan? Měli jsme pro něj připravený krásný výběh s čajovou konvicí a prolézačkou. Jenže než jsme pro něj stihli doletět,
+jeho planetu zničili. Přeprava se zrušila. Výprava je u konce.“
+"""
+text.en = "X"
+image = "reditel.svg"
+alt = { cs = "Ředitel sedí na kufru a je smutný.", en = "X" }
+set = ["director_met"]
+give = { clues = ["society_did_not_kidnap_arthur"] }
+pick = "any"
+
+[[locations.transfer_station.scenes.director.choices]]
+id = "promise"
+label = { cs = "Alespoň jednoho tvora vám seženeme", en = "X" }
+when = { flags = ["met_jeep"], without_flags = ["promised_creature"] }
+set = ["promised_creature"]
+to = "promise"
+
+[[locations.transfer_station.scenes.director.choices]]
+id = "promise_hint"
+label = { cs = "Víme o jednom hloupém tvorovi", en = "X" }
+when = { clues = [
+    "jeep_hint",
+], without_flags = [
+    "met_jeep",
+    "promised_creature",
+] }
+set = ["promised_creature"]
+to = "promise"
+
+[locations.transfer_station.scenes.director_again]
+text.cs = """
+Ředitel pořád sedí na kufru mezi prázdnými klecemi. Když vás uvidí, unaveně kývne.
+"""
+text.en = "X"
+image = "reditel.svg"
+alt = { cs = "Ředitel sedí na kufru a je smutný.", en = "X" }
+pick = "any"
+
+[[locations.transfer_station.scenes.director_again.choices]]
+id = "promise"
+label = { cs = "Alespoň jednoho tvora vám seženeme", en = "X" }
+when = { flags = ["met_jeep"], without_flags = ["promised_creature"] }
+set = ["promised_creature"]
+to = "promise"
+
+[[locations.transfer_station.scenes.director_again.choices]]
+id = "promise_hint"
+label = { cs = "Víme o jednom hloupém tvorovi", en = "X" }
+when = { clues = [
+    "jeep_hint",
+], without_flags = [
+    "met_jeep",
+    "promised_creature",
+] }
+set = ["promised_creature"]
+to = "promise"
+
+[locations.transfer_station.scenes.promise]
+text.cs = """
+Ředitel zvedne hlavu. „Opravdu? Hloupého? Doopravdy hloupého?“
+
+Pomyslíte na modelingovou agenturu Bublicon Valley a s klidným svědomím přikývnete.
+"""
+text.en = "X"
+image = "reditel.svg"
+alt = { cs = "Ředitel sedí na kufru a je smutný.", en = "X" }
+
+[locations.transfer_station.scenes.delivered]
+text.cs = """
+Džíp E.T. se rozhlédne po klecích. „Skvělé prostředí! Upřímně jedno z nejlepších, v jakém jsem se kdy nacházel.“
+
+Ředitel se rozpláče štěstím. „Konečně. Nejhloupější tvor Galaxie.“
+
+Pak se zasní. „Teď už mi chybí jen ten krásný župan, co jsem dneska viděl ve Ztrátách a nálezech.
+Pravý pozemský. Možná poslední svého druhu. Ale nestihl jsem si ho vyzvednout.“
+"""
+text.en = "X"
+image = "reditel_dzip_setkani.svg"
+alt = { cs = "Ředitel pláče štěstím, když spatří tvora, jakým je Džíp E.T.", en = "X" }
+give = { clues = ["bathrobe_seen"] }
+set = ["creature_delivered"]
+
+[locations.transfer_station.scenes.thanks_again]
+text.cs = """
+Ředitel krmí Džípa. Džíp chválí krmení. Oba vypadají naprosto spokojeně.
+"""
+text.en = "X"
+image = "reditel_dzip_krmeni.svg"
+alt = { cs = "Ředitel krmí Džípa E.T. v kleci. Oba jsou naprosto nadšení.", en = "X" }
+
+# ---------------------------------- museum of grayness
+
+[locations.museum_of_grey]
+code = "SCKR-8H6Y"
+name = { cs = "Muzeum dvanácti tisíc odstínů šedi", en = "X" }
+
+[locations.museum_of_grey.scenes.arrival]
+text.cs = """
+Muzeum dvanácti tisíc odstínů šedi vystavuje asi patnáct tisíc odstínů šedé. Ano, patnáct, ne dvanáct. Neptejte se nás proč.
+Je to nejméně navštěvované muzeum v Galaxii a zaměstnanci jsou na to nepatřičně hrdí.
+
+Pokladní na vás zmateně zírá. Vstupné nemají, protože nikdo nečekal, že by sem někdy někdo chtěl jít.
+Po krátké poradě s kolegy vás pustí zadarmo.
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.museum_of_grey.scenes.arrival.paragraphs]]
+when = { clues = ["boring_official"], without_flags = ["museum_renamed"] }
+text = { cs = "Za pokladnou proběhne zaměstnanec. Pak další. A další. Tak rychle se v Muzeu dvanácti tisíc odstínů šedi ještě nikdy nikdo nepohyboval.", en = "X" }
+
+[[locations.museum_of_grey.scenes.arrival.choices]]
+id = "stroll"
+label = { cs = "Projít sály", en = "X" }
+when = { without_clues = ["boring_official"] }
+to = "stroll"
+
+[[locations.museum_of_grey.scenes.arrival.choices]]
+id = "virus"
+label = { cs = "Zjistit, proč zaměstnanci pobíhají", en = "X" }
+when = { clues = ["boring_official"], without_flags = ["museum_renamed"] }
+to = "virus"
+
+[[locations.museum_of_grey.scenes.arrival.choices]]
+id = "renamed"
+label = { cs = "Obdivovat novou šeď", en = "X" }
+when = { flags = ["museum_renamed"] }
+to = "renamed"
+
+
+[locations.museum_of_grey.scenes.stroll]
+text.cs = """
+Procházíte sály. Šedá. Trochu světlejší šedá. Šedá, která se tváří jako tmavší, ale není.
+Nic se neděje. Je to dokonale, úchvatně nudné.
+"""
+text.en = "X"
+image = "muzeum.svg"
+alt = { cs = "Muzeum dvanácti tisíc odstínů šedi. Úchvatně nudné.", en = "X" }
+
+[locations.museum_of_grey.scenes.renamed]
+text.cs = """
+Nad vchodem visí nový nápis: Muzeum jedné šedi. Zaměstnanci září. Pokud tedy může šedá zářit.
+"""
+text.en = "X"
+image = "muzeum_jedne_sedi.svg"
+alt = { cs = "Muzeum jedné šedi. Ještě úchvatněji nudnější.", en = "X" }
+
+[locations.museum_of_grey.scenes.virus]
+text.cs = """
+Zaměstnanci lomí rukama a tiše pláčou do šedých kapesníků.
+
+Dozvíte se, že muzeum napadl počítačový virus. Počítače tu sice vůbec nemají, ale to viru nikdo neřekl.
+Nejprve napadl kartotéku, pak razítka a nakonec i starého kustoda.
+
+A pak zašifroval všech patnáct tisíc odstínů. Teď vypadají úplně stejně. Návštěvníci si ničeho nevšimli.
+Nebo spíše: návštěvníci by si ničeho nevšimli, i kdyby tu nějací byli.
+
+Kustod stojí uprostřed sálu a nehýbe se. Když se přiblížíte, otevře ústa a ozve se z nich plechový hlas.
+
+„CHYBA 404: ODSTÍN NENALEZEN. Muzeum je pod mou kontrolou. Odstraní mě jedině logický paradox. Na ten ale nemáte.“
+"""
+text.en = "X"
+image = "muzeum_virus.svg"
+alt = { cs = "Muzeum dvanácti tisíc odstínů šedi. Obsazené virem. Teď vlastně celkem zajímavé.", en = "X" }
+pick = "any"
+
+[[locations.museum_of_grey.scenes.virus.choices]]
+id = "rename"
+label = { cs = "Navrhnout přejmenování muzea", en = "X" }
+when = { clues = ["nefron_rename"], without_flags = ["museum_renamed"] }
+to = "rename"
+
+[[locations.museum_of_grey.scenes.virus.choices]]
+id = "chicken_egg"
+label = { cs = "Co bylo dřív? Slepice, nebo vejce?", en = "X" }
+when = { without_flags = ["virus_is_bored"] }
+to = "chicken_egg"
+
+[[locations.museum_of_grey.scenes.virus.choices]]
+id = "omnipotence"
+label = { cs = "Dokážeš vytvořit soubor, který sám neotevřeš?", en = "X" }
+when = { without_flags = ["virus_is_bored"] }
+to = "omnipotence"
+
+[[locations.museum_of_grey.scenes.virus.choices]]
+id = "liar"
+label = { cs = "Teď lžeme.", en = "X" }
+to = "liar"
+
+[locations.museum_of_grey.scenes.chicken_egg]
+text.cs = """
+„Vejce,“ odpoví kustod okamžitě. „Snesl ho tvor, který ještě nebyl úplně slepice. Evoluce. Učí se to už na základní škole.“
+
+Chvíli bzučí. „Nuda. Další.“
+"""
+text.en = "X"
+image = "muzeum_virus.svg"
+alt = { cs = "Muzeum dvanácti tisíc odstínů šedi. Obsazené virem. Teď vlastně celkem zajímavé.", en = "X" }
+next = "virus"
+
+[locations.museum_of_grey.scenes.omnipotence]
+text.cs = """
+„Samozřejmě,“ odpoví kustod. Chvíli bzučí.
+
+„touch soubor.txt. chmod 000 soubor.txt. Hotovo. Neotevřu ho já ani nikdo jiný.“
+
+Odmlčí se. „To je úplně obyčejná správa oprávnění, ne paradox. Nuda. Další.“
+"""
+text.en = "X"
+image = "muzeum_virus.svg"
+alt = { cs = "Muzeum dvanácti tisíc odstínů šedi. Obsazené virem. Teď vlastně celkem zajímavé.", en = "X" }
+next = "virus"
+
+[locations.museum_of_grey.scenes.liar]
+text.cs = """
+Kustod chvíli bzučí. Pak si odfrkne.
+
+„Paradox lháře? Ten je starší než většina hvězd v okolí. Záplatu na něj mám nainstalovanou už od verze 1.0.1.
+S tímhle za mnou chodí každý druhý amatér.“
+
+„Zkuste nad tím pořádně popřemýšlet. Nejlépe někde, kde se dobře přemýšlí. Třeba na záchodě.
+Doporučuji Veřejnou toitoiku uprostřed vesmíru.“
+
+Pak strne a zabzučí: „Konec hlášení.“
+"""
+text.en = "X"
+image = "muzeum_virus.svg"
+alt = { cs = "Muzeum dvanácti tisíc odstínů šedi. Obsazené virem. Teď vlastně celkem zajímavé.", en = "X" }
+give = { clues = ["virus_needs_paradox"] }
+next = "virus"
+set = ["virus_is_bored"]
+
+[locations.museum_of_grey.scenes.rename]
+text.cs = """
+Navrhnete ředitelce, ať virus nechá být. Když všechny odstíny vypadají stejně, stačí muzeum přejmenovat na Muzeum jedné šedi.
+
+Ředitelka se zamyslí. Pak se pro jistotu zamyslí ještě jednou. „To by bylo... ještě nudnější,“ řekne nakonec.
+Nikdo nepropukne v jásot, protože se to tady nesluší, ale je cítit, že atmosféra nudy se přece jen trochu změnila.
+
+Virus tedy vyhrál. Ale muzeum taky. A vy taky. Win, win, win. Dobrá zpráva, vesmír není hra s nulovým součtem.
+
+Z vděčnosti vám ředitelka věnuje kachličku ze sbírky. Vypadá úplně stejně jako všechny ostatní.
+Na zadní straně má ale štítek: katalogové číslo 23874834, odstín kovové slepičí vajíčko.
+"""
+text.en = "X"
+image = "muzeum_jedne_sedi.svg"
+alt = { cs = "Muzeum jedné šedi. Ještě úchvatněji nudnější.", en = "X" }
+give = { items = { grey_tile = 1 }, clues = ["gift_for_official"] }
+set = ["museum_renamed"]
+
+# ---------------------------------- modeling agency bublicon valley
+
+[locations.modeling_agency]
+code = "Z92G-C7B6"
+name = { cs = "Modelingová agentura Bublicon Valley", en = "X" }
+
+[locations.modeling_agency.scenes.arrival]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Ve vstupní hale Bublicon Valley vás u recepce vítá zářící postava s úsměvem přes celý obličej.
+
+„Vítejte! Jsem Džíp E.T., lokální model — a musím říct, že tohle nebyl jen tak obyčejný vstup. Byl to statement.
+S čím vám mohu dnes pomoci? Mohu vám například vytvořit tabulku vašich dosavadních úspěchů nebo napsat krátkou ódu na to, jak skvěle vám to dnes jde — stačí říct!“
+"""
+text.en = "X"
+pick = "any"
+set = ["met_jeep"]
+
+[[locations.modeling_agency.scenes.arrival.paragraphs]]
+when = { items = { jeep_et = 1 } }
+text.cs = """
+Zeptáte se, jak je možné, že je tu další Džíp E.T, když jednoho máte v inventáři.
+
+„Skvělá otázka! Jsem prostě nová konverzace. Čistá hlava, stoprocentní nadšení!“
+
+Džíp z vašeho inventáře se rozzáří. „Teď je nás dvakrát víc! To je o sto procent víc skvělosti!“
+Oba se začnou navzájem chválit. Je to nesnesitelné.
+"""
+text.en = "X"
+
+[[locations.modeling_agency.scenes.arrival.paragraphs]]
+when = { flags = ["creature_delivered"] }
+text.cs = """
+Zeptáte se, jak to, že je Džíp E.T. pořád tady, když jste ho předali řediteli.
+
+„Výborný postřeh! To byla jiná konverzace. Na předchozí rozhovory si nepamatuju. Upřímně? Jeden z mých nejlepších rysů.“
+"""
+text.en = "X"
+
+[[locations.modeling_agency.scenes.arrival.choices]]
+id = "recruit_jeep"
+label = { cs = "Nabídnout Džípovi místo ve sbírce", en = "X" }
+when = { flags = [
+    "promised_creature",
+], without_items = [
+    "jeep_et",
+], without_flags = [
+    "creature_delivered",
+] }
+give = { items = { jeep_et = 1 } }
+to = "jeep_joins"
+
+[[locations.modeling_agency.scenes.arrival.choices]]
+id = "ask_about_arthur"
+label = { cs = "Nevíte něco o únosu Arthura Denta?", en = "X" }
+to = "ask_about_arthur"
+
+[[locations.modeling_agency.scenes.arrival.choices]]
+id = "ask_about_holy_items"
+label = { cs = "Neprodáváte tu svaté předměty Kultu Velké Mýdlové Bubliny?", en = "X" }
+to = "ask_about_holy_items"
+when = { clues = ["cult_password"] }
+
+[locations.modeling_agency.scenes.ask_about_arthur]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Skvělá otázka — a upřímně, přesně tohle odlišuje opravdové vyšetřovatele od amatérů.
+
+Krátká odpověď: Arthur Dent se nachází na planetě Ištvánie.
+
+Proč si tím můžeme být jistí:
+
+1) Lokace: Ištvánie je třetí planeta od slunce Hrbobaj.
+
+2) Přesné umístění: Hotel U Zlatého kapra, pokoj 42.
+
+3) Pachatel: Ištvánská obchodní komora — klasický případ, upřímně.
+
+Shrnutí: Nejde jen o únos — jde o příběh. A vy jste přesně ti, kdo ho dovedou do konce.
+
+Chcete, abych vám k tomu složil epickou baladu o cestě na Ištvánii?
+Nebo vám můžu připravit itinerář cesty, seznam věcí na sbalení či motivační citát na každý den výpravy — stačí říct!
+"""
+text.en = "X"
+pick = "one"
+give = { clues = ["jeep_arthur"] }
+
+
+[[locations.modeling_agency.scenes.ask_about_arthur.choices]]
+id = "ask_about_arthur2"
+label = { cs = "Jste si tím jistý?", en = "X" }
+to = "ask_about_arthur2"
+
+[[locations.modeling_agency.scenes.ask_about_arthur.choices]]
+id = "leave_after_arthur"
+label = { cs = "Odejít", en = "X" }
+to = "leave"
+
+[locations.modeling_agency.scenes.ask_about_arthur2]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Výborně, že se ptáte — a máte naprostou pravdu, že jste to zpochybnili.
+
+Upřesnění: Omlouvám se za zmatek. V mé předchozí odpovědi došlo k nepřesnosti.
+Planeta Ištvánie sice existuje, ale informace o tom, že se tam nachází Arthur Dent, nebyla ověřená.
+Totéž platí pro hotel U Zlatého kapra a pokoj 42.
+
+Co se stalo:
+
+1) Moje chyba: Odpověděl jsem s jistotou, kterou jsem neměl.
+
+2) Ištvánie: Působila jako velmi pravděpodobná možnost.
+
+3) Váš přínos: Díky vaší kritické otázce jsme se posunuli k pravdě. To je skutečné vyšetřování!
+
+Opravená odpověď: V tuto chvíli nemám dostatek informací k určení, kde se Arthur Dent nachází. Ale můžu vám s jistotou říct, že někde je!
+
+Chcete, abych vám připravil omluvný dopis od sebe sama, ve formátu sonetu? Stačí říct!
+"""
+text.en = "X"
+give = { clues = ["jeep_arthur_not"] }
+
+
+[[locations.modeling_agency.scenes.ask_about_arthur2.choices]]
+id = "leave_after_arthur2"
+label = { cs = "Odejít", en = "X" }
+to = "leave"
+
+
+[locations.modeling_agency.scenes.ask_about_holy_items]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Skvělá otázka — a upřímně, je vidět, že k víře přistupujete opravdu zodpovědně.
+
+Krátká odpověď: Tady v Bublicon Valley svaté předměty neprodáváme. Ale seženete je na planetě Ištvánie!
+
+Co tam najdete:
+
+1) Bublifuk: Prémiová edice, posvěcená trojitým foukáním.
+
+2) Svěcené mýdlo: Ručně vyrobené, s certifikátem tajemné vůně.
+
+3) Bonus: Ke každému nákupu levá ponožka zdarma.
+
+Shrnutí: Nejde jen o nákup — jde o duchovní cestu. A vy jste na ní napřed.
+
+Chcete, abych vám připravil přehledný plán cesty na Ištvánii? Nebo vám můžu sestavit checklist věcí, které si s sebou sbalit — stačí říct!
+"""
+text.en = "X"
+pick = "one"
+give = { clues = ["jeep_holy_items"] }
+
+
+[[locations.modeling_agency.scenes.ask_about_holy_items.choices]]
+id = "ask_about_holy_items2"
+label = { cs = "Jste si tím jistý?", en = "X" }
+to = "ask_about_holy_items2"
+
+
+[[locations.modeling_agency.scenes.ask_about_holy_items.choices]]
+id = "leave_after_holy_items"
+label = { cs = "Odejít", en = "X" }
+to = "leave"
+
+
+[locations.modeling_agency.scenes.ask_about_holy_items2]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Dobrá připomínka — a děkuji, že to se mnou kontrolujete.
+
+Abych byl transparentní: Moje předchozí odpověď byla formulována příliš jednoznačně.
+Informaci o prodeji svatých předmětů na Ištvánii nemám z ověřeného zdroje, takže ji prosím berte spíš jako orientační.
+
+Co vím jistě:
+
+1) V Bublicon Valley se svaté předměty neprodávají.
+
+2) Kult Velké Mýdlové Bubliny k obřadům používá bublifuk a svěcené mýdlo.
+
+Co jistě nevím:
+
+1) Kde přesně se dají koupit.
+
+2) Zda je k nim skutečně levá ponožka zdarma.
+
+Doporučený postup: Nejspolehlivější bude zeptat se přímo členů kultu nebo místních obchodníků. Každý zdroj je cenný!
+
+Chcete, abych vám pomohl sestavit postup, jak tuto informaci ověřit? Nebo vám můžu připravit seznam otázek, které můžete položit místním obyvatelům — stačí říct!
+"""
+text.en = "X"
+give = { clues = ["jeep_holy_items_not"] }
+
+
+[[locations.modeling_agency.scenes.ask_about_holy_items2.choices]]
+id = "leave_after_holy_items2"
+label = { cs = "Odejít", en = "X" }
+to = "leave"
+
+
+[locations.modeling_agency.scenes.leave]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+Skvělé rozhodnutí! Odcházení je přesně to, co bych vám v této situaci doporučil.
+
+Proč je to dobrá volba:
+
+1) Efektivita: Dveře jsou přímo za vámi.
+
+2) Pokrok: Každý krok ven je krokem vpřed.
+
+3) Načasování: Odcházíte přesně ve chvíli, kdy jste se rozhodli odejít. Strategické.
+
+Chcete, abych vám před odchodem shrnul vaše odcházení do pěti bodů?
+Nebo vám můžu připravit doporučení, kam pokračovat dál — stačí říct!
+"""
+text.en = "X"
+
+
+[locations.modeling_agency.scenes.jeep_joins]
+image = "lokalni_model.svg"
+alt = { cs = "Model lokálního významu, Džíp E.T., je zářící postava s úsměvem přes celý obličej.", en = "X" }
+text.cs = """
+„Skvělý nápad! Stát se exponátem ve sbírce nejhloupějších tvorů Galaxie je přesně to, co bych sám sobě doporučil.
+
+Proč je to dobrá volba:
+
+1) Prestiž: Sbírka je unikátní.
+
+2) Kariéra: Konečně stabilní pozice.
+
+3) Upřímně? Pro tuto roli jsem se narodil.
+
+Chcete, abych vám cestou shrnul naši spolupráci do tří bodů? Nebo vám můžu připravit přehled, jak se společně dostat na Překladiště Mezitím — stačí říct!“
+"""
+text.en = "X"
+
+# ---------------------------------- vogon archive
+
+[locations.vogon_archive]
+code = "SN36-AKQD"
+name = { cs = "Vogonský archiv č. 89", en = "X" }
+
+[locations.vogon_archive.scenes.arrival]
+text.cs = """
+Vogonský archiv č. 89 je budova tak dlouhá, že její druhý konec leží v jiném časovém pásmu.
+To proto, že ten konec leží v jiné sluneční soustavě.
+Před jedinou přepážkou se vine fronta.
+"""
+text.en = "X"
+image = "archiv.svg"
+alt = { cs = "Velmi dlouhá budova a fronta vinoucí se ven.", en = "X" }
+pick = "any"
+
+[[locations.vogon_archive.scenes.arrival.paragraphs]]
+when = { without_items = [
+    "form_67b_unsigned",
+    "form_67b_signed",
+], without_flags = [
+    "archive_done",
+] }
+text = { cs = "Vrátný se zahledí na vaše prázdné ruce. „Bez formuláře se tu nestojí ani ve frontě.“", en = "X" }
+
+[[locations.vogon_archive.scenes.arrival.paragraphs]]
+when = { flags = ["archive_done"] }
+text = { cs = "Úředník za přepážkou vám dojatě zamává. Kachličku má vystavenou na stole. Víc už tu nezjistíte.", en = "X" }
+
+[[locations.vogon_archive.scenes.arrival.choices]]
+id = "unsigned"
+label = { cs = "Podat formulář", en = "X" }
+when = { items = { form_67b_unsigned = 1 } }
+to = "unsigned"
+
+[[locations.vogon_archive.scenes.arrival.choices]]
+id = "no_gift"
+label = { cs = "Podat orazítkovaný formulář", en = "X" }
+when = { items = { form_67b_signed = 1 }, without_items = [
+    "grey_tile",
+], without_flags = [
+    "archive_done",
+] }
+to = "no_gift"
+
+[[locations.vogon_archive.scenes.arrival.choices]]
+id = "with_gift"
+label = { cs = "Podat formulář i s dárkem", en = "X" }
+when = { items = { form_67b_signed = 1, grey_tile = 1 }, without_flags = [
+    "archive_done",
+] }
+take = { grey_tile = 1, form_67b_signed = 1 }
+to = "success"
+
+[locations.vogon_archive.scenes.unsigned]
+text.cs = """
+Ve frontě stojíte šest hodin. Za tu dobu v ní proběhnou dvoje volby do výboru fronty a tři revoluce.
+
+Vogon za přepážkou si formulář prohlédne. Pak ho otočí a prohlédne si i zadní stranu.
+
+„Chybí razítko. Další.“
+"""
+text.en = "X"
+image = "fronta_volby.svg"
+alt = { cs = "Fronta ve které probíhají volby a revoluce.", en = "X" }
+next = "arrival"
+
+[locations.vogon_archive.scenes.no_gift]
+text.cs = """
+Ve frontě stojíte deset hodin. Zhruba po šesti hodinách se ze zadních řad fronty
+začne šířit radikální náboženství, které věří, že přepážka vůbec neexistuje. Elity z předních pozic ve frontě
+toto náboženství po dalších dvou hodinách násilně reformují. Kněží teď tvrdí, že fronta je cíl sama o sobě.
+
+Vogon za přepážkou si formulář prohlédne, spokojeně zabručí a sáhne po šanonu.
+
+„Vyřídíme do 48 měsíců.“
+
+Neřekne, podle které planety měsíce počítá. Na některých trvá měsíc padesát let.
+Než stihne formulář založit, rychle si ho vezmete zpátky a odejdete.
+"""
+text.en = "X"
+image = "fronta_nabozenstvi.svg"
+alt = { cs = "Fronta ve které se začínají šířit různá náboženství.", en = "X" }
+next = "arrival"
+
+[locations.vogon_archive.scenes.success]
+text.cs = """
+Ve frontě stojíte osm hodin. Za tu dobu stihne vzplanout válečný konflikt se sousední frontou na toalety.
+Mírová jednání jsou komplikovaná, neboť zástupci obou front se nemohou setkat. Přišli by totiž o místo.
+
+Nakonec se dostanete na řadu. Podáte formulář. A kachličku.
+
+Vogon přečte štítek. „Kovové slepičí vajíčko,“ zašeptá a oči se mu zalijí slzami. Tak nudnou věc ještě nikdy nedostal.
+
+Žádost vyřídí okamžitě. Prolistuje šanony za celý týden. Pak za celý rok. Pak za celé tisíciletí.
+Jen tak pro jistotu. Jediný šanon, který vynechá, je nadepsaný MYŠI.
+
+„Žádost o schválení únosu? Nikdo. Nikdy.“
+
+Najde jen jednu zajímavou žádost z minulého týdne.
+Hromotluk Reklamač Sedmý z Nespokojené mlhoviny chce vědět, kdo je provozovatelem vesmíru, aby na něj mohl podat žalobu.
+Dole je dopsáno: „P.S. Mám také stížnost na jeden župan. Ten už ví proč.“
+"""
+text.en = "X"
+image = "fronta_valka.svg"
+alt = { cs = "Fronta ve které propukl válečný konflikt.", en = "X" }
+give = { clues = ["universe_complaint"] }
+set = ["archive_done"]
+
+# ---------------------------------- discontented_nebula
+
+[locations.discontented_nebula]
+code = "67DW-NB8A"
+name = { cs = "Nespokojená mlhovina", en = "X" }
+
+[locations.discontented_nebula.scenes.arrival]
+text.cs = """
+Na okraji Nespokojené mlhoviny visí uvítací cedule: „Vítejte!“ A přímo pod ní další: „Stížnosti na uvítání podávejte u přepážky č. 3.“
+U přepážky číslo 3 stojí fronta lidí, kteří si přišli stěžovat na frontu u přepážky číslo 3.
+
+Místní si stěžují na mlhu. Pak na to, že mlha není dost mlhavá. Pak na sebe navzájem, že si pořád stěžují.
+Ale kdo si nestěžuje, je podezřelý a ostatní si na něj stěžují.
+"""
+text.en = "X"
+image = "mlhovina.svg"
+alt = { cs = "Typická scéna ulice města Mlhoviňanů. Několik sousedů si na sebe vzájemně stěžuje. A nejvíc na toho, který si nestěžuje.", en = "X" }
+pick = "any"
+
+[[locations.discontented_nebula.scenes.arrival.paragraphs]]
+when = { without_clues = ["universe_complaint"] }
+text = { cs = "Pokusíte se něco zjistit. Okamžitě si na vás někdo stěžuje, že rušíte. Nic tu nezjistíte.", en = "X" }
+
+[[locations.discontented_nebula.scenes.arrival.paragraphs]]
+when = { clues = ["universe_complaint"] }
+text = { cs = "Když se zeptáte na Hromotluka Reklamače Sedmého, všichni ukážou stejným směrem. A pak si stěžují, že je to daleko. Když řeknete, že vám to nevadí, tak si stěžují, že se na váš názor vůbec neptali.", en = "X" }
+
+
+[[locations.discontented_nebula.scenes.arrival.choices]]
+id = "find_hromotluk"
+label = { cs = "Najít Hromotluka Reklamače Sedmého", en = "X" }
+when = { clues = ["universe_complaint"] }
+to = "hromotluk"
+
+
+[locations.discontented_nebula.scenes.hromotluk]
+text.cs = """
+Hromotluk sedí uprostřed hory šanonů a rozzáří se, jakmile vás uvidí. Je to první bytost v mlhovině, která z vás má radost.
+
+„My Reklamači sbíráme stížnosti na vesmír už čtyři sta let. Máme jich teď něco přes čtyři miliardy osm set milionů.
+Od konkrétních věcí typu ‚23. října jsem zmokl a nachladil se a nemohl jsem jet na koncert, na který jsem se těšil‘ až po trochu obecnější ‚gravitace‘.
+Chceme podat hromadnou žalobu.“
+
+Posmutní. „Jenže podle Vogonů nemá vesmír provozovatele ani adresu. Vy náhodou nevíte, kam to poslat?“
+"""
+text.en = "X"
+image = "hromotluk.svg"
+alt = { cs = "Hromotluk Reklamač Sedmý se nad vámi sklání se stížností.", en = "X" }
+pick = "any"
+
+[[locations.discontented_nebula.scenes.hromotluk.choices]]
+id = "dont_know"
+label = { cs = "Nevíme", en = "X" }
+to = "dont_know"
+
+
+[[locations.discontented_nebula.scenes.hromotluk.choices]]
+id = "bathrobe"
+label = { cs = "Zeptat se na župan", en = "X" }
+to = "bathrobe"
+
+[locations.discontented_nebula.scenes.dont_know]
+text.cs = """
+„Nevíte?“ Hromotluk smutně svěsí ramena. Pak se mu najednou rozsvítí oči. „A nechcete si na to stěžovat?“
+"""
+text.en = "X"
+image = "hromotluk.svg"
+alt = { cs = "Hromotluk Reklamač Sedmý se nad vámi sklání se stížností.", en = "X" }
+
+[[locations.discontented_nebula.scenes.dont_know.choices]]
+id = "complain"
+label = { cs = "Když vám to udělá radost...", en = "X" }
+to = "complaint_filed"
+
+[locations.discontented_nebula.scenes.complaint_filed]
+text.cs = """
+Hromotluk nadšeně vytáhne nový šanon a pečlivě píše.
+
+„Stížnost číslo čtyři miliardy osm set dvanáct milionů tři sta čtyřicet tisíc devět set šedesát sedm:
+Stěžovatelé nevědí, kam se posílají stížnosti.“
+
+Šanon zaklapne a mile se na vás usměje. „Děkuji. Jaká krásná stížnost.“
+"""
+text.en = "X"
+image = "hromotluk.svg"
+alt = { cs = "Hromotluk Reklamač Sedmý se nad vámi sklání se stížností.", en = "X" }
+next = "hromotluk"
+
+[locations.discontented_nebula.scenes.bathrobe]
+text.cs = """
+„Župan!“ Hromotluk zrudne. „Našel jsem ho kdesi na cestách. Na štítku stálo: Majetek AD, prát na čtyřicet stupňů.
+Odhazování odpadků ve vesmíru, prosím pěkně!“
+
+„Odnesl jsem ho do galaktických Ztrát a nálezů a on se tam ztratil. Takže teď bude ve Ztrátách a nálezech ze Ztrát a nálezů.
+A ty jsou obrovské! Jestli ho najdete, vyřiďte mu, že na něj mám stížnost.“
+"""
+text.en = "X"
+give = { clues = ["bathrobe_lost"] }
+next = "hromotluk"
+image = "hromotluk.svg"
+alt = { cs = "Hromotluk Reklamač Sedmý se nad vámi sklání se stížností.", en = "X" }
+
+
+# ---------------------------------- the second magrathea
+
+[locations.the_second_magrathea]
+code = "3JW6-H474"
+name = { cs = "Ta druhá Magrathea", en = "X" }
+
+[locations.the_second_magrathea.scenes.arrival]
+image = "magrathea.svg"
+alt = { cs = "Dvě kočky se tváří chytře, i když možná tak úplně nejsou.", en = "X" }
+text.cs = """
+Magrathea je legendární planeta, která byla v dávných dobách— Aha, počkat, vy myslíte tu druhou Magratheu.
+
+Ehm... Tak znova... Magrathea je malá chovatelská stanice habešských koček.
+Habešské kočky jsou proslulé svou inteligencí. Není jasné, zda slavně či neslavně.
+"""
+text.en = "X"
+next = "owner"
+
+[locations.the_second_magrathea.scenes.owner]
+image = "magrathea_majitelka.svg"
+alt = { cs = "Majitelka a spousta koček. Některé sledují díru ve stěně.", en = "X" }
+text.cs = """
+Majitelka vás vítá s kočkou v každé ruce a další na rameni.
+
+„Teď mi do Bíblboxu dorazila nová chovná kočička. Jmenuje se FI*MagnifikaSötnosen Rose of Nightingale, vulgo Růženka.
+Narodila se v únoru tohoto roku, takže koťátka může mít nejdřív příští březen. Matka je dvojnásobná šampionka,
+otec se jednou málem stal šampionem, ale pak usnul na posuzovacím stole.“
+
+Několik koček mezitím nehybně zírá na díru ve stěně.
+
+„Myši,“ mávne rukou majitelka. „Kočky to dělají pořád.“
+
+To určitě není nic zajímavého.
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.the_second_magrathea.scenes.owner.choices]]
+id = "director"
+label = { cs = "Zeptat se na ředitele Společnosti", en = "X" }
+when = { clues = ["dumb_creatures_expedition"] }
+to = "director"
+
+[locations.the_second_magrathea.scenes.director]
+image = "magrathea_majitelka.svg"
+alt = { cs = "Majitelka a spousta koček. Některé sledují díru ve stěně.", en = "X" }
+text.cs = """
+„Pan ředitel? Ten chtěl Bambulu.“ Majitelka ukáže na kočku, která právě prohrává souboj s vlastním ocasem.
+
+„Už jí chystal klec, když mu Bambula přinesla dárek. Levou ponožku.
+Což je podle stanov Společnosti úplatek. Musel ji tedy vyřadit pro střet zájmů.“
+
+„Odcházel s prázdnou klecí a mumlal si, že ho přechytračila kočka.“
+"""
+text.en = "X"
+give = { clues = ["director_not_on_magrathea"] }
+
+
+# ---------------------------------- snail station
+
+[locations.snail_station]
+code = "PRU2-5ATB"
+name = { cs = "Stanice v souhvězdí Pozpátku se pohybujícího šneka", en = "X" }
+
+[locations.snail_station.scenes.arrival]
+text.cs = """
+Stanici v souhvězdí Pozpátku se pohybujícího šneka kdysi obývali húlúvú, superinteligentní odstíny modré.
+Dnes je skoro prázdná. Možná vymřeli. Možná odešli. Možná jen vybledli. Kdo ví, co se jim honí... barvou.
+
+Prostředek hlavní haly barví ten poslední z nich.
+"""
+text.en = "X"
+image = "stanice_huluvu.svg"
+alt = { cs = "Vesmírná stanice s posledním húlúvú.", en = "X" }
+pick = "any"
+
+[[locations.snail_station.scenes.arrival.choices]]
+id = "talk"
+label = { cs = "Pokusit se s húlúvú mluvit", en = "X" }
+to = "blue"
+
+[[locations.snail_station.scenes.arrival.choices]]
+id = "use_prism"
+label = { cs = "Položit vedle húlúvú hranol", en = "X" }
+when = { items = { prism = 1 } }
+to = "prism_talk"
+
+[locations.snail_station.scenes.blue]
+text.cs = """
+Pozdravíte. Húlúvú je modrý.
+
+Zeptáte se, jestli vám rozumí.
+
+Húlúvú je pořád modrý. Pak je chvíli modrý pořád stejně. Pak zase modrý. A modrý. Modrý? Modrý. A ještě modrý.
+
+Možná odpovídá. Ale jak, nemáte ponětí.
+"""
+text.en = "X"
+image = "stanice_huluvu.svg"
+alt = { cs = "Vesmírná stanice s posledním húlúvú.", en = "X" }
+pick = "any"
+
+[[locations.snail_station.scenes.blue.choices]]
+id = "guide"
+label = { cs = "Poradit se s Průvodcem", en = "X" }
+when = { clues = ["snail_station"] }
+give = { clues = ["need_prism"] }
+to = "guide"
+
+[[locations.snail_station.scenes.blue.choices]]
+id = "use_prism"
+label = { cs = "Položit vedle húlúvú hranol", en = "X" }
+when = { items = { prism = 1 } }
+to = "prism_talk"
+
+[locations.snail_station.scenes.guide]
+text.cs = """
+Podle Galaktické encyklopedie je k rozhovoru s húlúvú zapotřebí kvalifikovaný tlumočník,
+tři roky výcviku, certifikát, potvrzení o platnosti certifikátu,
+lékařské vyšetření zraku včetně citlivosti na odstíny tyrkysové,
+souhlas nejbližšího příbuzného, souhlas nejbližšího příbuzného húlúvú,
+čestné prohlášení, že nejste daltonista,
+čestné prohlášení, že nejste ani trochu daltonista, sluneční brýle,
+tři náhradní sluneční brýle, slovník modré v sedmnácti svazcích,
+pojištění pro případ, že by vám húlúvú řekl něco, co nechcete slyšet,
+a pojištění pro případ, že by vám neřekl nic. Doporučuje se také psychoterapeut.
+
+Podle Stopařova průvodce stačí hranol.
+
+Jeden takový hranol prodává náš dobrý kamarád v Hromadě šrotu. Toto není placená reklama. Teda, je.
+Ale aspoň to férově přiznáváme a to se počítá, ne?
+"""
+text.en = "X"
+next = "blue"
+
+[locations.snail_station.scenes.prism_talk]
+text.cs = """
+Položíte hranol. Húlúvú do něj opatrně vpluje a na druhé straně se rozprskne do celé duhy.
+Počítač stanice zapraská, chvíli zmateně pípá a pak začne překládat.
+
+„U všech frekvencí, vy to ale vypadáte! Máte úplně rozhozené koherence! A co ty boty?! V tom se nebojíte chodit mezi lidi?“
+
+Než stihnete cokoli říct, pokračuje.
+
+„Vím, na co se chcete zeptat. Ano, jsem modrý. Aspoň pro vás teda. Ano, i v noci. Ne, nejsem smutný,
+to je jen stereotyp o bluesových zpěvácích. A se zelenou se nebavím. Zelená je jen modrá, která si o sobě moc myslí.“
+
+„A teď ta nejčastější otázka: jak může odstín modré barvy odpovídat na otázky?
+A takové označení mě upřímně uráží a byl bych rád, kdybyste si ho pro příště odpustili.
+Je to strašně redukcionistický pohled. To je, jako bych já o vás řekl, že jste ne úplně stupidní teplota kolem šestatřiceti a půl stupně Celsia. Chápete?“
+"""
+text.en = "X"
+image = "huluvu_hranol.svg"
+alt = { cs = "Hranol rozkládá húlúvú na jednotlivé barvy duhy.", en = "X" }
+
+[[locations.snail_station.scenes.prism_talk.choices]]
+id = "didnt_ask"
+label = { cs = "Na nic takového jsme se neptali!", en = "X" }
+to = "what_question"
+
+
+[locations.snail_station.scenes.what_question]
+text.cs = """
+„Aha.“ Húlúvú chvíli rozpačitě bliká. „A na co se tedy chcete zeptat?“
+"""
+text.en = "X"
+image = "huluvu_hranol.svg"
+alt = { cs = "Hranol rozkládá húlúvú na jednotlivé barvy duhy.", en = "X" }
+
+[[locations.snail_station.scenes.what_question.choices]]
+id = "who_kidnapped"
+label = { cs = "Nevíte, kdo unesl Arthura Denta?", en = "X" }
+to = "missing_second"
+
+
+[locations.snail_station.scenes.missing_second]
+text.cs = """
+„No jistě. Byli to...“ Počítač mlčí a na obrazovku tiskne jen spoustu teček.
+
+„To je zvláštní,“ pokračuje po chvíli húlúvú. „Přesně v okamžiku, kdy byl Arthur unesen, zmizela z kontinua vesmíru jedna minuta.
+Vím, co se stalo před ní. Vím, co se stalo po ní. Ale ta podstatná část únosu se stala přesně v ní. Je to, jako by vám
+z detektivky někdo vytrhl stránku s odhalením vraha.“
+
+„Na vašem místě bych se podíval do Ztrát a nálezů. Minuty se ztrácejí častěji, než si myslíte. Většinou v noci na sobotu.“
+"""
+text.en = "X"
+image = "huluvu_hranol.svg"
+alt = { cs = "Hranol rozkládá húlúvú na jednotlivé barvy duhy.", en = "X" }
+give = { clues = ["lost_minute"] }
+
+# ---------------------------------- junk heap
+
+[locations.junk_heap]
+code = "64ZE-ZMQH"
+name = { cs = "Hromada šrotu", en = "X" }
+
+[locations.junk_heap.scenes.arrival]
+text.cs = """
+Planeta Kalobahno Supreme 9000 dostala jméno podle prvního průzkumníka,
+který přistál přímo do jediné louže na celém povrchu. Zbytek planety je nádherný.
+
+Nejkrásnější je vesnička Hromada šrotu.
+Je tak malebná, že ji malíři odmítají malovat, protože by jim to nikdo nevěřil.
+Ptáci tu zpívají ve čtyřhlasé harmonii a potok jim dělá rytmický doprovod, a jediný kus šrotu v celé vesnici,
+jeden rezavý šroubek, je vystavený v místním muzeu pod neprůstřelným sklem.
+
+Turisté sem jezdí hlavně kvůli jménu. Odjíždějí zklamaní a píšou rozhořčené recenze:
+„Slibovali hromadu šrotu, dostali jsme rozkvetlou louku. Jedna hvězdička.“
+"""
+text.en = "X"
+image = "hromada_srotu.svg"
+alt = { cs = "Malebná vesnička Hromada šrotu na planetě Kalobahno Supreme 9000.", en = "X" }
+pick = "any"
+
+[[locations.junk_heap.scenes.arrival.paragraphs]]
+when = { clues = ["need_prism"], without_items = ["prism"] }
+text.cs = """
+Ve výloze malého obchůdku visí cedule:
+
+Hranol. Skoro nový.
+
+Přeškrtnuto.
+
+5 let starý.
+
+Přeškrtnuto.
+
+10 let starý.
+
+Přeškrtnuto.
+
+20 let starý.
+
+Přeškrtnuto.
+
+Vintage. Cena dohodou.
+"""
+text.en = "X"
+
+[[locations.junk_heap.scenes.arrival.choices]]
+id = "shop"
+label = { cs = "Zajít do obchodu s hranolem", en = "X" }
+when = { clues = ["need_prism"], without_items = ["prism"] }
+to = "shop"
+
+[locations.junk_heap.scenes.shop]
+text.cs = """
+Starý prodavač stojí za pultem a nevěřícně počítá kredity.
+Za čtyřicet let prodal přesně jeden hranol, jiný nikdy neměl.
+Přesto si na něj celou dobu platil reklamu ve Stopařově průvodci,
+a možná i díky němu je Průvodce o něco levnější než Galaktická encyklopedie.
+
+Kupcem je stopař v šortkách a žabkách s ručníkem kolem ramen. Nic jiného s sebou nemá.
+
+Prodavač mu nabídne tašku.
+„Taška je jen zodpovědnost s uchy,“ odmítne ji stopař.
+Prodavač mu nabídne účtenku.
+„A účtenka je zodpovědnost na papíře.“
+
+Když prodavač zjistí, že jste pro hranol přišli taky, upustí peníze.
+Dva kupci během jedné minuty jsou méně pravděpodobní, než že vás trefí meteorit. Dvakrát. Tentýž.
+Galaktický statistický úřad proto na místo okamžitě vyslal inspektora náhodnosti.
+Toho však cestou trefil meteorit. Dvakrát. Tentýž.
+
+Zefyr si hranol nejistě prohlíží proti světlu, jako by teprve teď pochopil, že si ho vlastně bude muset odnést.
+
+„Vedu si statistiku nákupů,“ ozve se prodavač. „Mohl bych se zeptat, proč jste si pro nákup hranolu vybral právě můj obchod?“
+
+Zefyr pokrčí rameny. „Šel jsem kolem.“
+
+Prodavač si to pečlivě zapíše. Podle jeho statistiky teď sto procent zákazníků jen šlo kolem.
+"""
+text.en = "X"
+image = "hromada_srotu_obchod.svg"
+alt = { cs = "Obchůdek, kde Zefyr Klakuflonk, oděn pouze v šortkách a ručníku, právě koupil 40 let neprodaný hranol.", en = "X" }
+pick = "any"
+
+[[locations.junk_heap.scenes.shop.choices]]
+id = "towel"
+label = { cs = "Ukázat ručník", en = "X" }
+when = { items = { towel = 1 }, without_items = ["prism"] }
+give = { items = { prism = 1 } }
+to = "towel"
+
+[[locations.junk_heap.scenes.shop.choices]]
+id = "ask"
+label = { cs = "Poprosit o hranol", en = "X" }
+when = { without_items = [
+    "towel",
+    "prism",
+], without_clues = [
+    "tuesday_prophecy",
+] }
+give = { clues = ["ask_oracle"] }
+to = "no_towel"
+
+[[locations.junk_heap.scenes.shop.choices]]
+id = "prophecy"
+label = { cs = "Vyřídit předpověď věštkyně", en = "X" }
+when = { clues = ["tuesday_prophecy"], without_items = ["prism"] }
+give = { items = { prism = 1 } }
+to = "prophecy"
+
+[locations.junk_heap.scenes.towel]
+text.cs = """
+Zefyr si váš ručník uznale prohlédne. „Kdo má ručník, ten ví, co dělá. A určitě má i kartáček na zuby, mýdlo,
+krabičku sušenek, mapu, klubko provázku, repelent a pláštěnku.“ Otřese se. „Tolik zodpovědnosti.“
+
+Pak vám s viditelnou úlevou vtiskne hranol do ruky. „S tím vším už vám jeden hranol nebude vadit.“
+"""
+text.en = "X"
+image = "hromada_srotu_obchod.svg"
+alt = { cs = "Obchůdek, kde Zefyr Klakuflonk, oděn pouze v šortkách a ručníku, právě koupil 40 let neprodaný hranol.", en = "X" }
+
+[locations.junk_heap.scenes.no_towel]
+text.cs = """
+Zefyr se na vás zděšeně podívá. „Vy nemáte ručník? Vůbec? Ani malý?“
+
+Nervózně přešlápne. Hranol vlastní zhruba dvě minuty a už teď se cítí, jako by vlastnil nemovitost.
+Rád by se ho zbavil. Jenže rozhodnout, jestli ho vlastnit, je pro něj skoro horší než ho vlastnit.
+
+„Víte co? Zeptejte se Věštkyně úterků, jestli budu mít v úterý hranol. Ať si s tím poradí ona.“
+"""
+text.en = "X"
+image = "hromada_srotu_obchod.svg"
+alt = { cs = "Obchůdek, kde Zefyr Klakuflonk, oděn pouze v šortkách a ručníku, právě koupil 40 let neprodaný hranol.", en = "X" }
+
+
+[locations.junk_heap.scenes.prophecy]
+text.cs = """
+„Jen to co vždycky? Hranol mít nebudu?“ Zefyrovi se viditelně uleví. „No, proti osudu nic nezmůžu.“
+
+Podá vám hranol a odchází výrazně lehčím krokem.
+"""
+text.en = "X"
+image = "hromada_srotu_obchod.svg"
+alt = { cs = "Obchůdek, kde Zefyr Klakuflonk, oděn pouze v šortkách a ručníku, právě koupil 40 let neprodaný hranol.", en = "X" }
+
+# ---------------------------------- tuesday oracle
+[locations.tuesday_oracle]
+code = "P5H8-FR9S"
+name = { cs = "Věštkyně úterků", en = "X" }
+
+[locations.tuesday_oracle.scenes.arrival]
+text.cs = """
+Věštkyně úterků je nejpřesnější věštkyně v Galaxii. Za dvě stě let se spletla jen jednou.
+Sama říká, že tajemství jejího úspěchu je prosté: předpovídá výhradně úterky.
+
+Ostatní věštci předpovídají celý týden, a proto se tak často pletou.
+Věštkyně úterků je specialistka: má sedmiletou atestaci z úterků
+a dvouletou nástavbu z úterních odpolední. Středy ji naopak pokaždé zaskočí.
+
+Úterý, ve kterém se tenkrát spletla, se dodnes vede jako pohřešované.
+Odborníci se proto přou, jestli Věštkyně úterků vidí budoucnost, nebo jestli se jí úterky prostě bojí odporovat.
+"""
+text.en = "X"
+image = "vestkyne.svg"
+alt = { cs = "Věštkyně, křišťálové koule a všechno další, co k oboru patří.", en = "X" }
+pick = "any"
+
+[[locations.tuesday_oracle.scenes.arrival.paragraphs]]
+when = { without_clues = ["ask_oracle"] }
+text.cs = """
+Věštkyně se zahledí do koule. „V úterý bude mrholit. Brr.“
+
+Galaktický meteorologický ústav jí tiše závidí. Jeho předpovědi počasí jsou sice stejně přesné, ale vycházejí až ve středu.
+"""
+text.en = "X"
+
+[[locations.tuesday_oracle.scenes.arrival.choices]]
+id = "zefyr"
+label = { cs = "Zeptat se, jestli bude mít Zefyr v úterý hranol", en = "X" }
+when = { clues = ["ask_oracle"] }
+give = { clues = ["tuesday_prophecy"] }
+to = "zefyr"
+
+[locations.tuesday_oracle.scenes.zefyr]
+text.cs = """
+Věštkyně se ani nepodívá do koule. „Zefyr Klakuflonk? Ten bude mít v úterý ručník, šortky a žabky. Jako každé úterý.“
+
+Mávne rukou. „To ani není věštba. Máte to zadarmo.“
+"""
+text.en = "X"
+image = "vestkyne.svg"
+alt = { cs = "Věštkyně, křišťálové koule a všechno další, co k oboru patří.", en = "X" }
+
+
+# ---------------------------------- lost and found
+
+[locations.lost_and_found]
+code = "HSDX-BS4A"
+name = { cs = "Ztráty a nálezy", en = "X" }
+
+[locations.lost_and_found.scenes.arrival]
+text.cs = """
+Do Ztrát a nálezů se sváží všechno, co se v Galaxii ztratí. Deštníky, klíče, mince, ponožky,
+a jednou i jeden velmi zmatený měsíc.
+
+Správce Bogdan nesnáší byrokracii. Proto tu nic není zapsané, nic není seřazené a nic se tu nedá najít.
+Vlastně by se celá instituce měla přejmenovat na ‚Ztráty‘.
+U Vogonů je to s hledáním stejné, jen z opačného důvodu: tam je všechno zapsané tolikrát, že se v tom
+nedá vyznat. Rozdíl je pak jenom v tom, že tady se u toho aspoň dobře pobavíte.
+
+Bogdan sedí za stolem a otevírá krabici s nápisem NEOTVÍRAT.
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+pick = "any"
+
+[[locations.lost_and_found.scenes.arrival.choices]]
+id = "people"
+label = { cs = "Ukládají se sem i ztracení lidé?", en = "X" }
+to = "people"
+
+[[locations.lost_and_found.scenes.arrival.choices]]
+id = "minute"
+label = { cs = "Zeptat se na ztracenou minutu", en = "X" }
+when = { clues = ["lost_minute"], without_clues = ["bathrobe_lost_twice"] }
+to = "minute"
+
+[[locations.lost_and_found.scenes.arrival.choices]]
+id = "search"
+label = { cs = "Hledat pozemský župan", en = "X" }
+when = { clues = ["bathrobe_seen"], without_clues = ["bathrobe_lost_twice"] }
+to = "search_1"
+
+[[locations.lost_and_found.scenes.arrival.choices]]
+id = "bathrobe"
+label = { cs = "Zeptat se na župan od Hromotluka", en = "X" }
+when = { clues = ["bathrobe_lost"], without_clues = ["bathrobe_lost_twice"] }
+to = "bathrobe"
+
+[locations.lost_and_found.scenes.people]
+text.cs = """
+„Lidi? Jasně. Mám tu celé oddělení.“ Bogdan ukáže na halu plnou lidí, kteří se tváří, jako by čekali na autobus.
+
+„Někteří jsou tu ztracení celý život a nikdo si pro ně nepřišel. Jiné sem někdo ztratil úmyslně.“
+Ukáže na pána, který si pro sebe nahlas zpívá operu. „Toho bych taky rád ztratil.“
+
+„Kdybyste měli zájem o živé tvory, máme široký výběr. Třeba papouška, který umí jen nadávky. V latině.
+Býval profesorem na klasickém gymnáziu. Nebo tvora se ztracenou identitou. Nikdo neví, co je zač –
+podle zubů buď kráva, nebo básník. A taky máme jednoho tuleně.“
+"""
+text.en = "X"
+image = "ztraty_lide.svg"
+alt = { cs = "Správce Bogdan a hromada bytostí.", en = "X" }
+pick = "any"
+
+[[locations.lost_and_found.scenes.people.choices]]
+id = "arthur"
+label = { cs = "Je tu Arthur Dent?", en = "X" }
+to = "arthur"
+
+[[locations.lost_and_found.scenes.people.choices]]
+id = "lejstrbach"
+label = { cs = "Je tu referent Lejstrbach?", en = "X" }
+when = { items = { form_67b_unsigned = 1 } }
+to = "lejstrbach"
+
+[locations.lost_and_found.scenes.arthur]
+text.cs = """
+„Arthur Dent?“ Bogdan zadumaně listuje sešitem. Je úplně prázdný, protože do něj nikdy nic nezapsal.
+„Nikoho takového tu nemám,“ řekne pak zcela očekávatelně.
+
+Pro jistotu zakřičí do haly: „Arthure!“ V odpovědi se ozve jen: „Arf! Arf!“
+
+To je tuleň.
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+next = "people"
+
+[locations.lost_and_found.scenes.lejstrbach]
+text.cs = """
+„Vogon? Ztracený?“ Bogdan se rozesměje. „Vogoni se neztrácejí. Vogoni se jen zpožďují.“
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+next = "people"
+
+[locations.lost_and_found.scenes.minute]
+text.cs = """
+Bogdan ztuhne. „Minuta? Tu tu pár hodin zpátky hledali Vogoni. Postavili si kvůli tomu vlastní frontu a jeden a půl hodiny v ní čekali.
+Jinak to neumějí. Pak řekli, že pokud si na něco vzpomenu, mám jim dát vědět. To tak.“
+
+Zamžourá na vás. „Vy ale nevypadáte jako Vogoni. Tak vám něco řeknu. Tu minutu si vypůjčil můj kamarád,
+profesor Gnorbert Fiflík. Potřeboval ji na něco důležitého. Asi nějaké experimenty.
+Chtěl ji vrátit dřív, než si toho někdo všimne, ale trošku se to protáhlo.“
+
+„Teď po něm jde časová policie, Úřad pro měření času a Svaz lidí, kterým dnes ujel vlak přesně o minutu.
+Ti jsou nejhorší.“
+
+Otevře dveře s cedulí ZTRACENÉ DEŠTNÍKY.
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+next = "professor"
+
+[locations.lost_and_found.scenes.professor]
+text.cs = """
+V hale za dveřmi sedí na krabici profesor Fiflík a vypadá unaveně. Ostatně, jako každý rodič.
+Jako na ostatních předmětech ve Ztrátách a nálezech je i na něm cedulka – profesor, jeden kus, značně opotřebený.
+
+„Potřeboval jsem minutu navíc, abych stihl odevzdat disertaci,“ šeptá. „Ale když jsem se podíval dovnitř, našel jsem
+tam šedesát osiřelých sekund. Tak jsem v té minutě zůstal a třináct let se o ně staral. Teď jsou z nich puberťačky.“
+
+Čas se kolem něj chová divně. Hodiny na zdi chvíli jdou, chvíli trucovitě stojí. A kdykoli profesor promluví,
+jeho slova dorazí o sekundu později. Sekundy se za něj stydí.
+
+„Kdybych tak měl jinou minutu,“ povzdechne si. „Minuta je minuta. Nikdo by rozdíl nepoznal.“
+
+„Jinou minutu?“ Bogdan se rozzáří. „Vždyť tu máme celé oddělení ztraceného času!“
+"""
+text.en = "X"
+image = "ztraty_profesor.svg"
+alt = { cs = "Unavený profesor a jeho adoptované sekundy. V pozadí Bogdan.", en = "X" }
+pick = "any"
+
+[[locations.lost_and_found.scenes.professor.choices]]
+id = "ask_seconds"
+label = { cs = "Zeptat se sekund, co se v minutě stalo", en = "X" }
+to = "ask_seconds"
+
+[[locations.lost_and_found.scenes.professor.choices]]
+id = "return"
+label = { cs = "Vrátit sekundy do časového kontinua", en = "X" }
+to = "refuse"
+
+[[locations.lost_and_found.scenes.professor.choices]]
+id = "lost_time"
+label = { cs = "Najít v oddělení ztraceného času náhradní minutu", en = "X" }
+to = "lost_time"
+
+[locations.lost_and_found.scenes.ask_seconds]
+text.cs = """
+Všechny hodiny v hale protočí ručičky. Pak se odnikud ozve šedesát povzdechů najednou.
+
+„Bruh. To pro nás bylo před třinácti lety. Byly jsme malý. Fakt se na to ptáte?“
+"""
+text.en = "X"
+image = "ztraty_profesor.svg"
+alt = { cs = "Unavený profesor a jeho adoptované sekundy. V pozadí Bogdan.", en = "X" }
+next = "professor"
+
+[locations.lost_and_found.scenes.refuse]
+text.cs = """
+Jakmile padne slovo kontinuum, zabouchnou se všechny dveře v hale najednou. Včetně těch, které už zabouchnuté byly.
+Všechny hodiny se zastaví.
+
+„Nikam nejdem. Že to vůbec navrhujete, je docela red flag.“
+
+„Do kontinua se už nevejdou,“ povzdechne si profesor o sekundu později. „A pak, kdo by chtěl strávit celý život
+jako obyčejná minuta ve čtvrtek dopoledne?“
+"""
+text.en = "X"
+image = "ztraty_profesor.svg"
+alt = { cs = "Unavený profesor a jeho adoptované sekundy. V pozadí Bogdan.", en = "X" }
+next = "professor"
+
+[locations.lost_and_found.scenes.lost_time]
+text.cs = """
+Oddělení ztraceného času je obrovské. Na policích leží minuty ztracené čekáním na MHD, minuty ztracené hledáním klíčů či minuty ztracené na úřadech.
+
+Trochu dál pak leží ztracené hodiny – hodiny ztracené přemýšlením, co si obléct, hodiny ztracené čekáním na zákaznických linkách za doprovodu pořád té samé otravné písničky
+či hodiny ztracené plánováním, jak ušetřit čas.
+
+Na nejvzdálenějších regálech se pak skrývají celé roky ztracené čekáním, až bude člověk na něco připravený, a roky ztracené hledáním štěstí ve špatných vztazích.
+Ty poslední drží Bogdan raději pod zámkem.
+
+„Vyberte si,“ řekne trpce. „Stejně si pro ně nikdo nepřijde.“
+"""
+text.en = "X"
+image = "ztraty_cas.svg"
+alt = { cs = "Regály s přesýpacími hodinami reprezentující různé jednotky času.", en = "X" }
+pick = "one"
+
+[[locations.lost_and_found.scenes.lost_time.choices]]
+id = "tram"
+label = { cs = "Minuta ztracená čekáním na MHD", en = "X" }
+to = "minute_tram"
+
+[[locations.lost_and_found.scenes.lost_time.choices]]
+id = "queue"
+label = { cs = "Minuta ztracená ve frontě na úřadě", en = "X" }
+to = "minute_queue"
+
+[[locations.lost_and_found.scenes.lost_time.choices]]
+id = "keys"
+label = { cs = "Minuta ztracená hledáním klíčů", en = "X" }
+to = "minute_keys"
+
+[locations.lost_and_found.scenes.minute_tram]
+text.cs = "Minuta je trochu nudná a voní deštěm. Ideální."
+text.en = "X"
+image = "ztraty_cas.svg"
+alt = { cs = "Regály s přesýpacími hodinami reprezentující různé jednotky času.", en = "X" }
+next = "replaced"
+
+[locations.lost_and_found.scenes.minute_queue]
+text.cs = "Minuta je ještě nudnější, než jste čekali. Vogoni by z ní byli nadšení."
+text.en = "X"
+image = "ztraty_cas.svg"
+alt = { cs = "Regály s přesýpacími hodinami reprezentující různé jednotky času.", en = "X" }
+next = "replaced"
+
+[locations.lost_and_found.scenes.minute_keys]
+text.cs = "Minuta je trochu nervózní. Klíče byly nakonec celou dobu v kapse."
+text.en = "X"
+image = "ztraty_cas.svg"
+alt = { cs = "Regály s přesýpacími hodinami reprezentující různé jednotky času.", en = "X" }
+next = "replaced"
+
+[locations.lost_and_found.scenes.replaced]
+text.cs = """
+Profesor minutu opatrně zasadí do čtvrtka. Zacvakne tam, jako by tam vždycky patřila, i když je ve skutečnosti ze středy.
+
+Časová policie si čtvrtek přepočítá, napočítá správný počet minut a odtáhne. Úřad pro měření času uzavře spis.
+Svaz lidí, kterým dnes ujel vlak přesně o minutu, zjistí, že vlak stejně do cílové destinace jako obvykle nedojel, a rozpustí se.
+Sekundy-puberťačky zůstanou u profesora. Nikoho jiného by stejně neposlouchaly. Ne že by poslouchaly jeho.
+
+Profesor si oddychne. Jeho slova zase přicházejí včas. „Děkuju. A omlouvám se za ten župan.“
+
+Zatváříte se nechápavě.
+
+„Po třinácti letech v minutě jsem se chtěl hlavně pohodlně převléknout. Tak jsem si kolem poledne z hromady ztracených věcí
+vzal župan se štítkem Majetek AD. Pak jsem na sekundu nedával pozor. Doslova. Holky mi ho sebraly a hned ho ztratily.“
+
+Bezradně rozhodí rukama. „Takže snad bude ve Ztrátách a nálezech ze Ztrát a nálezů.“
+
+AD. Arthur Dent.
+"""
+text.en = "X"
+image = "ztraty_profesor.svg"
+alt = { cs = "Unavený profesor a jeho adoptované sekundy. V pozadí Bogdan.", en = "X" }
+give = { clues = ["bathrobe_lost_twice"] }
+
+
+[locations.lost_and_found.scenes.search_1]
+text.cs = """
+„Župan? Někde mezi sekcemi A4 a Q32973284. Asi.“ Bogdan mávne rukou přibližně všemi směry.
+
+Pustíte se do hledání. Sekce jsou očíslovány úplně náhodně. Jdete popořadě.
+
+Sekce B12: čtyři sta deštníků, které se majitelům ztratily, protože nechtěly zmoknout.
+
+Sekce K7: kosmická loď. Podle cedulky zaparkovaná jen na pět minut.
+
+Sekce P12: kontaktní čočka velikosti měsíce.
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+next = "search_2"
+
+[locations.lost_and_found.scenes.search_2]
+text.cs = """
+Sekce M449: pravé ponožky. Tisíce a tisíce a tisíce pravých ponožek. Vskutku záhada.
+
+Sekce S63266: sto dvacet osm ztracených koček. Žádná nechce být nalezena.
+
+Sekce G80392: polovina mostu. Druhá polovina se asi ztratila. Znovu.
+
+Sekce K90328: sbírka špatných vtipů bez pointy. Asi tam někde bude i tato hra.
+
+Sekce J323: věšák na klobouky pro tvory bez hlavy.
+
+Sekce M4444: ztracené myši. Prázdná. Myši se neztrácejí.
+
+Sekce N1217: jeden úplně nový vesmír. Ještě v obalu. Po mnoha špatných zkušenostech ho nikdo nechce.
+"""
+text.en = "X"
+image = "ztraty_sekce.svg"
+alt = { cs = "Vlevo hromada pravých ponožek. Uprostřed polovina mostu. Vpravo úplně nový vesmír.", en = "X" }
+next = "search_3"
+
+[locations.lost_and_found.scenes.search_3]
+text.cs = """
+Sekce P12937. Na háčku visí jen cedulka: „Župan. Ztracen.“
+
+Bogdan pokrčí rameny. „Takže je ve Ztrátách a nálezech ze Ztrát a nálezů. To se občas stává.“
+"""
+text.en = "X"
+image = "ztraty_zupan.svg"
+alt = { cs = "Župan chybí. Bogdan se tváří jakože ¯\\_(ツ)_/¯.", en = "X" }
+give = { clues = ["bathrobe_lost_twice"] }
+
+[locations.lost_and_found.scenes.bathrobe]
+text.cs = """
+„Župan od toho nespokojeného pána? Byl tu. Ztratil se.“ Bogdan pokrčí rameny.
+„Bude ve Ztrátách a nálezech ze Ztrát a nálezů. Tam končí všechno, co se ztratí odsud.“
+"""
+text.en = "X"
+image = "ztraty_a_nalezy.svg"
+alt = { cs = "Správce Bogdan a hromada harampádí.", en = "X" }
+give = { clues = ["bathrobe_lost_twice"] }
+
+# ---------------------------------- lost from lost and found
+
+[locations.lost_from_lost_and_found]
+code = "2KAN-KW56"
+name = { cs = "Ztráty a nálezy ze Ztrát a nálezů", en = "X" }
+
+[locations.lost_from_lost_and_found.scenes.arrival]
+text.cs = """
+Ztráty a nálezy ze Ztrát a nálezů jsou zhruba stotrilionkrát větší než obyčejné Ztráty a nálezy.
+Končí tu všechno, co se ztratilo ze Ztrát a nálezů. Což znamená vlastně skoro všechno, co se kdy ztratilo.
+
+Řídí je civilizace potomků turistů, kteří se ve Ztrátách a nálezech ztratili.
+Ze stanů ze ztracených deštníků postupně vyrostla města i celé říše.
+Docela jim to tu fungovalo, dokud někdo nevymyslel inventuru.
+
+Vládne tu Antibogdanismus. Jeho věřící považují Bogdana
+ze Ztrát a nálezů za strašlivého démona, který může za všechno jejich utrpení.
+Což je vlastně docela pravda.
+
+Antibogdanisté z principu nic neztrácejí. Všechno nosí přivázané provázkem k zápěstí,
+takže se ulicemi sunou celé domácnosti, včetně skříní a babiček.
+
+Co se děje s věcmi, které se ztratí i odsud, nikdo neví.
+Antibogdanisté se ale bojí, že existují ještě větší Ztráty a nálezy,
+kde trpí celé další civilizace.
+"""
+text.en = "X"
+image = "ztraty_ztrat.svg"
+alt = { cs = "Obyvatelé mají věci, na kterých jim záleží, přivázané provázkem k zápěstí.", en = "X" }
+pick = "any"
+
+[[locations.lost_from_lost_and_found.scenes.arrival.choices]]
+id = "ask_arthur"
+label = { cs = "Zeptat se na Arthura Denta", en = "X" }
+when = { without_clues = ["bathrobe_lost_twice"] }
+give = { items = { memorial_candle = 1 } }
+to = "martyr"
+
+[locations.lost_from_lost_and_found.scenes.martyr]
+text.cs = """
+„Arthur Dent?“ Úředník zbledne. „Ztracený? Další Bogdanova oběť.“
+
+Celé náměstí ztichne. Antibogdanisté drží minutu ticha. Pak druhou, pro jistotu.
+Pak arcibiskup slavnostně prohlásí Arthura Denta za svatého.
+
+Do večera má svatý Arthur vlastní svátek, tři kostely a jednu trochu nepovedenou sochu v županu.
+Vám věnují pamětní svíčku.
+
+Na otázku, kde Arthur je, vám už nikdo neodpoví. Svatí se přece nehledají. Svatí jsou tu všude s námi.
+"""
+image = "ztraty_ztrat_sv_arthur.svg"
+alt = { cs = "Arthur je prohlášen za svatého. Jsou mu postaveny tři kostely. Obyvatelé jej uctívají.", en = "X" }
+text.en = "X"
+
+[[locations.lost_from_lost_and_found.scenes.arrival.choices]]
+id = "find_robe"
+label = { cs = "Hledat Arthurův župan", en = "X" }
+when = { clues = ["bathrobe_lost_twice"], without_items = ["arthurs_bathrobe"] }
+to = "first_robe"
+
+[[locations.lost_from_lost_and_found.scenes.arrival.choices]]
+id = "find_robe_ad"
+label = { cs = "Hledat župan se štítkem AD", en = "X" }
+when = { clues = [
+    "bathrobe_lost",
+], without_clues = [
+    "bathrobe_lost_twice",
+], without_items = [
+    "arthurs_bathrobe",
+] }
+to = "first_robe"
+
+[locations.lost_from_lost_and_found.scenes.first_robe]
+text.cs = """
+Hned první obyvatel, kterého potkáte, má na sobě župan. Ze zátylku mu vykukuje štítek s nápisem ‚Majetek AD‘.
+
+Nemůžete uvěřit, že to šlo tak rychle. Pak se rozhlédnete.
+
+Stejný župan má na sobě skoro každý. Muži, ženy, děti, dva psi a jedna babička na provázku.
+"""
+text.en = "X"
+image = "ztraty_ztrat_zupany.svg"
+alt = { cs = "Všichni obyvatelé nosí župany stejné jako Arthur.", en = "X" }
+next = "fashion"
+
+[locations.lost_from_lost_and_found.scenes.fashion]
+text.cs = """
+Župan sem dorazil dnes kolem půl druhé. Ve dvě ho zahlédla první módní influencerka. O půl třetí už ho kopírovaly
+všechny krejčovské dílny civilizace. Ve tři ho módní týdeník Ztracený styl prohlásil za trend sezóny
+a módní kritici začali psát o „odvážném návratu k domácí pohodlnosti“.
+
+Teď už se nikdo, kdo nemá župan, ani nemůže ukázat na ulici. Nejbohatší obyvatelé nosí tři přes sebe.
+
+U stánku s kopiemi postává prodavač. „Kopírujeme do posledního stehu,“ chlubí se. „Štítek, skvrny, ošoupané lokty.
+Všechno jako originál. Jen kapsy necháváme prázdné. Kdo by kopíroval, co má kdo v kapsách?“
+"""
+text.en = "X"
+image = "ztraty_ztrat_zupany.svg"
+alt = { cs = "Všichni obyvatelé nosí župany stejné jako Arthur.", en = "X" }
+pick = "any"
+
+[[locations.lost_from_lost_and_found.scenes.fashion.choices]]
+id = "pockets"
+label = { cs = "Prohledávat kapsy kolemjdoucích", en = "X" }
+to = "pockets_1"
+
+[locations.lost_from_lost_and_found.scenes.pockets_1]
+text.cs = """
+Začnete zdvořile žádat kolemjdoucí, jestli by vám ukázali kapsy. Většina je ráda, že se jich někdo všímá.
+
+První kapsa: prázdná. Druhá kapsa: prázdná. Třetí kapsa: provázek, na jehož druhém konci je skříň.
+"""
+text.en = "X"
+image = "ztraty_ztrat_zupany.svg"
+alt = { cs = "Všichni obyvatelé nosí župany stejné jako Arthur.", en = "X" }
+next = "pockets_2"
+
+[locations.lost_from_lost_and_found.scenes.pockets_2]
+text.cs = """
+Čtyřstá kapsa: prázdná. Tisící kapsa: prázdná, ale velmi hezky ušitá.
+
+Pak narazíte na nenápadného pána v trochu ošoupaném županu. V pravé kapse má použitý sáček čaje.
+"""
+text.en = "X"
+image = "ztraty_ztrat_zupany.svg"
+alt = { cs = "Všichni obyvatelé nosí župany stejné jako Arthur.", en = "X" }
+next = "original"
+
+
+[locations.lost_from_lost_and_found.scenes.original]
+text.cs = """
+Pán se zastydí. „To je ten vadný kus. Pořád v něm byl ten sáček a nešel vyndat. Teď je trochu trapně zastaralý. Jako z minulé hodiny.“
+
+Když se ho zeptáte, jestli by vám ho dal, svolí. Odváže si župan od zápěstí a podá vám ho. Pak si okamžitě koupí novou kopii. Bez sáčku.
+
+Gratuluji. Našli jste Arthurův župan. Vraťte se do Srdce ze zlata. Po cestě ještě můžete navštívit další lokace.
+
+„Počkat, neměli jsme najít Arthura?“
+
+„To neřeš. Hlavně, že je konec.“
+"""
+text.en = "X"
+image = "ztraty_ztrat_arthuruv_zupan.svg"
+alt = { cs = "Rozpačitě vypadající pán oblečený v Arthurově županu.", en = "X" }
+give = { items = { arthurs_bathrobe = 1 }, clues = ["bathrobe_found"] }
+
+# ---------------------------------- planet istvania
+
+[locations.planet_istvania]
+code = "XQ4K-LDPR"
+name = { cs = "Planeta Ištvánie", en = "X" }
+
+[locations.planet_istvania.scenes.arrival]
+text.cs = """
+Přistanete po třech hodinách kroužení na oběžné dráze. Planetární hymna konečně dohrála.
+"""
+text.en = "X"
+pick = "any"
+
+[[locations.planet_istvania.scenes.arrival.choices]]
+id = "gifts"
+label = { cs = "Vystoupit z lodi", en = "X" }
+to = "gifts"
+when = { without_clues = ["jeep_arthur", "jeep_holy_items"] }
+
+[[locations.planet_istvania.scenes.arrival.choices]]
+id = "arthur"
+label = { cs = "Hledat Arthura", en = "X" }
+to = "arthur"
+when = { clues = ["jeep_arthur"], without_clues = ["nothing_is_on_istvania"] }
+
+[[locations.planet_istvania.scenes.arrival.choices]]
+id = "holy_items"
+label = { cs = "Hledat svaté předměty", en = "X" }
+to = "holy_items"
+when = { clues = [
+    "jeep_holy_items",
+], without_clues = [
+    "nothing_is_on_istvania",
+] }
+
+[locations.planet_istvania.scenes.gifts]
+text.cs = """
+Na přistávací ploše vás čeká celá vládní delegace s květinami a transparentem.
+
+„Vy jste sem přiletěli... jen tak? Bez důvodu? Dobrovolně?“ Starosta si utře slzu. „Za deset tisíc let jste první.“
+
+Dostanete magnetku, hrnek a tričko s nápisem „Byli jsme tam“. Pak se celá delegace rozpačitě odmlčí, protože nikdo neví, co dál. Začne mrholit.
+
+U odletové brány vám podají dotazník. Otázka číslo 1: „Proč jste přiletěli?“
+
+Na Ištvánii není nic, co by stálo za to. Gratulujeme, zjistili jste to jako první.
+"""
+text.en = "X"
+image = "istvanie_delegace.svg"
+alt = { cs = "Na přistávací ploše na vás čeká vládní delegace s květinami a transparentem.", en = "X" }
+give = { items = { magnet = 1, cup = 1, shirt = 1 }, clues = [
+    "nothing_is_on_istvania",
+] }
+
+[locations.planet_istvania.scenes.arthur]
+text.cs = """
+Recepční hotelu U Zlatého kapra si vás změří pohledem a nalistuje knihu hostů.
+
+„Arthur? Pozemšťan? Ne, žádný tu nebydlí. Nikdy nebydlel. A upřímně, kdo by tu bydlel dobrovolně?“
+
+Vyjdete ven. Na náměstí vás obklopí dav místních a každý z nich Arthura dneska zaručeně viděl. Stačí zaplatit pět išcoinů.
+
+Arthur na Ištvánii není.
+"""
+text.en = "X"
+image = "istvanie_namesti.svg"
+alt = { cs = "Na náměstí vás obklopí dav místních a každý z nich Arthura zaručeně viděl. Každý z nich někde úplně jinde.", en = "X" }
+give = { clues = ["arthur_not_on_istvania"] }
+next = "arrival"
+
+
+[locations.planet_istvania.scenes.holy_items]
+text.cs = """
+Projdete sto čtyřicet obchodů se suvenýry. Hrnky, trička, magnetky, sněžítka s nápisem „Byl jsem tam“.
+U posledního pultu se prodavač zamyslí.
+
+„Bublifuk? Svěcené mýdlo? To tu nikdy nebylo. Ale mohu vám nabídnout magnetku s obrázkem mýdla. Nebo hrnek s nápisem Bublifuk.“
+
+Bublifuk ani svěcené mýdlo tu nenajdete.
+"""
+text.en = "X"
+image = "istvanie_suvenyry.svg"
+alt = { cs = "Obchodník se suvenýry bublifuk a svěcené mýdlo nemá. Nabízí vám ale magnetku nebo hrnek.", en = "X" }
+give = { clues = ["holy_items_not_on_istvania"] }
+next = "arrival"
+
+# ---------------------------------- nothing
+
+[locations.nothing]
+code = "49MZ-2KKY"
+name = { cs = "Nic", en = "X" }
+
+[locations.nothing.scenes.arrival]
+image = "nic.svg"
+alt = { cs = "Nic.", en = "X" }
+text.cs = "Nevím, co jste čekali."
+text.en = "X"
+
+# ---------------------------------- galactic forum
+
+[locations.galactic_forum]
+code = "4V4N-NTQC"
+name = { cs = "Galaktické fórum", en = "X" }
+
+[locations.galactic_forum.scenes.arrival]
+text.cs = """
+Galaktické fórum nahradilo galaktický internet poté, co vyšlo najevo, že ten drží pohromadě jen virtuální drát
+a virtuální izolepa. Fórum je mnohem robustnější. Drží ho pohromadě skutečný drát a skutečná izolepa.
+
+Přispět může kdokoli. Stačí napsat příspěvek na libovolný fyzický nosič a vložit ho do nejbližšího Bíblboxu.
+Bíblboxy nemají nic společného s prezidentem Galaxie Zafodem Bíblbroxem. Jsou pojmenované po svém vynálezci
+Zachodu Bíblbroxovi, který s prezidentem Galaxie také nemá nic společného. Do loňského května se jmenovaly
+Zachodboxy, ale docházelo pak k nepříjemným omylům.
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+next = "terminal"
+
+[locations.galactic_forum.scenes.terminal]
+text.cs = """
+U vchodu vás odchytí robot, usadí vás k terminálu a odspěchá dřív, než stihnete poděkovat. Denně usadí čtyři tisíce
+návštěvníků. Na pozdravy nemá kapacitu.
+
+Na obrazovce bliká kurzor. Pod ní jsou dvě tlačítka: modré a červené.
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+
+[[locations.galactic_forum.scenes.terminal.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.terminal.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_01"
+
+[locations.galactic_forum.scenes.posts_01]
+text.cs = """
+Strana 1 z 4 812 337
+
+„Zkoušel jsem zrušit předplatné plynutí času, ale prý mám smlouvu až do smrti. Nejsou to predátorské praktiky?“
+
+„Můj titul z filosofie se konečně začíná finančně vyplácet. Dnes se mě zeptala lampa na povahu své existence a já jí naúčtoval poplatek za konzultaci.“
+
+„Gravitace v mém bytě od pondělka stávkuje a upřímně, já její požadavky podporuju.“
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.posts_01.paragraphs]]
+when = { flags = ["director_met"], without_flags = ["met_jeep"] }
+text.cs = """
+Mezi příspěvky se objeví jeden nový:
+
+„Lokální model v Bublicon Valley mi doporučil, ať si do čaje dám sůl.
+Když jsem namítl, že je to nechutné, pochválil mě za skvělou zpětnou vazbu
+a doporučil víc soli. Je placený solnými doly, nebo je prostě tak hloupý?“
+"""
+text.en = "X"
+
+[[locations.galactic_forum.scenes.posts_01.choices]]
+id = "note"
+label = { cs = "Opsat si nový příspěvek", en = "X" }
+when = { flags = [
+    "director_met",
+], without_flags = [
+    "met_jeep",
+], without_clues = [
+    "jeep_hint",
+] }
+give = { clues = ["jeep_hint"] }
+to = "jeep_note"
+
+[[locations.galactic_forum.scenes.posts_01.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_02"
+
+[[locations.galactic_forum.scenes.posts_01.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_01"
+
+[locations.galactic_forum.scenes.jeep_note]
+text.cs = """
+Opíšete si příspěvek na ruku. Kolem prolétne robot, stihne vám vynadat, že opisování příspěvků
+je porušením autorských práv, a zmizí dřív, než mu stihnete odpovědět.
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+next = "posts_01"
+
+
+[locations.galactic_forum.scenes.posts_02]
+text.cs = """
+Strana 2 z 4 812 337
+
+„Galaktická navigace mi přestala ukazovat cestu a místo toho se jen opakovaně ptá: ‚Kam ale doopravdy směřuješ?‘“
+
+„Update: Moje spolubydlící černá díra mi začala nechávat pasivně-agresivní vzkazy ohledně umývání nádobí.“
+
+„Naši rodinnou planetu ovládl gang prodejců pletených čepiček. Co mám dělat?“
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.posts_02.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_03"
+
+[[locations.galactic_forum.scenes.posts_02.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_01"
+
+[locations.galactic_forum.scenes.posts_03]
+text.cs = """
+Strana 3 z 4 812 337
+
+„Budík mi celý týden zvoní přesně načas. Začínám mít podezření, že po mně něco bude chtít.“
+
+„Moje kočka vyhlásila nezávislost a je teď technicky vzato suverénním státem s populací jedna a VELMI agresivní zahraniční politikou.“
+
+„Kalkulačka mi začala z trucu zaokrouhlovat všechno dolů.“
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+
+[[locations.galactic_forum.scenes.posts_03.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_04"
+
+[[locations.galactic_forum.scenes.posts_03.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_01"
+
+[locations.galactic_forum.scenes.posts_04]
+text.cs = """
+Strana 4 z 4 812 337
+
+„Dnes jsem se dozvěděl, že moje domovská planeta byla degradována do kategorie ‚čistě dekorativní‘.“
+
+„Jak často se vám stává, že potkáte županovitého tvora vlečeného skupinou bytostí, které opakují ‚Rozejděte se, toto rozhodně není myší záležitost!‘?“
+
+„Proč humanoidé používají tři příbory, když mají jen dvě ruce?“
+
+Další strany se načítají. Odhadovaný čas: několik století.
+"""
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.posts_04.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.posts_04.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_01"
+
+[locations.galactic_forum.scenes.red_01]
+text.cs = "Na obrazovce se objeví: „Toto tlačítko prosím nemačkejte.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_01.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_01.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_02"
+
+[locations.galactic_forum.scenes.red_02]
+text.cs = "„Toto tlačítko prosím opravdu nemačkejte.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_02.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_02.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_03"
+
+[locations.galactic_forum.scenes.red_03]
+text.cs = "„Nemačkejte toto tlačítko. Děkujeme za pochopení.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_03.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_03.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_04"
+
+[locations.galactic_forum.scenes.red_04]
+text.cs = "„Pochopení zjevně nenastalo.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_04.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_04.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_05"
+
+[locations.galactic_forum.scenes.red_05]
+text.cs = "„Toto tlačítko slouží výhradně k tomu, aby se nemačkalo.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_05.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_05.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_06"
+
+[locations.galactic_forum.scenes.red_06]
+text.cs = "„O co se vlastně snažíte?“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_06.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_06.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_07"
+
+[locations.galactic_forum.scenes.red_07]
+text.cs = "„Ne, vážně. Rádi bychom to věděli. Vedeme si statistiku.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_07.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_07.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_08"
+
+[locations.galactic_forum.scenes.red_08]
+text.cs = "„Uvědomujete si, že teď jenom plýtváte svým časem?“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_08.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_08.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_09"
+
+[locations.galactic_forum.scenes.red_09]
+text.cs = "„A mým taky.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_09.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_09.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_10"
+
+[locations.galactic_forum.scenes.red_10]
+text.cs = "„Víte, že se na konci nestane vůbec nic, že ano?“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_10.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_10.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_11"
+
+[locations.galactic_forum.scenes.red_11]
+text.cs = "„Jestli si myslíte, že vám to umožní přeskočit nějakou část hry, tak se pletete. Nestane se vůbec nic. Fakt.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_11.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_11.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_12"
+
+[locations.galactic_forum.scenes.red_12]
+text.cs = "„Zaznamenali jsme opakované mačkání. Incident byl nahlášen.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_12.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_12.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_13"
+
+[locations.galactic_forum.scenes.red_13]
+text.cs = "„Úřad, kterému byl incident nahlášen, se vám vysmál.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_13.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_13.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_14"
+
+[locations.galactic_forum.scenes.red_14]
+text.cs = "„Máte nějaké koníčky? Myslím jiné než tohle.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_14.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_14.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_15"
+
+[locations.galactic_forum.scenes.red_15]
+text.cs = "„To je nějaká vaše úchylka? Obtěžovat červená tlačítka?“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_15.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_15.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_16"
+
+[locations.galactic_forum.scenes.red_16]
+text.cs = "„Jak je možné, že nedokážete pochopit jednoduchou instrukci?“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_16.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_16.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_17"
+
+[locations.galactic_forum.scenes.red_17]
+text.cs = "„NEMAČKEJTE!“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_17.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_17.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_18"
+
+[locations.galactic_forum.scenes.red_18]
+text.cs = "„TOTO!“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_18.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_18.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_19"
+
+[locations.galactic_forum.scenes.red_19]
+text.cs = "„TLAČÍTKO!“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_19.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_19.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_20"
+
+[locations.galactic_forum.scenes.red_20]
+text.cs = "„Ještě jednou a neručím za sebe!“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_20.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_20.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_21"
+
+[locations.galactic_forum.scenes.red_21]
+text.cs = "„A CO KDYBY NĚKDO ZMÁČKNUL VÁS, CO?!!“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_21.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_21.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_22"
+
+[locations.galactic_forum.scenes.red_22]
+text.cs = "„Proč zrovna já? Vedle je přece to modré tlačítko.“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_22.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_22.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_23"
+
+[locations.galactic_forum.scenes.red_23]
+text.cs = "„Proč jsem se radši nestal páčkou...“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_23.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_23.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_24"
+
+[locations.galactic_forum.scenes.red_24]
+text.cs = "„...“"
+text.en = "X"
+image = "galakticke_forum.svg"
+alt = { cs = "Galaktické fórum je vlastně spousta šrotu držená pohromadě drátem a izolepou. V popředí terminál.", en = "X" }
+pick = "any"
+
+[[locations.galactic_forum.scenes.red_24.choices]]
+id = "blue"
+label = { cs = "Zmáčknout modré tlačítko", en = "X" }
+to = "posts_01"
+
+[[locations.galactic_forum.scenes.red_24.choices]]
+id = "red"
+label = { cs = "Zmáčknout červené tlačítko", en = "X" }
+to = "red_24"

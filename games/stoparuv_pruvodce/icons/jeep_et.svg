@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Džíp E.T.: krásná tvář se špičatýma ušima a zlatou září -->
+  <path d="M-6 1a6 7.5 0 1 0 12 0a6 7.5 0 1 0 -12 0Z"/>
+  <path d="M-6 -1Q-6 -8 1 -7.5Q6 -7 6 -1Q4 -5 -1 -4Q-4 -3.5 -6 -1Z"/>
+  <path d="M-6 0L-9 -3L-6 3M6 0L9 -3L6 3"/>
+  <path d="M-2 4Q0 6 2 4"/>
+  <path d="M0 -10.5V-14M-8 -8L-10.5 -10.5M8 -8L10.5 -10.5M-11 -2H-14M11 -2H14"/>
+</svg>

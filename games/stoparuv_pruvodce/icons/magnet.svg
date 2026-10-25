@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Magnetka: rámeček s fotkou obchůdku s markýzou -->
+  <path d="M-10 -10H10A2 2 0 0 1 12 -8V8A2 2 0 0 1 10 10H-10A2 2 0 0 1 -12 8V-8A2 2 0 0 1 -10 -10Z"/>
+  <path d="M-6 7V0H6V7"/>
+  <path d="M-8 0L-6 -5H6L8 0Z"/>
+  <path d="M-2 -5L-3 0M2 -5L3 0"/>
+  <path d="M-1.5 7V3H1.5V7"/>
+</svg>

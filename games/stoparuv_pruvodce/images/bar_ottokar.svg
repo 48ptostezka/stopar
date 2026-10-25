@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Ottokar Zvrnk, čtyřruký barman se dvěma hlavami a knírem na obou rtech každé z nich, se naklání přes bar a měří si hosty pohledy. -->
+  <rect width="480" height="280" fill="#1c1e3f"/>
+  <rect width="480" height="26" fill="#12153a"/>
+  <path d="M0 232 H480 V280 H0Z" fill="#12153a"/>
+  <g stroke="#1c1e3f" stroke-width="2"><path d="M0 250 H480"/><path d="M0 266 H480"/></g>
+  <path d="M90 0 V30" stroke="#595d82" stroke-width="2"/><path d="M78 42 L90 28 L102 42Z" fill="#f0a400"/><circle cx="90" cy="48" r="30" fill="#f0a400" opacity=".1"/>
+  <path d="M400 0 V30" stroke="#595d82" stroke-width="2"/><path d="M388 42 L400 28 L412 42Z" fill="#f0a400"/><circle cx="400" cy="48" r="30" fill="#f0a400" opacity=".1"/>
+  <!-- police s lahvemi -->
+  <rect x="0" y="84" width="480" height="6" rx="2" fill="#23275e"/>
+  <rect x="0" y="140" width="480" height="6" rx="2" fill="#23275e"/>
+  <g>
+    <path d="M30 84 V64 Q30 58 34 56 V48 H38 V56 Q42 58 42 64 V84Z" fill="#0e9c8e"/><rect x="52" y="66" width="14" height="18" fill="#8a73ee"/><path d="M76 84 V60 Q76 54 82 52 V44 H86 V52 Q92 54 92 60 V84Z" fill="#ff5a36"/>
+    <path d="M390 84 V64 Q390 58 394 56 V48 H398 V56 Q402 58 402 64 V84Z" fill="#14c2b0"/><path d="M414 84 V66 Q420 58 426 66 V84Z" fill="#f0a400"/><rect x="438" y="68" width="12" height="16" fill="#6b4fe0"/>
+    <rect x="30" y="124" width="14" height="16" fill="#f0a400"/><path d="M56 140 V118 Q56 112 60 110 V104 H64 V110 Q68 112 68 118 V140Z" fill="#6b4fe0"/>
+    <path d="M410 140 V118 Q410 112 414 110 V104 H418 V110 Q422 112 422 118 V140Z" fill="#ff5a36"/><rect x="434" y="126" width="14" height="14" fill="#0e9c8e"/>
+  </g>
+  <!-- Ottokar zblízka -->
+  <g transform="translate(-321 -100) scale(1.7)">
+    <path d="M318 124 Q312 112 306 104" fill="none" stroke="#d9926a" stroke-width="9" stroke-linecap="round"/>
+    <path d="M342 124 Q350 110 356 102" fill="none" stroke="#d9926a" stroke-width="9" stroke-linecap="round"/>
+    <!-- levá hlava: přimhouřené oko -->
+    <g transform="rotate(10 304 88)">
+      <ellipse cx="304" cy="88" rx="15" ry="18" fill="#d9926a"/>
+      <path d="M294 82 H302" stroke="#1c1e3f" stroke-width="2.2" stroke-linecap="round"/><circle cx="309" cy="83" r="2.4" fill="#1c1e3f"/>
+      <path d="M293 77 l8 2 M306 77 l7 -1" stroke="#1c1e3f" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M292 92 Q298 87 303 92 Q308 87 314 92 Q308 96 303 94 Q298 96 292 92Z" fill="#1c1e3f"/>
+      <path d="M299 97 H307" stroke="#8a3a2a" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M296 100 Q303 98 310 100 Q306 106 303 103 Q300 106 296 100Z" fill="#1c1e3f"/>
+    </g>
+    <!-- pravá hlava: zkoumavý pohled -->
+    <g transform="rotate(-10 358 86)">
+      <ellipse cx="358" cy="86" rx="14" ry="17" fill="#d9926a"/>
+      <circle cx="353" cy="81" r="2.6" fill="#1c1e3f"/><circle cx="363" cy="81" r="2.6" fill="#1c1e3f"/>
+      <path d="M348 75 l8 1 M358 76 l8 -2" stroke="#1c1e3f" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M346 90 Q352 84 358 90 Q364 84 371 89 Q364 94 358 92 Q352 94 346 90Z" fill="#1c1e3f"/>
+      <path d="M354 95 H362" stroke="#8a3a2a" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M350 98 Q358 96 366 98 Q362 105 358 101 Q354 105 350 98Z" fill="#1c1e3f"/>
+    </g>
+    <!-- trup -->
+    <path d="M294 170 Q292 124 330 120 Q368 124 366 170Z" fill="#e3e5ee"/>
+    <path d="M294 170 Q292 124 322 121 L326 170Z" fill="#6b4fe0"/>
+    <path d="M366 170 Q368 124 338 121 L334 170Z" fill="#6b4fe0"/>
+    <path d="M322 126 L330 130 L338 126 L338 134 L330 130 L322 134Z" fill="#ff5a36"/>
+    <!-- čtyři ruce -->
+    <g fill="none" stroke="#e3e5ee" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M300 132 Q282 134 272 146"/>
+      <path d="M300 150 Q290 162 290 172"/>
+      <path d="M360 132 Q380 126 378 104"/>
+      <path d="M360 150 Q370 162 370 172"/>
+    </g>
+    <g fill="#d9926a"><circle cx="270" cy="148" r="6"/><circle cx="290" cy="174" r="6"/><circle cx="376" cy="100" r="5.5"/><circle cx="370" cy="174" r="6"/></g>
+    <!-- nabízí Hvězdný Zakašlák -->
+    <path d="M258 138 H280 L269 151 Z" fill="#14c2b0"/>
+    <path d="M269 151 V158 M263 158 H275" stroke="#caccdc" stroke-width="2" stroke-linecap="round"/>
+    <path d="M269 124 l2 5 l5 1 l-5 2 l-2 5 l-2 -5 l-5 -2 l5 -1Z" fill="#f0a400"/>
+  </g>
+  <!-- bar -->
+  <rect x="0" y="196" width="480" height="40" fill="#595d82"/>
+  <rect x="0" y="186" width="480" height="12" rx="3" fill="#6f739b"/>
+  <g stroke="#4c5074" stroke-width="3"><path d="M120 204 V232"/><path d="M360 204 V232"/></g>
+  <!-- ruce opřené o bar (přes hranu pultu) -->
+  <g fill="#d9926a"><ellipse cx="172" cy="192" rx="11" ry="7"/><ellipse cx="308" cy="192" rx="11" ry="7"/></g>
+  <circle cx="240" cy="40" r="0" fill="none"/>
+  <!-- stoličky -->
+  <rect x="120" y="244" width="50" height="10" rx="5" fill="#8a73ee"/><rect x="310" y="244" width="50" height="10" rx="5" fill="#8a73ee"/>
+  <path d="M145 254 V280 M335 254 V280" stroke="#23275e" stroke-width="5"/>
+</svg>

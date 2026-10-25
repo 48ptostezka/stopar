@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- A ringed planet, filled with currentColor (the page or menu colour).
+       The CSS variable marker-ring sets the ring colour: white on the rails, ink in page headers.
+       (No double hyphens in XML comments: they make the whole file invalid.) -->
+  <symbol id="marker" viewBox="-12 -12 24 24">
+    <circle r="7" fill="currentColor"/>
+    <path d="M-7 0.5A7 7 0 0 0 7 0.5A7 4.5 0 0 1 -7 0.5Z" fill="#000" opacity="0.22"/>
+    <ellipse rx="11.5" ry="3.4" transform="rotate(-18)" fill="none" stroke-width="1.6" style="stroke: var(--marker-ring, rgb(255 255 255 / 0.8))"/>
+  </symbol>
+</svg>

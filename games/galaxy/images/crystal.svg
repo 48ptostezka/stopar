@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Placeholder picture: glowing crystals in a cave. -->
+  <rect width="480" height="280" fill="#1c1e3f"/>
+  <path d="M0 0 H480 V70 Q400 110 340 60 Q280 20 220 70 Q150 120 90 60 Q40 20 0 60Z" fill="#12153a"/>
+  <path d="M0 280 V210 Q120 180 240 200 T480 196 V280Z" fill="#12153a"/>
+  <g stroke="#1c1e3f" stroke-width="3" stroke-linejoin="round">
+    <path d="M110 210 L130 120 L150 210Z" fill="#0e9c8e"/>
+    <path d="M150 210 L178 90 L206 210Z" fill="#14c2b0"/>
+    <path d="M206 210 L222 150 L238 210Z" fill="#0e9c8e"/>
+    <path d="M290 208 L306 150 L322 208Z" fill="#6b4fe0"/>
+    <path d="M322 208 L350 108 L372 170 L360 208Z" fill="#8a73ee"/>
+    <path d="M372 170 L384 150" fill="none" stroke="#f0a400" stroke-width="4"/>
+  </g>
+  <circle cx="178" cy="150" r="60" fill="#14c2b0" opacity=".12"/>
+  <circle cx="340" cy="160" r="50" fill="#8a73ee" opacity=".12"/>
+</svg>

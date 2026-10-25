@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Bublifuk: kroužek na tyčince a dvě bubliny -->
+  <path d="M-9 -5a5 5 0 1 0 10 0a5 5 0 1 0 -10 0Z"/>
+  <path d="M-0.5 -1.5L9 12"/>
+  <path d="M4.5 -10a2.5 2.5 0 1 0 5.0 0a2.5 2.5 0 1 0 -5.0 0Z"/>
+  <path d="M8.5 -3a1.5 1.5 0 1 0 3.0 0a1.5 1.5 0 1 0 -3.0 0Z"/>
+</svg>

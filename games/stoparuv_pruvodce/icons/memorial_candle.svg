@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Pamětní svíčka: sklenice s plamenem a portrétem postavy v županu -->
+  <path d="M0 -14Q3 -10 0 -7Q-3 -10 0 -14Z"/>
+  <path d="M0 -7V-5"/>
+  <path d="M-8 -5H8"/>
+  <path d="M-7 -5V12H7V-5"/>
+  <path d="M-2 0.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z"/>
+  <path d="M-4 9Q-4 4 0 4Q4 4 4 9"/>
+  <path d="M-1.5 4.5L0 7L1.5 4.5"/>
+</svg>

@@ -1,0 +1,90 @@
+/* Trail: Czech hiking-trail signposts. Keys are signs on a pole, badges are
+ * white–colour–white trail blazes, rails are spruce with a dashed path.
+ * Fonts: Barlow and Barlow Condensed (SIL Open Font License). */
+
+@font-face {
+  font-family: "Barlow Condensed";
+  src: url("fonts/barlow-condensed-800.woff2") format("woff2");
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Barlow";
+  src: url("fonts/barlow-400.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Barlow";
+  src: url("fonts/barlow-600.woff2") format("woff2");
+  font-weight: 600;
+  font-display: swap;
+}
+
+:root {
+  --theme-color: #16392b;
+
+  --panel: #e9ede4;
+  --surface: #ffffff;
+  --ink: #16392b;
+  --muted: #4f6b5c;
+  --line: #c9d3c4;
+  --on-accent: #fff;
+  --on-ink: #fff;
+  --accent-1: #d7282f;
+  --accent-2: #1f5fbf;
+  --accent-3: #1e8a3c;
+  --accent-4: #f2c200;
+
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-body: "Barlow", system-ui, sans-serif;
+  --display-weight: 800;
+  --display-transform: uppercase;
+  --display-tracking: 0.01em;
+
+  --radius: 4px;
+  --radius-small: 4px;
+  --border: 3px;
+  --depth-x: 6px;
+  --depth-y: 6px;
+
+  --size-key-label: 34px;
+  --size-heading: 34px;
+  --size-title: 42px;
+
+  --marker-size: 16px;
+  --marker-gap: 140px;
+  --badge-inset: 0px;
+  --badge-gap: 20px;
+}
+
+.rail {
+  background: url("lane.svg") center top / 56px 14px repeat, var(--ink);
+}
+
+/* Blaze band across the left end of the sign, split off by a divider. */
+.badge {
+  align-self: stretch;
+  width: 88px;
+  height: auto;
+  border-radius: 0;
+  border-right: var(--border) solid var(--ink);
+  background: linear-gradient(#fff 0 26%, var(--key-accent) 26% 74%, #fff 74%);
+}
+
+.badge .icon {
+  width: 34px;
+  height: 34px;
+}
+
+/* The signpost pole behind the menu keys. */
+.menu::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -40px;
+  left: calc(50% - 7px);
+  width: 14px;
+  height: 200vh;
+  background: var(--ink);
+}

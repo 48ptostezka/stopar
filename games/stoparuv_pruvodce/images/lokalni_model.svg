@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="lokalni_model.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="258.33409"
+     inkscape:cy="104.65843"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg72" />
+  <!-- Vstupní hala modelingové agentury Bublicon Valley: zlatě zářící krásný model Džíp E.T. pózuje u recepce, usmívá se přes celý obličej a už nabízí tabulku a ódu. -->
+  <defs
+     id="defs3">
+    <radialGradient
+       id="zar"
+       cx="50%"
+       cy="50%"
+       r="50%">
+      <stop
+         offset="0"
+         stop-color="#f0a400"
+         stop-opacity=".55"
+         id="stop1" />
+      <stop
+         offset=".5"
+         stop-color="#f0a400"
+         stop-opacity=".18"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#f0a400"
+         stop-opacity="0"
+         id="stop3" />
+    </radialGradient>
+  </defs>
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect3" />
+  <rect
+     width="480"
+     height="20"
+     fill="#1c1e3f"
+     id="rect4" />
+  <path
+     d="M0 230 H480 V280 H0Z"
+     fill="#141848"
+     id="path4" />
+  <g
+     stroke="#23275e"
+     stroke-width="2"
+     opacity=".6"
+     id="g6">
+    <path
+       d="M0 246 H480"
+       id="path5" />
+    <path
+       d="M0 262 H480"
+       id="path6" />
+  </g>
+  <!-- červený koberec -->
+  <path
+     d="M190 280 L214 230 H266 L290 280Z"
+     fill="#ff5a36"
+     opacity=".85"
+     id="path7" />
+  <!-- kulatá okna s bublinami -->
+  <circle
+     cx="64"
+     cy="90"
+     r="40"
+     fill="#141848"
+     id="circle7" />
+  <circle
+     cx="64"
+     cy="90"
+     r="40"
+     fill="none"
+     stroke="#595d82"
+     stroke-width="5"
+     id="circle8" />
+  <circle
+     cx="416"
+     cy="90"
+     r="40"
+     fill="#141848"
+     id="circle9" />
+  <circle
+     cx="416"
+     cy="90"
+     r="40"
+     fill="none"
+     stroke="#595d82"
+     stroke-width="5"
+     id="circle10" />
+  <g
+     fill="#14c2b0"
+     fill-opacity=".15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.5"
+     id="g16">
+    <circle
+       cx="52"
+       cy="80"
+       r="10"
+       id="circle11" />
+    <circle
+       cx="78"
+       cy="104"
+       r="6"
+       id="circle12" />
+    <circle
+       cx="74"
+       cy="70"
+       r="4"
+       id="circle13" />
+    <circle
+       cx="404"
+       cy="100"
+       r="9"
+       id="circle14" />
+    <circle
+       cx="428"
+       cy="76"
+       r="7"
+       id="circle15" />
+    <circle
+       cx="430"
+       cy="108"
+       r="3.5"
+       id="circle16" />
+  </g>
+  <!-- plakáty s pózujícími modely -->
+  <rect
+     x="122"
+     y="44"
+     width="40"
+     height="58"
+     rx="3"
+     fill="#8a73ee"
+     id="rect16" />
+  <circle
+     cx="142"
+     cy="56"
+     r="6"
+     fill="#e3e5ee"
+     id="circle17" />
+  <path
+     d="M142 64 L136 82 L140 96 M142 64 L148 82 L146 96 M142 68 L132 74 M142 68 L152 62"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="path17" />
+  <rect
+     x="318"
+     y="44"
+     width="40"
+     height="58"
+     rx="3"
+     fill="#0e9c8e"
+     id="rect17" />
+  <circle
+     cx="338"
+     cy="56"
+     r="6"
+     fill="#e3e5ee"
+     id="circle18" />
+  <path
+     d="M338 64 L334 82 L330 96 M338 64 L344 82 L350 96 M338 68 L328 62 M338 68 L348 76"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="path18" />
+  <!-- reflektor -->
+  <path
+     d="M240 20 L190 230 H290Z"
+     fill="#f0a400"
+     opacity=".06"
+     id="path19" />
+  <!-- recepční pult -->
+  <rect
+     x="90"
+     y="176"
+     width="300"
+     height="54"
+     rx="27"
+     fill="#6b4fe0"
+     id="rect20" />
+  <rect
+     x="104"
+     y="184"
+     width="272"
+     height="5"
+     rx="2.5"
+     fill="#8a73ee"
+     id="rect21" />
+  <circle
+     cx="120"
+     cy="160"
+     r="14"
+     fill="#14c2b0"
+     fill-opacity=".15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.5"
+     id="circle21" />
+  <path
+     d="M120 174 V158"
+     stroke="#0e9c8e"
+     stroke-width="2"
+     id="path21" />
+  <circle
+     cx="120"
+     cy="156"
+     r="4"
+     fill="#ff8a6a"
+     id="circle22" />
+  <!-- zlatá záře -->
+  <g
+     stroke="#f0a400"
+     stroke-opacity=".35"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="g27">
+    <path
+       d="M240 34 V20"
+       id="path23" />
+    <path
+       d="M178 52 L170 42"
+       id="path24" />
+    <path
+       d="M302 52 L310 42"
+       id="path25" />
+    <path
+       d="M150 100 H136"
+       id="path26" />
+    <path
+       d="M330 100 H344"
+       id="path27" />
+  </g>
+  <!-- Džíp E.T. -->
+  <!-- nohy v modelové póze -->
+  <path
+     d="M234 178 L228 226"
+     stroke="#f3f4f8"
+     stroke-width="13"
+     stroke-linecap="round"
+     id="path28" />
+  <path
+     d="M248 178 L262 224"
+     stroke="#f3f4f8"
+     stroke-width="13"
+     stroke-linecap="round"
+     id="path29" />
+  <path
+     d="M220 228 Q228 222 236 228 Z"
+     fill="#c98400"
+     id="path30" />
+  <path
+     d="M254 226 Q264 220 272 228Z"
+     fill="#c98400"
+     id="path31" />
+  <ellipse
+     cx="228"
+     cy="229"
+     rx="10"
+     ry="3"
+     fill="#c98400"
+     id="ellipse31" />
+  <circle
+     cx="240"
+     cy="130"
+     r="110"
+     fill="url(#zar)"
+     id="circle23" />
+  <ellipse
+     cx="264"
+     cy="227"
+     rx="10"
+     ry="3"
+     fill="#c98400"
+     id="ellipse32" />
+  <!-- trup: rozhalená košile -->
+  <path
+     d="M218 182 Q212 128 240 118 Q268 128 262 182Z"
+     fill="#f3f4f8"
+     id="path32" />
+  <path
+     d="M232 120 L240 150 L248 120Z"
+     fill="#ffd36b"
+     id="path33" />
+  <path
+     d="M232 120 L240 150 M248 120 L240 150"
+     stroke="#caccdc"
+     stroke-width="1.5"
+     id="path34" />
+  <path
+     d="M218 172 H262"
+     stroke="#f0a400"
+     stroke-width="3"
+     id="path35" />
+  <!-- ruka v bok -->
+  <path
+     d="M260 132 Q278 146 266 164"
+     fill="none"
+     stroke="#f3f4f8"
+     stroke-width="9"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path36" />
+  <circle
+     cx="264"
+     cy="166"
+     r="5"
+     fill="#ffd36b"
+     id="circle36" />
+  <!-- ruka vítá a nabízí tabulku -->
+  <path
+     d="M222 132 Q204 124 192 106"
+     fill="none"
+     stroke="#f3f4f8"
+     stroke-width="9"
+     stroke-linecap="round"
+     id="path37" />
+  <circle
+     cx="190"
+     cy="102"
+     r="5.5"
+     fill="#ffd36b"
+     id="circle37" />
+  <!-- krk a hlava -->
+  <rect
+     x="234"
+     y="100"
+     width="12"
+     height="22"
+     rx="5"
+     fill="#ffd36b"
+     id="rect37" />
+  <path
+     d="M218 70 Q218 46 240 44 Q262 46 262 70 Q262 92 248 102 Q240 106 232 102 Q218 92 218 70Z"
+     fill="#ffd36b"
+     id="path38" />
+  <!-- jemně špičaté uši: není úplně člověk -->
+  <path
+     d="M219 72 L212 64 L220 82Z M261 72 L268 64 L260 82Z"
+     fill="#ffd36b"
+     id="path39" />
+  <!-- lesklé vlnité vlasy -->
+  <path
+     d="M216 74 Q206 40 238 30 Q272 26 272 60 Q274 80 266 92 Q264 68 256 56 Q244 60 230 52 Q222 58 220 78Z"
+     fill="#fff1c0"
+     id="path40" />
+  <path
+     d="M230 36 Q252 28 264 44"
+     fill="none"
+     stroke="#fff"
+     stroke-width="3"
+     stroke-linecap="round"
+     opacity=".8"
+     id="path41" />
+  <!-- obočí a velké oči -->
+  <path
+     d="M224 64 q6 -3 12 -1 M244 63 q6 -2 12 1"
+     fill="none"
+     stroke="#c98400"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="path42" />
+  <ellipse
+     cx="230"
+     cy="72"
+     rx="5.5"
+     ry="3.6"
+     fill="#fff"
+     id="ellipse42" />
+  <ellipse
+     cx="250"
+     cy="72"
+     rx="5.5"
+     ry="3.6"
+     fill="#fff"
+     id="ellipse43" />
+  <circle
+     cx="230.5"
+     cy="72"
+     r="2.8"
+     fill="#0e9c8e"
+     id="circle43" />
+  <circle
+     cx="250.5"
+     cy="72"
+     r="2.8"
+     fill="#0e9c8e"
+     id="circle44" />
+  <circle
+     cx="231.5"
+     cy="71"
+     r="1"
+     fill="#fff"
+     id="circle45" />
+  <circle
+     cx="251.5"
+     cy="71"
+     r="1"
+     fill="#fff"
+     id="circle46" />
+  <path
+     d="M224 70 q6 -4 12 0 M244 70 q6 -4 12 0"
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="1.3"
+     stroke-linecap="round"
+     id="path46" />
+  <path
+     d="M240 76 q2 5 -1 8"
+     fill="none"
+     stroke="#e0a830"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path47" />
+  <!-- zářivý úsměv přes celý obličej -->
+  <path
+     d="M222 86 Q240 102 258 86 Q240 91 222 86Z"
+     fill="#fff"
+     id="path48" />
+  <path
+     d="M222 86 Q240 102 258 86"
+     fill="none"
+     stroke="#c98400"
+     stroke-width="1.3"
+     stroke-linecap="round"
+     id="path49" />
+  <!-- zlaté pihy jako souhvězdí -->
+  <g
+     fill="#fff"
+     opacity=".8"
+     id="g53">
+    <circle
+       cx="222"
+       cy="80"
+       r="1.1"
+       id="circle49" />
+    <circle
+       cx="224"
+       cy="77"
+       r="0.8"
+       id="circle50" />
+    <circle
+       cx="258"
+       cy="80"
+       r="1.1"
+       id="circle51" />
+    <circle
+       cx="256"
+       cy="77"
+       r="0.8"
+       id="circle52" />
+    <circle
+       cx="240"
+       cy="56"
+       r="1"
+       id="circle53" />
+  </g>
+  <!-- vznášející se tabulka úspěchů -->
+  <!-- svitek s ódou -->
+  <g
+     transform="rotate(14 304 96)"
+     id="g67">
+    <rect
+       x="294"
+       y="74"
+       width="22"
+       height="34"
+       rx="2"
+       fill="#f3f4f8"
+       id="rect61" />
+    <rect
+       x="291"
+       y="70"
+       width="28"
+       height="6"
+       rx="3"
+       fill="#f0a400"
+       id="rect62" />
+    <rect
+       x="291"
+       y="106"
+       width="28"
+       height="6"
+       rx="3"
+       fill="#f0a400"
+       id="rect63" />
+    <g
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="g66">
+      <path
+         d="M298 82 H312"
+         id="path63" />
+      <path
+         d="M298 88 H310"
+         id="path64" />
+      <path
+         d="M298 94 H312"
+         id="path65" />
+      <path
+         d="M298 100 H308"
+         id="path66" />
+    </g>
+    <path
+       d="M308 88 q2 -3 4 0 q-2 3 -4 0Z"
+       fill="#ff5a36"
+       id="path67" />
+  </g>
+  <!-- třpytky -->
+  <g
+     fill="#ffd36b"
+     id="g72">
+    <path
+       d="M204 52 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"
+       id="path68" />
+    <path
+       d="M282 60 l2.5 5 l5 .8 l-5 1.7 l-2.5 5 l-2.5 -5 l-5 -1.7 l5 -.8Z"
+       id="path69" />
+    <path
+       d="M286 140 l1.5 3 l3 .5 l-3 1 l-1.5 3 l-1.5 -3 l-3 -1 l3 -.5Z"
+       id="path70" />
+    <path
+       d="M196 148 l1.5 3 l3 .5 l-3 1 l-1.5 3 l-1.5 -3 l-3 -1 l3 -.5Z"
+       id="path71" />
+    <path
+       d="M276 196 l1.5 3 l3 .5 l-3 1 l-1.5 3 l-1.5 -3 l-3 -1 l3 -.5Z"
+       id="path72" />
+  </g>
+</svg>

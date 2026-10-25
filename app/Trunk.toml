@@ -1,0 +1,26 @@
+# Run Trunk from this folder: `trunk serve`, `trunk build --release`.
+
+[build]
+target = "index.html"
+dist = "dist"
+# Relative paths, so the built app works from any folder on any web server.
+public_url = "./"
+
+[watch]
+# Rebuild when the game content or the shared logic changes, not only the app.
+watch = ["src", "style", "skins", "public", "index.html", "build.rs", "../core/src", "../games"]
+
+[serve]
+port = 8080
+# To test on a phone over your network, uncomment and add a certificate
+# (see README, "Testing on a phone"):
+# address = "0.0.0.0"
+# tls_key_path = "certs/dev-key.pem"
+# tls_cert_path = "certs/dev-cert.pem"
+
+# Copies the game's pictures and lists every built file for the service worker
+# to cache (see scripts/post_build.sh).
+[[hooks]]
+stage = "post_build"
+command = "sh"
+command_arguments = ["scripts/post_build.sh"]

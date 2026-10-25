@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Ztráty a nálezy, místnost za dveřmi: unavený profesor Fiflík s cedulkou sedí na krabici, kolem něj se vzdorovitě poflakuje šedesát dospívajících sekund. Hodiny na zdi napůl jdou a napůl trucovitě stojí, profesorova slova se zpožďují. Ve dveřích se rozzáří Bogdan. -->
+  <defs></defs>
+  <rect width="480" height="280" fill="#1f2358"/>
+  <rect width="480" height="18" fill="#1c1e3f"/>
+  <path d="M0 236 H480 V280 H0Z" fill="#141848"/>
+  <g stroke="#1c1e3f" stroke-width="2"><path d="M0 252 H480 M0 268 H480"/></g>
+  <!-- hodiny na zdi: polovina ciferníku se třese, druhá stojí a namrzá -->
+  <circle cx="90" cy="70" r="26" fill="#e3e5ee"/><circle cx="90" cy="70" r="26" fill="none" stroke="#595d82" stroke-width="4"/>
+  <path d="M90 70 L90 52" stroke="#1c1e3f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M90 70 L104 76" stroke="#1c1e3f" stroke-width="2" stroke-linecap="round"/>
+  <path d="M90 70 L76 62" stroke="#ff5a36" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M74 56 a22 22 0 0 0 -4 10 M72 72 a22 22 0 0 0 4 8" fill="none" stroke="#ff5a36" stroke-opacity=".5" stroke-width="1.5"/>
+  <g stroke="#8ab4e8" stroke-width="1.5" stroke-linecap="round"><path d="M108 58 l4 -3 M110 66 l5 -1 M108 84 l4 3 M100 92 l2 4"/></g>
+  <circle cx="90" cy="70" r="2.5" fill="#1c1e3f"/>
+  <g fill="none" stroke="#e3e5ee" stroke-opacity=".5" stroke-width="1.5"><path d="M58 60 q-4 10 0 20"/><path d="M52 56 q-6 14 0 28"/></g>
+
+  <!-- krabice -->
+  <rect x="190" y="196" width="60" height="40" fill="#c98a5a"/><path d="M190 206 H250" stroke="#a36b45" stroke-width="2"/>
+  <!-- profesor Fiflík -->
+  <g transform="translate(220 200)">
+    <path d="M-12 0 L-22 36 M12 0 L18 36" stroke="#595d82" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="-24" cy="38" rx="8" ry="3.5" fill="#1c1e3f"/><ellipse cx="20" cy="38" rx="8" ry="3.5" fill="#1c1e3f"/>
+    <path d="M-18 4 Q-22 -46 0 -50 Q22 -46 18 4Z" fill="#8a73ee"/>
+    <path d="M-6 -48 L0 -30 L6 -48" fill="#e3e5ee"/><path d="M0 -44 V-26" stroke="#ff5a36" stroke-width="3"/>
+    <!-- záplaty na loktech a shrbená ramena -->
+    <path d="M-16 -36 Q-30 -18 -14 -6" stroke="#8a73ee" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M16 -36 Q30 -18 14 -6" stroke="#8a73ee" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <ellipse cx="-24" cy="-20" rx="4" ry="5" fill="#6b4fe0"/>
+    <!-- hlava -->
+    <ellipse cx="0" cy="-64" rx="15" ry="17" fill="#f0c8a0"/>
+    <path d="M-15 -66 q-8 -10 -2 -18 q4 6 6 0 q4 -8 10 -2 q6 -6 10 2 q8 2 4 14" fill="none" stroke="#caccdc" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="-6" cy="-64" r="5" fill="none" stroke="#1c1e3f" stroke-width="1.5"/><circle cx="7" cy="-64" r="5" fill="none" stroke="#1c1e3f" stroke-width="1.5"/>
+    <path d="M-9 -64 h6 M4 -64 h6" stroke="#1c1e3f" stroke-width="1.5"/>
+    <path d="M-9 -59 q3 2 6 0 M4 -59 q3 2 6 0" stroke="#c99a70" stroke-width="1.2" fill="none"/>
+    <path d="M-4 -52 q4 -2 8 0" stroke="#1c1e3f" stroke-width="1.5" fill="none"/>
+  </g>
+  <g transform="translate(232 170) rotate(10)"><path d="M0 0 L0 -8" stroke="#caccdc" stroke-width="1"/><path d="M-5 0 H5 V10 H-5Z" fill="#e3e5ee"/><circle cx="0" cy="2" r="1" fill="#595d82"/></g>
+  <!-- slova přicházejí o sekundu později -->
+  <path d="M230 146 q20 -10 50 -24" fill="none" stroke="#e3e5ee" stroke-opacity=".4" stroke-width="1.5" stroke-dasharray="2 4"/>
+  <g opacity=".85"><rect x="276" y="96" width="44" height="26" rx="10" fill="#e3e5ee"/><path d="M282 122 l-6 8 l12 -8Z" fill="#e3e5ee"/></g>
+  <g stroke="#e3e5ee" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"><path d="M268 104 h-8 M270 112 h-12"/></g>
+  <g transform="translate(150 236)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#ff8a6a"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-10" r="2" fill="#fff"/><circle cx="3" cy="-10" r="2" fill="#fff"/><circle cx="-3" cy="-11.4" r="1" fill="#1c1e3f"/><circle cx="3" cy="-11.4" r="1" fill="#1c1e3f"/><path d="M-2 -5 h4" stroke="#1c1e3f" stroke-width="1"/>
+  </g>
+  <g transform="translate(168 226)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#14c2b0"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <path d="M-7 -12 Q0 -6 7 -12 L7 -8 Q0 -2 -7 -8Z" fill="#14c2b0" stroke="#1c1e3f" stroke-opacity=".3" stroke-width=".6"/><path d="M-5 -6 q5 3 10 0" stroke="#ff8a6a" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(132 224)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#f0a400"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-9" r="1" fill="#1c1e3f"/><circle cx="3" cy="-9" r="1" fill="#1c1e3f"/><rect x="-4" y="-4" width="8" height="10" rx="1.5" fill="#1c1e3f"/><rect x="-3" y="-3" width="6" height="7" fill="#14c2b0" opacity=".8"/>
+  </g>
+  <g transform="translate(270 236)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#8a73ee"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-9" r="1" fill="#1c1e3f"/><circle cx="3" cy="-9" r="1" fill="#1c1e3f"/><path d="M-9 -12 Q0 -24 9 -12" fill="none" stroke="#1c1e3f" stroke-width="1.5"/><circle cx="-9" cy="-10" r="2.2" fill="#ff5a36"/><circle cx="9" cy="-10" r="2.2" fill="#ff5a36"/>
+  </g>
+  <g transform="translate(290 228)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#ff5a36"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <path d="M-4 -10 h3 M1 -10 h3" stroke="#1c1e3f" stroke-width="1.2"/><path d="M-2 -5 q2 -2 4 0" stroke="#1c1e3f" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(310 236)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#e3e5ee"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <path d="M-7 -12 Q0 -6 7 -12 L7 -8 Q0 -2 -7 -8Z" fill="#e3e5ee" stroke="#1c1e3f" stroke-opacity=".3" stroke-width=".6"/><path d="M-5 -6 q5 3 10 0" stroke="#ff8a6a" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(114 238)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#ff8a6a"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-10" r="2" fill="#fff"/><circle cx="3" cy="-10" r="2" fill="#fff"/><circle cx="-3" cy="-11.4" r="1" fill="#1c1e3f"/><circle cx="3" cy="-11.4" r="1" fill="#1c1e3f"/><path d="M-2 -5 h4" stroke="#1c1e3f" stroke-width="1"/>
+  </g>
+  <g transform="translate(330 226)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#14c2b0"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-9" r="1" fill="#1c1e3f"/><circle cx="3" cy="-9" r="1" fill="#1c1e3f"/><rect x="-4" y="-4" width="8" height="10" rx="1.5" fill="#1c1e3f"/><rect x="-3" y="-3" width="6" height="7" fill="#14c2b0" opacity=".8"/>
+  </g>
+  <g transform="translate(256 226)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#f0a400"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <path d="M-4 -10 h3 M1 -10 h3" stroke="#1c1e3f" stroke-width="1.2"/><path d="M-2 -5 q2 -2 4 0" stroke="#1c1e3f" stroke-width="1" fill="none"/>
+  </g>
+  <g transform="translate(96 228)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#8a73ee"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-9" r="1" fill="#1c1e3f"/><circle cx="3" cy="-9" r="1" fill="#1c1e3f"/><path d="M-9 -12 Q0 -24 9 -12" fill="none" stroke="#1c1e3f" stroke-width="1.5"/><circle cx="-9" cy="-10" r="2.2" fill="#ff5a36"/><circle cx="9" cy="-10" r="2.2" fill="#ff5a36"/>
+  </g>
+  <g transform="translate(348 238)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#ff5a36"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <circle cx="-3" cy="-10" r="2" fill="#fff"/><circle cx="3" cy="-10" r="2" fill="#fff"/><circle cx="-3" cy="-11.4" r="1" fill="#1c1e3f"/><circle cx="3" cy="-11.4" r="1" fill="#1c1e3f"/><path d="M-2 -5 h4" stroke="#1c1e3f" stroke-width="1"/>
+  </g>
+  <g transform="translate(180 240)">
+    <path d="M-7 0 Q-9 -16 0 -18 Q9 -16 7 0Z" fill="#e3e5ee"/>
+    <path d="M-7 -4 Q-8 -14 0 -16 Q8 -14 7 -4" fill="none" stroke="#1c1e3f" stroke-opacity=".25" stroke-width="3"/>
+    <path d="M0 -18 V-28" stroke="#e3e5ee" stroke-width="2" stroke-linecap="round"/><path d="M0 -28 l-2 3 h4Z" fill="#e3e5ee"/>
+    <path d="M-7 -12 Q0 -6 7 -12 L7 -8 Q0 -2 -7 -8Z" fill="#e3e5ee" stroke="#1c1e3f" stroke-opacity=".3" stroke-width=".6"/><path d="M-5 -6 q5 3 10 0" stroke="#ff8a6a" stroke-width="1" fill="none"/>
+  </g>
+  <!-- a další sekundy v pozadí -->
+  <g fill="#595d82"><path d="M271 200 Q270 188 276 186 Q282 188 281 200Z"/><path d="M276 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M283 200 Q282 188 288 186 Q294 188 293 200Z"/><path d="M288 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M295 200 Q294 188 300 186 Q306 188 305 200Z"/><path d="M300 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M307 200 Q306 188 312 186 Q318 188 317 200Z"/><path d="M312 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M319 200 Q318 188 324 186 Q330 188 329 200Z"/><path d="M324 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M331 200 Q330 188 336 186 Q342 188 341 200Z"/><path d="M336 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M343 200 Q342 188 348 186 Q354 188 353 200Z"/><path d="M348 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M355 200 Q354 188 360 186 Q366 188 365 200Z"/><path d="M360 186 v-7" stroke="#595d82" stroke-width="1.5"/><path d="M367 200 Q366 188 372 186 Q378 188 377 200Z"/><path d="M372 186 v-7" stroke="#595d82" stroke-width="1.5"/></g>
+  <!-- otevřené dveře a rozzářený Bogdan -->
+  <rect x="392" y="80" width="74" height="156" fill="#ffd36b" opacity=".85"/>
+  <path d="M392 80 L370 70 V246 L392 236Z" fill="#8a5a3a"/>
+  <path d="M392 236 L340 280 H480 L466 236Z" fill="#ffd36b" opacity=".12"/>
+  <g transform="translate(430 238) scale(0.85 0.85)">
+    <path d="M-14 0 V-40 M12 0 V-40" stroke="#4c5074" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="-16" cy="2" rx="10" ry="4" fill="#1c1e3f"/><ellipse cx="14" cy="2" rx="10" ry="4" fill="#1c1e3f"/>
+    <g transform="translate(0 -38)">
+    <path d="M-34 0 Q-38 -54 0 -58 Q38 -54 34 0Z" fill="#8a5a3a"/>
+    <rect x="-24" y="-30" width="12" height="12" fill="#14c2b0" transform="rotate(-8 -18 -24)"/>
+    <rect x="14" y="-22" width="11" height="11" fill="#ff8a6a" transform="rotate(10 19 -16)"/>
+    <ellipse cx="0" cy="-74" rx="22" ry="20" fill="#a8c070"/>
+    <path d="M-22 -70 Q-30 -40 0 -36 Q30 -40 22 -70 Q14 -54 0 -56 Q-14 -54 -22 -70Z" fill="#ff8a6a"/>
+    <path d="M-20 -84 q-8 -4 -6 -12 M20 -84 q8 -4 6 -12" stroke="#ff8a6a" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M-20 -86 Q-20 -106 0 -106 Q20 -106 20 -86Z" fill="#f0a400"/>
+    <rect x="-22" y="-90" width="44" height="7" rx="3" fill="#c98400"/><circle cx="0" cy="-108" r="5" fill="#ff5a36"/>
+    <circle cx="-8" cy="-76" r="4" fill="#fff"/><circle cx="8" cy="-76" r="4" fill="#fff"/><circle cx="-7" cy="-77" r="2.2" fill="#1c1e3f"/><circle cx="9" cy="-77" r="2.2" fill="#1c1e3f"/><path d="M-14 -84 q6 -4 10 -1 M4 -85 q6 -3 10 1" stroke="#ff8a6a" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <ellipse cx="0" cy="-68" rx="5" ry="4" fill="#86a050"/><path d="M-9 -60 Q0 -52 9 -60Z" fill="#1c1e3f"/>
+    <path d="M-28 -30 Q-46 -32 -58 -24" stroke="#8a5a3a" stroke-width="10" stroke-linecap="round" fill="none"/><path d="M28 -30 Q46 -32 58 -24" stroke="#8a5a3a" stroke-width="10" stroke-linecap="round" fill="none"/><circle cx="-61" cy="-23" r="5.5" fill="#a8c070"/><circle cx="61" cy="-23" r="5.5" fill="#a8c070"/>
+    </g>
+  </g>
+  <g fill="#ffd36b"><path d="M400 96 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"/><path d="M462 110 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"/></g>
+</svg>

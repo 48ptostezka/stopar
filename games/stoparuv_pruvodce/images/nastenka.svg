@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg76"
+   sodipodi:docname="nastenka.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs76" />
+  <sodipodi:namedview
+     id="namedview76"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="193.15442"
+     inkscape:cy="175.13727"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g46" />
+  <!-- Detail nástěnky za recepční: plán výpravy pana ředitele (pozemšťan zrušen, kámen z Bublaniny, hloupá habešská kočka z Magratheje, blátotlačka z Traalu) a květináč, který nic nezakrývá. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect1" />
+  <!-- škrábání ve zdi -->
+  <!-- rám a korek -->
+  <rect
+     x="22"
+     y="14"
+     width="436"
+     height="246"
+     rx="6"
+     fill="#8a5a3a"
+     id="rect4" />
+  <rect
+     x="32"
+     y="24"
+     width="416"
+     height="226"
+     rx="3"
+     fill="#c98a5a"
+     id="rect5" />
+  <g
+     fill="#b07848"
+     id="g10">
+    <circle
+       cx="60"
+       cy="140"
+       r="1.5"
+       id="circle5" />
+    <circle
+       cx="240"
+       cy="30"
+       r="1.5"
+       id="circle6" />
+    <circle
+       cx="430"
+       cy="140"
+       r="1.5"
+       id="circle7" />
+    <circle
+       cx="240"
+       cy="244"
+       r="1.5"
+       id="circle8" />
+    <circle
+       cx="140"
+       cy="138"
+       r="1.2"
+       id="circle9" />
+    <circle
+       cx="340"
+       cy="240"
+       r="1.2"
+       id="circle10" />
+  </g>
+  <!-- 1) pozemšťan, Země: zrušeno -->
+  <g
+     transform="rotate(-2 140 85)"
+     id="g24">
+    <rect
+       x="50"
+       y="40"
+       width="180"
+       height="92"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect10" />
+    <!-- pozemšťan v županu -->
+    <circle
+       cx="86"
+       cy="66"
+       r="11"
+       fill="#f0c8a0"
+       id="circle11" />
+    <circle
+       cx="82"
+       cy="65"
+       r="1.6"
+       fill="#1c1e3f"
+       id="circle12" />
+    <circle
+       cx="90"
+       cy="65"
+       r="1.6"
+       fill="#1c1e3f"
+       id="circle13" />
+    <path
+       d="M83 71 q3 2 6 0"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       stroke-linecap="round"
+       id="path13" />
+    <path
+       d="M74 106 Q72 80 86 78 Q100 80 98 106Z"
+       fill="#8a5a3a"
+       id="path14" />
+    <path
+       d="M86 80 L82 96 L90 96Z"
+       fill="#6b452c"
+       id="path15" />
+    <path
+       d="M76 92 H96"
+       stroke="#c98400"
+       stroke-width="2"
+       id="path16" />
+    <path
+       d="M80 106 V114 M92 106 V114"
+       stroke="#f0c8a0"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path17" />
+    <!-- Země -->
+    <circle
+       cx="136"
+       cy="74"
+       r="16"
+       fill="#14c2b0"
+       id="circle17" />
+    <path
+       d="M126 66 q6 -4 10 2 q-2 6 -8 4Z M138 78 q8 -2 10 6 q-6 4 -10 -2Z"
+       fill="#0e9c8e"
+       id="path18" />
+    <g
+       stroke="#caccdc"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="g23">
+      <path
+         d="M164 64 H216"
+         id="path19" />
+      <path
+         d="M164 74 H206"
+         id="path20" />
+      <path
+         d="M164 84 H212"
+         id="path21" />
+      <path
+         d="M118 104 H210"
+         id="path22" />
+      <path
+         d="M118 114 H190"
+         id="path23" />
+    </g>
+    <!-- přeškrtnuto -->
+    <path
+       d="M58 48 L222 124 M222 48 L58 124"
+       stroke="#ff5a36"
+       stroke-width="5"
+       stroke-linecap="round"
+       opacity=".85"
+       id="path24" />
+    <circle
+       cx="190"
+       cy="104"
+       r="16"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="3"
+       id="circle24" />
+  </g>
+  <!-- 2) kámen, který si myslí, že není kámen, Bublanina -->
+  <g
+     transform="rotate(2 340 85)"
+     id="g34">
+    <rect
+       x="250"
+       y="40"
+       width="180"
+       height="92"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect24" />
+    <ellipse
+       cx="290"
+       cy="112"
+       rx="24"
+       ry="4"
+       fill="#caccdc"
+       id="ellipse24" />
+    <path
+       d="M268 112 Q266 90 284 86 Q304 84 310 100 Q313 110 308 112Z"
+       fill="#595d82"
+       id="path25" />
+    <path
+       d="M276 98 Q282 90 292 90"
+       fill="none"
+       stroke="#6f739b"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="path26" />
+    <!-- myšlenka -->
+    <circle
+       cx="312"
+       cy="80"
+       r="2.5"
+       fill="#caccdc"
+       id="circle26" />
+    <circle
+       cx="318"
+       cy="72"
+       r="3.5"
+       fill="#caccdc"
+       id="circle27" />
+    <ellipse
+       cx="334"
+       cy="58"
+       rx="18"
+       ry="12"
+       fill="#fff"
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="ellipse27" />
+    <path
+       d="M326 60 Q330 52 336 58 Q342 50 346 58"
+       fill="none"
+       stroke="#14c2b0"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       id="path27" />
+    <circle
+       cx="336"
+       cy="60"
+       r="2.5"
+       fill="#14c2b0"
+       id="circle28" />
+    <!-- třešňový měsíc Bublaniny -->
+    <circle
+       cx="392"
+       cy="70"
+       r="12"
+       fill="#ff5a36"
+       id="circle29" />
+    <circle
+       cx="388"
+       cy="66"
+       r="3"
+       fill="#ff8a6a"
+       id="circle30" />
+    <path
+       d="M393 58 Q396 50 404 47"
+       fill="none"
+       stroke="#0e9c8e"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       id="path30" />
+    <g
+       stroke="#caccdc"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="g33">
+      <path
+         d="M330 100 H420"
+         id="path31" />
+      <path
+         d="M330 110 H404"
+         id="path32" />
+      <path
+         d="M330 120 H414"
+         id="path33" />
+    </g>
+  </g>
+  <!-- 3) jediná hloupá habešská kočka, Magrathea (ta druhá) -->
+  <g
+     transform="rotate(1.5 140 192)"
+     id="g46">
+    <rect
+       x="50"
+       y="146"
+       width="180"
+       height="92"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect34" />
+    <path
+       d="M70 226 Q66 192 92 188 Q118 192 114 226Z"
+       fill="#c98400"
+       id="path34" />
+    <circle
+       cx="92"
+       cy="176"
+       r="16"
+       fill="#c98400"
+       id="circle35" />
+    <path
+       d="M78 168 L80 152 L90 162Z M106 168 L104 152 L94 162Z"
+       fill="#c98400"
+       id="path36" />
+    <path
+       d="M81 158 L86 163 M103 158 L98 163"
+       stroke="#ff8a6a"
+       stroke-width="2"
+       id="path37" />
+    <circle
+       cx="86"
+       cy="174"
+       r="4"
+       fill="#e3e5ee"
+       id="circle37" />
+    <circle
+       cx="98"
+       cy="174"
+       r="4"
+       fill="#e3e5ee"
+       id="circle38" />
+    <circle
+       cx="88"
+       cy="175"
+       r="2"
+       fill="#1c1e3f"
+       id="circle39" />
+    <circle
+       cx="96"
+       cy="175"
+       r="2"
+       fill="#1c1e3f"
+       id="circle40" />
+    <path
+       d="M88 184 Q92 187 96 184"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path40" />
+    <path
+       d="M92 185 q-1 6 2 6 q3 0 2 -6Z"
+       fill="#ff5a36"
+       id="path41" />
+    <!-- dvě Magratheje, ta druhá zakroužkovaná -->
+    <circle
+       cx="140"
+       cy="176"
+       r="9"
+       fill="#8a73ee"
+       id="circle41" />
+    <circle
+       cx="170"
+       cy="176"
+       r="9"
+       fill="#6b4fe0"
+       id="circle42" />
+    <path
+       d="M161 176 H179 M170 167 V185"
+       stroke="#caccdc"
+       stroke-width="1.2"
+       id="path42" />
+    <circle
+       cx="170"
+       cy="176"
+       r="14"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="2.5"
+       id="circle43" />
+    <g
+       stroke="#caccdc"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="g45">
+      <path
+         d="M130 202 H216"
+         id="path43" />
+      <path
+         d="M130 212 H200"
+         id="path44" />
+      <path
+         d="M130 222 H210"
+         id="path45" />
+    </g>
+    <path
+       d="M114 220 q16 0 14 -18"
+       fill="none"
+       stroke="#c98400"
+       stroke-width="5"
+       stroke-linecap="round"
+       id="path35" />
+  </g>
+  <!-- 4) žravá blátotlačka, Traal: poslední svého druhu -->
+  <g
+     transform="rotate(-1.5 340 192)"
+     id="g62">
+    <rect
+       x="250"
+       y="146"
+       width="180"
+       height="92"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect46" />
+    <path
+       d="M262 230 Q256 182 290 172 Q298 162 306 170 Q316 162 322 172 Q342 182 338 230Z"
+       fill="#0e9c8e"
+       id="path46" />
+    <path
+       d="M268 196 Q300 188 334 196 Q326 222 300 222 Q274 220 268 196Z"
+       fill="#1c1e3f"
+       id="path47" />
+    <g
+       fill="#e3e5ee"
+       id="g52">
+      <path
+         d="M272 196 L276 206 L280 195Z"
+         id="path48" />
+      <path
+         d="M284 194 L289 210 L294 193Z"
+         id="path49" />
+      <path
+         d="M298 193 L302 204 L306 193Z"
+         id="path50" />
+      <path
+         d="M310 193 L315 208 L320 194Z"
+         id="path51" />
+      <path
+         d="M324 195 L328 204 L331 196Z"
+         id="path52" />
+    </g>
+    <circle
+       cx="288"
+       cy="182"
+       r="6"
+       fill="#e3e5ee"
+       id="circle52" />
+    <circle
+       cx="290"
+       cy="184"
+       r="2"
+       fill="#1c1e3f"
+       id="circle53" />
+    <circle
+       cx="308"
+       cy="180"
+       r="4"
+       fill="#e3e5ee"
+       id="circle54" />
+    <circle
+       cx="307"
+       cy="179"
+       r="1.4"
+       fill="#1c1e3f"
+       id="circle55" />
+    <path
+       d="M322 172 Q326 160 330 158"
+       fill="none"
+       stroke="#0e9c8e"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       id="path55" />
+    <circle
+       cx="331"
+       cy="157"
+       r="3"
+       fill="#f0a400"
+       id="circle56" />
+    <!-- bažinatý Traal -->
+    <circle
+       cx="380"
+       cy="174"
+       r="12"
+       fill="#0e9c8e"
+       id="circle57" />
+    <path
+       d="M370 170 q5 -3 10 0 q5 3 10 0"
+       fill="none"
+       stroke="#1f2a4a"
+       stroke-width="2"
+       id="path57" />
+    <path
+       d="M376 185 q1 6 2 0"
+       fill="#0e9c8e"
+       stroke="#0e9c8e"
+       stroke-width="2"
+       id="path58" />
+    <!-- rozeta: poslední svého druhu -->
+    <path
+       d="M404 190 L400 210 L408 204 L412 212 L414 190Z"
+       fill="#ff5a36"
+       id="path59" />
+    <circle
+       cx="408"
+       cy="184"
+       r="9"
+       fill="#f0a400"
+       id="circle59" />
+    <circle
+       cx="408"
+       cy="184"
+       r="5"
+       fill="#c98400"
+       id="circle60" />
+    <g
+       stroke="#caccdc"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="g61">
+      <path
+         d="M352 210 H396"
+         id="path60" />
+      <path
+         d="M352 220 H390"
+         id="path61" />
+    </g>
+  </g>
+  <!-- trasa výpravy z červené nitě -->
+  <path
+     d="M140 40 L340 41 L140 147 L340 148"
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="1.5"
+     opacity=".9"
+     id="path62" />
+  <g
+     fill="#ff5a36"
+     id="g65">
+    <circle
+       cx="140"
+       cy="40"
+       r="4"
+       id="circle62" />
+    <circle
+       cx="340"
+       cy="41"
+       r="4"
+       id="circle63" />
+    <circle
+       cx="140"
+       cy="147"
+       r="4"
+       id="circle64" />
+    <circle
+       cx="340"
+       cy="148"
+       r="4"
+       id="circle65" />
+  </g>
+  <g
+     fill="#fff"
+     opacity=".6"
+     id="g69">
+    <circle
+       cx="139"
+       cy="39"
+       r="1.2"
+       id="circle66" />
+    <circle
+       cx="339"
+       cy="40"
+       r="1.2"
+       id="circle67" />
+    <circle
+       cx="139"
+       cy="146"
+       r="1.2"
+       id="circle68" />
+    <circle
+       cx="339"
+       cy="147"
+       r="1.2"
+       id="circle69" />
+  </g>
+  <!-- pohlednice od pana ředitele -->
+  <g
+     transform="rotate(8 240 140)"
+     id="g74">
+    <rect
+       x="216"
+       y="124"
+       width="48"
+       height="32"
+       rx="1.5"
+       fill="#f3f4f8"
+       id="rect69" />
+    <rect
+       x="220"
+       y="128"
+       width="22"
+       height="24"
+       fill="#14c2b0"
+       id="rect70" />
+    <path
+       d="M220 142 Q231 136 242 142 V152 H220Z"
+       fill="#0e9c8e"
+       id="path70" />
+    <circle
+       cx="236"
+       cy="133"
+       r="3"
+       fill="#f0a400"
+       id="circle70" />
+    <rect
+       x="252"
+       y="128"
+       width="8"
+       height="9"
+       fill="#ff5a36"
+       id="rect71" />
+    <g
+       stroke="#caccdc"
+       stroke-width="1.2"
+       id="g73">
+      <path
+         d="M246 142 H260"
+         id="path71" />
+      <path
+         d="M246 146 H260"
+         id="path72" />
+      <path
+         d="M246 150 H258"
+         id="path73" />
+    </g>
+    <circle
+       cx="240"
+       cy="126"
+       r="3"
+       fill="#f0a400"
+       id="circle73" />
+  </g>
+  <!-- květináč, který se neúspěšně snaží zakrýt seznam -->
+  <path
+     d="m 352.80434,280 10.51957,-48.57183 h 84.15654 L 458.00002,280 Z"
+     fill="#ff5a36"
+     id="path74"
+     style="stroke-width:1" />
+  <rect
+     x="356.31085"
+     y="222.32095"
+     width="98.182632"
+     height="13.660827"
+     rx="3.0000002"
+     fill="#e0502e"
+     id="rect74"
+     style="stroke-width:1"
+     ry="3" />
+  <g
+     fill="#0e9c8e"
+     id="g76"
+     transform="matrix(1.7532613,0,0,1.5178696,-344.99366,-145.00349)"
+     style="stroke-width:0.612999">
+    <ellipse
+       cx="414"
+       cy="226"
+       rx="7"
+       ry="18"
+       transform="rotate(-25,414,226)"
+       id="ellipse74"
+       style="stroke-width:0.612999" />
+    <ellipse
+       cx="444"
+       cy="224"
+       rx="7"
+       ry="19"
+       transform="rotate(22,444,224)"
+       id="ellipse75"
+       style="stroke-width:0.612999" />
+    <ellipse
+       cx="429"
+       cy="218"
+       rx="6"
+       ry="20"
+       id="ellipse76"
+       style="stroke-width:0.612999" />
+  </g>
+</svg>

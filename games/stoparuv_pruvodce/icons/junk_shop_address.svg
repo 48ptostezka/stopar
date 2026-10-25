@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Adresa vetešnictví: obálka se známkou a řádky adresy -->
+  <path d="M-12 -8H12V9H-12Z"/>
+  <path d="M-12 -8L0 1L12 -8"/>
+  <path d="M5 2H10V7H5Z"/>
+  <path d="M-9 4H1M-9 7H-2"/>
+</svg>

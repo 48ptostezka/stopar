@@ -1,0 +1,22 @@
+[package]
+name = "stopa-core"
+description = "Game content format, validation, QR payloads and player progress. No browser code."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[features]
+default = ["toml"]
+# Parse game files written in TOML (used by the build script and the tools, not by the app).
+toml = ["dep:toml"]
+# Decode QR codes from greyscale frames (used by the app).
+qr = ["dep:rqrr"]
+
+[dependencies]
+serde = { workspace = true }
+indexmap = { workspace = true }
+toml = { workspace = true, optional = true }
+rqrr = { version = "0.11", optional = true, default-features = false }
+
+[dev-dependencies]
+qrcode = { version = "0.14", default-features = false }

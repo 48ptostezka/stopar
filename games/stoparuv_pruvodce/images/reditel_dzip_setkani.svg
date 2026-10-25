@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg106"
+   sodipodi:docname="reditel_dzip_setkani.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview106"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="222.82972"
+     inkscape:cy="185.73559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg106" />
+  <!-- Překladiště Mezitím: zlatě zářící model Džíp E.T. nadšeně chválí prostředí v kleci; ředitel pláče štěstím, že konečně má nejhloupějšího tvora Galaxie, a sní o pravém pozemském županu. -->
+  <defs
+     id="defs3">
+    <radialGradient
+       id="zar"
+       cx="50%"
+       cy="50%"
+       r="50%">
+      <stop
+         offset="0"
+         stop-color="#f0a400"
+         stop-opacity=".5"
+         id="stop1" />
+      <stop
+         offset=".5"
+         stop-color="#f0a400"
+         stop-opacity=".15"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#f0a400"
+         stop-opacity="0"
+         id="stop3" />
+    </radialGradient>
+  </defs>
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect3" />
+  <!-- prosklená klenba s výhledem do vesmíru -->
+  <path
+     d="M0 0 H480 V120 Q240 20 0 120Z"
+     fill="#10143c"
+     id="path3" />
+  <g
+     fill="#fff"
+     id="g7">
+    <circle
+       cx="60"
+       cy="40"
+       r="1.2"
+       id="circle3" />
+    <circle
+       cx="150"
+       cy="22"
+       r="1"
+       id="circle4" />
+    <circle
+       cx="330"
+       cy="24"
+       r="1.2"
+       id="circle5" />
+    <circle
+       cx="420"
+       cy="50"
+       r="1"
+       id="circle6" />
+    <circle
+       cx="240"
+       cy="14"
+       r="0.9"
+       id="circle7" />
+  </g>
+  <path
+     d="M0 120 Q240 20 480 120"
+     fill="none"
+     stroke="#595d82"
+     stroke-width="6"
+     id="path7" />
+  <g
+     stroke="#595d82"
+     stroke-width="3"
+     id="g8">
+    <path
+       d="M120 66 V0 M240 46 V0 M360 66 V0"
+       id="path8" />
+  </g>
+  <!-- zeď a podlaha nástupiště -->
+  <path
+     d="M0 120 Q240 20 480 120 V200 H0Z"
+     fill="#23275e"
+     opacity="0"
+     id="path9" />
+  <path
+     d="M0 200 H480 V280 H0Z"
+     fill="#2e3370"
+     id="path10" />
+  <path
+     d="M0 200 H480"
+     stroke="#f0a400"
+     stroke-width="3"
+     stroke-dasharray="14 8"
+     id="path11" />
+  <path
+     d="M0 240 H480"
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="path12" />
+  <!-- kousek tabule odletů v rohu -->
+  <g
+     id="g25">
+    <rect
+       x="30"
+       y="230"
+       width="50"
+       height="5"
+       rx="2"
+       fill="#595d82"
+       id="rect16" />
+    <path
+       d="M34 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path17" />
+    <path
+       d="M42 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path18" />
+    <path
+       d="M50 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path19" />
+    <path
+       d="M58 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path20" />
+    <path
+       d="M66 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path21" />
+    <path
+       d="M74 170 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path22" />
+    <path
+       d="M30 170 Q55.0 154 80 170"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path23" />
+    <path
+       d="M30 170 H80"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path24" />
+    <circle
+       cx="55.0"
+       cy="158"
+       r="3"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="circle24" />
+    <path
+       d="M80 194 l14 6 V234"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path25" />
+  </g>
+  <g
+     id="g33">
+    <rect
+       x="92"
+       y="230"
+       width="44"
+       height="5"
+       rx="2"
+       fill="#595d82"
+       id="rect25" />
+    <path
+       d="M96 182 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path26" />
+    <path
+       d="M104 182 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path27" />
+    <path
+       d="M112 182 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path28" />
+    <path
+       d="M120 182 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path29" />
+    <path
+       d="M128 182 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path30" />
+    <path
+       d="M92 182 Q114.0 166 136 182"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path31" />
+    <path
+       d="M92 182 H136"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path32" />
+    <circle
+       cx="114.0"
+       cy="170"
+       r="3"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="circle32" />
+    <path
+       d="M136 200 l14 6 V234"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path33" />
+  </g>
+  <circle
+     cx="320"
+     cy="160"
+     r="90"
+     fill="url(#zar)"
+     id="circle33" />
+  <g
+     id="g74">
+    <rect
+       x="262"
+       y="230"
+       width="116"
+       height="5"
+       rx="2"
+       fill="#595d82"
+       id="rect33" />
+    <g
+       transform="matrix(0.61431074,0,0,0.61522299,175.08374,89.635787)"
+       id="g60"
+       style="stroke-width:1.30131">
+      <!-- nohy v modelové póze -->
+      <path
+         d="m 234,178 -6,48"
+         stroke="#f3f4f8"
+         stroke-width="16.917"
+         stroke-linecap="round"
+         id="path34" />
+      <path
+         d="m 248,178 14,46"
+         stroke="#f3f4f8"
+         stroke-width="16.917"
+         stroke-linecap="round"
+         id="path35" />
+      <path
+         d="m 220,228 q 8,-6 16,0 z"
+         fill="#c98400"
+         id="path36"
+         style="stroke-width:1.30131" />
+      <path
+         d="m 254,226 q 10,-6 18,2 z"
+         fill="#c98400"
+         id="path37"
+         style="stroke-width:1.30131" />
+      <ellipse
+         cx="228"
+         cy="229"
+         rx="10"
+         ry="3"
+         fill="#c98400"
+         id="ellipse37"
+         style="stroke-width:1.30131" />
+      <ellipse
+         cx="264"
+         cy="227"
+         rx="10"
+         ry="3"
+         fill="#c98400"
+         id="ellipse38"
+         style="stroke-width:1.30131" />
+      <!-- trup: rozhalená košile -->
+      <path
+         d="m 218,182 q -6,-54 22,-64 28,10 22,64 z"
+         fill="#f3f4f8"
+         id="path38"
+         style="stroke-width:1.30131" />
+      <path
+         d="m 232,120 8,30 8,-30 z"
+         fill="#ffd36b"
+         id="path39"
+         style="stroke-width:1.30131" />
+      <path
+         d="m 232,120 8,30 m 8,-30 -8,30"
+         stroke="#caccdc"
+         stroke-width="1.95196"
+         id="path40" />
+      <path
+         d="m 218,172 h 44"
+         stroke="#f0a400"
+         stroke-width="3.90392"
+         id="path41" />
+      <!-- ruka v bok -->
+      <path
+         d="m 260,132 q 18,14 6,32"
+         fill="none"
+         stroke="#f3f4f8"
+         stroke-width="11.7118"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path42" />
+      <circle
+         cx="264"
+         cy="166"
+         r="5"
+         fill="#ffd36b"
+         id="circle42"
+         style="stroke-width:1.30131" />
+      <!-- ruka vítá a nabízí tabulku -->
+      <path
+         d="m 222,132 q -18,-8 -30,-26"
+         fill="none"
+         stroke="#f3f4f8"
+         stroke-width="11.7118"
+         stroke-linecap="round"
+         id="path43" />
+      <circle
+         cx="190"
+         cy="102"
+         r="5.5"
+         fill="#ffd36b"
+         id="circle43"
+         style="stroke-width:1.30131" />
+      <!-- krk a hlava -->
+      <rect
+         x="234"
+         y="100"
+         width="12"
+         height="22"
+         rx="6.5113626"
+         fill="#ffd36b"
+         id="rect43"
+         style="stroke-width:1.30131"
+         ry="6.5017076" />
+      <path
+         d="m 218,70 q 0,-24 22,-26 22,2 22,26 0,22 -14,32 -8,4 -16,0 -14,-10 -14,-32 z"
+         fill="#ffd36b"
+         id="path44"
+         style="stroke-width:1.30131" />
+      <!-- jemně špičaté uši: není úplně člověk -->
+      <path
+         d="m 219,72 -7,-8 8,18 z m 42,0 7,-8 -8,18 z"
+         fill="#ffd36b"
+         id="path45"
+         style="stroke-width:1.30131" />
+      <!-- lesklé vlnité vlasy -->
+      <path
+         d="m 216,74 q -10,-34 22,-44 34,-4 34,30 2,20 -6,32 -2,-24 -10,-36 -12,4 -26,-4 -8,6 -10,26 z"
+         fill="#fff1c0"
+         id="path46"
+         style="stroke-width:1.30131" />
+      <path
+         d="m 230,36 q 22,-8 34,8"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="3.90392"
+         stroke-linecap="round"
+         opacity="0.8"
+         id="path47" />
+      <!-- obočí a velké oči -->
+      <path
+         d="m 224,64 q 6,-3 12,-1 m 8,0 q 6,-2 12,1"
+         fill="none"
+         stroke="#c98400"
+         stroke-width="2.60261"
+         stroke-linecap="round"
+         id="path48" />
+      <ellipse
+         cx="230"
+         cy="72"
+         rx="5.5"
+         ry="3.5999999"
+         fill="#ffffff"
+         id="ellipse48"
+         style="stroke-width:1.6934" />
+      <ellipse
+         cx="250"
+         cy="72"
+         rx="5.5"
+         ry="3.5999999"
+         fill="#ffffff"
+         id="ellipse49"
+         style="stroke-width:1.6934" />
+      <circle
+         cx="230.5"
+         cy="72"
+         r="2.8"
+         fill="#0e9c8e"
+         id="circle49"
+         style="stroke-width:1.30131" />
+      <circle
+         cx="250.5"
+         cy="72"
+         r="2.8"
+         fill="#0e9c8e"
+         id="circle50"
+         style="stroke-width:1.30131" />
+      <circle
+         cx="231.5"
+         cy="71"
+         r="1"
+         fill="#ffffff"
+         id="circle51"
+         style="stroke-width:1.6934" />
+      <circle
+         cx="251.5"
+         cy="71"
+         r="1"
+         fill="#ffffff"
+         id="circle52"
+         style="stroke-width:1.6934" />
+      <path
+         d="m 224,70 q 6,-4 12,0 m 8,0 q 6,-4 12,0"
+         fill="none"
+         stroke="#1c1e3f"
+         stroke-width="1.6917"
+         stroke-linecap="round"
+         id="path52" />
+      <path
+         d="m 240,76 q 2,5 -1,8"
+         fill="none"
+         stroke="#e0a830"
+         stroke-width="1.95196"
+         stroke-linecap="round"
+         id="path53" />
+      <!-- zářivý úsměv přes celý obličej -->
+      <path
+         d="m 222,86 q 18,16 36,0 -18,5 -36,0 z"
+         fill="#ffffff"
+         id="path54"
+         style="stroke-width:1.6934" />
+      <path
+         d="m 222,86 q 18,16 36,0"
+         fill="none"
+         stroke="#c98400"
+         stroke-width="1.6917"
+         stroke-linecap="round"
+         id="path55" />
+      <!-- zlaté pihy jako souhvězdí -->
+      <g
+         fill="#ffffff"
+         opacity="0.8"
+         id="g59"
+         style="stroke-width:1.6934">
+        <circle
+           cx="222"
+           cy="80"
+           r="1.1"
+           id="circle55"
+           style="stroke-width:1.30131" />
+        <circle
+           cx="224"
+           cy="77"
+           r="0.80000001"
+           id="circle56"
+           style="stroke-width:1.30131" />
+        <circle
+           cx="258"
+           cy="80"
+           r="1.1"
+           id="circle57"
+           style="stroke-width:1.30131" />
+        <circle
+           cx="256"
+           cy="77"
+           r="0.80000001"
+           id="circle58"
+           style="stroke-width:1.30131" />
+        <circle
+           cx="240"
+           cy="56"
+           r="1"
+           id="circle59"
+           style="stroke-width:1.30131" />
+      </g>
+    </g>
+    <path
+       d="M266 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path60" />
+    <path
+       d="M275 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path61" />
+    <path
+       d="M284 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path62" />
+    <path
+       d="M293 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path63" />
+    <path
+       d="M302 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path64" />
+    <path
+       d="M311 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path65" />
+    <path
+       d="M320 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path66" />
+    <path
+       d="M329 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path67" />
+    <path
+       d="M338 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path68" />
+    <path
+       d="M347 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path69" />
+    <path
+       d="M356 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path70" />
+    <path
+       d="M365 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path71" />
+    <path
+       d="M374 104 V232"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="path72" />
+    <path
+       d="M262 104 Q320 76 378 104"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path73" />
+    <path
+       d="M262 104 H378"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path74" />
+    <circle
+       cx="320"
+       cy="86"
+       r="3"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.6"
+       id="circle74" />
+  </g>
+  <g
+     fill="#ffd36b"
+     id="g77">
+    <path
+       d="M262 70 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"
+       id="path75" />
+    <path
+       d="M386 120 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"
+       id="path76" />
+    <path
+       d="M250 160 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"
+       id="path77" />
+  </g>
+  <g
+     transform="translate(176 214) scale(1.1)"
+     id="g98">
+    <!-- kufr -->
+    <rect
+       x="-30"
+       y="-14"
+       width="60"
+       height="30"
+       rx="4"
+       fill="#8a5a3a"
+       id="rect77" />
+    <path
+       d="M-30 -2 H30"
+       stroke="#6b452c"
+       stroke-width="2"
+       id="path78" />
+    <rect
+       x="-24"
+       y="-12"
+       width="5"
+       height="26"
+       fill="#6b452c"
+       id="rect78" />
+    <rect
+       x="19"
+       y="-12"
+       width="5"
+       height="26"
+       fill="#6b452c"
+       id="rect79" />
+    <circle
+       cx="10"
+       cy="6"
+       r="5"
+       fill="#14c2b0"
+       id="circle79" />
+    <rect
+       x="-12"
+       y="2"
+       width="10"
+       height="7"
+       rx="1"
+       fill="#f0a400"
+       id="rect80" />
+    <!-- nohy -->
+    <path
+       d="M-10 -10 L-14 10 L-18 30 M10 -10 L16 10 L18 30"
+       stroke="#8a6a3a"
+       stroke-width="8"
+       stroke-linecap="round"
+       fill="none"
+       id="path80" />
+    <ellipse
+       cx="-20"
+       cy="32"
+       rx="7"
+       ry="3.5"
+       fill="#1c1e3f"
+       id="ellipse80" />
+    <ellipse
+       cx="20"
+       cy="32"
+       rx="7"
+       ry="3.5"
+       fill="#1c1e3f"
+       id="ellipse81" />
+    <!-- tělo v khaki -->
+    <path
+       d="M-22 -10 Q-26 -44 0 -46 Q26 -44 22 -10 Q0 -4 -22 -10Z"
+       fill="#c9a86a"
+       id="path81" />
+    <path
+       d="M-22 -18 H22"
+       stroke="#8a5a3a"
+       stroke-width="3"
+       id="path82" />
+    <rect
+       x="-16"
+       y="-36"
+       width="9"
+       height="7"
+       rx="1"
+       fill="#b8955a"
+       id="rect82" />
+    <rect
+       x="7"
+       y="-36"
+       width="9"
+       height="7"
+       rx="1"
+       fill="#b8955a"
+       id="rect83" />
+    <path
+       d="M-18 -32 Q-14 -18 -3 -24"
+       stroke="#c9a86a"
+       stroke-width="8"
+       stroke-linecap="round"
+       fill="none"
+       id="path83" />
+    <path
+       d="M18 -32 Q14 -18 3 -24"
+       stroke="#c9a86a"
+       stroke-width="8"
+       stroke-linecap="round"
+       fill="none"
+       id="path84" />
+    <circle
+       cx="0"
+       cy="-25"
+       r="6"
+       fill="#a596f2"
+       id="circle84" />
+    <g
+       transform="rotate(-4 0 -46)"
+       id="g97">
+      <!-- hlava -->
+      <circle
+         cx="0"
+         cy="-64"
+         r="18"
+         fill="#a596f2"
+         id="circle85" />
+      <path
+         d="M-14 -66 q5 -5 10 0 M4 -66 q5 -5 10 0"
+         fill="none"
+         stroke="#1c1e3f"
+         stroke-width="2"
+         stroke-linecap="round"
+         id="path85" />
+      <path
+         d="M-16 -73 l10 2 M6 -71 l10 -2"
+         stroke="#e3e5ee"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path86" />
+      <path
+         d="M-12 -62 q-2 8 0 14 M12 -62 q2 8 0 14"
+         stroke="#14c2b0"
+         stroke-width="2.5"
+         fill="none"
+         stroke-linecap="round"
+         id="path87" />
+      <ellipse
+         cx="0"
+         cy="-60"
+         rx="5"
+         ry="4"
+         fill="#8a73ee"
+         id="ellipse87" />
+      <!-- huňatý knír -->
+      <path
+         d="m -11.381971,-55.289241 c 3.9999994,-2.666667 6.6611184,-0.427832 10.6611184,2.238834 4,-2.666667 7.1007015,-3.89043 11.1007016,-1.223763 -2.6666668,2.666667 -5.5612216,6.609061 -10.8945549,5.275728 -5.3333333,1.333333 -8.200599,-3.624132 -10.8672651,-6.290799 z"
+         fill="#e3e5ee"
+         id="path88"
+         sodipodi:nodetypes="ccccc" />
+      <!-- tropická helma se znakem společnosti -->
+      <g
+         transform="translate(-0.2536599,-2.3724944)"
+         id="g96">
+        <path
+           d="m -20,-74 q 0,-22 20,-22 20,0 20,22 z"
+           fill="#e0c890"
+           id="path90" />
+        <ellipse
+           cx="0"
+           cy="-74"
+           rx="26"
+           ry="5"
+           fill="#d4b878"
+           id="ellipse90" />
+        <path
+           d="M -20,-78 H 20"
+           stroke="#8a5a3a"
+           stroke-width="3"
+           id="path91" />
+        <circle
+           cx="0"
+           cy="-86"
+           r="5"
+           fill="#0e9c8e"
+           id="circle91" />
+        <g
+           fill="#e3e5ee"
+           id="g95">
+          <circle
+             cx="0"
+             cy="-84.5"
+             r="1.6"
+             id="circle92" />
+          <circle
+             cx="-2.2"
+             cy="-88"
+             r="0.89999998"
+             id="circle93" />
+          <circle
+             cx="0"
+             cy="-89"
+             r="0.89999998"
+             id="circle94" />
+          <circle
+             cx="2.2"
+             cy="-88"
+             r="0.89999998"
+             id="circle95" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <!-- sen o pravém pozemském županu -->
+  <g
+     fill="#f0a400"
+     id="g106"
+     transform="translate(16.970322,16.888806)">
+    <path
+       d="m 150,26 2,4 4,0.6 -4,1.4 -2,4 -2,-4 -4,-1.4 4,-0.6 z"
+       id="path106" />
+  </g>
+  <rect
+     x="380.60632"
+     y="57.825996"
+     width="96"
+     height="44"
+     rx="3"
+     fill="#1c1e3f"
+     id="rect10"
+     ry="3" />
+  <rect
+     x="380.60632"
+     y="57.825996"
+     width="96"
+     height="9"
+     rx="3"
+     fill="#595d82"
+     id="rect11"
+     ry="3" />
+  <rect
+     x="388.60632"
+     y="73.825996"
+     width="30"
+     height="4"
+     rx="2"
+     fill="#f0a400"
+     opacity="0.7"
+     id="rect12"
+     ry="2" />
+  <rect
+     x="388.60632"
+     y="87.825996"
+     width="30"
+     height="4"
+     rx="2"
+     fill="#f0a400"
+     opacity="0.7"
+     id="rect13"
+     ry="2" />
+  <g
+     stroke="#e3e5ee"
+     stroke-width="1.6"
+     fill="none"
+     stroke-linecap="round"
+     id="g13"
+     transform="translate(0.6063287,-4.1740053)">
+    <circle
+       cx="456"
+       cy="77"
+       r="3"
+       id="circle13" />
+    <path
+       d="m 456,80 v 6 m -8,-8 3,4 h 10 l 3,-4"
+       id="path13" />
+  </g>
+  <g
+     stroke="#e3e5ee"
+     stroke-width="1.6"
+     stroke-linecap="round"
+     id="g14"
+     transform="translate(0.6063287,-2.1740053)">
+    <path
+       d="M 456,87.6 V 98 m -5,-7.8 10,5.2 m -10,0 10,-5.2"
+       id="path14"
+       style="stroke-width:1.6" />
+  </g>
+</svg>

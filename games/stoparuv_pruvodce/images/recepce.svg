@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="recepce.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs70" />
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.334375"
+     inkscape:cx="159.25059"
+     inkscape:cy="145.01171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <!-- Hlavní kancelář Společnosti pro ochranu ohrožených druhů: usměvavá recepční a vycpaná zvířata, která tu kdysi pracovala. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect1" />
+  <rect
+     width="480"
+     height="20"
+     fill="#1c1e3f"
+     id="rect2" />
+  <rect
+     y="170"
+     width="480"
+     height="66"
+     fill="#1f2358"
+     id="rect3" />
+  <path
+     d="M0 170 H480"
+     stroke="#2e3370"
+     stroke-width="4"
+     id="path3" />
+  <path
+     d="M0 236 H480 V280 H0Z"
+     fill="#141848"
+     id="path4" />
+  <g
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="g6">
+    <path
+       d="M0 252 H480"
+       id="path5" />
+    <path
+       d="M0 268 H480"
+       id="path6" />
+  </g>
+  <!-- znak společnosti: tlapka -->
+  <circle
+     cx="400"
+     cy="50"
+     r="20"
+     fill="#0e9c8e"
+     id="circle6" />
+  <circle
+     cx="400"
+     cy="50"
+     r="20"
+     fill="none"
+     stroke="#14c2b0"
+     stroke-width="3"
+     id="circle7" />
+  <ellipse
+     cx="400"
+     cy="56"
+     rx="7"
+     ry="6"
+     fill="#e3e5ee"
+     id="ellipse7" />
+  <g
+     fill="#e3e5ee"
+     id="g11"
+     transform="translate(160)">
+    <circle
+       cx="231"
+       cy="47"
+       r="3"
+       id="circle8" />
+    <circle
+       cx="237"
+       cy="42"
+       r="3"
+       id="circle9" />
+    <circle
+       cx="243"
+       cy="42"
+       r="3"
+       id="circle10" />
+    <circle
+       cx="249"
+       cy="47"
+       r="3"
+       id="circle11" />
+  </g>
+  <!-- nástěnka -->
+  <rect
+     x="268"
+     y="74"
+     width="74"
+     height="58"
+     rx="3"
+     fill="#8a5a3a"
+     id="rect11" />
+  <rect
+     x="272"
+     y="78"
+     width="66"
+     height="50"
+     rx="2"
+     fill="#c98a5a"
+     id="rect12" />
+  <rect
+     x="278"
+     y="84"
+     width="24"
+     height="18"
+     fill="#e3e5ee"
+     transform="rotate(-4 290 93)"
+     id="rect13" />
+  <ellipse
+     cx="284.13004"
+     cy="93.996262"
+     fill="#f0a400"
+     id="circle16-0-3"
+     style="fill:#8a5a3a;fill-opacity:1;stroke-width:1"
+     rx="1.9962658"
+     ry="3.6848314" />
+  <rect
+     x="308"
+     y="84"
+     width="24"
+     height="16"
+     fill="#e3e5ee"
+     transform="rotate(5 320 92)"
+     id="rect14" />
+  <rect
+     x="280"
+     y="106"
+     width="22"
+     height="16"
+     fill="#e3e5ee"
+     transform="rotate(3 291 114)"
+     id="rect15" />
+  <rect
+     x="308"
+     y="104"
+     width="24"
+     height="18"
+     fill="#14c2b0"
+     transform="rotate(-6 320 113)"
+     id="rect16"
+     style="fill:#e3e5ee;fill-opacity:1" />
+  <ellipse
+     cx="315.41293"
+     cy="115.00001"
+     fill="#f0a400"
+     id="circle16"
+     style="fill:#14c2b0;fill-opacity:1;stroke-width:0.999999"
+     rx="4.5870667"
+     ry="5" />
+  <ellipse
+     cx="284.99628"
+     cy="115.00001"
+     fill="#f0a400"
+     id="circle16-0"
+     style="fill:#ffa400;fill-opacity:1;stroke-width:1"
+     rx="1.9962658"
+     ry="2.6885698" />
+  <ellipse
+     cx="92"
+     cy="-315.41293"
+     fill="#f0a400"
+     id="circle16-0-9"
+     style="fill:#23275e;fill-opacity:1;stroke-width:1"
+     rx="1.9962637"
+     ry="4.3365374"
+     transform="rotate(90)" />
+  <g
+     fill="#ff5a36"
+     id="g20">
+    <circle
+       cx="290"
+       cy="85"
+       r="1.8"
+       id="circle17" />
+    <circle
+       cx="320"
+       cy="85"
+       r="1.8"
+       id="circle18" />
+    <circle
+       cx="291"
+       cy="107"
+       r="1.8"
+       id="circle19" />
+    <circle
+       cx="320"
+       cy="105"
+       r="1.8"
+       id="circle20" />
+  </g>
+  <!-- vycpaná hlava na zdi, s kravatou -->
+  <path
+     d="M120 40 h40 l-4 34 h-32Z"
+     fill="#8a5a3a"
+     id="path20" />
+  <path
+     d="M126 46 Q122 30 112 24 M154 46 Q158 30 168 24"
+     fill="none"
+     stroke="#caccdc"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path21" />
+  <ellipse
+     cx="140"
+     cy="58"
+     rx="18"
+     ry="16"
+     fill="#8a73ee"
+     id="ellipse21" />
+  <ellipse
+     cx="140"
+     cy="68"
+     rx="10"
+     ry="7"
+     fill="#a596f2"
+     id="ellipse22" />
+  <circle
+     cx="133"
+     cy="54"
+     r="4"
+     fill="#1c1e3f"
+     id="circle22" />
+  <circle
+     cx="147"
+     cy="54"
+     r="4"
+     fill="#1c1e3f"
+     id="circle23" />
+  <circle
+     cx="134"
+     cy="53"
+     r="1.3"
+     fill="#fff"
+     id="circle24" />
+  <circle
+     cx="148"
+     cy="53"
+     r="1.3"
+     fill="#fff"
+     id="circle25" />
+  <path
+     d="M136 76 L140 90 L144 76Z"
+     fill="#ff5a36"
+     id="path25" />
+  <path
+     d="M140 42 V48"
+     stroke="#6b4fe0"
+     stroke-width="1.5"
+     stroke-dasharray="2 2"
+     id="path26" />
+  <!-- vycpaný bývalý zaměstnanec na podstavci -->
+  <rect
+     x="30"
+     y="196"
+     width="80"
+     height="40"
+     rx="3"
+     fill="#595d82"
+     id="rect26" />
+  <rect
+     x="56"
+     y="212"
+     width="28"
+     height="8"
+     rx="1.5"
+     fill="#f0a400"
+     id="rect27" />
+  <g
+     id="g33">
+    <path
+       d="M44 196 V176 M56 196 V178 M86 196 V178 M98 196 V176"
+       stroke="#a36b45"
+       stroke-width="6"
+       stroke-linecap="round"
+       id="path27" />
+    <ellipse
+       cx="72"
+       cy="168"
+       rx="34"
+       ry="16"
+       fill="#a36b45"
+       id="ellipse27" />
+    <path
+       d="M44 168 H100"
+       stroke="#6b452c"
+       stroke-width="1.5"
+       stroke-dasharray="3 3"
+       id="path28" />
+    <path
+       d="M98 160 Q108 136 112 128"
+       stroke="#a36b45"
+       stroke-width="10"
+       stroke-linecap="round"
+       fill="none"
+       id="path29" />
+    <ellipse
+       cx="114"
+       cy="122"
+       rx="12"
+       ry="9"
+       fill="#a36b45"
+       id="ellipse29" />
+    <circle
+       cx="117"
+       cy="119"
+       r="3"
+       fill="#1c1e3f"
+       id="circle29" />
+    <circle
+       cx="118"
+       cy="118"
+       r="1"
+       fill="#fff"
+       id="circle30" />
+    <path
+       d="M108 112 l-3 -8 M114 112 l2 -8"
+       stroke="#a36b45"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="path30" />
+    <path
+       d="M106 134 L110 148 L114 134Z"
+       fill="#0e9c8e"
+       id="path31" />
+    <path
+       d="M38 166 q-10 -2 -12 8"
+       fill="none"
+       stroke="#a36b45"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path33" />
+  </g>
+  <!-- vycpaný úředník u psacího stroje -->
+  <rect
+     x="350"
+     y="180"
+     width="110"
+     height="10"
+     rx="3"
+     fill="#8a5a3a"
+     id="rect33" />
+  <path
+     d="M360 190 V236 M450 190 V236"
+     stroke="#6b452c"
+     stroke-width="5"
+     id="path34" />
+  <rect
+     x="370"
+     y="140"
+     width="34"
+     height="46"
+     rx="10"
+     fill="#4c5074"
+     id="rect34" />
+  <g
+     id="g42">
+    <ellipse
+       cx="388"
+       cy="168"
+       rx="16"
+       ry="20"
+       fill="#14c2b0"
+       id="ellipse34" />
+    <path
+       d="M388 150 V186"
+       stroke="#0e9c8e"
+       stroke-width="1.5"
+       stroke-dasharray="3 3"
+       id="path35" />
+    <circle
+       cx="388"
+       cy="136"
+       r="14"
+       fill="#14c2b0"
+       id="circle35" />
+    <path
+       d="M400 136 L414 140 L400 144Z"
+       fill="#f0a400"
+       id="path36" />
+    <circle
+       cx="385"
+       cy="133"
+       r="6"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="circle36" />
+    <circle
+       cx="397"
+       cy="133"
+       r="5"
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="circle37" />
+    <circle
+       cx="385"
+       cy="133"
+       r="2.6"
+       fill="#1c1e3f"
+       id="circle38" />
+    <circle
+       cx="397"
+       cy="133"
+       r="2.3"
+       fill="#1c1e3f"
+       id="circle39" />
+    <circle
+       cx="386"
+       cy="132"
+       r="0.9"
+       fill="#fff"
+       id="circle40" />
+    <circle
+       cx="398"
+       cy="132"
+       r="0.8"
+       fill="#fff"
+       id="circle41" />
+    <path
+       d="M382 120 q2 -8 6 -4 q2 -8 6 -2"
+       fill="none"
+       stroke="#14c2b0"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       id="path41" />
+    <path
+       d="m 400,158 c 9.33333,2.66667 15.33333,3.5 18,7.5"
+       stroke="#14c2b0"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path42"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <rect
+     x="412"
+     y="164"
+     width="34"
+     height="16"
+     rx="3"
+     fill="#595d82"
+     id="rect42" />
+  <rect
+     x="416"
+     y="156"
+     width="26"
+     height="10"
+     rx="1"
+     fill="#e3e5ee"
+     id="rect43" />
+  <g
+     fill="#1c1e3f"
+     id="g46">
+    <circle
+       cx="418"
+       cy="174"
+       r="1.5"
+       id="circle43" />
+    <circle
+       cx="424"
+       cy="174"
+       r="1.5"
+       id="circle44" />
+    <circle
+       cx="430"
+       cy="174"
+       r="1.5"
+       id="circle45" />
+    <circle
+       cx="436"
+       cy="174"
+       r="1.5"
+       id="circle46" />
+  </g>
+  <rect
+     x="448"
+     y="168"
+     width="10"
+     height="12"
+     rx="2"
+     fill="#ff5a36"
+     id="rect46" />
+  <path
+     d="m 450,166 q 2,-4 0,-8"
+     fill="none"
+     stroke="#caccdc"
+     stroke-opacity="0.3"
+     stroke-width="1.5"
+     id="path46" />
+  <path
+     d="m 455.1241,166 q 2,-4 0,-8"
+     fill="none"
+     stroke="#caccdc"
+     stroke-opacity="0.3"
+     stroke-width="1.5"
+     id="path46-3" />
+  <!-- recepční -->
+  <path
+     d="M206 210 Q204 156 240 150 Q276 156 274 210Z"
+     fill="#6b4fe0"
+     id="path47" />
+  <rect
+     x="234"
+     y="112"
+     width="12"
+     height="45.441654"
+     rx="5"
+     fill="#caccdc"
+     id="rect48"
+     ry="5"
+     style="stroke-width:1" />
+  <ellipse
+     cx="240"
+     cy="94"
+     rx="22"
+     ry="24"
+     fill="#caccdc"
+     id="ellipse48" />
+  <circle
+     cx="240"
+     cy="66"
+     r="12"
+     fill="#f0a400"
+     id="circle48" />
+  <path
+     d="m 218,88 q 2,-20 22,-20 20,0 22,20 -12,-10 -22,-8 -10,-2 -22,8 z"
+     fill="#f0a400"
+     id="path49" />
+  <circle
+     cx="231"
+     cy="92"
+     r="6"
+     fill="#e3e5ee"
+     id="circle49" />
+  <circle
+     cx="249"
+     cy="92"
+     r="6"
+     fill="#e3e5ee"
+     id="circle50" />
+  <circle
+     cx="232"
+     cy="93"
+     r="3"
+     fill="#1c1e3f"
+     id="circle51" />
+  <circle
+     cx="250"
+     cy="93"
+     r="3"
+     fill="#1c1e3f"
+     id="circle52" />
+  <path
+     d="m 228,82 q 3,-3 7,-1 m 11,0 q 4,-2 7,1"
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path52" />
+  <path
+     d="m 228,104 q 12,12 24,0 -12,6 -24,0 z"
+     fill="#ff5a36"
+     id="path53" />
+  <path
+     d="m 231,105 q 9,4 18,0"
+     fill="none"
+     stroke="#ffffff"
+     stroke-width="1.5"
+     id="path54" />
+  <!-- sluchátka s mikrofonem -->
+  <path
+     d="m 216,92 q 0,-26 24,-28 24,2 24,28"
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="3"
+     id="path55" />
+  <rect
+     x="212"
+     y="86"
+     width="7"
+     height="14"
+     rx="3"
+     fill="#1c1e3f"
+     id="rect55"
+     ry="3" />
+  <rect
+     x="261"
+     y="106"
+     width="7"
+     height="14"
+     rx="3"
+     fill="#1c1e3f"
+     id="rect56"
+     ry="3" />
+  <path
+     d="m 215,98 q 3,14 15,14"
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="path56" />
+  <circle
+     cx="231"
+     cy="112"
+     r="2.5"
+     fill="#1c1e3f"
+     id="circle56" />
+  <!-- recepční pult -->
+  <rect
+     x="160"
+     y="184"
+     width="160"
+     height="52"
+     rx="4"
+     fill="#8a5a3a"
+     id="rect57" />
+  <rect
+     x="154"
+     y="178"
+     width="172"
+     height="10"
+     rx="3"
+     fill="#a36b45"
+     id="rect58" />
+  <circle
+     cx="240"
+     cy="212"
+     r="12"
+     fill="#0e9c8e"
+     id="circle58" />
+  <ellipse
+     cx="240"
+     cy="215"
+     rx="4"
+     ry="3.5"
+     fill="#e3e5ee"
+     id="ellipse58" />
+  <g
+     fill="#e3e5ee"
+     id="g62">
+    <circle
+       cx="235"
+       cy="210"
+       r="1.6"
+       id="circle59" />
+    <circle
+       cx="238.5"
+       cy="207"
+       r="1.6"
+       id="circle60" />
+    <circle
+       cx="241.5"
+       cy="207"
+       r="1.6"
+       id="circle61" />
+    <circle
+       cx="245"
+       cy="210"
+       r="1.6"
+       id="circle62" />
+  </g>
+  <!-- květináč -->
+  <path
+     d="M286 178 L290 160 H306 L310 178Z"
+     fill="#ff5a36"
+     id="path62" />
+  <g
+     fill="#0e9c8e"
+     id="g64">
+    <ellipse
+       cx="292"
+       cy="150"
+       rx="6"
+       ry="12"
+       transform="rotate(-20 292 150)"
+       id="ellipse62" />
+    <ellipse
+       cx="304"
+       cy="148"
+       rx="6"
+       ry="13"
+       transform="rotate(18 304 148)"
+       id="ellipse63" />
+    <ellipse
+       cx="298"
+       cy="144"
+       rx="5"
+       ry="14"
+       id="ellipse64" />
+  </g>
+  <!-- vycpané zvířátko pod skleněným zvonem -->
+  <ellipse
+     cx="180"
+     cy="178"
+     rx="18"
+     ry="3"
+     fill="#595d82"
+     id="ellipse65" />
+  <ellipse
+     cx="180"
+     cy="168"
+     rx="9"
+     ry="8"
+     fill="#ff8a6a"
+     id="ellipse66" />
+  <circle
+     cx="177"
+     cy="166"
+     r="2"
+     fill="#1c1e3f"
+     id="circle66" />
+  <circle
+     cx="184"
+     cy="166"
+     r="2"
+     fill="#1c1e3f"
+     id="circle67" />
+  <path
+     d="M174 160 l-2 -5 M186 160 l2 -5"
+     stroke="#ff8a6a"
+     stroke-width="2.5"
+     stroke-linecap="round"
+     id="path67" />
+  <rect
+     x="176"
+     y="172"
+     width="8"
+     height="5"
+     rx="1"
+     fill="#e3e5ee"
+     id="rect67" />
+  <path
+     d="M164 178 V156 Q164 140 180 140 Q196 140 196 156 V178"
+     fill="#e3e5ee"
+     fill-opacity=".12"
+     stroke="#e3e5ee"
+     stroke-opacity=".6"
+     stroke-width="1.5"
+     id="path68" />
+  <path
+     d="M170 152 Q172 146 178 144"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".7"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path69" />
+  <!-- zvonek -->
+  <path
+     d="M206 178 Q206 170 213 170 Q220 170 220 178Z"
+     fill="#f0a400"
+     id="path70" />
+  <circle
+     cx="213"
+     cy="168"
+     r="1.8"
+     fill="#f0a400"
+     id="circle70" />
+  <path
+     d="M232 152 L240 166 L248 152Z"
+     fill="#e3e5ee"
+     id="path48" />
+</svg>

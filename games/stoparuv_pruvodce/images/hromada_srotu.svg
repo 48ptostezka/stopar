@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg148"
+   sodipodi:docname="hromada_srotu.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview148"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.334375"
+     inkscape:cx="249.92974"
+     inkscape:cy="212.45902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg148" />
+  <!-- Kalobahno Supreme 9000, vesnička Hromada šrotu: tak malebná, že by tomu nikdo nevěřil; kvetoucí louky, zurčící potok, vícehlasý ptačí sbor, muzeum s jediným šroubkem a obchůdek s „vintage“ hranolem ve výloze. -->
+  <defs
+     id="defs3">
+    <linearGradient
+       id="nebe"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#23275e"
+         id="stop1" />
+      <stop
+         offset=".55"
+         stop-color="#6b4fe0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#ff8a6a"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="480"
+     height="280"
+     fill="url(#nebe)"
+     id="rect3" />
+  <g
+     fill="#fff"
+     id="g6">
+    <circle
+       cx="40"
+       cy="20"
+       r="1.2"
+       id="circle3" />
+    <circle
+       cx="130"
+       cy="34"
+       r="1"
+       id="circle4" />
+    <circle
+       cx="380"
+       cy="16"
+       r="1.2"
+       id="circle5" />
+    <circle
+       cx="450"
+       cy="40"
+       r="1"
+       id="circle6" />
+  </g>
+  <circle
+     cx="400"
+     cy="74"
+     r="20"
+     fill="#ffd36b"
+     id="circle7" />
+  <circle
+     cx="400"
+     cy="74"
+     r="30"
+     fill="#ffd36b"
+     opacity=".2"
+     id="circle8" />
+  <!-- vícehlasý ptačí sbor -->
+  <g
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="1.8"
+     stroke-linecap="round"
+     id="g11">
+    <path
+       d="M150 50 q5 -5 10 0 q5 -5 10 0"
+       id="path8" />
+    <path
+       d="M180 40 q4 -4 8 0 q4 -4 8 0"
+       id="path9" />
+    <path
+       d="M206 54 q4 -4 8 0 q4 -4 8 0"
+       id="path10" />
+    <path
+       d="M170 66 q3 -3 6 0 q3 -3 6 0"
+       id="path11" />
+  </g>
+  <!-- kopce -->
+  <path
+     d="M0 150 Q80 104 170 136 Q260 96 360 132 Q430 110 480 124 V280 H0Z"
+     fill="#0e9c8e"
+     id="path14" />
+  <rect
+     x="274.35144"
+     y="138.45639"
+     width="5"
+     height="18"
+     fill="#8a5a3a"
+     id="rect85-6" />
+  <circle
+     cx="276.35144"
+     cy="132.45639"
+     r="16"
+     fill="#0b5f57"
+     id="circle86-1" />
+  <circle
+     cx="270.35144"
+     cy="126.45638"
+     r="3"
+     fill="#ff5a36"
+     id="circle87-8"
+     style="fill:#ffd42a" />
+  <circle
+     cx="282.35144"
+     cy="136.45639"
+     r="3"
+     fill="#ff5a36"
+     id="circle88-7" />
+  <path
+     d="M0 176 Q120 140 240 166 Q360 140 480 160 V280 H0Z"
+     fill="#14c2b0"
+     id="path15" />
+  <g
+     id="g84">
+    <circle
+       cx="459"
+       cy="264"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle15" />
+    <circle
+       cx="41"
+       cy="252"
+       r="2.4"
+       fill="#ff5a36"
+       id="circle16" />
+    <circle
+       cx="410"
+       cy="188"
+       r="2.4"
+       fill="#f0a400"
+       id="circle17" />
+    <circle
+       cx="17"
+       cy="235"
+       r="2.4"
+       fill="#ffd36b"
+       id="circle18" />
+    <circle
+       cx="189"
+       cy="240"
+       r="2"
+       fill="#8a73ee"
+       id="circle19" />
+    <circle
+       cx="261"
+       cy="209"
+       r="1.6"
+       fill="#e3e5ee"
+       id="circle20" />
+    <circle
+       cx="418"
+       cy="200"
+       r="2"
+       fill="#e3e5ee"
+       id="circle21" />
+    <circle
+       cx="203"
+       cy="257"
+       r="2.4"
+       fill="#f0a400"
+       id="circle22" />
+    <circle
+       cx="85"
+       cy="185"
+       r="2"
+       fill="#f0a400"
+       id="circle23" />
+    <circle
+       cx="83"
+       cy="216"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle24" />
+    <circle
+       cx="324"
+       cy="180"
+       r="2"
+       fill="#ffd36b"
+       id="circle25" />
+    <circle
+       cx="353"
+       cy="260"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle26" />
+    <circle
+       cx="170"
+       cy="268"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle27" />
+    <circle
+       cx="458"
+       cy="204"
+       r="2"
+       fill="#ff5a36"
+       id="circle28" />
+    <circle
+       cx="314"
+       cy="187"
+       r="2"
+       fill="#e3e5ee"
+       id="circle29" />
+    <circle
+       cx="240"
+       cy="251"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle30" />
+    <circle
+       cx="424"
+       cy="259"
+       r="2"
+       fill="#ffd36b"
+       id="circle31" />
+    <circle
+       cx="272"
+       cy="261"
+       r="2"
+       fill="#ff5a36"
+       id="circle32" />
+    <circle
+       cx="234"
+       cy="184"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle33" />
+    <circle
+       cx="401"
+       cy="256"
+       r="2"
+       fill="#8a73ee"
+       id="circle34" />
+    <circle
+       cx="371"
+       cy="213"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle35" />
+    <circle
+       cx="399"
+       cy="222"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle36" />
+    <circle
+       cx="296"
+       cy="205"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle37" />
+    <circle
+       cx="235"
+       cy="200"
+       r="2.4"
+       fill="#ff5a36"
+       id="circle38" />
+    <circle
+       cx="423"
+       cy="246"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle39" />
+    <circle
+       cx="4"
+       cy="250"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle40" />
+    <circle
+       cx="28"
+       cy="232"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle41" />
+    <circle
+       cx="109"
+       cy="256"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle42" />
+    <circle
+       cx="66"
+       cy="189"
+       r="1.6"
+       fill="#f0a400"
+       id="circle43" />
+    <circle
+       cx="203"
+       cy="239"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle44" />
+    <circle
+       cx="174"
+       cy="179"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle45" />
+    <circle
+       cx="40"
+       cy="265"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle46" />
+    <circle
+       cx="350"
+       cy="162"
+       r="1.6"
+       fill="#e3e5ee"
+       id="circle47" />
+    <circle
+       cx="390"
+       cy="177"
+       r="2.4"
+       fill="#f0a400"
+       id="circle48" />
+    <circle
+       cx="332"
+       cy="202"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle49" />
+    <circle
+       cx="73"
+       cy="164"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle50" />
+    <circle
+       cx="301"
+       cy="242"
+       r="2"
+       fill="#e3e5ee"
+       id="circle51" />
+    <circle
+       cx="235"
+       cy="194"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle52" />
+    <circle
+       cx="355"
+       cy="259"
+       r="2.4"
+       fill="#ffd36b"
+       id="circle53" />
+    <circle
+       cx="339"
+       cy="212"
+       r="1.6"
+       fill="#f0a400"
+       id="circle54" />
+    <circle
+       cx="317"
+       cy="195"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle55" />
+    <circle
+       cx="215"
+       cy="256"
+       r="2.4"
+       fill="#f0a400"
+       id="circle56" />
+    <circle
+       cx="281"
+       cy="203"
+       r="2"
+       fill="#8a73ee"
+       id="circle57" />
+    <circle
+       cx="69"
+       cy="266"
+       r="2"
+       fill="#e3e5ee"
+       id="circle58" />
+    <circle
+       cx="291"
+       cy="206"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle59" />
+    <circle
+       cx="268"
+       cy="175"
+       r="2"
+       fill="#ff8a6a"
+       id="circle60" />
+    <circle
+       cx="16"
+       cy="178"
+       r="2"
+       fill="#ff8a6a"
+       id="circle61" />
+    <circle
+       cx="305"
+       cy="216"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle62" />
+    <circle
+       cx="477"
+       cy="186"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle63" />
+    <circle
+       cx="120"
+       cy="225"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle64" />
+    <circle
+       cx="341"
+       cy="188"
+       r="2"
+       fill="#ffd36b"
+       id="circle65" />
+    <circle
+       cx="253"
+       cy="161"
+       r="2"
+       fill="#ff8a6a"
+       id="circle66" />
+    <circle
+       cx="196"
+       cy="172"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle67" />
+    <circle
+       cx="116"
+       cy="171"
+       r="1.6"
+       fill="#f0a400"
+       id="circle68" />
+    <circle
+       cx="51"
+       cy="163"
+       r="2"
+       fill="#ff5a36"
+       id="circle69" />
+    <circle
+       cx="218"
+       cy="219"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle70" />
+    <circle
+       cx="329"
+       cy="244"
+       r="2.4"
+       fill="#f0a400"
+       id="circle71" />
+    <circle
+       cx="387"
+       cy="207"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle72" />
+    <circle
+       cx="284"
+       cy="257"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle73" />
+    <circle
+       cx="87"
+       cy="170"
+       r="2"
+       fill="#ffd36b"
+       id="circle74" />
+    <circle
+       cx="9"
+       cy="266"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle75" />
+    <circle
+       cx="176"
+       cy="236"
+       r="2"
+       fill="#e3e5ee"
+       id="circle76" />
+    <circle
+       cx="9"
+       cy="235"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle77" />
+    <circle
+       cx="147"
+       cy="252"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle78" />
+    <circle
+       cx="390"
+       cy="167"
+       r="2"
+       fill="#ff5a36"
+       id="circle79" />
+    <circle
+       cx="222"
+       cy="258"
+       r="1.6"
+       fill="#8a73ee"
+       id="circle80" />
+    <circle
+       cx="3"
+       cy="163"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle81" />
+    <circle
+       cx="37"
+       cy="243"
+       r="1.6"
+       fill="#f0a400"
+       id="circle82" />
+    <circle
+       cx="274"
+       cy="203"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle83" />
+    <circle
+       cx="362"
+       cy="203"
+       r="2"
+       fill="#ff8a6a"
+       id="circle84" />
+  </g>
+  <!-- stromy -->
+  <g
+     id="g88">
+    <rect
+       x="38"
+       y="128"
+       width="5"
+       height="18"
+       fill="#8a5a3a"
+       id="rect84" />
+    <circle
+       cx="40"
+       cy="122"
+       r="14"
+       fill="#0b5f57"
+       id="circle85" />
+    <rect
+       x="440"
+       y="116"
+       width="5"
+       height="18"
+       fill="#8a5a3a"
+       id="rect85" />
+    <circle
+       cx="442"
+       cy="110"
+       r="16"
+       fill="#0b5f57"
+       id="circle86" />
+    <circle
+       cx="436"
+       cy="104"
+       r="3"
+       fill="#ff5a36"
+       id="circle87" />
+    <circle
+       cx="448"
+       cy="114"
+       r="3"
+       fill="#ff5a36"
+       id="circle88" />
+    <rect
+       x="298.39999"
+       y="112"
+       width="5"
+       height="18"
+       fill="#8a5a3a"
+       id="rect85-3" />
+    <circle
+       cx="300.39999"
+       cy="106"
+       r="16"
+       fill="#0b5f57"
+       id="circle86-6" />
+    <circle
+       cx="294.39999"
+       cy="100"
+       r="3"
+       fill="#ff5a36"
+       id="circle87-7" />
+    <circle
+       cx="306.39999"
+       cy="110"
+       r="3"
+       fill="#ff5a36"
+       id="circle88-5"
+       style="fill:#ffd42a" />
+    <rect
+       x="250"
+       y="111"
+       width="5"
+       height="18"
+       fill="#8a5a3a"
+       id="rect85-35" />
+    <circle
+       cx="252"
+       cy="105"
+       r="16"
+       fill="#0b5f57"
+       id="circle86-62" />
+    <circle
+       cx="246"
+       cy="99"
+       r="3"
+       fill="#ff5a36"
+       id="circle87-9"
+       style="fill:#2a7fff" />
+    <circle
+       cx="258"
+       cy="109"
+       r="3"
+       fill="#ff5a36"
+       id="circle88-1"
+       style="fill:#2a7fff" />
+  </g>
+  <!-- zurčící potok -->
+  <path
+     d="m 304.648,155.33062 c -13.33334,20 -11.31467,40.00271 15.352,50.66938 33.33333,13.33333 36.66667,28.66667 10,46 -20,12 -23.33333,21.33333 -10,28 h 40 c -13.33333,-6.66667 -10,-16 10,-28 26.66667,-17.33333 23.33333,-32.66667 -10,-46 -26.66667,-10.66667 -36.13075,-34 -29.46408,-54 z"
+     fill="#3a6fd8"
+     id="path88"
+     sodipodi:nodetypes="csccccscc" />
+  <g
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="g92">
+    <path
+       d="M316 176 q6 -2 10 0"
+       id="path89" />
+    <path
+       d="M336 212 q8 -3 14 0"
+       id="path90" />
+    <path
+       d="M346 244 q6 -2 10 0"
+       id="path91" />
+    <path
+       d="M332 262 q6 -2 10 0"
+       id="path92" />
+  </g>
+  <!-- kamenný mostek -->
+  <path
+     d="M300 214 Q340 196 388 214 V222 Q344 208 300 222Z"
+     fill="#caccdc"
+     id="path93" />
+  <!-- domky -->
+  <rect
+     x="62"
+     y="148"
+     width="40"
+     height="34"
+     fill="#e3e5ee"
+     id="rect93" />
+  <path
+     d="M58 150 L82 128 L106 150Z"
+     fill="#ff5a36"
+     id="path94" />
+  <rect
+     x="72"
+     y="158"
+     width="9"
+     height="9"
+     rx="1"
+     fill="#f0a400"
+     id="rect94" />
+  <rect
+     x="86"
+     y="164"
+     width="9"
+     height="18"
+     fill="#8a5a3a"
+     id="rect95" />
+  <path
+     d="m 96,142 v -8 h 6 v 12"
+     fill="#caccdc"
+     id="path95" />
+  <path
+     d="m 99,130 q -4,-6 2,-10 -4,-6 2,-10"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity="0.5"
+     stroke-width="2"
+     id="path96" />
+  <rect
+     x="226"
+     y="150"
+     width="34"
+     height="28"
+     fill="#ffd36b"
+     id="rect96" />
+  <path
+     d="M222 152 L243 134 L264 152Z"
+     fill="#8a73ee"
+     id="path97" />
+  <rect
+     x="234"
+     y="158"
+     width="8"
+     height="8"
+     rx="1"
+     fill="#f0a400"
+     id="rect97" />
+  <!-- muzeum s jediným šroubkem pod sklem -->
+  <rect
+     x="390"
+     y="150"
+     width="62"
+     height="34"
+     fill="#e3e5ee"
+     id="rect98" />
+  <path
+     d="M384 152 L421 132 L458 152Z"
+     fill="#caccdc"
+     id="path98" />
+  <g
+     fill="#caccdc"
+     id="g100">
+    <rect
+       x="396"
+       y="156"
+       width="5"
+       height="28"
+       id="rect99" />
+    <rect
+       x="441"
+       y="156"
+       width="5"
+       height="28"
+       id="rect100" />
+  </g>
+  <rect
+     x="408"
+     y="158"
+     width="26"
+     height="22"
+     rx="2"
+     fill="#23275e"
+     id="rect101" />
+  <rect
+     x="414"
+     y="162"
+     width="14"
+     height="14"
+     fill="#e3e5ee"
+     fill-opacity=".25"
+     stroke="#e3e5ee"
+     stroke-width="1"
+     id="rect102" />
+  <g
+     transform="rotate(20 421 170)"
+     id="g104">
+    <rect
+       x="420"
+       y="166"
+       width="2.5"
+       height="8"
+       fill="#c98400"
+       id="rect103" />
+    <rect
+       x="418"
+       y="164"
+       width="6.5"
+       height="3"
+       rx="1"
+       fill="#c98400"
+       id="rect104" />
+  </g>
+  <circle
+     cx="421"
+     cy="170"
+     r="10"
+     fill="#ffd36b"
+     opacity=".18"
+     id="circle104" />
+  <!-- obchůdek v popředí -->
+  <rect
+     x="96"
+     y="176"
+     width="136"
+     height="88"
+     fill="#f0a400"
+     id="rect105" />
+  <path
+     d="M88 180 L164 140 L240 180Z"
+     fill="#e0502e"
+     id="path105" />
+  <!-- markýza -->
+  <path
+     d="M100 190 H228 V200 Q220 208 212 200 Q204 208 196 200 Q188 208 180 200 Q172 208 164 200 Q156 208 148 200 Q140 208 132 200 Q124 208 116 200 Q108 208 100 200Z"
+     fill="#e3e5ee"
+     id="path106" />
+  <g
+     fill="#ff5a36"
+     id="g109">
+    <rect
+       x="100"
+       y="190"
+       width="16"
+       height="10"
+       id="rect106" />
+    <rect
+       x="132"
+       y="190"
+       width="16"
+       height="10"
+       id="rect107" />
+    <rect
+       x="164"
+       y="190"
+       width="16"
+       height="10"
+       id="rect108" />
+    <rect
+       x="196"
+       y="190"
+       width="16"
+       height="10"
+       id="rect109" />
+  </g>
+  <!-- výloha s hranolem -->
+  <rect
+     x="108"
+     y="212"
+     width="70"
+     height="44"
+     rx="2"
+     fill="#1c1e3f"
+     id="rect110" />
+  <rect
+     x="108"
+     y="212"
+     width="70"
+     height="44"
+     rx="2"
+     fill="#8ab4e8"
+     opacity=".15"
+     id="rect111" />
+  <ellipse
+     cx="128"
+     cy="248"
+     rx="14"
+     ry="4"
+     fill="#ff5a36"
+     id="ellipse111" />
+  <g
+     transform="translate(128 238) scale(1.1)"
+     id="g112">
+    <path
+       d="M0 -14 L12 8 H-12Z"
+       fill="#e3e5ee"
+       fill-opacity=".35"
+       stroke="#e3e5ee"
+       stroke-width="1.6"
+       stroke-linejoin="round"
+       id="path111" />
+    <path
+       d="M-3 -6 L-7 2"
+       stroke="#fff"
+       stroke-width="1.2"
+       stroke-linecap="round"
+       id="path112" />
+  </g>
+  <path
+     d="M136 236 L178 226 L178 240Z"
+     fill="#ffd36b"
+     opacity=".35"
+     id="path113" />
+  <path
+     d="M136 238 L178 240 L178 250Z"
+     fill="#14c2b0"
+     opacity=".3"
+     id="path114" />
+  <path
+     d="M136 240 L178 250 L178 256Z"
+     fill="#8a73ee"
+     opacity=".3"
+     id="path115" />
+  <!-- cedule ve výloze: samá přeškrtnutá stáří -->
+  <rect
+     x="146"
+     y="216"
+     width="28"
+     height="36"
+     rx="1"
+     fill="#e3e5ee"
+     id="rect115" />
+  <g
+     stroke="#595d82"
+     stroke-width="1.6"
+     stroke-linecap="round"
+     id="g119">
+    <path
+       d="M150 221 h18"
+       id="path116" />
+    <path
+       d="M150 227 h14"
+       id="path117" />
+    <path
+       d="M150 233 h16"
+       id="path118" />
+    <path
+       d="M150 239 h15"
+       id="path119" />
+  </g>
+  <g
+     stroke="#ff5a36"
+     stroke-width="1.4"
+     stroke-linecap="round"
+     id="g123">
+    <path
+       d="M149 221 h21"
+       id="path120" />
+    <path
+       d="M149 227 h17"
+       id="path121" />
+    <path
+       d="M149 233 h19"
+       id="path122" />
+    <path
+       d="M149 239 h18"
+       id="path123" />
+  </g>
+  <path
+     d="M150 246 h20"
+     stroke="#c98400"
+     stroke-width="2.4"
+     stroke-linecap="round"
+     id="path124" />
+  <!-- dveře -->
+  <rect
+     x="190"
+     y="214"
+     width="30"
+     height="50"
+     rx="2"
+     fill="#8a5a3a"
+     id="rect124" />
+  <circle
+     cx="214"
+     cy="240"
+     r="2"
+     fill="#ffd36b"
+     id="circle124" />
+  <rect
+     x="196"
+     y="220"
+     width="18"
+     height="12"
+     rx="1"
+     fill="#ffd36b"
+     opacity=".4"
+     id="rect125" />
+  <!-- kytky před obchodem -->
+  <g
+     id="g148">
+    <circle
+       cx="109"
+       cy="265"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle125" />
+    <circle
+       cx="153"
+       cy="267"
+       r="1.6"
+       fill="#ff8a6a"
+       id="circle126" />
+    <circle
+       cx="189"
+       cy="271"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle127" />
+    <circle
+       cx="203"
+       cy="268"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle128" />
+    <circle
+       cx="218"
+       cy="268"
+       r="2"
+       fill="#8a73ee"
+       id="circle129" />
+    <circle
+       cx="205"
+       cy="274"
+       r="2"
+       fill="#ffd36b"
+       id="circle130" />
+    <circle
+       cx="224"
+       cy="268"
+       r="1.6"
+       fill="#f0a400"
+       id="circle131" />
+    <circle
+       cx="168"
+       cy="268"
+       r="2.4"
+       fill="#ffd36b"
+       id="circle132" />
+    <circle
+       cx="199"
+       cy="277"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle133" />
+    <circle
+       cx="221"
+       cy="265"
+       r="1.6"
+       fill="#e3e5ee"
+       id="circle134" />
+    <circle
+       cx="250"
+       cy="266"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle135" />
+    <circle
+       cx="218"
+       cy="277"
+       r="2.4"
+       fill="#ff5a36"
+       id="circle136" />
+    <circle
+       cx="96"
+       cy="278"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle137" />
+    <circle
+       cx="203"
+       cy="276"
+       r="2"
+       fill="#e3e5ee"
+       id="circle138" />
+    <circle
+       cx="118"
+       cy="268"
+       r="2.4"
+       fill="#f0a400"
+       id="circle139" />
+    <circle
+       cx="248"
+       cy="278"
+       r="1.6"
+       fill="#ffd36b"
+       id="circle140" />
+    <circle
+       cx="143"
+       cy="267"
+       r="2"
+       fill="#8a73ee"
+       id="circle141" />
+    <circle
+       cx="117"
+       cy="266"
+       r="1.6"
+       fill="#ff5a36"
+       id="circle142" />
+    <circle
+       cx="155"
+       cy="278"
+       r="2.4"
+       fill="#8a73ee"
+       id="circle143" />
+    <circle
+       cx="113"
+       cy="270"
+       r="2.4"
+       fill="#ff8a6a"
+       id="circle144" />
+    <circle
+       cx="151"
+       cy="274"
+       r="2.4"
+       fill="#ffd36b"
+       id="circle145" />
+    <circle
+       cx="99"
+       cy="268"
+       r="2.4"
+       fill="#e3e5ee"
+       id="circle146" />
+    <circle
+       cx="207"
+       cy="270"
+       r="2"
+       fill="#ff5a36"
+       id="circle147" />
+    <circle
+       cx="148"
+       cy="272"
+       r="2.4"
+       fill="#ff5a36"
+       id="circle148" />
+  </g>
+  <rect
+     x="213.60001"
+     y="122.4"
+     width="5"
+     height="18"
+     fill="#8a5a3a"
+     id="rect85-2" />
+  <circle
+     cx="215.60001"
+     cy="116.4"
+     r="16"
+     fill="#0b5f57"
+     id="circle86-7" />
+  <circle
+     cx="209.60001"
+     cy="110.4"
+     r="3"
+     fill="#ff5a36"
+     id="circle87-0"
+     style="fill:#ff8080" />
+  <circle
+     cx="221.60001"
+     cy="120.4"
+     r="3"
+     fill="#ff5a36"
+     id="circle88-9"
+     style="fill:#ff8080" />
+  <rect
+     x="331.53592"
+     y="128.32719"
+     width="5"
+     height="18"
+     fill="#8a5a3a"
+     id="rect85-36" />
+  <circle
+     cx="333.53592"
+     cy="122.32719"
+     r="16"
+     fill="#0b5f57"
+     id="circle86-0" />
+  <circle
+     cx="327.53592"
+     cy="116.32719"
+     r="3"
+     fill="#ff5a36"
+     id="circle87-6" />
+  <circle
+     cx="339.53592"
+     cy="126.32719"
+     r="3"
+     fill="#ff5a36"
+     id="circle88-2" />
+</svg>

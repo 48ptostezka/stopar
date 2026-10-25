@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="bublibragis.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57" />
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.334375"
+     inkscape:cx="33.348947"
+     inkscape:cy="201.96722"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57" />
+  <!-- Bublibragis: továrna chrlí bubliny, všechno je kulaté a cedule zakazují ostré předměty i ostré poznámky. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#141848"
+     id="rect1" />
+  <g
+     fill="#fff"
+     id="g5">
+    <circle
+       cx="30"
+       cy="26"
+       r="1.2"
+       id="circle1" />
+    <circle
+       cx="140"
+       cy="18"
+       r="1"
+       id="circle2" />
+    <circle
+       cx="250"
+       cy="30"
+       r="1.3"
+       id="circle3" />
+    <circle
+       cx="460"
+       cy="20"
+       r="1"
+       id="circle4" />
+    <circle
+       cx="70"
+       cy="80"
+       r="0.9"
+       id="circle5" />
+  </g>
+  <!-- bublinový měsíc -->
+  <circle
+     cx="380"
+     cy="62"
+     r="28"
+     fill="#8a73ee"
+     fill-opacity="0.35"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle6" />
+  <path
+     d="M363.2 56.4 A18.2 18.2 0 0 1 377.2 44.6"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="3.4"
+     stroke-linecap="round"
+     id="path6" />
+  <!-- měkké kopce -->
+  <path
+     d="M0 196 Q60 150 130 186 Q200 140 280 182 Q360 146 480 178 V280 H0Z"
+     fill="#23275e"
+     id="path7" />
+  <path
+     d="M0 222 Q120 200 240 216 T480 210 V280 H0Z"
+     fill="#2e3370"
+     id="path8" />
+  <!-- továrna na bubliny -->
+  <path
+     d="M104 222 V176 Q104 132 178 132 Q252 132 252 176 V222Z"
+     fill="#6b4fe0"
+     id="path9" />
+  <rect
+     x="122"
+     y="84"
+     width="20"
+     height="62"
+     rx="10"
+     fill="#8a73ee"
+     id="rect9" />
+  <rect
+     x="158"
+     y="62"
+     width="24"
+     height="80"
+     rx="12"
+     fill="#8a73ee"
+     id="rect10" />
+  <rect
+     x="198"
+     y="92"
+     width="18"
+     height="50"
+     rx="9"
+     fill="#8a73ee"
+     id="rect11" />
+  <g
+     fill="#f0a400"
+     id="g17">
+    <rect
+       x="118"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect12" />
+    <rect
+       x="138"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect13" />
+    <rect
+       x="158"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect14" />
+    <rect
+       x="178"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect15" />
+    <rect
+       x="198"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect16" />
+    <rect
+       x="218"
+       y="164"
+       width="14"
+       height="10"
+       rx="5"
+       id="rect17" />
+  </g>
+  <rect
+     x="206"
+     y="186.5556"
+     width="26"
+     height="32"
+     rx="12"
+     fill="#1c1e3f"
+     id="rect18"
+     ry="12" />
+  <path
+     d="M116 150 H240"
+     stroke="#8a73ee"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path18" />
+  <circle
+     cx="168"
+     cy="200"
+     r="10"
+     fill="none"
+     stroke="#14c2b0"
+     stroke-width="4"
+     id="circle18" />
+  <path
+     d="m 168,210 v 12"
+     stroke="#14c2b0"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path19" />
+  <!-- kulaté domky -->
+  <path
+     d="M290 222 Q290 180 326 180 Q362 180 362 222Z"
+     fill="#0e9c8e"
+     id="path20" />
+  <path
+     d="M370 222 Q370 192 396 192 Q422 192 422 222Z"
+     fill="#14c2b0"
+     id="path21" />
+  <path
+     d="M426 222 Q426 170 456 170 Q486 170 486 222Z"
+     fill="#0e9c8e"
+     id="path22" />
+  <g
+     fill="#f0a400"
+     id="g24">
+    <circle
+       cx="326"
+       cy="202"
+       r="7"
+       id="circle22" />
+    <circle
+       cx="396"
+       cy="208"
+       r="5"
+       id="circle23" />
+    <circle
+       cx="450"
+       cy="196"
+       r="6"
+       id="circle24" />
+  </g>
+  <rect
+     x="0"
+     y="220"
+     width="480"
+     height="60"
+     rx="0"
+     fill="#2e3370"
+     id="rect24" />
+  <path
+     d="M 0.04353365,222 C 49.998113,218.66969 99.10117,219.69109 149.05575,220 c 30.04542,0.18579 60.94236,-1.50227 90.98778,0 80,4 160,3.33333 240,-2"
+     fill="none"
+     stroke="#3a3f80"
+     stroke-width="3"
+     id="path24"
+     sodipodi:nodetypes="cssc" />
+  <circle
+     cx="126.6"
+     cy="74.0"
+     r="2.5"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle25" />
+  <circle
+     cx="119.7"
+     cy="63.4"
+     r="4.1"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle26" />
+  <path
+     d="M117.2 62.6 A2.7 2.7 0 0 1 119.3 60.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path26" />
+  <circle
+     cx="108.3"
+     cy="50.3"
+     r="5.7"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle27" />
+  <path
+     d="M104.9 49.2 A3.7 3.7 0 0 1 107.7 46.8"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path27" />
+  <circle
+     cx="95.1"
+     cy="34.6"
+     r="7.3"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle28" />
+  <path
+     d="M90.7 33.1 A4.7 4.7 0 0 1 94.4 30.1"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path28" />
+  <circle
+     cx="79.5"
+     cy="16.4"
+     r="8.9"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle29" />
+  <path
+     d="M74.2 14.6 A5.8 5.8 0 0 1 78.6 10.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.1"
+     stroke-linecap="round"
+     id="path29" />
+  <circle
+     cx="63.3"
+     cy="-4.4"
+     r="10.5"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle30" />
+  <path
+     d="M57.0 -6.5 A6.8 6.8 0 0 1 62.2 -10.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.3"
+     stroke-linecap="round"
+     id="path30" />
+  <circle
+     cx="46.7"
+     cy="-27.8"
+     r="12.1"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle31" />
+  <path
+     d="M39.4 -30.2 A7.9 7.9 0 0 1 45.5 -35.3"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path31" />
+  <circle
+     cx="169.1"
+     cy="52.0"
+     r="2.5"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle32" />
+  <circle
+     cx="170.3"
+     cy="41.4"
+     r="4.1"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle33" />
+  <path
+     d="M167.8 40.6 A2.7 2.7 0 0 1 169.9 38.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path33" />
+  <circle
+     cx="169.7"
+     cy="28.3"
+     r="5.7"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle34" />
+  <path
+     d="M166.3 27.2 A3.7 3.7 0 0 1 169.1 24.8"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path34" />
+  <circle
+     cx="173.8"
+     cy="12.6"
+     r="7.3"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle35" />
+  <path
+     d="M169.4 11.1 A4.7 4.7 0 0 1 173.1 8.1"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path35" />
+  <circle
+     cx="180.9"
+     cy="-5.6"
+     r="8.9"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle36" />
+  <path
+     d="M175.6 -7.4 A5.8 5.8 0 0 1 180.0 -11.1"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.1"
+     stroke-linecap="round"
+     id="path36" />
+  <circle
+     cx="185.8"
+     cy="-26.4"
+     r="10.5"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle37" />
+  <path
+     d="M179.5 -28.5 A6.8 6.8 0 0 1 184.8 -32.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.3"
+     stroke-linecap="round"
+     id="path37" />
+  <circle
+     cx="194.4"
+     cy="-49.8"
+     r="12.1"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle38" />
+  <path
+     d="M187.1 -52.2 A7.9 7.9 0 0 1 193.2 -57.3"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path38" />
+  <circle
+     cx="211.5"
+     cy="82.0"
+     r="2.5"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle39" />
+  <circle
+     cx="215.8"
+     cy="71.4"
+     r="4.1"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle40" />
+  <path
+     d="M213.3 70.6 A2.7 2.7 0 0 1 215.4 68.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path40" />
+  <circle
+     cx="224.1"
+     cy="58.3"
+     r="5.7"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle41" />
+  <path
+     d="M220.7 57.2 A3.7 3.7 0 0 1 223.5 54.8"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path41" />
+  <circle
+     cx="232.6"
+     cy="42.6"
+     r="7.3"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle42" />
+  <path
+     d="M228.2 41.1 A4.7 4.7 0 0 1 231.9 38.1"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path42" />
+  <circle
+     cx="242.0"
+     cy="24.4"
+     r="8.9"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle43" />
+  <path
+     d="M236.7 22.6 A5.8 5.8 0 0 1 241.1 18.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.1"
+     stroke-linecap="round"
+     id="path43" />
+  <circle
+     cx="256.6"
+     cy="3.6"
+     r="10.5"
+     fill="#14c2b0"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle44" />
+  <path
+     d="M250.3 1.5 A6.8 6.8 0 0 1 255.6 -2.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.3"
+     stroke-linecap="round"
+     id="path44" />
+  <circle
+     cx="271.6"
+     cy="-19.8"
+     r="12.1"
+     fill="#e3e5ee"
+     fill-opacity="0.18"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle45" />
+  <path
+     d="M264.3 -22.2 A7.9 7.9 0 0 1 270.4 -27.3"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path45" />
+  <circle
+     cx="40"
+     cy="130"
+     r="6"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle46" />
+  <path
+     d="M36.4 128.8 A3.9 3.9 0 0 1 39.4 126.3"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path46" />
+  <circle
+     cx="270"
+     cy="110"
+     r="4"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle47" />
+  <path
+     d="M267.6 109.2 A2.6 2.6 0 0 1 269.6 107.5"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path47" />
+  <circle
+     cx="300"
+     cy="70"
+     r="8"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.6"
+     id="circle48" />
+  <path
+     d="M295.2 68.4 A5.2 5.2 0 0 1 299.2 65.0"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path48" />
+  <circle
+     cx="450"
+     cy="130"
+     r="5"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle49" />
+  <path
+     d="M447.0 129.0 A3.2 3.2 0 0 1 449.5 126.9"
+     fill="none"
+     stroke="#fff"
+     stroke-opacity=".8"
+     stroke-width="1.0"
+     stroke-linecap="round"
+     id="path49" />
+  <circle
+     cx="80"
+     cy="162"
+     r="4"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity="0.7"
+     stroke-width="1.2"
+     id="circle50" />
+  <path
+     d="m 77.6,161.2 a 2.6,2.6 0 0 1 2,-1.7"
+     fill="none"
+     stroke="#ffffff"
+     stroke-opacity="0.8"
+     stroke-width="1"
+     stroke-linecap="round"
+     id="path50" />
+  <circle
+     cx="250"
+     cy="60"
+     r="3"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle51" />
+  <circle
+     cx="330"
+     cy="140"
+     r="3"
+     fill="#14c2b0"
+     fill-opacity="0.15"
+     stroke="#e3e5ee"
+     stroke-opacity=".7"
+     stroke-width="1.2"
+     id="circle52" />
+  <!-- cedule: zákaz ostrých poznámek -->
+  <g
+     transform="translate(50 190) scale(1.35) translate(-61 -200)"
+     id="g55">
+    <rect
+       x="58"
+       y="214"
+       width="6"
+       height="40"
+       rx="3"
+       fill="#595d82"
+       id="rect52" />
+    <circle
+       cx="61"
+       cy="200"
+       r="20"
+       fill="#e3e5ee"
+       id="circle53" />
+    <path
+       d="M48 192 Q48 186 54 186 H68 Q74 186 74 192 V201 Q74 207 68 207 H60 L53 214 L54 207 Q48 207 48 201Z"
+       fill="none"
+       stroke="#595d82"
+       stroke-width="2.5"
+       stroke-linejoin="round"
+       id="path53" />
+    <path
+       d="M53 200 L56.5 193 L60 200 L63.5 193 L67 200 L70 194"
+       fill="none"
+       stroke="#595d82"
+       stroke-width="2"
+       stroke-linejoin="miter"
+       id="path54" />
+    <circle
+       cx="61"
+       cy="200"
+       r="18"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="4"
+       id="circle54" />
+    <path
+       d="m 48.185185,187.92593 22.51925,23.5104"
+       stroke="#ff5a36"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path57-2" />
+  </g>
+  <!-- cedule: zákaz ostrých předmětů -->
+  <g
+     transform="translate(118 202) scale(1.35) translate(-107 -214)"
+     id="g57">
+    <rect
+       x="104"
+       y="226"
+       width="6"
+       height="34"
+       rx="3"
+       fill="#595d82"
+       id="rect55" />
+    <circle
+       cx="107"
+       cy="214"
+       r="20"
+       fill="#e3e5ee"
+       id="circle55" />
+    <path
+       d="M96 204 L101 208 L105 202 L109 208 L114 203 L116 210 L120 212 L115 216 L118 222 L110 220 L104 226 L103 220 L96 220 L99 214 L94 210Z"
+       fill="#595d82"
+       stroke-linejoin="miter"
+       id="path56" />
+    <circle
+       cx="107"
+       cy="214"
+       r="18"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="4"
+       id="circle56" />
+    <path
+       d="m 96.62963,202.54684 22.51925,23.5104"
+       stroke="#ff5a36"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path57" />
+  </g>
+</svg>

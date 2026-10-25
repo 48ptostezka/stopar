@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Planeta Bublanina: pustina, prach a jeden kámen, který se na nikoho nedívá. -->
+  <rect width="480" height="280" fill="#141848"/>
+  <g fill="#fff"><circle cx="34" cy="28" r="1.2"/><circle cx="150" cy="18" r="1"/><circle cx="230" cy="44" r="1.3"/><circle cx="330" cy="22" r="1"/><circle cx="440" cy="40" r="1.2"/><circle cx="270" cy="96" r="0.9"/><circle cx="20" cy="110" r="0.9"/></g>
+  <!-- měsíce Bublaniny -->
+  <circle cx="392" cy="62" r="16" fill="#ff5a36"/><circle cx="386" cy="56" r="4" fill="#ff8a6a"/>
+  <path d="M394 46 Q398 34 410 30" fill="none" stroke="#0e9c8e" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="430" cy="92" r="6" fill="#8a73ee"/>
+  <!-- vzdálené duny -->
+  <path d="M0 176 Q60 154 130 168 Q210 146 300 166 Q390 150 480 170 V186 H0Z" fill="#2a2c62"/>
+  <!-- prašná pustina -->
+  <path d="M0 176 Q160 166 300 176 T480 174 V280 H0Z" fill="#4b4270"/>
+  <g fill="#655a8c"><ellipse cx="60" cy="216" rx="30" ry="3"/><ellipse cx="410" cy="242" rx="44" ry="4"/><ellipse cx="200" cy="260" rx="36" ry="3"/><circle cx="130" cy="196" r="1.5"/><circle cx="350" cy="206" r="1.5"/><circle cx="460" cy="200" r="1.2"/><circle cx="30" cy="256" r="1.8"/></g>
+  <!-- vůně koláče -->
+  <g fill="none" stroke="#ffc266" stroke-opacity=".5" stroke-width="2" stroke-dasharray="10 5" stroke-linecap="round"><path d="M80 176 q-8 -14 0 -28 q8 -14 0 -28 q-8 -14 0 -28"/><path d="M100 170 q-8 -14 0 -28 q8 -14 0 -28"/><path d="M440 166 q-6 -12 0 -24 q6 -12 0 -24"/></g>
+  <!-- prachový vír -->
+  <g fill="none" stroke="#655a8c" stroke-width="2.5" stroke-linecap="round">
+    <path d="M150 196 q14 -3 18 2"/><path d="M146 186 q18 -4 24 2"/><path d="M144 176 q22 -4 30 2"/><path d="M146 166 q24 -4 32 2"/>
+  </g>
+  <g transform="translate(316 206) scale(1.2)">
+    <ellipse cx="0" cy="14" rx="34" ry="5" fill="#3a3360"/>
+    <path d="M-30 14 Q-32 -14 -8 -20 Q20 -24 28 -2 Q32 12 26 14Z" fill="#595d82"/>
+    <path d="M-20 -6 Q-12 -16 4 -16" fill="none" stroke="#6f739b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M10 -10 l6 10 l-2 8" fill="none" stroke="#4c5074" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

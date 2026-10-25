@@ -1,0 +1,10 @@
+[package]
+name = "stopa-codes"
+description = "Prints a page with one QR code per location of a game."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+stopa-core = { path = "../../core" }
+qrcode = { version = "0.14", default-features = false, features = ["svg"] }

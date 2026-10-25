@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Šedá kachlička: kachlička s fazetou a vajíčkem uprostřed -->
+  <path d="M-11 -11H11V11H-11Z"/>
+  <path d="M-8 -8H8V8H-8Z"/>
+  <path d="M-11 -11L-8 -8M11 -11L8 -8M11 11L8 8M-11 11L-8 8"/>
+  <path d="M0 -4Q3 -4 3 1Q3 4 0 4Q-3 4 -3 1Q-3 -4 0 -4Z"/>
+</svg>

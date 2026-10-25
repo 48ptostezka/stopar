@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg59"
+   sodipodi:docname="zrava_blatotlacka.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs59" />
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.94354561"
+     inkscape:cx="304.70175"
+     inkscape:cy="69.419008"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <!-- Žravá blátotlačka vylézá zpoza skály před jeskyní v traalských bažinách. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#141848"
+     id="rect1" />
+  <g
+     fill="#fff"
+     id="g6">
+    <circle
+       cx="30"
+       cy="34"
+       r="1.2"
+       id="circle1" />
+    <circle
+       cx="110"
+       cy="18"
+       r="1"
+       id="circle2" />
+    <circle
+       cx="190"
+       cy="48"
+       r="1.3"
+       id="circle3" />
+    <circle
+       cx="260"
+       cy="22"
+       r="1"
+       id="circle4" />
+    <circle
+       cx="60"
+       cy="96"
+       r="0.9"
+       id="circle5" />
+    <circle
+       cx="300"
+       cy="60"
+       r="1.1"
+       id="circle6" />
+  </g>
+  <circle
+     cx="104"
+     cy="58"
+     r="22"
+     fill="#f0a400"
+     opacity=".18"
+     id="circle7" />
+  <circle
+     cx="104"
+     cy="58"
+     r="14"
+     fill="#f0a400"
+     opacity=".35"
+     id="circle8" />
+  <!-- útes s jeskyní -->
+  <path
+     d="M296 226 Q296 112 368 84 Q428 62 480 76 V226Z"
+     fill="#23275e"
+     id="path8" />
+  <path
+     d="M330 140 Q360 110 400 104"
+     fill="none"
+     stroke="#2e3370"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="path9" />
+  <path
+     d="M356 226 Q358 158 400 152 Q442 158 444 226Z"
+     fill="#0b0d2a"
+     id="path10" />
+  <!-- byrokratický poryv větru -->
+  <!-- bažina -->
+  <path
+     d="M0 216 Q120 196 240 212 T480 206 V280 H0Z"
+     fill="#1f2a4a"
+     id="path13" />
+  <ellipse
+     cx="300"
+     cy="250"
+     rx="70"
+     ry="9"
+     fill="#2a375e"
+     id="ellipse13" />
+  <ellipse
+     cx="430"
+     cy="262"
+     rx="40"
+     ry="6"
+     fill="#2a375e"
+     id="ellipse14" />
+  <g
+     fill="none"
+     stroke="#14c2b0"
+     stroke-opacity=".5"
+     stroke-width="1.5"
+     id="g16">
+    <circle
+       cx="290"
+       cy="248"
+       r="3"
+       id="circle14" />
+    <circle
+       cx="312"
+       cy="252"
+       r="2"
+       id="circle15" />
+    <circle
+       cx="440"
+       cy="260"
+       r="2.5"
+       id="circle16" />
+  </g>
+  <!-- blátotlačka (za balvanem) -->
+  <path
+     d="M84 228 Q70 128 150 104 Q170 84 190 100 Q214 84 232 106 Q276 124 270 228Z"
+     fill="#0e9c8e"
+     id="path16" />
+  <path
+     d="M110 140 Q130 112 170 108"
+     fill="none"
+     stroke="#14c2b0"
+     stroke-width="6"
+     stroke-linecap="round"
+     opacity=".6"
+     id="path17" />
+  <!-- tlama -->
+  <path
+     d="M98 158 Q170 146 252 160 Q236 214 172 216 Q116 212 98 158Z"
+     fill="#1c1e3f"
+     id="path18" />
+  <g
+     fill="#e3e5ee"
+     stroke="#1c1e3f"
+     stroke-width="1.47255"
+     stroke-linejoin="round"
+     id="g31"
+     transform="matrix(1.0369721,0,0,1.0006422,-3.8451006,1.1191844)">
+    <path
+       d="m 104,158 8,18 8,-20 z"
+       id="path19"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 120,156 6,14 8,-15 z"
+       id="path20"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 134,155 10,27 8,-29 z"
+       id="path21"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 152,153 6,15 8,-16 z"
+       id="path22"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 166,152 10,34 10,-34 z"
+       id="path23"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 186,152 6,14 6,-13 z"
+       id="path24"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 198,153 10,25 8,-24 z"
+       id="path25"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 216,154 6,14 8,-12 z"
+       id="path26"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 230,156 8,18 8,-16 z"
+       id="path27"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 124.14262,197.70551 11.65651,-13.37206 2.84,21.44924 z"
+       id="path28"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 147.93525,209.92869 12.08859,-18.72045 5.58419,22.78691 z"
+       id="path29"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 184.10059,212.54982 8,-18 8,16 z"
+       id="path30"
+       style="stroke-width:1.47255" />
+    <path
+       d="m 212,206 8,-16 6,12 z"
+       id="path31"
+       style="stroke-width:1.47255" />
+  </g>
+  <!-- jazyk se olizuje -->
+  <!-- sliz -->
+  <g
+     fill="#14c2b0"
+     id="g34" />
+  <!-- oči: oslnivá hloupost -->
+  <circle
+     cx="150"
+     cy="124"
+     r="13"
+     fill="#e3e5ee"
+     id="circle35" />
+  <circle
+     cx="156"
+     cy="128"
+     r="4"
+     fill="#1c1e3f"
+     id="circle36" />
+  <circle
+     cx="198"
+     cy="118"
+     r="8"
+     fill="#e3e5ee"
+     id="circle37" />
+  <circle
+     cx="194"
+     cy="114"
+     r="2.5"
+     fill="#1c1e3f"
+     id="circle38" />
+  <path
+     d="M232 104 Q238 84 246 80"
+     fill="none"
+     stroke="#0e9c8e"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path38" />
+  <circle
+     cx="247"
+     cy="78"
+     r="5"
+     fill="#f0a400"
+     id="circle39" />
+  <circle
+     cx="248"
+     cy="77"
+     r="1.8"
+     fill="#1c1e3f"
+     id="circle40" />
+  <!-- větření -->
+  <circle
+     cx="106"
+     cy="146"
+     r="2"
+     fill="#1c1e3f"
+     id="circle41" />
+  <circle
+     cx="114"
+     cy="144"
+     r="2"
+     fill="#1c1e3f"
+     id="circle42" />
+  <!-- balvan -->
+  <path
+     d="M196 230 Q190 176 240 168 Q300 164 312 230Z"
+     fill="#595d82"
+     id="path44" />
+  <path
+     d="M212 190 Q232 174 262 174"
+     fill="none"
+     stroke="#6f739b"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="path45" />
+  <!-- rákos -->
+  <g
+     stroke="#0e9c8e"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="g51">
+    <path
+       d="M20 240 L14 196"
+       id="path47" />
+    <path
+       d="M30 242 L34 190"
+       id="path48" />
+    <path
+       d="M42 244 L50 204"
+       id="path49" />
+    <path
+       d="M456 238 L452 196"
+       id="path50" />
+    <path
+       d="M466 240 L472 202"
+       id="path51" />
+  </g>
+  <g
+     fill="#f0a400"
+     id="g52">
+    <rect
+       x="31"
+       y="186"
+       width="6"
+       height="14"
+       rx="3"
+       id="rect51" />
+    <rect
+       x="449"
+       y="192"
+       width="6"
+       height="14"
+       rx="3"
+       id="rect52" />
+  </g>
+  <!-- napůl vyplněný formulář v blátě -->
+  <g
+     transform="rotate(-10 86 252)"
+     id="g57">
+    <rect
+       x="60"
+       y="232"
+       width="52"
+       height="38"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect53" />
+    <g
+       stroke="#595d82"
+       stroke-width="2"
+       id="g55">
+      <path
+         d="M66 240 H104"
+         id="path53" />
+      <path
+         d="M66 247 H96"
+         id="path54" />
+      <path
+         d="M66 254 H86"
+         id="path55" />
+    </g>
+    <g
+       fill="none"
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="g56">
+      <rect
+         x="66"
+         y="259"
+         width="6"
+         height="6"
+         id="rect55" />
+      <rect
+         x="78"
+         y="259"
+         width="6"
+         height="6"
+         id="rect56" />
+    </g>
+  </g>
+  <path
+     d="M92 270 Q104 258 120 266 Q112 276 92 274Z"
+     fill="#1f2a4a"
+     id="path57" />
+  <!-- zničené razítko -->
+  <g
+     transform="rotate(24 150 250)"
+     id="g58">
+    <rect
+       x="144"
+       y="234"
+       width="10"
+       height="18"
+       rx="2"
+       fill="#6b4fe0"
+       id="rect57" />
+    <circle
+       cx="149"
+       cy="230"
+       r="7"
+       fill="#8a73ee"
+       id="circle57" />
+  </g>
+  <g
+     transform="rotate(-18 176 256)"
+     id="g59">
+    <path
+       d="M164 250 H190 V262 H164 L170 256Z"
+       fill="#ff5a36"
+       id="path58" />
+  </g>
+  <path
+     d="M160 264 l4 -4 l3 4 l4 -4"
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="path59" />
+</svg>

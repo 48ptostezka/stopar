@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Placeholder picture: a wrecked ship with an open airlock. -->
+  <rect width="480" height="280" fill="#10143c"/>
+  <g fill="#fff"><circle cx="30" cy="40" r="1.2"/><circle cx="140" cy="20" r="1"/><circle cx="260" cy="50" r="1.3"/><circle cx="420" cy="28" r="1.1"/><circle cx="460" cy="120" r="0.9"/><circle cx="90" cy="150" r="1"/></g>
+  <path d="M0 236 Q160 214 300 230 T480 222 V280 H0Z" fill="#23275e"/>
+  <g transform="rotate(-8 240 170)">
+    <path d="M70 190 L110 130 H350 L410 170 L350 210 H110Z" fill="#595d82"/>
+    <path d="M110 130 H350 L410 170 H70Z" fill="#6f739b"/>
+    <path d="M200 132 L230 110 L262 132" fill="#595d82"/>
+    <rect x="160" y="150" width="38" height="44" rx="6" fill="#1c1e3f"/>
+    <rect x="198" y="150" width="14" height="44" rx="3" fill="#caccdc" transform="rotate(18 198 150)"/>
+    <circle cx="250" cy="165" r="7" fill="#1c1e3f"/><circle cx="280" cy="165" r="7" fill="#1c1e3f"/><circle cx="310" cy="165" r="7" fill="#1c1e3f"/>
+    <path d="M330 150 l14 -6 l-6 14 l14 -4" fill="none" stroke="#ff5a36" stroke-width="3"/>
+  </g>
+</svg>

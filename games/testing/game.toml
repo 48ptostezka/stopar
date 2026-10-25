@@ -1,0 +1,417 @@
+# Testing: a game for checking the story rules on a phone.
+#
+# Each place tests one rule, and its text says what should happen
+# ("Expected"). Build it with STOPA_GAME=testing, print its codes with
+#   cargo run -p stopa-codes -- games/testing/game.toml > codes.html
+#
+# Suggested order: Start desk, Crossroads, Market, Cellar (twice: first
+# without the lamp), Guard, Sphinx, Shrine. Then scan everything again and
+# check that nothing new is given and no closed option opens.
+#
+# Its progress is saved separately from the galaxy game (by game id), so
+# both can be tried on the same phone. The pass uses the game's own icon
+# (icons/propustka.svg) instead of a built-in one.
+
+[game]
+id = "testing"
+skin = "case"                # a different look, so it's obvious which build is open
+default_language = "cs"
+title = { cs = "Testovací hra", en = "Test game" }
+
+# ---------------------------------------------------------------- items
+
+[items.coin]
+icon = "coin"
+name = { cs = "Mince", en = "Coin" }
+description = { cs = "Platí se jimi na trhu.", en = "Spent at the market." }
+
+[items.red_key]
+icon = "key"
+name = { cs = "Červený klíč", en = "Red key" }
+description = { cs = "Z rozcestí. Kdo má červený, nemá modrý.", en = "From the crossroads. Whoever has the red one doesn't have the blue one." }
+
+[items.blue_key]
+icon = "key"
+name = { cs = "Modrý klíč", en = "Blue key" }
+description = { cs = "Z rozcestí. Kdo má modrý, nemá červený.", en = "From the crossroads. Whoever has the blue one doesn't have the red one." }
+
+[items.apple]
+icon = "generic"
+name = { cs = "Jablko", en = "Apple" }
+description = { cs = "Zadarmo z trhu. Strážný ho má rád.", en = "Free at the market. The guard likes them." }
+
+[items.lamp]
+icon = "lantern"
+name = { cs = "Lampa", en = "Lamp" }
+description = { cs = "Za 1 minci. Bez ní do sklepa nevidíš.", en = "1 coin. You can't see in the cellar without it." }
+
+[items.map]
+icon = "map"
+name = { cs = "Mapa", en = "Map" }
+description = { cs = "Za 2 mince. Jen na zkoušku placení víc kusy.", en = "2 coins. Only here to test paying with several items." }
+
+[items.gem]
+icon = "crystal"
+name = { cs = "Drahokam", en = "Gem" }
+description = { cs = "Ze sklepa. Patří na oltář ve svatyni.", en = "From the cellar. It belongs on the altar in the shrine." }
+
+[items.old_letter]
+icon = "letter"
+name = { cs = "Starý dopis", en = "Old letter" }
+description = { cs = "Ze sklepa. Kdo vzal dopis, nemá drahokam.", en = "From the cellar. Whoever took the letter doesn't have the gem." }
+
+[items.pass]
+icon = "propustka.svg"       # the game's own icon, from icons/
+name = { cs = "Propustka", en = "Pass" }
+description = { cs = "Od strážného. Dostaneš ji jen jednou, ať projdeš jakkoli.", en = "From the guard. You get it once, however you got through." }
+
+# ---------------------------------------------------------------- clues
+
+[clues.rules]
+title = { cs = "Jak testovat", en = "How to test" }
+text = { cs = "Každé místo zkouší jedno pravidlo. Řádky „Očekáváno“ říkají, co se má stát. Pak vše naskenuj znovu: nic nového nesmíš dostat.", en = "Each place tests one rule. The \"Expected\" lines say what should happen. Then scan everything again: you must get nothing new." }
+
+[clues.sphinx_answer]
+title = { cs = "Odpověď pro sfingu", en = "The sphinx's answer" }
+text = { cs = "Odpověď je ECHO.", en = "The answer is ECHO." }
+
+[clues.red_path]
+title = { cs = "Červená cesta", en = "Red path" }
+text = { cs = "Vybral sis červený klíč.", en = "You chose the red key." }
+
+[clues.blue_path]
+title = { cs = "Modrá cesta", en = "Blue path" }
+text = { cs = "Vybral sis modrý klíč.", en = "You chose the blue key." }
+
+[clues.paths_meet]
+title = { cs = "Cesty se sbíhají", en = "The paths meet" }
+text = { cs = "Obě cesty z rozcestí vedou na stejné místo.", en = "Both paths from the crossroads lead to the same place." }
+
+[clues.cellar]
+title = { cs = "Sklep", en = "Cellar" }
+text = { cs = "Ve sklepě byl drahokam a dopis. Vzít šlo jen jedno.", en = "The cellar held a gem and a letter. Only one could be taken." }
+
+[clues.through_with_key]
+title = { cs = "Prošel jsi s klíčem", en = "Through with a key" }
+text = { cs = "Strážný tě pustil, protože jsi ukázal klíč.", en = "The guard let you through because you showed a key." }
+
+[clues.through_with_bribe]
+title = { cs = "Prošel jsi za jablko", en = "Through for an apple" }
+text = { cs = "Strážný tě pustil za jablko. Klíč už mu neukážeš.", en = "The guard let you through for an apple. You can't show him a key now." }
+
+[clues.sphinx]
+title = { cs = "Sfinga", en = "Sphinx" }
+text = { cs = "Správná odpověď otevřela cestu.", en = "The right answer opened the way." }
+
+[clues.altar]
+title = { cs = "Oltář", en = "Altar" }
+text = { cs = "Drahokam leží na oltáři.", en = "The gem lies on the altar." }
+
+# ---------------------------------------------------------------- locations
+
+# 1. Rewards given once, text that depends on quantities, several screens, a picture.
+
+[locations.start]
+code = "TEST-START-01"
+name = { cs = "Začátek", en = "Start desk" }
+
+[locations.start.scenes.welcome]
+text.cs = """
+Test: odměny se dávají jen jednou a text se mění podle počtu předmětů.
+
+Očekáváno: při prvním skenování dostaneš 3 mince. Při dalším nic.
+"""
+text.en = """
+Test: rewards are given once, and text changes with the number of items held.
+
+Expected: the first scan gives you 3 coins. Later scans give nothing.
+"""
+give = { items = { coin = 3 }, clues = ["rules"] }
+next = "second"
+
+[[locations.start.scenes.welcome.paragraphs]]
+when = { items = { coin = 3 } }
+text = { cs = "Tenhle odstavec vidíš, jen dokud máš aspoň 3 mince.", en = "You see this paragraph only while you hold at least 3 coins." }
+
+[[locations.start.scenes.welcome.paragraphs]]
+when = { without_items = ["coin"] }
+text = { cs = "Tenhle odstavec vidíš, jen když nemáš žádnou minci.", en = "You see this paragraph only when you have no coins at all." }
+
+[locations.start.scenes.second]
+image = "test.svg"
+alt = { cs = "Zkušební obrázek: rozcestník se šipkami", en = "Test picture: a signpost with arrows" }
+text.cs = """
+Test: druhá obrazovka a obrázek.
+
+Očekáváno: tlačítko Zpět tě vrátí na první obrazovku. Dostaneš stopu s odpovědí pro sfingu.
+"""
+text.en = """
+Test: a second screen and a picture.
+
+Expected: Back takes you to the first screen. You get a clue with the sphinx's answer.
+"""
+give = { clues = ["sphinx_answer"] }
+
+# 2. A final decision (pick = "one"), branches that meet again.
+
+[locations.crossroads]
+code = "TEST-CROSS-02"
+name = { cs = "Rozcestí", en = "Crossroads" }
+
+[locations.crossroads.scenes.fork]
+text.cs = """
+Test: konečné rozhodnutí. Vezmi si jeden klíč.
+
+Očekáváno: po volbě zešedne druhá možnost a zůstane šedá. Platí to i po Zpět, po novém skenování i v jiné kartě. Zvolenou možnost můžeš zmáčknout znovu, ale nic nového nedostaneš.
+"""
+text.en = """
+Test: a final decision. Take one key.
+
+Expected: after you pick, the other option greys out and stays grey. That holds after Back, after a new scan and in another tab. You can tap the chosen option again, but you get nothing new.
+"""
+
+[[locations.crossroads.scenes.fork.choices]]
+id = "red"
+label = { cs = "Vzít červený klíč", en = "Take the red key" }
+give = { items = { red_key = 1 }, clues = ["red_path"] }
+set = ["took_red"]
+to = "red"
+
+[[locations.crossroads.scenes.fork.choices]]
+id = "blue"
+label = { cs = "Vzít modrý klíč", en = "Take the blue key" }
+give = { items = { blue_key = 1 }, clues = ["blue_path"] }
+set = ["took_blue"]
+to = "blue"
+
+[locations.crossroads.scenes.red]
+text = { cs = "Vydáš se po červené cestě.", en = "You follow the red path." }
+next = "meet"
+
+[locations.crossroads.scenes.blue]
+text = { cs = "Vydáš se po modré cestě.", en = "You follow the blue path." }
+next = "meet"
+
+[locations.crossroads.scenes.meet]
+text.cs = """
+Test: obě větve se tu zase potkají.
+
+Očekáváno: tuhle stopu dostaneš jednou, ať jsi šel kudykoli.
+"""
+text.en = """
+Test: both branches meet here again.
+
+Expected: you get this clue once, whichever way you came.
+"""
+give = { clues = ["paths_meet"] }
+
+# 3. A menu (pick = "any"): every option stays open, each rewards once.
+#    Options that cost coins, and locked options with a reason.
+
+[locations.market]
+code = "TEST-MARKET-03"
+name = { cs = "Trh", en = "Market" }
+
+[locations.market.scenes.stall]
+text.cs = """
+Test: nabídka (pick = "any"), ne rozhodnutí. Všechny možnosti zůstávají otevřené a každá dá odměnu jen jednou. Ceny ti mince odečtou.
+
+Očekáváno: se 3 mincemi koupíš lampu i mapu. Bez mincí je nákup šedý s důvodem.
+"""
+text.en = """
+Test: a menu (pick = "any"), not a decision. Every option stays open, and each gives its reward once. Prices take coins away.
+
+Expected: with 3 coins you can buy both the lamp and the map. Without coins, buying is greyed out with a reason.
+"""
+pick = "any"
+
+[[locations.market.scenes.stall.choices]]
+id = "apple"
+label = { cs = "Vzít si jablko zdarma", en = "Take a free apple" }
+give = { items = { apple = 1 } }
+to = "stall"
+
+[[locations.market.scenes.stall.choices]]
+id = "lamp"
+label = { cs = "Koupit lampu (1 mince)", en = "Buy a lamp (1 coin)" }
+take = { coin = 1 }
+locked = { cs = "Lampa stojí 1 minci", en = "The lamp costs 1 coin" }
+give = { items = { lamp = 1 } }
+to = "stall"
+
+[[locations.market.scenes.stall.choices]]
+id = "map"
+label = { cs = "Koupit mapu (2 mince)", en = "Buy a map (2 coins)" }
+take = { coin = 2 }
+locked = { cs = "Mapa stojí 2 mince", en = "The map costs 2 coins" }
+give = { items = { map = 1 } }
+to = "stall"
+
+# 4. A decision that waits for an item (requires). Without the lamp, the
+#    player sees the scene and `waiting`, and only Done.
+
+[locations.cellar]
+code = "TEST-CELLAR-04"
+name = { cs = "Sklep", en = "Cellar" }
+
+[locations.cellar.scenes.dark]
+text.cs = """
+Test: rozhodnutí, které čeká na předmět (requires).
+
+Očekáváno: bez lampy z trhu tu nejsou žádné možnosti, jen Hotovo. Naskenuj sklep znovu, až lampu budeš mít.
+"""
+text.en = """
+Test: a decision that waits for an item (requires).
+
+Expected: without the lamp from the market there are no options here, only Done. Scan the cellar again once you have the lamp.
+"""
+requires = { items = { lamp = 1 } }
+waiting = { cs = "Je tu úplná tma. Vrať se s lampou.", en = "It's pitch dark. Come back with a lamp." }
+
+[[locations.cellar.scenes.dark.paragraphs]]
+when = { items = { lamp = 1 } }
+text = { cs = "Lampa ozáří drahokam a starý dopis. Vzít si můžeš jen jedno. Očekáváno: nabízí se obojí, po volbě se druhé zavře.", en = "Your lamp lights up a gem and an old letter. You may take only one. Expected: both are offered, and after you pick, the other closes." }
+
+[[locations.cellar.scenes.dark.choices]]
+id = "gem"
+label = { cs = "Vzít drahokam", en = "Take the gem" }
+give = { items = { gem = 1 }, clues = ["cellar"] }
+to = "out"
+
+[[locations.cellar.scenes.dark.choices]]
+id = "letter"
+label = { cs = "Vzít dopis", en = "Take the letter" }
+give = { items = { old_letter = 1 }, clues = ["cellar"] }
+to = "out"
+
+[locations.cellar.scenes.out]
+text = { cs = "Vylezeš ze sklepa.", en = "You climb out of the cellar." }
+
+# 5. Options that need items: a hidden option, a locked option with a reason,
+#    and an intended lockout. The warning about it is silenced with
+#    allow_lockout, because losing the key options is the point here.
+
+[locations.guard]
+code = "TEST-GUARD-05"
+name = { cs = "Strážný", en = "Guard" }
+
+[locations.guard.scenes.gate]
+text.cs = """
+Test: možnosti podle předmětů a záměrně ztracená možnost (allow_lockout).
+
+Očekáváno: „Ukázat červený klíč“ vidíš, jen když ho máš; jinak je skrytý. „Ukázat modrý klíč“ je bez klíče šedý s důvodem. Když strážného nejdřív podplatíš jablkem, klíče už mu neukážeš. Tady je to tak schválně.
+"""
+text.en = """
+Test: options that need items, and an option lost on purpose (allow_lockout).
+
+Expected: you see "Show the red key" only if you hold it; otherwise it's hidden. "Show the blue key" is greyed out with a reason if you lack it. If you bribe the guard with the apple first, you can't show him a key any more. Here that's intended.
+"""
+allow_lockout = true
+
+[[locations.guard.scenes.gate.choices]]
+id = "show_red"
+label = { cs = "Ukázat červený klíč", en = "Show the red key" }
+when = { items = { red_key = 1 } }
+to = "with_key"
+
+[[locations.guard.scenes.gate.choices]]
+id = "show_blue"
+label = { cs = "Ukázat modrý klíč", en = "Show the blue key" }
+when = { items = { blue_key = 1 } }
+locked = { cs = "Potřebuješ modrý klíč", en = "You need the blue key" }
+to = "with_key"
+
+[[locations.guard.scenes.gate.choices]]
+id = "bribe"
+label = { cs = "Podplatit jablkem (spotřebuje ho)", en = "Bribe him with an apple (uses it up)" }
+take = { apple = 1 }
+locked = { cs = "Potřebuješ jablko z trhu", en = "You need an apple from the market" }
+to = "with_bribe"
+
+[locations.guard.scenes.with_key]
+text = { cs = "Strážný se podívá na klíč a ustoupí.", en = "The guard looks at the key and steps aside." }
+give = { items = { pass = 1 }, clues = ["through_with_key"] }
+
+[locations.guard.scenes.with_bribe]
+text = { cs = "Strážný si vezme jablko a ustoupí.", en = "The guard takes the apple and steps aside." }
+give = { items = { pass = 1 }, clues = ["through_with_bribe"] }
+
+# 6. A password. The answer is in a clue from the start desk.
+
+[locations.sphinx]
+code = "TEST-SPHINX-06"
+name = { cs = "Sfinga", en = "Sphinx" }
+
+[locations.sphinx.scenes.riddle]
+text.cs = """
+Test: heslo. Odpověď je ve stopě ze Začátku.
+
+Očekáváno: velikost písmen, diakritika, mezery ani pomlčky nevadí: „echo“, „Écho“ i „E-C-H-O“ projdou. Špatná odpověď ukáže hlášku a můžeš to zkusit znovu. Po dalším skenování už je heslo vyřešené.
+"""
+text.en = """
+Test: a password. The answer is in a clue from the start desk.
+
+Expected: case, accents, spaces and dashes don't matter: "echo", "Écho" and "E-C-H-O" all work. A wrong answer shows a message and you can try again. After a new scan the password stays solved.
+"""
+
+[locations.sphinx.scenes.riddle.password]
+answers = ["ECHO"]
+prompt = { cs = "Odpověď sfinze", en = "Your answer" }
+hint = { cs = "Podívej se do deníku.", en = "Look in your logbook." }
+wrong = { cs = "Sfinga zavrtí hlavou. Zkus to znovu.", en = "The sphinx shakes its head. Try again." }
+give = { clues = ["sphinx"] }
+to = "open"
+
+[locations.sphinx.scenes.open]
+text = { cs = "Sfinga ustoupí z cesty.", en = "The sphinx steps out of the way." }
+
+# 7. Text that depends on things done elsewhere (flags, items, visits),
+#    and a single option that needs an item another decision may have
+#    ruled out (take the letter in the cellar and the altar stays locked).
+
+[locations.shrine]
+code = "TEST-SHRINE-07"
+name = { cs = "Svatyně", en = "Shrine" }
+
+[locations.shrine.scenes.altar]
+text.cs = """
+Test: text podle toho, co jsi udělal jinde.
+
+Očekáváno: níže vidíš jen věty, které platí pro tebe.
+"""
+text.en = """
+Test: text that depends on what you did elsewhere.
+
+Expected: below you see only the sentences that are true for you.
+"""
+
+[[locations.shrine.scenes.altar.paragraphs]]
+when = { flags = ["took_red"] }
+text = { cs = "• Na rozcestí sis vzal červený klíč.", en = "• At the crossroads you took the red key." }
+
+[[locations.shrine.scenes.altar.paragraphs]]
+when = { flags = ["took_blue"] }
+text = { cs = "• Na rozcestí sis vzal modrý klíč.", en = "• At the crossroads you took the blue key." }
+
+[[locations.shrine.scenes.altar.paragraphs]]
+when = { without_flags = ["took_red", "took_blue"] }
+text = { cs = "• Na rozcestí jsi ještě nebyl.", en = "• You haven't been to the crossroads yet." }
+
+[[locations.shrine.scenes.altar.paragraphs]]
+when = { visited = ["guard"] }
+text = { cs = "• Už jsi potkal strážného.", en = "• You have met the guard." }
+
+[[locations.shrine.scenes.altar.paragraphs]]
+when = { items = { old_letter = 1 } }
+text = { cs = "• Máš dopis ze sklepa, takže drahokam na oltář nepoložíš nikdy.", en = "• You have the letter from the cellar, so you can never place the gem on the altar." }
+
+[[locations.shrine.scenes.altar.choices]]
+id = "place_gem"
+label = { cs = "Položit drahokam na oltář", en = "Place the gem on the altar" }
+take = { gem = 1 }
+locked = { cs = "Potřebuješ drahokam ze sklepa", en = "You need the gem from the cellar" }
+give = { clues = ["altar"] }
+to = "blessed"
+
+[locations.shrine.scenes.blessed]
+text = { cs = "Drahokam se rozzáří. Očekáváno: drahokam zmizel z inventáře.", en = "The gem lights up. Expected: the gem is gone from your inventory." }

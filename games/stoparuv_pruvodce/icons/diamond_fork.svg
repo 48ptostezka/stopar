@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <!-- Diamantová vidlička: vidlička s broušeným diamantem v rukojeti a jiskrami rozkladu -->
+  <path d="M-4 -13V-6Q-4 -2 0 -2Q4 -2 4 -6V-13"/>
+  <path d="M0 -13V-6"/>
+  <path d="M0 -2V5"/>
+  <path d="M-3 8L-1.5 5H1.5L3 8L0 13Z"/>
+  <path d="M-3 8H3"/>
+  <path d="M8 -12L10 -14M9 -8H12M8 -4L10 -2"/>
+</svg>

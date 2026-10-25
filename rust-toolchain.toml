@@ -1,0 +1,4 @@
+# rustup installs the WebAssembly target automatically from this file.
+[toolchain]
+channel = "stable"
+targets = ["wasm32-unknown-unknown"]

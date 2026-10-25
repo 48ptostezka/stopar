@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg187"
+   sodipodi:docname="ztraty_ztrat.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview187"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.66875"
+     inkscape:cx="185.66745"
+     inkscape:cy="217.51756"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg187" />
+  <!-- Ztráty a nálezy ze Ztrát a nálezů: stotrilionkrát větší sklad, v němž potomci ztracených turistů postavili ze ztracených deštníků stany, města a říše. Vládne antibogdanismus; věřící nic neztrácejí a všechno táhnou na provázku za zápěstím - i skříně a babičky. -->
+  <defs
+     id="defs2">
+    <linearGradient
+       id="opar"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#1c1e3f"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#3a3f80"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="480"
+     height="280"
+     fill="url(#opar)"
+     id="rect2" />
+  <!-- nekonečně vzdálený strop skladu s lampami -->
+  <g
+     stroke="#2e3370"
+     stroke-width="2"
+     id="g3">
+    <path
+       d="M0 14 L240 4 L480 14 M0 34 L240 22 L480 34"
+       id="path2" />
+    <path
+       d="M60 0 L80 40 M180 0 L190 40 M300 0 L290 40 M420 0 L400 40"
+       id="path3" />
+  </g>
+  <g
+     fill="#f0a400"
+     id="g6">
+    <circle
+       cx="90"
+       cy="30"
+       r="2"
+       id="circle3" />
+    <circle
+       cx="200"
+       cy="22"
+       r="1.6"
+       id="circle4" />
+    <circle
+       cx="300"
+       cy="24"
+       r="1.6"
+       id="circle5" />
+    <circle
+       cx="400"
+       cy="30"
+       r="2"
+       id="circle6" />
+  </g>
+  <g
+     fill="#f0a400"
+     opacity=".08"
+     id="g8">
+    <circle
+       cx="90"
+       cy="30"
+       r="20"
+       id="circle7" />
+    <circle
+       cx="400"
+       cy="30"
+       r="20"
+       id="circle8" />
+  </g>
+  <path
+     d="M0 150 Q40 90 90 120 Q130 70 190 110 Q240 60 300 108 Q350 80 400 116 Q440 90 480 120 V170 H0Z"
+     fill="#2e3370"
+     id="path8" />
+  <g
+     id="g68">
+    <circle
+       cx="299"
+       cy="148"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle9" />
+    <circle
+       cx="14"
+       cy="130"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle10" />
+    <circle
+       cx="432"
+       cy="107"
+       r="2"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle11" />
+    <circle
+       cx="183"
+       cy="107"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle12" />
+    <circle
+       cx="351"
+       cy="127"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle13" />
+    <circle
+       cx="77"
+       cy="152"
+       r="1.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle14" />
+    <circle
+       cx="296"
+       cy="108"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle15" />
+    <circle
+       cx="101"
+       cy="114"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle16" />
+    <circle
+       cx="139"
+       cy="162"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle17" />
+    <circle
+       cx="87"
+       cy="163"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle18" />
+    <circle
+       cx="143"
+       cy="123"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle19" />
+    <circle
+       cx="127"
+       cy="122"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle20" />
+    <circle
+       cx="2"
+       cy="144"
+       r="2"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle21" />
+    <circle
+       cx="149"
+       cy="153"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle22" />
+    <circle
+       cx="89"
+       cy="131"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle23" />
+    <circle
+       cx="123"
+       cy="161"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle24" />
+    <circle
+       cx="406"
+       cy="101"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle25" />
+    <circle
+       cx="181"
+       cy="155"
+       r="2"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle26" />
+    <circle
+       cx="340"
+       cy="141"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle27" />
+    <circle
+       cx="363"
+       cy="160"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle28" />
+    <circle
+       cx="246"
+       cy="158"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle29" />
+    <circle
+       cx="52"
+       cy="149"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle30" />
+    <circle
+       cx="18"
+       cy="161"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle31" />
+    <circle
+       cx="164"
+       cy="140"
+       r="1.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle32" />
+    <circle
+       cx="132"
+       cy="146"
+       r="1.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle33" />
+    <circle
+       cx="329"
+       cy="120"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle34" />
+    <circle
+       cx="346"
+       cy="120"
+       r="2"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle35" />
+    <circle
+       cx="346"
+       cy="105"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle36" />
+    <circle
+       cx="443"
+       cy="102"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle37" />
+    <circle
+       cx="165"
+       cy="116"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle38" />
+    <circle
+       cx="70"
+       cy="164"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle39" />
+    <circle
+       cx="385"
+       cy="122"
+       r="1.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle40" />
+    <circle
+       cx="471"
+       cy="137"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle41" />
+    <circle
+       cx="51"
+       cy="128"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle42" />
+    <circle
+       cx="405"
+       cy="119"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle43" />
+    <circle
+       cx="409"
+       cy="163"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle44" />
+    <circle
+       cx="331"
+       cy="121"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle45" />
+    <circle
+       cx="226"
+       cy="159"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle46" />
+    <circle
+       cx="395"
+       cy="135"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle47" />
+    <circle
+       cx="417"
+       cy="112"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle48" />
+    <circle
+       cx="247"
+       cy="136"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle49" />
+    <circle
+       cx="30"
+       cy="152"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle50" />
+    <circle
+       cx="319"
+       cy="149"
+       r="2"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle51" />
+    <circle
+       cx="338"
+       cy="118"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle52" />
+    <circle
+       cx="369"
+       cy="145"
+       r="2"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle53" />
+    <circle
+       cx="312"
+       cy="138"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle54" />
+    <circle
+       cx="263"
+       cy="116"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle55" />
+    <circle
+       cx="222"
+       cy="153"
+       r="2.5"
+       fill="#f0a400"
+       opacity=".6"
+       id="circle56" />
+    <circle
+       cx="167"
+       cy="142"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle57" />
+    <circle
+       cx="168"
+       cy="155"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle58" />
+    <circle
+       cx="469"
+       cy="162"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle59" />
+    <circle
+       cx="254"
+       cy="111"
+       r="2"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle60" />
+    <circle
+       cx="136"
+       cy="105"
+       r="2.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle61" />
+    <circle
+       cx="82"
+       cy="151"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle62" />
+    <circle
+       cx="319"
+       cy="127"
+       r="2.5"
+       fill="#e3e5ee"
+       opacity=".6"
+       id="circle63" />
+    <circle
+       cx="372"
+       cy="141"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle64" />
+    <circle
+       cx="94"
+       cy="138"
+       r="2.5"
+       fill="#14c2b0"
+       opacity=".6"
+       id="circle65" />
+    <circle
+       cx="105"
+       cy="145"
+       r="2.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle66" />
+    <circle
+       cx="474"
+       cy="164"
+       r="1.5"
+       fill="#ff8a6a"
+       opacity=".6"
+       id="circle67" />
+    <circle
+       cx="428"
+       cy="107"
+       r="1.5"
+       fill="#8a73ee"
+       opacity=".6"
+       id="circle68" />
+  </g>
+  <!-- město ze ztracených věcí -->
+  <path
+     d="M0 176 Q240 164 480 174 V280 H0Z"
+     fill="#30366e"
+     id="path68" />
+  <!-- věž z kufrů a klíčová brána -->
+  <g
+     id="g74">
+    <rect
+       x="380"
+       y="70"
+       width="40"
+       height="22"
+       rx="3"
+       fill="#8a5a3a"
+       id="rect68" />
+    <rect
+       x="384"
+       y="92"
+       width="34"
+       height="20"
+       rx="3"
+       fill="#ff5a36"
+       id="rect69" />
+    <rect
+       x="378"
+       y="112"
+       width="44"
+       height="24"
+       rx="3"
+       fill="#14c2b0"
+       id="rect70" />
+    <rect
+       x="382"
+       y="136"
+       width="38"
+       height="22"
+       rx="3"
+       fill="#a36b45"
+       id="rect71" />
+    <rect
+       x="376"
+       y="158"
+       width="48"
+       height="26"
+       rx="3"
+       fill="#6b4fe0"
+       id="rect72" />
+    <path
+       d="M392 70 v-6 h16 v6"
+       fill="none"
+       stroke="#6b452c"
+       stroke-width="3"
+       id="path72" />
+    <path
+       d="M400 64 V40"
+       stroke="#595d82"
+       stroke-width="2"
+       id="path73" />
+    <path
+       d="M400 40 h26 l-6 7 l6 7 h-26Z"
+       fill="#e3e5ee"
+       id="path74" />
+  </g>
+  <g
+     transform="translate(412 47) scale(0.5)"
+     id="g76">
+    <circle
+       r="12"
+       fill="#e3e5ee"
+       id="circle74" />
+    <path
+       d="M-7 3 Q-7 -7 0 -7 Q7 -7 7 3Z"
+       fill="#f0a400"
+       id="path75" />
+    <rect
+       x="-8"
+       y="1"
+       width="16"
+       height="3.5"
+       rx="1.5"
+       fill="#c98400"
+       id="rect75" />
+    <circle
+       cx="0"
+       cy="-8.5"
+       r="2.3"
+       fill="#ff5a36"
+       id="circle75" />
+    <circle
+       r="10.5"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="2.5"
+       id="circle76" />
+    <path
+       d="M-7.5 -7.5 L7.5 7.5"
+       stroke="#ff5a36"
+       stroke-width="2.5"
+       id="path76" />
+  </g>
+  <!-- hradby z ponožek -->
+  <g
+     id="g89">
+    <path
+       d="M150 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#ff8a6a"
+       id="path77" />
+    <path
+       d="M164 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#14c2b0"
+       id="path78" />
+    <path
+       d="M178 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#e3e5ee"
+       id="path79" />
+    <path
+       d="M192 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#f0a400"
+       id="path80" />
+    <path
+       d="M206 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#8a73ee"
+       id="path81" />
+    <path
+       d="M220 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#ff5a36"
+       id="path82" />
+    <path
+       d="M234 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#ff8a6a"
+       id="path83" />
+    <path
+       d="M248 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#14c2b0"
+       id="path84" />
+    <path
+       d="M262 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#e3e5ee"
+       id="path85" />
+    <path
+       d="M276 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#f0a400"
+       id="path86" />
+    <path
+       d="M290 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#8a73ee"
+       id="path87" />
+    <path
+       d="M304 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#ff5a36"
+       id="path88" />
+    <path
+       d="M318 182 V164 h10 v12 q0 4 6 4 q2 4 -2 6 h-14Z"
+       fill="#ff8a6a"
+       id="path89" />
+  </g>
+  <g
+     transform="translate(60 186)"
+     id="g94">
+    <path
+       d="M0 -23 V0"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       id="path90" />
+    <path
+       d="M-26 -8 Q-26 -26 0 -26 Q26 -26 26 -8 Q20 -10 13 -8 Q6 -10 0 -8 Q-6 -10 -13 -8 Q-20 -10 -26 -8Z"
+       fill="#ff5a36"
+       id="path91" />
+    <path
+       d="M-13 -8 Q-10 -23 0 -26 Q10 -23 13 -8"
+       fill="none"
+       stroke="#e0502e"
+       stroke-width="2"
+       id="path92" />
+    <path
+       d="M-21 -8 L-23 0 H23 L21 -8Z"
+       fill="#e0502e"
+       opacity=".6"
+       id="path93" />
+    <path
+       d="M-4 0 V-5 H4 V0Z"
+       fill="#1c1e3f"
+       id="path94" />
+  </g>
+  <g
+     transform="translate(116 182)"
+     id="g99">
+    <path
+       d="M0 -18 V0"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       id="path95" />
+    <path
+       d="M-20 -6 Q-20 -20 0 -20 Q20 -20 20 -6 Q15 -8 10 -6 Q5 -8 0 -6 Q-5 -8 -10 -6 Q-15 -8 -20 -6Z"
+       fill="#14c2b0"
+       id="path96" />
+    <path
+       d="M-10 -6 Q-8 -18 0 -20 Q8 -18 10 -6"
+       fill="none"
+       stroke="#0e9c8e"
+       stroke-width="2"
+       id="path97" />
+    <path
+       d="M-16 -6 L-18 0 H18 L16 -6Z"
+       fill="#0e9c8e"
+       opacity=".6"
+       id="path98" />
+    <path
+       d="M-4 0 V-4 H4 V0Z"
+       fill="#1c1e3f"
+       id="path99" />
+  </g>
+  <g
+     transform="translate(340 186)"
+     id="g104">
+    <path
+       d="M0 -20 V0"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       id="path100" />
+    <path
+       d="M-22 -7 Q-22 -22 0 -22 Q22 -22 22 -7 Q16 -9 11 -7 Q6 -9 0 -7 Q-6 -9 -11 -7 Q-16 -9 -22 -7Z"
+       fill="#8a73ee"
+       id="path101" />
+    <path
+       d="M-11 -7 Q-9 -20 0 -22 Q9 -20 11 -7"
+       fill="none"
+       stroke="#6b4fe0"
+       stroke-width="2"
+       id="path102" />
+    <path
+       d="M-18 -7 L-20 0 H20 L18 -7Z"
+       fill="#6b4fe0"
+       opacity=".6"
+       id="path103" />
+    <path
+       d="M-4 0 V-4 H4 V0Z"
+       fill="#1c1e3f"
+       id="path104" />
+  </g>
+  <g
+     transform="translate(452 186)"
+     id="g109">
+    <path
+       d="M0 -22 V0"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       id="path105" />
+    <path
+       d="M-24 -7 Q-24 -24 0 -24 Q24 -24 24 -7 Q18 -10 12 -7 Q6 -10 0 -7 Q-6 -10 -12 -7 Q-18 -10 -24 -7Z"
+       fill="#f0a400"
+       id="path106" />
+    <path
+       d="M-12 -7 Q-10 -22 0 -24 Q10 -22 12 -7"
+       fill="none"
+       stroke="#c98400"
+       stroke-width="2"
+       id="path107" />
+    <path
+       d="M-19 -7 L-22 0 H22 L19 -7Z"
+       fill="#c98400"
+       opacity=".6"
+       id="path108" />
+    <path
+       d="M-4 0 V-5 H4 V0Z"
+       fill="#1c1e3f"
+       id="path109" />
+  </g>
+  <g
+     transform="translate(246 160)"
+     id="g114">
+    <path
+       d="M0 -14 V0"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       id="path110" />
+    <path
+       d="M-16 -5 Q-16 -16 0 -16 Q16 -16 16 -5 Q12 -6 8 -5 Q4 -6 0 -5 Q-4 -6 -8 -5 Q-12 -6 -16 -5Z"
+       fill="#ff8a6a"
+       id="path111" />
+    <path
+       d="M-8 -5 Q-6 -14 0 -16 Q6 -14 8 -5"
+       fill="none"
+       stroke="#e0502e"
+       stroke-width="2"
+       id="path112" />
+    <path
+       d="M-13 -5 L-14 0 H14 L13 -5Z"
+       fill="#e0502e"
+       opacity=".6"
+       id="path113" />
+    <path
+       d="M-4 0 V-3 H4 V0Z"
+       fill="#1c1e3f"
+       id="path114" />
+  </g>
+  <!-- prapory s přeškrtnutým Bogdanovým kulichem -->
+  <path
+     d="M30 186 V120"
+     stroke="#8a5a3a"
+     stroke-width="2.5"
+     id="path115" />
+  <path
+     d="M30 120 h34 v26 h-34Z"
+     fill="#1c1e3f"
+     id="path116" />
+  <g
+     transform="translate(47 133) scale(0.8)"
+     id="g118">
+    <circle
+       r="12"
+       fill="#e3e5ee"
+       id="circle116" />
+    <path
+       d="M-7 3 Q-7 -7 0 -7 Q7 -7 7 3Z"
+       fill="#f0a400"
+       id="path117" />
+    <rect
+       x="-8"
+       y="1"
+       width="16"
+       height="3.5"
+       rx="1.5"
+       fill="#c98400"
+       id="rect117" />
+    <circle
+       cx="0"
+       cy="-8.5"
+       r="2.3"
+       fill="#ff5a36"
+       id="circle117" />
+    <circle
+       r="10.5"
+       fill="none"
+       stroke="#ff5a36"
+       stroke-width="2.5"
+       id="circle118" />
+    <path
+       d="M-7.5 -7.5 L7.5 7.5"
+       stroke="#ff5a36"
+       stroke-width="2.5"
+       id="path118" />
+  </g>
+  <path
+     d="M470 120 V80"
+     stroke="#8a5a3a"
+     stroke-width="2"
+     id="path119" />
+  <!-- průvod: celé domácnosti na provázcích -->
+  <path
+     d="M87 219 Q78.5 244 70 236"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path127" />
+  <g
+     transform="translate(64 250) scale(0.9)"
+     id="g131">
+    <rect
+       x="-14"
+       y="-46"
+       width="28"
+       height="44"
+       rx="2"
+       fill="#a36b45"
+       id="rect127" />
+    <path
+       d="M0 -44 V-4"
+       stroke="#6b452c"
+       stroke-width="1.5"
+       id="path128" />
+    <circle
+       cx="-3"
+       cy="-24"
+       r="1.4"
+       fill="#f0a400"
+       id="circle128" />
+    <circle
+       cx="3"
+       cy="-24"
+       r="1.4"
+       fill="#f0a400"
+       id="circle129" />
+    <rect
+       x="-14"
+       y="-4"
+       width="28"
+       height="4"
+       fill="#6b452c"
+       id="rect129" />
+    <circle
+       cx="-9"
+       cy="2"
+       r="2.5"
+       fill="#1c1e3f"
+       id="circle130" />
+    <circle
+       cx="9"
+       cy="2"
+       r="2.5"
+       fill="#1c1e3f"
+       id="circle131" />
+  </g>
+  <path
+     d="M52 238 Q46.0 248 40 240"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path131" />
+  <g
+     transform="translate(36 250) scale(0.9)"
+     id="g132">
+    <rect
+       x="-8"
+       y="-12"
+       width="16"
+       height="3"
+       fill="#8a5a3a"
+       id="rect131" />
+    <path
+       d="M-7 -9 V0 M7 -9 V0 M7 -12 V-26"
+       stroke="#8a5a3a"
+       stroke-width="2.5"
+       id="path132" />
+  </g>
+  <path
+     d="M28 240 Q23.0 248 18 240"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path133" />
+  <g
+     transform="translate(220 256) scale(-1.00 1.00)"
+     id="g144">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect136" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect137" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#14c2b0"
+       id="rect138" />
+    <path
+       d="M-10 -44 Q-15 -32 -13 -22 M10 -44 Q18 -40 22 -34"
+       stroke="#14c2b0"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path138" />
+    <circle
+       cx="-13"
+       cy="-21"
+       r="2.6"
+       fill="#e0a0d0"
+       id="circle138" />
+    <circle
+       cx="23"
+       cy="-33"
+       r="2.6"
+       fill="#e0a0d0"
+       id="circle139" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#e0a0d0"
+       id="circle140" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle141" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle142" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#ff8a6a"
+       id="path142" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#e0a0d0"
+       stroke-width="2"
+       fill="none"
+       id="path143" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle143" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle144" />
+  </g>
+  <path
+     d="M197 223 Q187.0 236 177 228"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path144" />
+  <path
+     d="M 161,230.22543 C 156.66667,240.89209 144.33333,243.33333 140,238"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity="0.75"
+     stroke-width="1"
+     id="path155"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="M317 231 Q326.5 246 336 238"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path164" />
+  <g
+     transform="translate(340 252)"
+     id="g166">
+    <rect
+       x="-8"
+       y="-14"
+       width="16"
+       height="14"
+       rx="2"
+       fill="#8a5a3a"
+       id="rect164" />
+    <circle
+       cx="-5"
+       cy="0"
+       r="2"
+       fill="#1c1e3f"
+       id="circle165" />
+    <circle
+       cx="5"
+       cy="0"
+       r="2"
+       fill="#1c1e3f"
+       id="circle166" />
+  </g>
+  <path
+     d="M344 238 Q353.0 248 362 240"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path166" />
+  <g
+     transform="translate(366 250)"
+     id="g170">
+    <circle
+       cx="0"
+       cy="-8"
+       r="6"
+       fill="#c98a5a"
+       id="circle167" />
+    <circle
+       cx="-5"
+       cy="-13"
+       r="2.5"
+       fill="#c98a5a"
+       id="circle168" />
+    <circle
+       cx="5"
+       cy="-13"
+       r="2.5"
+       fill="#c98a5a"
+       id="circle169" />
+    <circle
+       cx="0"
+       cy="0"
+       r="6"
+       fill="#c98a5a"
+       id="circle170" />
+  </g>
+  <g
+     transform="translate(430 254) scale(1.00 1.00)"
+     id="g178">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect170" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect171" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#f0a400"
+       id="rect172" />
+    <path
+       d="M-10 -44 Q-15 -32 -13 -22 M10 -44 Q18 -40 22 -34"
+       stroke="#f0a400"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path172" />
+    <circle
+       cx="-13"
+       cy="-21"
+       r="2.6"
+       fill="#a8c0e8"
+       id="circle172" />
+    <circle
+       cx="23"
+       cy="-33"
+       r="2.6"
+       fill="#a8c0e8"
+       id="circle173" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#a8c0e8"
+       id="circle174" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle175" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle176" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#595d82"
+       id="path176" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#a8c0e8"
+       stroke-width="2"
+       fill="none"
+       id="path177" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle177" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle178" />
+  </g>
+  <path
+     d="M453 221 Q461.5 240 470 232"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path178" />
+  <g
+     transform="translate(474 248)"
+     id="g179">
+    <rect
+       x="-10"
+       y="-16"
+       width="20"
+       height="16"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect178" />
+    <rect
+       x="-7"
+       y="-12"
+       width="10"
+       height="8"
+       rx="1"
+       fill="#1c1e3f"
+       id="rect179" />
+  </g>
+  <!-- i domy, stany a věže jsou přivázané ke svým majitelům -->
+  <path
+     d="M60 186 Q25.0 238 -10 230"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path179" />
+  <path
+     d="M116 182 Q133.0 298 150 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path180" />
+  <path
+     d="M340 186 Q335.0 298 330 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path181" />
+  <path
+     d="M452 186 Q471.0 238 490 230"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path182" />
+  <path
+     d="M246 160 Q253.0 298 260 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path183" />
+  <path
+     d="M400 184 Q410.0 298 420 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path184" />
+  <path
+     d="M30 186 Q10.0 208 -10 200"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path185" />
+  <path
+     d="M150 182 Q135.0 298 120 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path186" />
+  <path
+     d="M318 182 Q309.0 298 300 290"
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".75"
+     stroke-width="1"
+     id="path187" />
+  <g
+     transform="translate(110 252) scale(-1.00 1.00)"
+     id="g127">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect119" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect120" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#ff5a36"
+       id="rect121" />
+    <path
+       d="M-10 -44 Q-15 -32 -13 -22 M10 -44 Q18 -40 22 -34"
+       stroke="#ff5a36"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path121" />
+    <circle
+       cx="-13"
+       cy="-21"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle121" />
+    <circle
+       cx="23"
+       cy="-33"
+       r="2.6"
+       fill="#c98a5a"
+       id="circle122" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#c98a5a"
+       id="circle123" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle124" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle125" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#1c1e3f"
+       id="path125" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#c98a5a"
+       stroke-width="2"
+       fill="none"
+       id="path126" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle126" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle127" />
+  </g>
+  <g
+     transform="translate(170 256) scale(1.00 1.00)"
+     id="g154">
+    <path
+       d="M-4 0 V-6 M4 0 V-6"
+       stroke="#4c5074"
+       stroke-width="4"
+       id="path145" />
+    <path
+       d="M-11 -6 Q-12 -38 0 -40 Q12 -38 11 -6Z"
+       fill="#8a73ee"
+       id="path146" />
+    <g
+       fill="#e3e5ee"
+       id="g148">
+      <circle
+         cx="-4"
+         cy="-20"
+         r="1.3"
+         id="circle146" />
+      <circle
+         cx="4"
+         cy="-28"
+         r="1.3"
+         id="circle147" />
+      <circle
+         cx="3"
+         cy="-14"
+         r="1.3"
+         id="circle148" />
+    </g>
+    <path
+       d="M10 -24 L16 0"
+       stroke="#8a5a3a"
+       stroke-width="2"
+       id="path148" />
+    <circle
+       cx="0"
+       cy="-48"
+       r="8"
+       fill="#f0c8a0"
+       id="circle149" />
+    <circle
+       cx="0"
+       cy="-58"
+       r="5"
+       fill="#e3e5ee"
+       id="circle150" />
+    <path
+       d="M-8 -50 Q-8 -57 0 -57 Q8 -57 8 -50 Q0 -54 -8 -50Z"
+       fill="#e3e5ee"
+       id="path150" />
+    <circle
+       cx="-3"
+       cy="-48"
+       r="2.4"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width=".8"
+       id="circle151" />
+    <circle
+       cx="3"
+       cy="-48"
+       r="2.4"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width=".8"
+       id="circle152" />
+    <path
+       d="M-2 -43 q2 1 4 0"
+       stroke="#1c1e3f"
+       stroke-width=".9"
+       fill="none"
+       id="path152" />
+    <path
+       d="M-3 -62 q-4 -8 -8 -10 M3 -62 q4 -8 8 -10"
+       stroke="#f0c8a0"
+       stroke-width="1.5"
+       fill="none"
+       id="path153" />
+    <circle
+       cx="-11"
+       cy="-72"
+       r="2"
+       fill="#8a73ee"
+       id="circle153" />
+    <circle
+       cx="11"
+       cy="-72"
+       r="2"
+       fill="#8a73ee"
+       id="circle154" />
+  </g>
+  <g
+     transform="translate(300 256) scale(1.00 0.75)"
+     id="g164">
+    <rect
+       x="-7"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect156" />
+    <rect
+       x="1"
+       y="-24"
+       width="6"
+       height="24"
+       rx="3"
+       fill="#4c5074"
+       id="rect157" />
+    <rect
+       x="-10"
+       y="-50"
+       width="20"
+       height="30"
+       rx="7"
+       fill="#8a73ee"
+       id="rect158" />
+    <path
+       d="M-10 -44 Q-15 -32 -13 -22 M10 -44 Q18 -40 22 -34"
+       stroke="#8a73ee"
+       stroke-width="5"
+       stroke-linecap="round"
+       fill="none"
+       id="path158" />
+    <circle
+       cx="-13"
+       cy="-21"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle158" />
+    <circle
+       cx="23"
+       cy="-33"
+       r="2.6"
+       fill="#f0c8a0"
+       id="circle159" />
+    <circle
+       cx="0"
+       cy="-60"
+       r="10"
+       fill="#f0c8a0"
+       id="circle160" />
+    <circle
+       cx="4"
+       cy="-61"
+       r="2"
+       fill="#e3e5ee"
+       id="circle161" />
+    <circle
+       cx="4.7"
+       cy="-61"
+       r="1.0"
+       fill="#1c1e3f"
+       id="circle162" />
+    <path
+       d="M-10 -62 Q-10 -72 0 -72 Q9 -72 10 -64 Q2 -68 -10 -62Z"
+       fill="#f0a400"
+       id="path162" />
+    <path
+       d="M-4 -69 Q-8 -82 -12 -86 M4 -69 Q8 -82 12 -86"
+       stroke="#f0c8a0"
+       stroke-width="2"
+       fill="none"
+       id="path163" />
+    <circle
+       cx="-12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle163" />
+    <circle
+       cx="12"
+       cy="-87"
+       r="2.6"
+       fill="#ff5a36"
+       id="circle164" />
+  </g>
+  <g
+     transform="translate(14 250) scale(0.9)"
+     id="g135">
+    <path
+       d="M0 0 V-22"
+       stroke="#595d82"
+       stroke-width="2"
+       id="path134" />
+    <path
+       d="M-7 -22 L-4 -32 H4 L7 -22Z"
+       fill="#ff8a6a"
+       id="path135" />
+    <rect
+       x="-5"
+       y="-2"
+       width="10"
+       height="3"
+       fill="#595d82"
+       id="rect135" />
+  </g>
+  <g
+     transform="translate(140 252)"
+     id="g156">
+    <rect
+       x="-8"
+       y="-14"
+       width="16"
+       height="12"
+       rx="3"
+       fill="#f0a400"
+       id="rect155" />
+    <circle
+       cx="-5"
+       cy="0"
+       r="2"
+       fill="#1c1e3f"
+       id="circle155" />
+    <circle
+       cx="5"
+       cy="0"
+       r="2"
+       fill="#1c1e3f"
+       id="circle156" />
+  </g>
+</svg>

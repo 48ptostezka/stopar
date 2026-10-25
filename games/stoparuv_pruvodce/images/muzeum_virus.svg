@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg83"
+   sodipodi:docname="muzeum_virus.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs83" />
+  <sodipodi:namedview
+     id="namedview83"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.66875"
+     inkscape:cx="370.77283"
+     inkscape:cy="178.92272"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
+  <!-- Muzeum Šedi napadené virem: zaměstnanci lomí rukama a pláčou do šedých kapesníků, všechny obrazy mají stejnou šedou a uprostřed stojí kustod ovládnutý virem. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#23275e"
+     id="rect1" />
+  <rect
+     width="480"
+     height="20"
+     fill="#1c1e3f"
+     id="rect2" />
+  <path
+     d="M0 232 H480 V280 H0Z"
+     fill="#141848"
+     id="path2" />
+  <path
+     d="M0 252 H480 M0 268 H480"
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="path3" />
+  <!-- vchod -->
+  <path
+     d="M16 232 V96 Q16 72 50 72 Q84 72 84 96 V232Z"
+     fill="#0b0d2a"
+     id="path4" />
+  <!-- cedule nad vchodem -->
+  <rect
+     x="18"
+     y="34"
+     width="64"
+     height="30"
+     rx="3"
+     fill="#f0a400"
+     id="rect4" />
+  <rect
+     x="24"
+     y="40"
+     width="8"
+     height="8"
+     fill="#505050"
+     id="rect5" />
+  <rect
+     x="34"
+     y="40"
+     width="8"
+     height="8"
+     fill="#5e5e5e"
+     id="rect6" />
+  <rect
+     x="44"
+     y="40"
+     width="8"
+     height="8"
+     fill="#6c6c6c"
+     id="rect7" />
+  <rect
+     x="54"
+     y="40"
+     width="8"
+     height="8"
+     fill="#7a7a7a"
+     id="rect8" />
+  <rect
+     x="64"
+     y="40"
+     width="8"
+     height="8"
+     fill="#888"
+     id="rect9" />
+  <rect
+     x="74"
+     y="40"
+     width="8"
+     height="8"
+     fill="#969696"
+     id="rect10" />
+  <rect
+     x="24"
+     y="50"
+     width="8"
+     height="8"
+     fill="#a4a4a4"
+     id="rect11" />
+  <rect
+     x="34"
+     y="50"
+     width="8"
+     height="8"
+     fill="#b2b2b2"
+     id="rect12" />
+  <rect
+     x="44"
+     y="50"
+     width="8"
+     height="8"
+     fill="#c0c0c0"
+     id="rect13" />
+  <rect
+     x="54"
+     y="50"
+     width="8"
+     height="8"
+     fill="#cecece"
+     id="rect14" />
+  <rect
+     x="64"
+     y="50"
+     width="8"
+     height="8"
+     fill="#dcdcdc"
+     id="rect15" />
+  <rect
+     x="74"
+     y="50"
+     width="8"
+     height="8"
+     fill="#eaeaea"
+     id="rect16" />
+  <!-- pokladna -->
+  <rect
+     x="92"
+     y="150"
+     width="70"
+     height="82"
+     rx="3"
+     fill="#6b4fe0"
+     id="rect17" />
+  <rect
+     x="88"
+     y="144"
+     width="78"
+     height="10"
+     rx="3"
+     fill="#8a73ee"
+     id="rect18" />
+  <rect
+     x="100"
+     y="104"
+     width="54"
+     height="40"
+     fill="#e3e5ee"
+     fill-opacity=".1"
+     stroke="#595d82"
+     stroke-width="2"
+     id="rect19" />
+  <!-- obrazy: odstíny šedé -->
+  <rect
+     x="180"
+     y="64"
+     width="62"
+     height="84"
+     rx="2"
+     fill="#f0a400"
+     id="rect20" />
+  <rect
+     x="187"
+     y="71"
+     width="48"
+     height="70"
+     fill="#8a8a8a"
+     id="rect21" />
+  <rect
+     x="201"
+     y="156"
+     width="20"
+     height="8"
+     rx="1"
+     fill="#c98400"
+     id="rect22" />
+  <rect
+     x="252"
+     y="64"
+     width="62"
+     height="84"
+     rx="2"
+     fill="#f0a400"
+     id="rect23" />
+  <rect
+     x="259"
+     y="71"
+     width="48"
+     height="70"
+     fill="#8a8a8a"
+     id="rect24" />
+  <rect
+     x="273"
+     y="156"
+     width="20"
+     height="8"
+     rx="1"
+     fill="#c98400"
+     id="rect25" />
+  <rect
+     x="324"
+     y="64"
+     width="62"
+     height="84"
+     rx="2"
+     fill="#f0a400"
+     id="rect26" />
+  <rect
+     x="331"
+     y="71"
+     width="48"
+     height="70"
+     fill="#8a8a8a"
+     id="rect27" />
+  <rect
+     x="345"
+     y="156"
+     width="20"
+     height="8"
+     rx="1"
+     fill="#c98400"
+     id="rect28" />
+  <rect
+     x="396"
+     y="64"
+     width="62"
+     height="84"
+     rx="2"
+     fill="#f0a400"
+     id="rect29" />
+  <rect
+     x="403"
+     y="71"
+     width="48"
+     height="70"
+     fill="#8a8a8a"
+     id="rect30" />
+  <rect
+     x="417"
+     y="156"
+     width="20"
+     height="8"
+     rx="1"
+     fill="#c98400"
+     id="rect31" />
+  <g
+     id="g37">
+    <rect
+       x="190"
+       y="80"
+       width="6"
+       height="4"
+       fill="#14c2b0"
+       id="rect32" />
+    <rect
+       x="236"
+       y="120"
+       width="6"
+       height="4"
+       fill="#ff5a36"
+       id="rect33" />
+    <rect
+       x="262"
+       y="90"
+       width="6"
+       height="4"
+       fill="#14c2b0"
+       id="rect34" />
+    <rect
+       x="330"
+       y="130"
+       width="6"
+       height="4"
+       fill="#ff5a36"
+       id="rect35" />
+    <rect
+       x="402"
+       y="84"
+       width="6"
+       height="4"
+       fill="#14c2b0"
+       id="rect36" />
+    <rect
+       x="438"
+       y="110"
+       width="6"
+       height="4"
+       fill="#ff5a36"
+       id="rect37" />
+  </g>
+  <g
+     transform="translate(127 150) scale(1.0 1.0)"
+     id="g42">
+    <path
+       d="M-16 0 Q-18 -54 0 -58 Q18 -54 16 0Z"
+       fill="#a3a6bb"
+       id="path37" />
+    <path
+       d="M-9 -40 q3 3 6 0 M3 -40 q3 3 6 0"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="path38" />
+    <path
+       d="M-6 -37 q-2 5 0 7 q2 -2 0 -7Z M6 -37 q-2 5 0 7 q2 -2 0 -7Z"
+       fill="#cfcfcf"
+       stroke="#1c1e3f"
+       stroke-width="1"
+       id="path39" />
+    <path
+       d="m 12,-20 q 6,-8 2,-12"
+       stroke="#1c1e3f"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path40" />
+    <path
+       d="m 12,-20 q 6,-8 2,-12"
+       stroke="#a3a6bb"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       fill="none"
+       id="path41" />
+    <path
+       d="m 4,-34 12,-2 2,10 -12,2 z"
+       fill="#b4b4b4"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       id="path42" />
+  </g>
+  <g
+     transform="translate(112 232) scale(0.75 0.75)"
+     id="g47">
+    <path
+       d="M-16 0 Q-18 -54 0 -58 Q18 -54 16 0Z"
+       fill="#909090"
+       id="path43" />
+    <circle
+       cx="-6"
+       cy="-40"
+       r="5.5"
+       fill="#e6e6e6"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       id="circle43" />
+    <circle
+       cx="6"
+       cy="-40"
+       r="5.5"
+       fill="#e6e6e6"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       id="circle44" />
+    <circle
+       cx="-6"
+       cy="-40"
+       r="1.3"
+       fill="#1c1e3f"
+       id="circle45" />
+    <circle
+       cx="6"
+       cy="-40"
+       r="1.3"
+       fill="#1c1e3f"
+       id="circle46" />
+  </g>
+  <!-- napadená kartotéka a razítko -->
+  <rect
+     x="440"
+     y="168"
+     width="34"
+     height="64"
+     rx="2"
+     fill="#5c5c5c"
+     id="rect47" />
+  <rect
+     x="444"
+     y="174"
+     width="26"
+     height="16"
+     fill="#7a7a7a"
+     id="rect48" />
+  <rect
+     x="440"
+     y="194"
+     width="30"
+     height="16"
+     fill="#7a7a7a"
+     transform="translate(4 0)"
+     id="rect49" />
+  <rect
+     x="444"
+     y="214"
+     width="26"
+     height="14"
+     fill="#7a7a7a"
+     id="rect50" />
+  <g
+     id="g53">
+    <rect
+       x="446"
+       y="178"
+       width="5"
+       height="3"
+       fill="#14c2b0"
+       id="rect51" />
+    <rect
+       x="458"
+       y="200"
+       width="5"
+       height="3"
+       fill="#ff5a36"
+       id="rect52" />
+    <rect
+       x="450"
+       y="218"
+       width="5"
+       height="3"
+       fill="#14c2b0"
+       id="rect53" />
+  </g>
+  <g
+     transform="translate(250 240)"
+     id="g57">
+    <rect
+       x="-8"
+       y="-6"
+       width="16"
+       height="6"
+       fill="#5c5c5c"
+       id="rect54" />
+    <rect
+       x="-3"
+       y="-18"
+       width="6"
+       height="12"
+       fill="#7a7a7a"
+       id="rect55" />
+    <circle
+       cx="0"
+       cy="-20"
+       r="4"
+       fill="#9a9a9a"
+       id="circle55" />
+    <rect
+       x="-11"
+       y="-4"
+       width="4"
+       height="3"
+       fill="#14c2b0"
+       id="rect57" />
+  </g>
+  <!-- sametový provaz -->
+  <path
+     d="M190 232 V196 M300 232 V196 M410 232 V196"
+     stroke="#c98400"
+     stroke-width="4"
+     id="path57" />
+  <path
+     d="M190 198 Q245 214 300 198 Q355 214 410 198"
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="4"
+     id="path59" />
+  <g
+     fill="#f0a400"
+     id="g59">
+    <circle
+       cx="190"
+       cy="194"
+       r="5"
+       id="circle57" />
+    <circle
+       cx="300"
+       cy="194"
+       r="5"
+       id="circle58" />
+    <circle
+       cx="410"
+       cy="194"
+       r="5"
+       id="circle59" />
+  </g>
+  <!-- lavička -->
+  <rect
+     x="230"
+     y="236"
+     width="120"
+     height="10"
+     rx="3"
+     fill="#8a5a3a"
+     id="rect59" />
+  <path
+     d="M240 246 V262 M340 246 V262"
+     stroke="#6b452c"
+     stroke-width="4"
+     id="path60" />
+  <g
+     transform="translate(206 262) scale(0.85 0.85)"
+     id="g66">
+    <path
+       d="M-16 0 Q-18 -54 0 -58 Q18 -54 16 0Z"
+       fill="#a8a8a8"
+       id="path61" />
+    <circle
+       cx="-6"
+       cy="-40"
+       r="5.5"
+       fill="#e6e6e6"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       id="circle61" />
+    <circle
+       cx="6"
+       cy="-40"
+       r="5.5"
+       fill="#e6e6e6"
+       stroke="#1c1e3f"
+       stroke-width="1.2"
+       id="circle62" />
+    <circle
+       cx="-6"
+       cy="-40"
+       r="1.3"
+       fill="#1c1e3f"
+       id="circle63" />
+    <circle
+       cx="6"
+       cy="-40"
+       r="1.3"
+       fill="#1c1e3f"
+       id="circle64" />
+    <path
+       d="M-22 -10 h-10 M-22 -20 h-14 M-22 -30 h-8"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path66" />
+  </g>
+  <g
+     transform="translate(410 262) scale(-0.85 0.85)"
+     id="g72">
+    <path
+       d="M-16 0 Q-18 -54 0 -58 Q18 -54 16 0Z"
+       fill="#8a8ea8"
+       id="path67" />
+    <path
+       d="M-9 -40 q3 3 6 0 M3 -40 q3 3 6 0"
+       fill="none"
+       stroke="#1c1e3f"
+       stroke-width="2"
+       stroke-linecap="round"
+       id="path68" />
+    <path
+       d="M-6 -37 q-2 5 0 7 q2 -2 0 -7Z M6 -37 q-2 5 0 7 q2 -2 0 -7Z"
+       fill="#cfcfcf"
+       stroke="#1c1e3f"
+       stroke-width="1"
+       id="path69" />
+    <path
+       d="m 12,-18.235295 q 6,-8 2,-12"
+       stroke="#1c1e3f"
+       stroke-width="6"
+       stroke-linecap="round"
+       fill="none"
+       id="path70" />
+    <path
+       d="m 12,-18.235295 q 6,-8 2,-12"
+       stroke="#a3a6bb"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       fill="none"
+       id="path71" />
+    <path
+       d="m 4,-32.235295 12,-2 2,10 -12,2 z"
+       fill="#b4b4b4"
+       stroke="#1c1e3f"
+       stroke-width="1.5"
+       id="path72" />
+  </g>
+  <!-- kustod pod kontrolou viru -->
+  <g
+     transform="translate(300 262) scale(1.5)"
+     id="g80">
+    <path
+       d="M-16 0 Q-18 -54 0 -58 Q18 -54 16 0Z"
+       fill="#7a7a7a"
+       id="path73" />
+    <rect
+       x="-10"
+       y="-44"
+       width="8"
+       height="6"
+       fill="#ff5a36"
+       stroke="#1c1e3f"
+       stroke-width="1"
+       id="rect73" />
+    <rect
+       x="2"
+       y="-44"
+       width="8"
+       height="6"
+       fill="#ff5a36"
+       stroke="#1c1e3f"
+       stroke-width="1"
+       id="rect74" />
+    <rect
+       x="-6"
+       y="-32"
+       width="12"
+       height="9"
+       rx="1"
+       fill="#1c1e3f"
+       id="rect75" />
+    <path
+       d="M-14 -24 V-6 M14 -24 V-6"
+       stroke="#1c1e3f"
+       stroke-width="5"
+       stroke-linecap="round"
+       id="path75" />
+    <path
+       d="M-14 -24 V-6 M14 -24 V-6"
+       stroke="#7a7a7a"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       id="path76" />
+    <path
+       d="M-8 -66 l3 6 h-6Z M0 -70 l3 6 h-6Z M8 -66 l3 6 h-6Z"
+       fill="#9a9a9a"
+       stroke="#1c1e3f"
+       stroke-width="1"
+       id="path77" />
+  </g>
+  <!-- plechový hlas -->
+  <g
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="2"
+     stroke-linejoin="miter"
+     id="g81">
+    <path
+       d="M322 216 l6 -4 l4 6 l6 -5 l4 6"
+       id="path80" />
+    <path
+       d="M324 226 l8 -6 l5 8 l8 -7 l5 8"
+       id="path81" />
+  </g>
+  <path
+     d="M352 168 L366 192 H338Z"
+     fill="#ff5a36"
+     id="path82" />
+  <path
+     d="M352 176 V184 M352 187 V188"
+     stroke="#1c1e3f"
+     stroke-width="2.5"
+     stroke-linecap="round"
+     id="path83" />
+</svg>

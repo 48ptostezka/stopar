@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <!-- Věštkyně úterků: nejpřesnější věštkyně v galaxii věští výhradně úterky. V křišťálové kouli i na zakrytých koulích je vidět jediný rozsvícený den v týdnu - úterý. Na stěně diplomy z atestace a nástavby. -->
+  <rect width="480" height="280" fill="#1c1e3f"/>
+  <!-- závěsy stanu -->
+  <path d="M0 0 H480 V20 Q440 34 400 20 Q360 34 320 20 Q280 34 240 20 Q200 34 160 20 Q120 34 80 20 Q40 34 0 20Z" fill="#6b4fe0"/>
+  <path d="M0 0 Q20 140 0 280 H-10 V0Z M0 0 Q60 120 30 280 H0Z" fill="#6b4fe0"/>
+  <path d="M480 0 Q420 120 450 280 H480Z" fill="#6b4fe0"/>
+  <path d="M0 0 Q40 120 18 280" fill="none" stroke="#8a73ee" stroke-width="3"/><path d="M480 0 Q436 120 462 280" fill="none" stroke="#8a73ee" stroke-width="3"/>
+  <g fill="#f0a400" opacity=".7"><path d="M30 60 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"/><path d="M452 140 l2 4 l4 .6 l-4 1.4 l-2 4 l-2 -4 l-4 -1.4 l4 -.6Z"/></g>
+  <!-- lucerny -->
+  <path d="M110 20 V40 M370 20 V40" stroke="#c98400" stroke-width="1.5"/>
+  <g fill="#f0a400"><path d="M102 40 h16 l-3 14 h-10Z"/><path d="M362 40 h16 l-3 14 h-10Z"/></g>
+  <circle cx="110" cy="48" r="20" fill="#f0a400" opacity=".12"/><circle cx="370" cy="48" r="20" fill="#f0a400" opacity=".12"/>
+
+  <!-- diplomy: sedmiletá atestace z úterků a nástavba z úterních odpolední -->
+  <rect x="58" y="66" width="56" height="42" rx="2" fill="#c98400"/>
+  <rect x="62" y="70" width="48" height="34" fill="#e3e5ee"/>
+  <g transform="translate(86 82) scale(0.8)"><rect x="-13.5" y="-9" width="6" height="17" rx="2" fill="#ffd36b" opacity=".35"/><rect x="-17.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-17.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-17.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-12.5" y="-7" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-12.5" y="-2" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-12.5" y="3" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-7.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-7.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-7.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-2.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-2.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="-2.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="2.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="2.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="2.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="7.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="7.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="7.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="12.5" y="-7" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="12.5" y="-2" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/><rect x="12.5" y="3" width="4" height="4" rx=".8" fill="#595d82" opacity="0.4"/></g>
+  <circle cx="100" cy="98" r="5" fill="#ff5a36"/><path d="M98 102 l-2 7 M102 102 l2 7" stroke="#ff5a36" stroke-width="2"/>
+  <rect x="122" y="76" width="40" height="30" rx="2" fill="#c98400"/>
+  <rect x="125" y="79" width="34" height="24" fill="#e3e5ee"/>
+  <!-- odpoledne: slunce nízko nad obzorem -->
+  <path d="M130 96 H154" stroke="#595d82" stroke-width="1.5"/>
+  <path d="M136 96 a6 6 0 0 1 12 0Z" fill="#f0a400"/>
+  <circle cx="152" cy="99" r="3.5" fill="#14c2b0"/>
+
+  <!-- police se sedmi koulemi, jedna na každý den - svítí jen úterní, ostatní jsou zakryté -->
+  <rect x="292" y="92" width="150" height="5" rx="2" fill="#8a5a3a"/>
+  <g><rect x="297.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M294.1 88.8 Q294.5 72.2 302.0 73.4 Q309.5 72.2 309.9 88.8 Q305.8 86.5 302.0 89.1 Q298.2 86.5 294.1 88.8Z" fill="#595d82"/></g>
+  <g><circle cx="323" cy="82" r="15.0" fill="#14c2b0" opacity=".15"/><rect x="318.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#c98400"/>
+<circle cx="323" cy="82" r="7.5" fill="#e3e5ee" fill-opacity=".18" stroke="#e3e5ee" stroke-opacity=".7" stroke-width="1.2"/><circle cx="323" cy="82" r="7.5" fill="#14c2b0" opacity=".45"/>
+<path d="M318.9 80.5 A4.5 4.5 0 0 1 322.2 77.5" stroke="#fff" stroke-opacity=".8" stroke-width="1.0" fill="none" stroke-linecap="round"/></g>
+  <g><rect x="339.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M336.1 88.8 Q336.5 72.2 344.0 73.4 Q351.5 72.2 351.9 88.8 Q347.8 86.5 344.0 89.1 Q340.2 86.5 336.1 88.8Z" fill="#595d82"/></g>
+  <g><rect x="360.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M357.1 88.8 Q357.5 72.2 365.0 73.4 Q372.5 72.2 372.9 88.8 Q368.8 86.5 365.0 89.1 Q361.2 86.5 357.1 88.8Z" fill="#595d82"/></g>
+  <g><rect x="381.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M378.1 88.8 Q378.5 72.2 386.0 73.4 Q393.5 72.2 393.9 88.8 Q389.8 86.5 386.0 89.1 Q382.2 86.5 378.1 88.8Z" fill="#595d82"/></g>
+  <g><rect x="402.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M399.1 88.8 Q399.5 72.2 407.0 73.4 Q414.5 72.2 414.9 88.8 Q410.8 86.5 407.0 89.1 Q403.2 86.5 399.1 88.8Z" fill="#595d82"/></g>
+  <g><rect x="423.5" y="88.0" width="9.0" height="3.0" rx="1" fill="#8a5a3a"/>
+<path d="M420.1 88.8 Q420.5 72.2 428.0 73.4 Q435.5 72.2 435.9 88.8 Q431.8 86.5 428.0 89.1 Q424.2 86.5 420.1 88.8Z" fill="#595d82"/></g>
+
+  <!-- věštkyně -->
+  <g>
+    <!-- dlouhé vlasy za hlavou -->
+    <path d="M212 100 Q202 140 212 158 H268 Q278 140 268 100Z" fill="#0b0d2a"/>
+    <!-- róba s hvězdičkami -->
+    <path d="M176 230 Q172 150 240 140 Q308 150 304 230Z" fill="#6b4fe0"/>
+    <g fill="#f0a400"><circle cx="206" cy="176" r="2"/><circle cx="270" cy="168" r="2"/><circle cx="252" cy="196" r="1.6"/><circle cx="220" cy="204" r="1.6"/></g>
+    <!-- hlava -->
+    <ellipse cx="240" cy="112" rx="26" ry="28" fill="#e0a0d0"/>
+    <!-- turban s drahokamem -->
+    <path d="M212 104 Q210 72 240 70 Q270 72 268 104 Q240 92 212 104Z" fill="#8a73ee"/>
+    <path d="M214 96 Q240 84 266 96" fill="none" stroke="#6b4fe0" stroke-width="3"/>
+    <circle cx="240" cy="88" r="5" fill="#14c2b0"/><circle cx="240" cy="88" r="9" fill="#14c2b0" opacity=".25"/>
+    <path d="M262 82 q10 -10 6 -22" fill="none" stroke="#ff8a6a" stroke-width="3" stroke-linecap="round"/>
+    <!-- třetí oko a dvě oči upřené do koule -->
+    <ellipse cx="240" cy="106" rx="4.5" ry="3" fill="#fff"/><circle cx="240" cy="107" r="2" fill="#6b4fe0"/>
+    <path d="M226 116 q5 4 10 0 M244 116 q5 4 10 0" fill="none" stroke="#1c1e3f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M226 116 l-3 2 M254 116 l3 2" stroke="#1c1e3f" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M234 128 q6 3 12 0" fill="none" stroke="#a0306a" stroke-width="2" stroke-linecap="round"/>
+    <!-- velké kruhové náušnice -->
+    <circle cx="214" cy="124" r="5" fill="none" stroke="#f0a400" stroke-width="2"/><circle cx="266" cy="124" r="5" fill="none" stroke="#f0a400" stroke-width="2"/>
+    <!-- ruce kolem koule s náramky -->
+    <path d="M196 170 Q190 196 214 204" stroke="#8a73ee" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M284 170 Q290 196 266 204" stroke="#8a73ee" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <g fill="#e0a0d0"><ellipse cx="214" cy="202" rx="8" ry="6"/><ellipse cx="266" cy="202" rx="8" ry="6"/></g>
+    <g fill="none" stroke="#f0a400" stroke-width="2"><path d="M204 198 q4 6 2 10 M200 196 q4 6 2 10"/><path d="M276 198 q-4 6 -2 10 M280 196 q-4 6 -2 10"/></g>
+  </g>
+
+  <!-- stolek s ubrusem a třásněmi -->
+  <path d="M150 220 Q240 206 330 220 L344 270 H136Z" fill="#ff5a36"/>
+  <path d="M150 220 Q240 206 330 220" fill="none" stroke="#e0502e" stroke-width="3"/>
+  <g stroke="#f0a400" stroke-width="2"><path d="M140 270 v6"/><path d="M147 270 v6"/><path d="M154 270 v6"/><path d="M161 270 v6"/><path d="M168 270 v6"/><path d="M175 270 v6"/><path d="M182 270 v6"/><path d="M189 270 v6"/><path d="M196 270 v6"/><path d="M203 270 v6"/><path d="M210 270 v6"/><path d="M217 270 v6"/><path d="M224 270 v6"/><path d="M231 270 v6"/><path d="M238 270 v6"/><path d="M245 270 v6"/><path d="M252 270 v6"/><path d="M259 270 v6"/><path d="M266 270 v6"/><path d="M273 270 v6"/><path d="M280 270 v6"/><path d="M287 270 v6"/><path d="M294 270 v6"/><path d="M301 270 v6"/><path d="M308 270 v6"/><path d="M315 270 v6"/><path d="M322 270 v6"/><path d="M329 270 v6"/><path d="M336 270 v6"/></g>
+  <path d="M146 262 H334" stroke="#f0a400" stroke-width="3"/>
+
+  <!-- velká křišťálová koule: ukazuje jen úterek -->
+  <circle cx="240" cy="190" r="54" fill="#14c2b0" opacity=".12"/>
+  <path d="M220 218 h40 l-6 10 h-28Z" fill="#c98400"/>
+  <circle cx="240" cy="190" r="30" fill="#14c2b0" opacity=".35"/>
+  <circle cx="240" cy="190" r="30" fill="#e3e5ee" fill-opacity=".12" stroke="#e3e5ee" stroke-opacity=".8" stroke-width="2"/>
+  <g transform="translate(240 192) scale(1.25)"><rect x="-13.5" y="-9" width="6" height="17" rx="2" fill="#ffd36b" opacity=".35"/><rect x="-17.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-17.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-17.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-12.5" y="-7" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-12.5" y="-2" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-12.5" y="3" width="4" height="4" rx=".8" fill="#ffd36b" opacity="1"/><rect x="-7.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-7.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-7.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-2.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-2.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="-2.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="2.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="2.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="2.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="7.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="7.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="7.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="12.5" y="-7" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="12.5" y="-2" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/><rect x="12.5" y="3" width="4" height="4" rx=".8" fill="#e3e5ee" opacity="0.25"/></g>
+  <path d="M222 182 A20 20 0 0 1 234 168" stroke="#fff" stroke-opacity=".85" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <g fill="#ffd36b"><circle cx="210" cy="158" r="1.5"/><circle cx="272" cy="166" r="1.3"/><circle cx="262" cy="148" r="1"/></g>
+</svg>

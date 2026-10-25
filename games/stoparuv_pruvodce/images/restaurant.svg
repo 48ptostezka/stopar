@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg97"
+   sodipodi:docname="restaurant.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs97" />
+  <sodipodi:namedview
+     id="namedview97"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="237.66737"
+     inkscape:cy="216.47072"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg97" />
+  <!-- Restaurant na konci velice dlouhé uličky: čtyřruký dvouhlavý barman Ottokar Zvrnk a cestovatelka Ilthenie Vrrbl-Ka na stoličce před barem. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#1c1e3f"
+     id="rect1" />
+  <rect
+     width="480"
+     height="26"
+     fill="#12153a"
+     id="rect2" />
+  <path
+     d="M0 232 H480 V280 H0Z"
+     fill="#12153a"
+     id="path2" />
+  <g
+     stroke="#1c1e3f"
+     stroke-width="2"
+     id="g4">
+    <path
+       d="M0 250 H480"
+       id="path3" />
+    <path
+       d="M0 266 H480"
+       id="path4" />
+  </g>
+  <!-- pootevřené dveře do velice dlouhé uličky -->
+  <path
+     d="M28 232 V104 Q28 72 64 72 Q100 72 100 104 V232Z"
+     fill="#0b0d2a"
+     id="path5" />
+  <path
+     d="M28 232 L60 126 H68 L100 232Z"
+     fill="#23275e"
+     id="path6" />
+  <path
+     d="M44 232 L61 126 H67 L84 232Z"
+     fill="#2e3370"
+     id="path7" />
+  <g
+     stroke="#0b0d2a"
+     stroke-width="2"
+     id="g11">
+    <path
+       d="M40 200 H88"
+       id="path8" />
+    <path
+       d="M48 172 H80"
+       id="path9" />
+    <path
+       d="M54 152 H74"
+       id="path10" />
+    <path
+       d="M57 140 H71"
+       id="path11" />
+  </g>
+  <g
+     fill="#6f739b"
+     id="g14">
+    <rect
+       x="76"
+       y="150"
+       width="6"
+       height="4"
+       id="rect11" />
+    <rect
+       x="48"
+       y="166"
+       width="7"
+       height="5"
+       id="rect12" />
+    <rect
+       x="70"
+       y="136"
+       width="4"
+       height="3"
+       id="rect13" />
+    <rect
+       x="56"
+       y="140"
+       width="3"
+       height="3"
+       id="rect14" />
+  </g>
+  <rect
+     x="61"
+     y="116"
+     width="6"
+     height="10"
+     rx="1"
+     fill="#f0a400"
+     id="rect15" />
+  <circle
+     cx="64"
+     cy="123"
+     r="8"
+     fill="#f0a400"
+     opacity=".2"
+     id="circle15" />
+  <path
+     d="M28 232 V104 Q28 80 44 74 L44 228Z"
+     fill="#595d82"
+     id="path15" />
+  <circle
+     cx="39"
+     cy="160"
+     r="2.5"
+     fill="#f0a400"
+     id="circle16" />
+  <!-- police s lahvemi -->
+  <rect
+     x="190"
+     y="74"
+     width="280"
+     height="6"
+     rx="2"
+     fill="#23275e"
+     id="rect16" />
+  <rect
+     x="190"
+     y="116"
+     width="280"
+     height="6"
+     rx="2"
+     fill="#23275e"
+     id="rect17" />
+  <g
+     id="g28">
+    <path
+       d="M204 74 V56 Q204 50 208 48 V42 H212 V48 Q216 50 216 56 V74Z"
+       fill="#0e9c8e"
+       id="path17" />
+    <path
+       d="M226 74 V60 H238 V74Z"
+       fill="#8a73ee"
+       id="path18" />
+    <rect
+       x="229"
+       y="54"
+       width="6"
+       height="6"
+       fill="#8a73ee"
+       id="rect18" />
+    <path
+       d="M250 74 V52 Q250 46 256 44 V38 H260 V44 Q266 46 266 52 V74Z"
+       fill="#ff5a36"
+       id="path19" />
+    <path
+       d="M410 74 V56 Q410 50 414 48 V42 H418 V48 Q422 50 422 56 V74Z"
+       fill="#14c2b0"
+       id="path20" />
+    <path
+       d="M432 74 V58 Q438 50 444 58 V74Z"
+       fill="#f0a400"
+       id="path21" />
+    <path
+       d="M452 74 V60 H462 V74Z"
+       fill="#6b4fe0"
+       id="path22" />
+    <path
+       d="M204 116 V102 H216 V116Z"
+       fill="#f0a400"
+       id="path23" />
+    <path
+       d="M226 116 V98 Q226 92 230 90 V84 H234 V90 Q238 92 238 98 V116Z"
+       fill="#6b4fe0"
+       id="path24" />
+    <path
+       d="M248 116 V100 Q254 92 260 100 V116Z"
+       fill="#14c2b0"
+       id="path25" />
+    <path
+       d="M404 116 V96 Q404 90 408 88 V82 H412 V88 Q416 90 416 96 V116Z"
+       fill="#ff5a36"
+       id="path26" />
+    <path
+       d="M426 116 V102 H440 V116Z"
+       fill="#0e9c8e"
+       id="path27" />
+    <path
+       d="M450 116 V98 Q456 90 462 98 V116Z"
+       fill="#8a73ee"
+       id="path28" />
+  </g>
+  <!-- lampy -->
+  <g
+     id="g32">
+    <path
+       d="M150 0 V40"
+       stroke="#595d82"
+       stroke-width="2"
+       id="path29" />
+    <path
+       d="M138 52 L150 38 L162 52Z"
+       fill="#f0a400"
+       id="path30" />
+    <circle
+       cx="150"
+       cy="58"
+       r="30"
+       fill="#f0a400"
+       opacity=".1"
+       id="circle30" />
+    <path
+       d="M400 0 V22"
+       stroke="#595d82"
+       stroke-width="2"
+       id="path31" />
+    <path
+       d="M388 34 L400 20 L412 34Z"
+       fill="#f0a400"
+       id="path32" />
+    <circle
+       cx="400"
+       cy="40"
+       r="30"
+       fill="#f0a400"
+       opacity=".1"
+       id="circle32" />
+  </g>
+  <!-- barman Ottokar Zvrnk -->
+  <!-- krky a hlavy -->
+  <path
+     d="M318 124 Q312 112 308 104"
+     fill="none"
+     stroke="#d9926a"
+     stroke-width="9"
+     stroke-linecap="round"
+     id="path33" />
+  <path
+     d="M342 124 Q350 110 354 100"
+     fill="none"
+     stroke="#d9926a"
+     stroke-width="9"
+     stroke-linecap="round"
+     id="path34" />
+  <g
+     id="g37">
+    <ellipse
+       cx="304"
+       cy="88"
+       rx="15"
+       ry="18"
+       fill="#d9926a"
+       id="ellipse34" />
+    <circle
+       cx="298"
+       cy="82"
+       r="2.2"
+       fill="#1c1e3f"
+       id="circle34" />
+    <circle
+       cx="308"
+       cy="82"
+       r="2.2"
+       fill="#1c1e3f"
+       id="circle35" />
+    <path
+       d="M292 92 Q298 87 303 92 Q308 87 314 92 Q308 96 303 94 Q298 96 292 92Z"
+       fill="#1c1e3f"
+       id="path35" />
+    <path
+       d="M299 97 H307"
+       stroke="#8a3a2a"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path36" />
+    <path
+       d="M296 100 Q303 98 310 100 Q306 106 303 103 Q300 106 296 100Z"
+       fill="#1c1e3f"
+       id="path37" />
+  </g>
+  <g
+     id="g40">
+    <ellipse
+       cx="358"
+       cy="84"
+       rx="14"
+       ry="17"
+       fill="#d9926a"
+       id="ellipse37" />
+    <circle
+       cx="354"
+       cy="78"
+       r="2"
+       fill="#1c1e3f"
+       id="circle37" />
+    <circle
+       cx="364"
+       cy="79"
+       r="2.4"
+       fill="#1c1e3f"
+       id="circle38" />
+    <path
+       d="M346 88 Q352 82 358 88 Q364 82 371 87 Q364 92 358 90 Q352 92 346 88Z"
+       fill="#1c1e3f"
+       id="path38" />
+    <path
+       d="M354 93 H362"
+       stroke="#8a3a2a"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path39" />
+    <path
+       d="M350 96 Q358 94 366 96 Q362 103 358 99 Q354 103 350 96Z"
+       fill="#1c1e3f"
+       id="path40" />
+  </g>
+  <!-- trup -->
+  <path
+     d="M294 170 Q292 124 330 120 Q368 124 366 170Z"
+     fill="#e3e5ee"
+     id="path41" />
+  <path
+     d="M294 170 Q292 124 322 121 L326 170Z"
+     fill="#6b4fe0"
+     id="path42" />
+  <path
+     d="M366 170 Q368 124 338 121 L334 170Z"
+     fill="#6b4fe0"
+     id="path43" />
+  <path
+     d="M322 126 L330 130 L338 126 L338 134 L330 130 L322 134Z"
+     fill="#ff5a36"
+     id="path44" />
+  <!-- čtyři ruce -->
+  <g
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-width="9"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g48">
+    <path
+       d="M300 132 Q284 124 278 112"
+       id="path45" />
+    <path
+       d="M300 150 Q286 156 282 164"
+       id="path46" />
+    <path
+       d="M360 132 Q378 128 384 116"
+       id="path47" />
+    <path
+       d="M360 150 Q374 156 380 162"
+       id="path48" />
+  </g>
+  <g
+     fill="#d9926a"
+     id="g51">
+    <circle
+       cx="277"
+       cy="108"
+       r="6"
+       id="circle48" />
+    <circle
+       cx="281"
+       cy="166"
+       r="6"
+       id="circle49" />
+    <circle
+       cx="385"
+       cy="112"
+       r="6"
+       id="circle50" />
+    <circle
+       cx="380"
+       cy="164"
+       r="6"
+       id="circle51" />
+  </g>
+  <!-- nalévá Hvězdný Zakašlák -->
+  <g
+     transform="translate(278 106) rotate(-140)"
+     id="g52">
+    <rect
+       x="-7"
+       y="-6"
+       width="14"
+       height="26"
+       rx="4"
+       fill="#14c2b0"
+       id="rect51" />
+    <rect
+       x="-3"
+       y="-16"
+       width="6"
+       height="11"
+       fill="#14c2b0"
+       id="rect52" />
+  </g>
+  <path
+     d="M266 120 Q262 132 262 144"
+     fill="none"
+     stroke="#14c2b0"
+     stroke-width="2.5"
+     id="path52" />
+  <!-- leští sklenici -->
+  <path
+     d="M378 98 H394 L390 116 H382Z"
+     fill="#caccdc"
+     opacity=".8"
+     id="path53" />
+  <!-- šejkr -->
+  <path
+     d="M374 150 H386 L384 164 H376Z"
+     fill="#caccdc"
+     id="path55" />
+  <rect
+     x="377"
+     y="145"
+     width="6"
+     height="5"
+     rx="1"
+     fill="#caccdc"
+     id="rect55" />
+  <!-- bar -->
+  <rect
+     x="140"
+     y="168"
+     width="340"
+     height="64"
+     fill="#595d82"
+     id="rect56" />
+  <rect
+     x="134"
+     y="160"
+     width="346"
+     height="10"
+     rx="3"
+     fill="#6f739b"
+     id="rect57" />
+  <g
+     stroke="#4c5074"
+     stroke-width="3"
+     id="g60">
+    <path
+       d="M210 176 V226"
+       id="path57" />
+    <path
+       d="M290 176 V226"
+       id="path58" />
+    <path
+       d="M370 176 V226"
+       id="path59" />
+    <path
+       d="M450 176 V226"
+       id="path60" />
+  </g>
+  <!-- drink na baru -->
+  <path
+     d="M252 142 H272 L262 154 Z"
+     fill="#14c2b0"
+     id="path61" />
+  <path
+     d="M262 154 V160 M256 160 H268"
+     stroke="#caccdc"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="path62" />
+  <path
+     d="M262 126 l2 5 l5 1 l-5 2 l-2 5 l-2 -5 l-5 -2 l5 -1Z"
+     fill="#f0a400"
+     id="path63" />
+  <circle
+     cx="262"
+     cy="148"
+     r="14"
+     fill="#14c2b0"
+     opacity=".15"
+     id="circle63" />
+  <path
+     d="M420 146 H434 L432 160 H422Z"
+     fill="#caccdc"
+     opacity=".7"
+     id="path64" />
+  <!-- stoličky -->
+  <g
+     id="g67">
+    <rect
+       x="300"
+       y="208"
+       width="36"
+       height="9"
+       rx="4"
+       fill="#8a73ee"
+       id="rect64" />
+    <path
+       d="M318 217 V266 M306 268 H330"
+       stroke="#23275e"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path65" />
+    <rect
+       x="400"
+       y="208"
+       width="36"
+       height="9"
+       rx="4"
+       fill="#8a73ee"
+       id="rect65" />
+    <path
+       d="M418 217 V266 M406 268 H430"
+       stroke="#23275e"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path66" />
+    <path
+       d="M200 217 V266 M188 268 H212"
+       stroke="#23275e"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path67" />
+  </g>
+  <!-- Ilthenie Vrrbl-Ka -->
+  <rect
+     x="180"
+     y="208"
+     width="40"
+     height="9"
+     rx="4"
+     fill="#8a73ee"
+     id="rect67" />
+  <!-- nohy -->
+  <g
+     fill="none"
+     stroke="#ff8a6a"
+     stroke-width="6"
+     stroke-linecap="round"
+     id="g69">
+    <path
+       d="M194 210 Q188 230 194 246"
+       id="path68" />
+    <path
+       d="M208 210 Q214 228 222 240"
+       id="path69" />
+  </g>
+  <ellipse
+     cx="196"
+     cy="248"
+     rx="7"
+     ry="4"
+     fill="#23275e"
+     id="ellipse69" />
+  <ellipse
+     cx="225"
+     cy="242"
+     rx="7"
+     ry="4"
+     fill="#23275e"
+     id="ellipse70" />
+  <!-- kabát -->
+  <path
+     d="M176 214 Q174 164 200 158 Q226 164 226 214Z"
+     fill="#f0a400"
+     id="path70" />
+  <path
+     d="M200 160 V214"
+     stroke="#c98400"
+     stroke-width="2"
+     id="path71" />
+  <!-- šála -->
+  <path
+     d="m 186,156 q 14,8 28,0 0,8 -14,12 -14,-4 -14,-12 z"
+     fill="#14c2b0"
+     id="path72" />
+  <!-- hlava s mnoha očima -->
+  <path
+     d="M206 132 Q212 112 216 104"
+     fill="none"
+     stroke="#ff8a6a"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="path74" />
+  <path
+     d="M194 132 Q186 114 180 108"
+     fill="none"
+     stroke="#ff8a6a"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="path75" />
+  <circle
+     cx="217"
+     cy="102"
+     r="5.5"
+     fill="#e3e5ee"
+     id="circle75" />
+  <circle
+     cx="218"
+     cy="101"
+     r="2.2"
+     fill="#1c1e3f"
+     id="circle76" />
+  <circle
+     cx="179"
+     cy="106"
+     r="5"
+     fill="#e3e5ee"
+     id="circle77" />
+  <circle
+     cx="181"
+     cy="106"
+     r="2"
+     fill="#1c1e3f"
+     id="circle78" />
+  <circle
+     cx="200"
+     cy="140"
+     r="21"
+     fill="#ff8a6a"
+     id="circle79" />
+  <circle
+     cx="190"
+     cy="134"
+     r="5"
+     fill="#e3e5ee"
+     id="circle80" />
+  <circle
+     cx="191"
+     cy="134"
+     r="2"
+     fill="#1c1e3f"
+     id="circle81" />
+  <circle
+     cx="201"
+     cy="130"
+     r="6"
+     fill="#e3e5ee"
+     id="circle82" />
+  <circle
+     cx="202"
+     cy="130"
+     r="2.4"
+     fill="#1c1e3f"
+     id="circle83" />
+  <circle
+     cx="212"
+     cy="135"
+     r="5"
+     fill="#e3e5ee"
+     id="circle84" />
+  <circle
+     cx="213"
+     cy="135"
+     r="2"
+     fill="#1c1e3f"
+     id="circle85" />
+  <ellipse
+     cx="202"
+     cy="150"
+     rx="5"
+     ry="4"
+     fill="#1c1e3f"
+     id="ellipse85" />
+  <g
+     fill="#ff5a36"
+     id="g88">
+    <circle
+       cx="188"
+       cy="146"
+       r="1.6"
+       id="circle86" />
+    <circle
+       cx="214"
+       cy="147"
+       r="1.4"
+       id="circle87" />
+    <circle
+       cx="210"
+       cy="152"
+       r="1.2"
+       id="circle88" />
+  </g>
+  <!-- zápisník -->
+  <g
+     transform="rotate(-14 228 172)"
+     id="g92">
+    <rect
+       x="216"
+       y="160"
+       width="28"
+       height="22"
+       rx="2"
+       fill="#e3e5ee"
+       id="rect88" />
+    <path
+       d="M230 160 V182"
+       stroke="#caccdc"
+       stroke-width="1.5"
+       id="path88" />
+    <g
+       stroke="#595d82"
+       stroke-width="1.5"
+       id="g91">
+      <path
+         d="M219 166 H227"
+         id="path89" />
+      <path
+         d="M219 171 H227"
+         id="path90" />
+      <path
+         d="M233 166 H241"
+         id="path91" />
+    </g>
+  </g>
+  <g
+     fill="none"
+     stroke="#ff8a6a"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="g93">
+    <path
+       d="M182 182 Q196 186 214 178"
+       id="path92" />
+    <path
+       d="M216 180 Q224 186 238 176"
+       id="path93" />
+  </g>
+  <path
+     d="M240 176 L252 158"
+     stroke="#f0a400"
+     stroke-width="2.5"
+     stroke-linecap="round"
+     id="path94" />
+  <!-- vzrušení -->
+  <g
+     fill="none"
+     stroke="#e3e5ee"
+     stroke-opacity=".6"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="g97">
+    <path
+       d="M168 128 l-8 -4"
+       id="path95" />
+    <path
+       d="M166 140 h-9"
+       id="path96" />
+    <path
+       d="M232 122 l8 -5"
+       id="path97" />
+  </g>
+  <path
+     d="M190 166 Q178 178 172 196"
+     fill="none"
+     stroke="#14c2b0"
+     stroke-width="6"
+     stroke-linecap="round"
+     id="path73" />
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Pass: a ticket with a notch on each side and a dashed tear line.
+     Drawn like the built-in icons: a 32 x 32 grid centred on 0,0,
+     outlines only, no colours (the skin supplies them). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+  <path d="M-12 -8H12V-3A3 3 0 0 0 12 3V8H-12V3A3 3 0 0 0 -12 -3Z"/>
+  <path d="M4 -8V-5M4 -1V1M4 5V8"/>
+</svg>

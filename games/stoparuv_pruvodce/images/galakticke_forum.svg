@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 480 280"
+   version="1.1"
+   id="svg233"
+   sodipodi:docname="galakticke_forum.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs233" />
+  <sodipodi:namedview
+     id="namedview233"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8870912"
+     inkscape:cx="183.61592"
+     inkscape:cy="127.97474"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg233" />
+  <!-- Galaktické fórum: hala slepená ze šrotu skutečným drátem a skutečnou izolepou; Bíblboxy, do kterých se vhazují příspěvky na fyzických nosičích, robot-uvaděč, který už zase odspěchává, a terminál s blikajícím kurzorem a dvěma tlačítky - modrým a červeným. -->
+  <rect
+     width="480"
+     height="280"
+     fill="#1c1e3f"
+     id="rect1" />
+  <!-- stěny z plechů různého původu -->
+  <rect
+     x="-10"
+     y="0"
+     width="72"
+     height="44"
+     fill="#4c5074"
+     id="rect2" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g5">
+    <circle
+       cx="-5"
+       cy="5"
+       r="1.3"
+       id="circle2" />
+    <circle
+       cx="57"
+       cy="5"
+       r="1.3"
+       id="circle3" />
+    <circle
+       cx="-5"
+       cy="39"
+       r="1.3"
+       id="circle4" />
+    <circle
+       cx="57"
+       cy="39"
+       r="1.3"
+       id="circle5" />
+  </g>
+  <rect
+     x="61"
+     y="0"
+     width="72"
+     height="44"
+     fill="#595d82"
+     id="rect5" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g9">
+    <circle
+       cx="67"
+       cy="5"
+       r="1.3"
+       id="circle6" />
+    <circle
+       cx="129"
+       cy="5"
+       r="1.3"
+       id="circle7" />
+    <circle
+       cx="67"
+       cy="39"
+       r="1.3"
+       id="circle8" />
+    <circle
+       cx="129"
+       cy="39"
+       r="1.3"
+       id="circle9" />
+  </g>
+  <rect
+     x="133"
+     y="0"
+     width="72"
+     height="44"
+     fill="#a36b45"
+     id="rect9" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g13">
+    <circle
+       cx="139"
+       cy="5"
+       r="1.3"
+       id="circle10" />
+    <circle
+       cx="201"
+       cy="5"
+       r="1.3"
+       id="circle11" />
+    <circle
+       cx="139"
+       cy="39"
+       r="1.3"
+       id="circle12" />
+    <circle
+       cx="201"
+       cy="39"
+       r="1.3"
+       id="circle13" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g15">
+    <circle
+       cx="156"
+       cy="18"
+       r="3"
+       id="circle14" />
+    <circle
+       cx="177"
+       cy="31"
+       r="2"
+       id="circle15" />
+  </g>
+  <rect
+     x="208"
+     y="0"
+     width="84"
+     height="44"
+     fill="#4c5074"
+     id="rect15" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g19">
+    <circle
+       cx="211"
+       cy="5"
+       r="1.3"
+       id="circle16" />
+    <circle
+       cx="285"
+       cy="5"
+       r="1.3"
+       id="circle17" />
+    <circle
+       cx="211"
+       cy="39"
+       r="1.3"
+       id="circle18" />
+    <circle
+       cx="285"
+       cy="39"
+       r="1.3"
+       id="circle19" />
+  </g>
+  <rect
+     x="287"
+     y="0"
+     width="60"
+     height="44"
+     fill="#7f839c"
+     id="rect19" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g23">
+    <circle
+       cx="295"
+       cy="5"
+       r="1.3"
+       id="circle20" />
+    <circle
+       cx="345"
+       cy="5"
+       r="1.3"
+       id="circle21" />
+    <circle
+       cx="295"
+       cy="39"
+       r="1.3"
+       id="circle22" />
+    <circle
+       cx="345"
+       cy="39"
+       r="1.3"
+       id="circle23" />
+  </g>
+  <rect
+     x="349"
+     y="0"
+     width="60"
+     height="44"
+     fill="#a36b45"
+     id="rect23" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g27">
+    <circle
+       cx="355"
+       cy="5"
+       r="1.3"
+       id="circle24" />
+    <circle
+       cx="405"
+       cy="5"
+       r="1.3"
+       id="circle25" />
+    <circle
+       cx="355"
+       cy="39"
+       r="1.3"
+       id="circle26" />
+    <circle
+       cx="405"
+       cy="39"
+       r="1.3"
+       id="circle27" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g29">
+    <circle
+       cx="368"
+       cy="18"
+       r="3"
+       id="circle28" />
+    <circle
+       cx="386"
+       cy="31"
+       r="2"
+       id="circle29" />
+  </g>
+  <rect
+     x="407"
+     y="0"
+     width="72"
+     height="44"
+     fill="#595d82"
+     id="rect29" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g33">
+    <circle
+       cx="415"
+       cy="5"
+       r="1.3"
+       id="circle30" />
+    <circle
+       cx="477"
+       cy="5"
+       r="1.3"
+       id="circle31" />
+    <circle
+       cx="415"
+       cy="39"
+       r="1.3"
+       id="circle32" />
+    <circle
+       cx="477"
+       cy="39"
+       r="1.3"
+       id="circle33" />
+  </g>
+  <rect
+     x="-9"
+     y="44"
+     width="48"
+     height="36"
+     fill="#7f839c"
+     id="rect33" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g37">
+    <circle
+       cx="-5"
+       cy="49"
+       r="1.3"
+       id="circle34" />
+    <circle
+       cx="33"
+       cy="49"
+       r="1.3"
+       id="circle35" />
+    <circle
+       cx="-5"
+       cy="75"
+       r="1.3"
+       id="circle36" />
+    <circle
+       cx="33"
+       cy="75"
+       r="1.3"
+       id="circle37" />
+  </g>
+  <rect
+     x="37"
+     y="44"
+     width="72"
+     height="36"
+     fill="#4c5074"
+     id="rect37" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g41">
+    <circle
+       cx="43"
+       cy="49"
+       r="1.3"
+       id="circle38" />
+    <circle
+       cx="105"
+       cy="49"
+       r="1.3"
+       id="circle39" />
+    <circle
+       cx="43"
+       cy="75"
+       r="1.3"
+       id="circle40" />
+    <circle
+       cx="105"
+       cy="75"
+       r="1.3"
+       id="circle41" />
+  </g>
+  <rect
+     x="113"
+     y="44"
+     width="48"
+     height="36"
+     fill="#6f739b"
+     id="rect41" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g45">
+    <circle
+       cx="115"
+       cy="49"
+       r="1.3"
+       id="circle42" />
+    <circle
+       cx="153"
+       cy="49"
+       r="1.3"
+       id="circle43" />
+    <circle
+       cx="115"
+       cy="75"
+       r="1.3"
+       id="circle44" />
+    <circle
+       cx="153"
+       cy="75"
+       r="1.3"
+       id="circle45" />
+  </g>
+  <rect
+     x="161"
+     y="44"
+     width="60"
+     height="36"
+     fill="#6f739b"
+     id="rect45" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g49">
+    <circle
+       cx="163"
+       cy="49"
+       r="1.3"
+       id="circle46" />
+    <circle
+       cx="213"
+       cy="49"
+       r="1.3"
+       id="circle47" />
+    <circle
+       cx="163"
+       cy="75"
+       r="1.3"
+       id="circle48" />
+    <circle
+       cx="213"
+       cy="75"
+       r="1.3"
+       id="circle49" />
+  </g>
+  <rect
+     x="216"
+     y="44"
+     width="84"
+     height="36"
+     fill="#a36b45"
+     id="rect49" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g53">
+    <circle
+       cx="223"
+       cy="49"
+       r="1.3"
+       id="circle50" />
+    <circle
+       cx="297"
+       cy="49"
+       r="1.3"
+       id="circle51" />
+    <circle
+       cx="223"
+       cy="75"
+       r="1.3"
+       id="circle52" />
+    <circle
+       cx="297"
+       cy="75"
+       r="1.3"
+       id="circle53" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g55">
+    <circle
+       cx="243"
+       cy="58"
+       r="3"
+       id="circle54" />
+    <circle
+       cx="268"
+       cy="69"
+       r="2"
+       id="circle55" />
+  </g>
+  <rect
+     x="302"
+     y="44"
+     width="84"
+     height="36"
+     fill="#595d82"
+     id="rect55" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g59">
+    <circle
+       cx="307"
+       cy="49"
+       r="1.3"
+       id="circle56" />
+    <circle
+       cx="381"
+       cy="49"
+       r="1.3"
+       id="circle57" />
+    <circle
+       cx="307"
+       cy="75"
+       r="1.3"
+       id="circle58" />
+    <circle
+       cx="381"
+       cy="75"
+       r="1.3"
+       id="circle59" />
+  </g>
+  <rect
+     x="388"
+     y="44"
+     width="60"
+     height="36"
+     fill="#4c5074"
+     id="rect59" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g63">
+    <circle
+       cx="391"
+       cy="49"
+       r="1.3"
+       id="circle60" />
+    <circle
+       cx="441"
+       cy="49"
+       r="1.3"
+       id="circle61" />
+    <circle
+       cx="391"
+       cy="75"
+       r="1.3"
+       id="circle62" />
+    <circle
+       cx="441"
+       cy="75"
+       r="1.3"
+       id="circle63" />
+  </g>
+  <rect
+     x="448"
+     y="44"
+     width="60"
+     height="36"
+     fill="#7f839c"
+     id="rect63" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g67">
+    <circle
+       cx="451"
+       cy="49"
+       r="1.3"
+       id="circle64" />
+    <circle
+       cx="501"
+       cy="49"
+       r="1.3"
+       id="circle65" />
+    <circle
+       cx="451"
+       cy="75"
+       r="1.3"
+       id="circle66" />
+    <circle
+       cx="501"
+       cy="75"
+       r="1.3"
+       id="circle67" />
+  </g>
+  <rect
+     x="-9"
+     y="80"
+     width="84"
+     height="44"
+     fill="#4c5074"
+     id="rect67" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g71">
+    <circle
+       cx="-5"
+       cy="85"
+       r="1.3"
+       id="circle68" />
+    <circle
+       cx="69"
+       cy="85"
+       r="1.3"
+       id="circle69" />
+    <circle
+       cx="-5"
+       cy="119"
+       r="1.3"
+       id="circle70" />
+    <circle
+       cx="69"
+       cy="119"
+       r="1.3"
+       id="circle71" />
+  </g>
+  <rect
+     x="73"
+     y="80"
+     width="84"
+     height="44"
+     fill="#7f839c"
+     id="rect71" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g75">
+    <circle
+       cx="79"
+       cy="85"
+       r="1.3"
+       id="circle72" />
+    <circle
+       cx="153"
+       cy="85"
+       r="1.3"
+       id="circle73" />
+    <circle
+       cx="79"
+       cy="119"
+       r="1.3"
+       id="circle74" />
+    <circle
+       cx="153"
+       cy="119"
+       r="1.3"
+       id="circle75" />
+  </g>
+  <rect
+     x="159"
+     y="80"
+     width="48"
+     height="44"
+     fill="#4c5074"
+     id="rect75" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g79">
+    <circle
+       cx="163"
+       cy="85"
+       r="1.3"
+       id="circle76" />
+    <circle
+       cx="201"
+       cy="85"
+       r="1.3"
+       id="circle77" />
+    <circle
+       cx="163"
+       cy="119"
+       r="1.3"
+       id="circle78" />
+    <circle
+       cx="201"
+       cy="119"
+       r="1.3"
+       id="circle79" />
+  </g>
+  <rect
+     x="207"
+     y="80"
+     width="60"
+     height="44"
+     fill="#8a5a3a"
+     id="rect79" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g83">
+    <circle
+       cx="211"
+       cy="85"
+       r="1.3"
+       id="circle80" />
+    <circle
+       cx="261"
+       cy="85"
+       r="1.3"
+       id="circle81" />
+    <circle
+       cx="211"
+       cy="119"
+       r="1.3"
+       id="circle82" />
+    <circle
+       cx="261"
+       cy="119"
+       r="1.3"
+       id="circle83" />
+  </g>
+  <rect
+     x="268"
+     y="80"
+     width="72"
+     height="44"
+     fill="#8a8ea8"
+     id="rect83" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g87">
+    <circle
+       cx="271"
+       cy="85"
+       r="1.3"
+       id="circle84" />
+    <circle
+       cx="333"
+       cy="85"
+       r="1.3"
+       id="circle85" />
+    <circle
+       cx="271"
+       cy="119"
+       r="1.3"
+       id="circle86" />
+    <circle
+       cx="333"
+       cy="119"
+       r="1.3"
+       id="circle87" />
+  </g>
+  <rect
+     x="337"
+     y="80"
+     width="84"
+     height="44"
+     fill="#4c5074"
+     id="rect87" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g91">
+    <circle
+       cx="343"
+       cy="85"
+       r="1.3"
+       id="circle88" />
+    <circle
+       cx="417"
+       cy="85"
+       r="1.3"
+       id="circle89" />
+    <circle
+       cx="343"
+       cy="119"
+       r="1.3"
+       id="circle90" />
+    <circle
+       cx="417"
+       cy="119"
+       r="1.3"
+       id="circle91" />
+  </g>
+  <rect
+     x="421"
+     y="80"
+     width="72"
+     height="44"
+     fill="#595d82"
+     id="rect91" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g95">
+    <circle
+       cx="427"
+       cy="85"
+       r="1.3"
+       id="circle92" />
+    <circle
+       cx="489"
+       cy="85"
+       r="1.3"
+       id="circle93" />
+    <circle
+       cx="427"
+       cy="119"
+       r="1.3"
+       id="circle94" />
+    <circle
+       cx="489"
+       cy="119"
+       r="1.3"
+       id="circle95" />
+  </g>
+  <rect
+     x="-11"
+     y="124"
+     width="60"
+     height="44"
+     fill="#6f739b"
+     id="rect95" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g99">
+    <circle
+       cx="-5"
+       cy="129"
+       r="1.3"
+       id="circle96" />
+    <circle
+       cx="45"
+       cy="129"
+       r="1.3"
+       id="circle97" />
+    <circle
+       cx="-5"
+       cy="163"
+       r="1.3"
+       id="circle98" />
+    <circle
+       cx="45"
+       cy="163"
+       r="1.3"
+       id="circle99" />
+  </g>
+  <rect
+     x="50"
+     y="124"
+     width="84"
+     height="44"
+     fill="#6f739b"
+     id="rect99" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g103">
+    <circle
+       cx="55"
+       cy="129"
+       r="1.3"
+       id="circle100" />
+    <circle
+       cx="129"
+       cy="129"
+       r="1.3"
+       id="circle101" />
+    <circle
+       cx="55"
+       cy="163"
+       r="1.3"
+       id="circle102" />
+    <circle
+       cx="129"
+       cy="163"
+       r="1.3"
+       id="circle103" />
+  </g>
+  <rect
+     x="134"
+     y="124"
+     width="60"
+     height="44"
+     fill="#4c5074"
+     id="rect103" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g107">
+    <circle
+       cx="139"
+       cy="129"
+       r="1.3"
+       id="circle104" />
+    <circle
+       cx="189"
+       cy="129"
+       r="1.3"
+       id="circle105" />
+    <circle
+       cx="139"
+       cy="163"
+       r="1.3"
+       id="circle106" />
+    <circle
+       cx="189"
+       cy="163"
+       r="1.3"
+       id="circle107" />
+  </g>
+  <rect
+     x="196"
+     y="124"
+     width="84"
+     height="44"
+     fill="#595d82"
+     id="rect107" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g111">
+    <circle
+       cx="199"
+       cy="129"
+       r="1.3"
+       id="circle108" />
+    <circle
+       cx="273"
+       cy="129"
+       r="1.3"
+       id="circle109" />
+    <circle
+       cx="199"
+       cy="163"
+       r="1.3"
+       id="circle110" />
+    <circle
+       cx="273"
+       cy="163"
+       r="1.3"
+       id="circle111" />
+  </g>
+  <rect
+     x="278"
+     y="124"
+     width="48"
+     height="44"
+     fill="#8a5a3a"
+     id="rect111" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g115">
+    <circle
+       cx="283"
+       cy="129"
+       r="1.3"
+       id="circle112" />
+    <circle
+       cx="321"
+       cy="129"
+       r="1.3"
+       id="circle113" />
+    <circle
+       cx="283"
+       cy="163"
+       r="1.3"
+       id="circle114" />
+    <circle
+       cx="321"
+       cy="163"
+       r="1.3"
+       id="circle115" />
+  </g>
+  <rect
+     x="327"
+     y="124"
+     width="60"
+     height="44"
+     fill="#6f739b"
+     id="rect115" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g119">
+    <circle
+       cx="331"
+       cy="129"
+       r="1.3"
+       id="circle116" />
+    <circle
+       cx="381"
+       cy="129"
+       r="1.3"
+       id="circle117" />
+    <circle
+       cx="331"
+       cy="163"
+       r="1.3"
+       id="circle118" />
+    <circle
+       cx="381"
+       cy="163"
+       r="1.3"
+       id="circle119" />
+  </g>
+  <rect
+     x="385"
+     y="124"
+     width="48"
+     height="44"
+     fill="#a36b45"
+     id="rect119" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g123">
+    <circle
+       cx="391"
+       cy="129"
+       r="1.3"
+       id="circle120" />
+    <circle
+       cx="429"
+       cy="129"
+       r="1.3"
+       id="circle121" />
+    <circle
+       cx="391"
+       cy="163"
+       r="1.3"
+       id="circle122" />
+    <circle
+       cx="429"
+       cy="163"
+       r="1.3"
+       id="circle123" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g125">
+    <circle
+       cx="400"
+       cy="142"
+       r="3"
+       id="circle124" />
+    <circle
+       cx="415"
+       cy="155"
+       r="2"
+       id="circle125" />
+  </g>
+  <rect
+     x="435"
+     y="124"
+     width="72"
+     height="44"
+     fill="#7f839c"
+     id="rect125" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g129">
+    <circle
+       cx="439"
+       cy="129"
+       r="1.3"
+       id="circle126" />
+    <circle
+       cx="501"
+       cy="129"
+       r="1.3"
+       id="circle127" />
+    <circle
+       cx="439"
+       cy="163"
+       r="1.3"
+       id="circle128" />
+    <circle
+       cx="501"
+       cy="163"
+       r="1.3"
+       id="circle129" />
+  </g>
+  <rect
+     x="-12"
+     y="168"
+     width="84"
+     height="36"
+     fill="#8a8ea8"
+     id="rect129" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g133">
+    <circle
+       cx="-5"
+       cy="173"
+       r="1.3"
+       id="circle130" />
+    <circle
+       cx="69"
+       cy="173"
+       r="1.3"
+       id="circle131" />
+    <circle
+       cx="-5"
+       cy="199"
+       r="1.3"
+       id="circle132" />
+    <circle
+       cx="69"
+       cy="199"
+       r="1.3"
+       id="circle133" />
+  </g>
+  <rect
+     x="74"
+     y="168"
+     width="72"
+     height="36"
+     fill="#a36b45"
+     id="rect133" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g137">
+    <circle
+       cx="79"
+       cy="173"
+       r="1.3"
+       id="circle134" />
+    <circle
+       cx="141"
+       cy="173"
+       r="1.3"
+       id="circle135" />
+    <circle
+       cx="79"
+       cy="199"
+       r="1.3"
+       id="circle136" />
+    <circle
+       cx="141"
+       cy="199"
+       r="1.3"
+       id="circle137" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g139">
+    <circle
+       cx="96"
+       cy="182"
+       r="3"
+       id="circle138" />
+    <circle
+       cx="117"
+       cy="193"
+       r="2"
+       id="circle139" />
+  </g>
+  <rect
+     x="149"
+     y="168"
+     width="84"
+     height="36"
+     fill="#595d82"
+     id="rect139" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g143">
+    <circle
+       cx="151"
+       cy="173"
+       r="1.3"
+       id="circle140" />
+    <circle
+       cx="225"
+       cy="173"
+       r="1.3"
+       id="circle141" />
+    <circle
+       cx="151"
+       cy="199"
+       r="1.3"
+       id="circle142" />
+    <circle
+       cx="225"
+       cy="199"
+       r="1.3"
+       id="circle143" />
+  </g>
+  <rect
+     x="233"
+     y="168"
+     width="60"
+     height="36"
+     fill="#a36b45"
+     id="rect143" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g147">
+    <circle
+       cx="235"
+       cy="173"
+       r="1.3"
+       id="circle144" />
+    <circle
+       cx="285"
+       cy="173"
+       r="1.3"
+       id="circle145" />
+    <circle
+       cx="235"
+       cy="199"
+       r="1.3"
+       id="circle146" />
+    <circle
+       cx="285"
+       cy="199"
+       r="1.3"
+       id="circle147" />
+  </g>
+  <g
+     fill="#c98a5a"
+     opacity=".6"
+     id="g149">
+    <circle
+       cx="248"
+       cy="182"
+       r="3"
+       id="circle148" />
+    <circle
+       cx="266"
+       cy="193"
+       r="2"
+       id="circle149" />
+  </g>
+  <rect
+     x="288"
+     y="168"
+     width="72"
+     height="36"
+     fill="#595d82"
+     id="rect149" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g153">
+    <circle
+       cx="295"
+       cy="173"
+       r="1.3"
+       id="circle150" />
+    <circle
+       cx="357"
+       cy="173"
+       r="1.3"
+       id="circle151" />
+    <circle
+       cx="295"
+       cy="199"
+       r="1.3"
+       id="circle152" />
+    <circle
+       cx="357"
+       cy="199"
+       r="1.3"
+       id="circle153" />
+  </g>
+  <rect
+     x="359"
+     y="168"
+     width="60"
+     height="36"
+     fill="#7f839c"
+     id="rect153" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g157">
+    <circle
+       cx="367"
+       cy="173"
+       r="1.3"
+       id="circle154" />
+    <circle
+       cx="417"
+       cy="173"
+       r="1.3"
+       id="circle155" />
+    <circle
+       cx="367"
+       cy="199"
+       r="1.3"
+       id="circle156" />
+    <circle
+       cx="417"
+       cy="199"
+       r="1.3"
+       id="circle157" />
+  </g>
+  <rect
+     x="424"
+     y="168"
+     width="72"
+     height="36"
+     fill="#8a5a3a"
+     id="rect157" />
+  <g
+     fill="#1c1e3f"
+     opacity=".45"
+     id="g161">
+    <circle
+       cx="427"
+       cy="173"
+       r="1.3"
+       id="circle158" />
+    <circle
+       cx="489"
+       cy="173"
+       r="1.3"
+       id="circle159" />
+    <circle
+       cx="427"
+       cy="199"
+       r="1.3"
+       id="circle160" />
+    <circle
+       cx="489"
+       cy="199"
+       r="1.3"
+       id="circle161" />
+  </g>
+  <!-- izolepa přes spáry -->
+  <g
+     id="g178">
+    <g
+       transform="translate(98.99760444684442 155.140811141335) rotate(-40)"
+       id="g162">
+      <rect
+         x="-25.0"
+         y="-4"
+         width="50"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect161" />
+      <path
+         d="M-25.0 -4 l2 2 l-2 2 l2 2 l-2 2 M25.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path161" />
+    </g>
+    <g
+       transform="translate(128.92452115113971 39.729944745067954) rotate(35)"
+       id="g163">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect162" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path162" />
+    </g>
+    <g
+       transform="translate(241.5837716170767 24.064626601906138) rotate(90)"
+       id="g164">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect163" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path163" />
+    </g>
+    <g
+       transform="translate(386.0598832588925 128.6998806899656) rotate(35)"
+       id="g165">
+      <rect
+         x="-15.0"
+         y="-4"
+         width="30"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect164" />
+      <path
+         d="M-15.0 -4 l2 2 l-2 2 l2 2 l-2 2 M15.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path164" />
+    </g>
+    <g
+       transform="translate(240.96877194978993 103.25709131800188) rotate(0)"
+       id="g166">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect165" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path165" />
+    </g>
+    <g
+       transform="translate(321.19364124937397 95.62126332546866) rotate(-20)"
+       id="g167">
+      <rect
+         x="-25.0"
+         y="-4"
+         width="50"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect166" />
+      <path
+         d="M-25.0 -4 l2 2 l-2 2 l2 2 l-2 2 M25.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path166" />
+    </g>
+    <g
+       transform="translate(217.47070169584006 124.87026094227159) rotate(0)"
+       id="g168">
+      <rect
+         x="-15.0"
+         y="-4"
+         width="30"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect167" />
+      <path
+         d="M-15.0 -4 l2 2 l-2 2 l2 2 l-2 2 M15.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path167" />
+    </g>
+    <g
+       transform="translate(165.20050715891725 166.56778661593228) rotate(90)"
+       id="g169">
+      <rect
+         x="-25.0"
+         y="-4"
+         width="50"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect168" />
+      <path
+         d="M-25.0 -4 l2 2 l-2 2 l2 2 l-2 2 M25.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path168" />
+    </g>
+    <g
+       transform="translate(215.8433409785192 154.6581777661429) rotate(0)"
+       id="g170">
+      <rect
+         x="-25.0"
+         y="-4"
+         width="50"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect169" />
+      <path
+         d="M-25.0 -4 l2 2 l-2 2 l2 2 l-2 2 M25.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path169" />
+    </g>
+    <g
+       transform="translate(249.23142069708035 24.847936527134006) rotate(90)"
+       id="g171">
+      <rect
+         x="-15.0"
+         y="-4"
+         width="30"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect170" />
+      <path
+         d="M-15.0 -4 l2 2 l-2 2 l2 2 l-2 2 M15.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path170" />
+    </g>
+    <g
+       transform="translate(31.994196310356227 114.86349791805664) rotate(15)"
+       id="g172">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect171" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path171" />
+    </g>
+    <g
+       transform="translate(80.88649202988802 54.045642942171) rotate(-40)"
+       id="g173">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect172" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path172" />
+    </g>
+    <g
+       transform="translate(266.36998393304526 126.2055736943789) rotate(-40)"
+       id="g174">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect173" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path173" />
+    </g>
+    <g
+       transform="translate(203.7685548493059 120.03402513107858) rotate(-20)"
+       id="g175">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect174" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path174" />
+    </g>
+    <g
+       transform="translate(275.2719685811448 79.07127809973134) rotate(90)"
+       id="g176">
+      <rect
+         x="-20.0"
+         y="-4"
+         width="40"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect175" />
+      <path
+         d="M-20.0 -4 l2 2 l-2 2 l2 2 l-2 2 M20.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path175" />
+    </g>
+    <g
+       transform="translate(343.76753933293617 115.76563065765092) rotate(90)"
+       id="g177">
+      <rect
+         x="-15.0"
+         y="-4"
+         width="30"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect176" />
+      <path
+         d="M-15.0 -4 l2 2 l-2 2 l2 2 l-2 2 M15.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path176" />
+    </g>
+  </g>
+  <!-- okno z dvířek trouby -->
+  <rect
+     x="196"
+     y="24"
+     width="88"
+     height="56"
+     rx="8"
+     fill="#1c1e3f"
+     id="rect178" />
+  <rect
+     x="204"
+     y="32"
+     width="72"
+     height="40"
+     rx="5"
+     fill="#0b0d2a"
+     id="rect179" />
+  <g
+     fill="#fff"
+     id="g181">
+    <circle
+       cx="220"
+       cy="44"
+       r="1"
+       id="circle179" />
+    <circle
+       cx="252"
+       cy="60"
+       r="1.2"
+       id="circle180" />
+    <circle
+       cx="266"
+       cy="40"
+       r="1"
+       id="circle181" />
+  </g>
+  <circle
+     cx="236"
+     cy="52"
+     r="8"
+     fill="#8a73ee"
+     opacity=".8"
+     id="circle182" />
+  <rect
+     x="210"
+     y="18"
+     width="60"
+     height="6"
+     rx="3"
+     fill="#caccdc"
+     id="rect182" />
+  <!-- poklice a pneumatika jako dekorace -->
+  <circle
+     cx="420"
+     cy="50"
+     r="18"
+     fill="#a3a6bb"
+     id="circle183" />
+  <circle
+     cx="420"
+     cy="50"
+     r="7"
+     fill="#6f739b"
+     id="circle184" />
+  <g
+     stroke="#6f739b"
+     stroke-width="2"
+     id="g184">
+    <path
+       d="M420 34 V43 M420 57 V66 M404 50 H413 M427 50 H436"
+       id="path184" />
+  </g>
+  <!-- svazky drátů -->
+  <g
+     fill="none"
+     stroke-width="2.5"
+     stroke-linecap="round"
+     id="g187">
+    <path
+       d="M0 96 Q60 120 120 92 Q180 70 240 96"
+       stroke="#ff5a36"
+       id="path185" />
+    <path
+       d="m 0,102 c 46.666667,17.33333 90,16.66667 130,-2 40,-16 74.76478,-15.860649 110,-4"
+       stroke="#f0a400"
+       id="path186"
+       sodipodi:nodetypes="ccc" />
+    <path
+       d="M240 96 Q300 118 360 94 Q420 76 480 100"
+       stroke="#14c2b0"
+       id="path187" />
+  </g>
+  <!-- podlaha z plechu -->
+  <path
+     d="M0 200 H480 V280 H0Z"
+     fill="#4c5074"
+     id="path189" />
+  <g
+     stroke="#3a3f80"
+     stroke-width="2"
+     id="g190">
+    <path
+       d="M0 230 H480 M0 256 H480 M100 200 V280 M260 200 V280 M400 200 V280"
+       id="path190" />
+  </g>
+  <g
+     fill="#3a3f80"
+     id="g193">
+    <circle
+       cx="20"
+       cy="214"
+       r="1.5"
+       id="circle190" />
+    <circle
+       cx="180"
+       cy="242"
+       r="1.5"
+       id="circle191" />
+    <circle
+       cx="320"
+       cy="214"
+       r="1.5"
+       id="circle192" />
+    <circle
+       cx="440"
+       cy="268"
+       r="1.5"
+       id="circle193" />
+  </g>
+  <!-- Bíblboxy: schránky na příspěvky na libovolném fyzickém nosiči -->
+  <g
+     id="g197">
+    <path
+       d="M30 236 V176"
+       stroke="#595d82"
+       stroke-width="6"
+       id="path193" />
+    <path
+       d="M10 150 Q10 132 30 132 Q50 132 50 150 V178 H10Z"
+       fill="#ff5a36"
+       id="path194" />
+    <rect
+       x="10"
+       y="150"
+       width="40"
+       height="28"
+       fill="#e0502e"
+       id="rect194" />
+    <rect
+       x="18"
+       y="146"
+       width="24"
+       height="4"
+       rx="2"
+       fill="#1c1e3f"
+       id="rect195" />
+    <g
+       transform="translate(30 164) rotate(-12)"
+       id="g196">
+      <rect
+         x="-22.0"
+         y="-4"
+         width="44"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect196" />
+      <path
+         d="M-22.0 -4 l2 2 l-2 2 l2 2 l-2 2 M22.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path196" />
+    </g>
+    <!-- vhazovaný příspěvek: kamenná tabulka -->
+    <rect
+       x="24"
+       y="126"
+       width="12"
+       height="18"
+       rx="3"
+       fill="#a3a6bb"
+       transform="rotate(8 30 135)"
+       id="rect197" />
+    <path
+       d="M27 130 h6 M27 134 h5 M27 138 h6"
+       stroke="#6f739b"
+       stroke-width="1"
+       transform="rotate(8 30 135)"
+       id="path197" />
+  </g>
+  <g
+     id="g202">
+    <path
+       d="M86 236 V184"
+       stroke="#595d82"
+       stroke-width="6"
+       id="path198" />
+    <rect
+       x="66"
+       y="150"
+       width="40"
+       height="36"
+       rx="3"
+       fill="#3a6fd8"
+       id="rect198" />
+    <rect
+       x="66"
+       y="166"
+       width="40"
+       height="6"
+       fill="#a3a6bb"
+       id="rect199" />
+    <rect
+       x="74"
+       y="156"
+       width="24"
+       height="4"
+       rx="2"
+       fill="#1c1e3f"
+       id="rect200" />
+    <!-- trčí z něj: dopis, láhev se vzkazem a rybí kost -->
+    <rect
+       x="78"
+       y="144"
+       width="14"
+       height="10"
+       fill="#e3e5ee"
+       transform="rotate(-14 85 149)"
+       id="rect201" />
+    <path
+       d="M70 150 l-6 -14 l5 -2 l6 14Z"
+       fill="#14c2b0"
+       opacity=".7"
+       id="path201" />
+    <path
+       d="M100 148 l10 -10 M103 145 l3 3 M106 142 l3 3"
+       stroke="#e3e5ee"
+       stroke-width="1.5"
+       id="path202" />
+  </g>
+  <!-- přetékající hromádka příspěvků -->
+  <g
+     id="g203">
+    <rect
+       x="44"
+       y="226"
+       width="16"
+       height="11"
+       fill="#e3e5ee"
+       transform="rotate(-10 52 231)"
+       id="rect202" />
+    <rect
+       x="58"
+       y="228"
+       width="12"
+       height="9"
+       fill="#f0a400"
+       transform="rotate(14 64 232)"
+       id="rect203" />
+  </g>
+  <!-- robot-uvaděč odspěchává -->
+  <g
+     transform="translate(176 214)"
+     id="g209">
+    <circle
+       cx="0"
+       cy="-4"
+       r="6"
+       fill="#4c5074"
+       id="circle203" />
+    <circle
+       cx="0"
+       cy="-4"
+       r="2"
+       fill="#a3a6bb"
+       id="circle204" />
+    <rect
+       x="-12"
+       y="-36"
+       width="24"
+       height="26"
+       rx="6"
+       fill="#f0a400"
+       id="rect204" />
+    <g
+       transform="translate(0 -26) rotate(-8)"
+       id="g205">
+      <rect
+         x="-13.0"
+         y="-4"
+         width="26"
+         height="8"
+         fill="#caccdc"
+         opacity=".85"
+         id="rect205" />
+      <path
+         d="M-13.0 -4 l2 2 l-2 2 l2 2 l-2 2 M13.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+         stroke="#9fa2b8"
+         stroke-width=".8"
+         fill="none"
+         id="path205" />
+    </g>
+    <rect
+       x="-10"
+       y="-56"
+       width="20"
+       height="18"
+       rx="4"
+       fill="#caccdc"
+       id="rect206" />
+    <rect
+       x="-6"
+       y="-52"
+       width="14"
+       height="8"
+       rx="2"
+       fill="#1c1e3f"
+       id="rect207" />
+    <circle
+       cx="5"
+       cy="-48"
+       r="1.8"
+       fill="#14c2b0"
+       id="circle207" />
+    <path
+       d="M0 -56 V-64"
+       stroke="#caccdc"
+       stroke-width="2"
+       id="path207" />
+    <circle
+       cx="0"
+       cy="-66"
+       r="2.5"
+       fill="#ff5a36"
+       id="circle208" />
+    <path
+       d="M12 -26 L22 -34"
+       stroke="#caccdc"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path208" />
+    <path
+       d="M-12 -24 L-24 -16"
+       stroke="#caccdc"
+       stroke-width="4"
+       stroke-linecap="round"
+       id="path209" />
+  </g>
+  <g
+     stroke="#e3e5ee"
+     stroke-opacity=".55"
+     stroke-width="2"
+     stroke-linecap="round"
+     id="g210">
+    <path
+       d="M144 186 h-20 M146 196 h-26 M144 206 h-18"
+       id="path210" />
+  </g>
+  <g
+     fill="#a3a6bb"
+     opacity=".5"
+     id="g211">
+    <circle
+       cx="150"
+       cy="214"
+       r="3"
+       id="circle210" />
+    <circle
+       cx="140"
+       cy="212"
+       r="2"
+       id="circle211" />
+  </g>
+  <!-- stůl ze starých dveří na bednách -->
+  <rect
+     x="236"
+     y="196"
+     width="34"
+     height="40"
+     fill="#8a5a3a"
+     id="rect211" />
+  <path
+     d="M236 216 H270"
+     stroke="#6b452c"
+     stroke-width="2"
+     id="path211" />
+  <rect
+     x="404"
+     y="196"
+     width="34"
+     height="40"
+     fill="#8a5a3a"
+     id="rect212" />
+  <path
+     d="M404 216 H438"
+     stroke="#6b452c"
+     stroke-width="2"
+     id="path212" />
+  <rect
+     x="226"
+     y="186"
+     width="222"
+     height="12"
+     rx="2"
+     fill="#a36b45"
+     id="rect213" />
+  <circle
+     cx="436"
+     cy="192"
+     r="2.5"
+     fill="#f0a400"
+     id="circle213" />
+  <!-- terminál -->
+  <rect
+     x="290"
+     y="96"
+     width="106"
+     height="84"
+     rx="8"
+     fill="#caccdc"
+     id="rect214" />
+  <rect
+     x="290"
+     y="96"
+     width="106"
+     height="84"
+     rx="8"
+     fill="none"
+     stroke="#a3a6bb"
+     stroke-width="3"
+     id="rect215" />
+  <rect
+     x="302"
+     y="106"
+     width="82"
+     height="54"
+     rx="6"
+     fill="#0b0d2a"
+     id="rect216" />
+  <rect
+     x="312"
+     y="132"
+     width="8"
+     height="12"
+     fill="#14c2b0"
+     id="rect217" />
+  <rect
+     x="306"
+     y="110"
+     width="74"
+     height="46"
+     rx="5"
+     fill="#14c2b0"
+     opacity=".05"
+     id="rect218" />
+  <g
+     transform="translate(296 104) rotate(-45)"
+     id="g219">
+    <rect
+       x="-11.0"
+       y="-4"
+       width="22"
+       height="8"
+       fill="#caccdc"
+       opacity=".85"
+       id="rect219" />
+    <path
+       d="M-11.0 -4 l2 2 l-2 2 l2 2 l-2 2 M11.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+       stroke="#9fa2b8"
+       stroke-width=".8"
+       fill="none"
+       id="path219" />
+  </g>
+  <g
+     transform="translate(390 172) rotate(-40)"
+     id="g220">
+    <rect
+       x="-11.0"
+       y="-4"
+       width="22"
+       height="8"
+       fill="#caccdc"
+       opacity=".85"
+       id="rect220" />
+    <path
+       d="M-11.0 -4 l2 2 l-2 2 l2 2 l-2 2 M11.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+       stroke="#9fa2b8"
+       stroke-width=".8"
+       fill="none"
+       id="path220" />
+  </g>
+  <path
+     d="M330 180 h26 v6 h-26Z"
+     fill="#a3a6bb"
+     id="path221" />
+  <!-- dvě tlačítka: modré a červené -->
+  <circle
+     cx="324"
+     cy="170"
+     r="6"
+     fill="#3a6fd8"
+     id="circle221" />
+  <circle
+     cx="324"
+     cy="169"
+     r="4"
+     fill="#4a82ee"
+     id="circle222" />
+  <circle
+     cx="362"
+     cy="170"
+     r="6"
+     fill="#ff5a36"
+     id="circle223" />
+  <circle
+     cx="362"
+     cy="169"
+     r="4"
+     fill="#ff8a6a"
+     id="circle224" />
+  <!-- kabely přilepené ke zdi -->
+  <path
+     d="m 396,140 c 22.66667,-2.66667 37.33333,-12.66667 44,-30 5.33333,-13.333333 26.58333,-22.292136 41.25,-24.958802"
+     fill="none"
+     stroke="#1c1e3f"
+     stroke-width="3"
+     id="path224"
+     sodipodi:nodetypes="ccc" />
+  <path
+     d="M396 150 Q440 150 452 130 Q460 112 480 110"
+     fill="none"
+     stroke="#ff5a36"
+     stroke-width="2.5"
+     id="path225" />
+  <g
+     transform="translate(440 112) rotate(60)"
+     id="g226">
+    <rect
+       x="-9.0"
+       y="-4"
+       width="18"
+       height="8"
+       fill="#caccdc"
+       opacity=".85"
+       id="rect225" />
+    <path
+       d="M-9.0 -4 l2 2 l-2 2 l2 2 l-2 2 M9.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+       stroke="#9fa2b8"
+       stroke-width=".8"
+       fill="none"
+       id="path226" />
+  </g>
+  <!-- židle z autosedačky na pneumatice (bokem, čelem k terminálu) -->
+  <ellipse
+     cx="300"
+     cy="254"
+     rx="32"
+     ry="9"
+     fill="#1c1e3f"
+     id="ellipse226" />
+  <ellipse
+     cx="300"
+     cy="250"
+     rx="32"
+     ry="9"
+     fill="#2a2c62"
+     id="ellipse227" />
+  <ellipse
+     cx="300"
+     cy="250"
+     rx="15"
+     ry="4"
+     fill="#1c1e3f"
+     id="ellipse228" />
+  <rect
+     x="296"
+     y="230"
+     width="8"
+     height="20"
+     fill="#595d82"
+     id="rect228" />
+  <rect
+     x="276"
+     y="218"
+     width="58"
+     height="14"
+     rx="6"
+     fill="#6b4fe0"
+     id="rect229" />
+  <path
+     d="M272 224 L264 168 Q264 160 272 160 L282 160 Q290 160 290 168 L292 224Z"
+     fill="#6b4fe0"
+     id="path229" />
+  <path
+     d="M270 176 h18 M271 192 h19 M272 208 h19"
+     stroke="#8a73ee"
+     stroke-width="2"
+     id="path230" />
+  <rect
+     x="262"
+     y="140"
+     width="24"
+     height="16"
+     rx="6"
+     fill="#8a73ee"
+     id="rect230" />
+  <path
+     d="M268 156 v6 M280 156 v6"
+     stroke="#a3a6bb"
+     stroke-width="2.5"
+     id="path231" />
+  <path
+     d="M284 164 L312 220"
+     stroke="#1c1e3f"
+     stroke-width="3"
+     id="path232" />
+  <g
+     transform="translate(282 196) rotate(70)"
+     id="g233">
+    <rect
+       x="-10.0"
+       y="-4"
+       width="20"
+       height="8"
+       fill="#caccdc"
+       opacity=".85"
+       id="rect232" />
+    <path
+       d="M-10.0 -4 l2 2 l-2 2 l2 2 l-2 2 M10.0 -4 l-2 2 l2 2 l-2 2 l2 2"
+       stroke="#9fa2b8"
+       stroke-width=".8"
+       fill="none"
+       id="path233" />
+  </g>
+</svg>
