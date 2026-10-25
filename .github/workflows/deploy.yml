@@ -1,0 +1,68 @@
+name: Deploy to GitHub Pages
+ 
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+ 
+# Allowed to publish to Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+ 
+# One deployment at a time; a newer push doesn't cancel one already running.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+ 
+env:
+  STOPA_GAME: stoparuv_pruvodce   # folder in games/
+  TRUNK_VERSION: v0.21.14
+  CARGO_TERM_COLOR: always
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+ 
+      # Installs the Rust version and the WebAssembly target named in
+      # rust-toolchain.toml.
+      - name: Install Rust
+        run: rustup toolchain install
+ 
+      # Keeps compiled dependencies between runs, so later builds are faster.
+      - uses: Swatinem/rust-cache@v2
+ 
+      - name: Install Trunk
+        run: |
+          curl -sSL "https://github.com/trunk-rs/trunk/releases/download/${TRUNK_VERSION}/trunk-x86_64-unknown-linux-gnu.tar.gz" \
+            | tar -xz -C /usr/local/bin trunk
+          trunk --version
+ 
+      # Checks the game file (a broken game stops here, before anything is
+      # published) and runs the story-rule tests.
+      - name: Test
+        run: cargo test --workspace --all-features
+ 
+      - name: Build
+        working-directory: app
+        run: trunk build --release
+ 
+      - uses: actions/configure-pages@v6
+ 
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: app/dist
+ 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+ 
