@@ -2885,6 +2885,11 @@ label = { cs = "Je tu referent Lejstrbach?", en = "X" }
 when = { items = { form_67b_unsigned = 1 } }
 to = "lejstrbach"
 
+[[locations.lost_and_found.scenes.people.choices]]
+id = "something_else"
+label = { cs = "Zeptat se na něco jiného", en = "X" }
+to = "arrival"
+
 [locations.lost_and_found.scenes.arthur]
 text.cs = """
 „Arthur Dent?“ Bogdan zadumaně listuje sešitem. Je úplně prázdný, protože do něj nikdy nic nezapsal.
