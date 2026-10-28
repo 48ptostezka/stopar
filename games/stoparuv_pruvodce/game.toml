@@ -170,7 +170,7 @@ title = { cs = "Ředitel na Bublanině není", en = "X" }
 text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů už z Bublaniny odletěl. Podle pohlednice pokračuje na Tu druhou Magratheu a pak na Traal.", en = "X" }
 
 [clues.director_not_on_magrathea]
-title = { cs = "Ředitel na Magrathey není", en = "X" }
+title = { cs = "Ředitel na Magrathee není", en = "X" }
 text = { cs = "Ředitel Společnosti pro ochranu ohrožených druhů už z Té druhé Magrathey odletěl.", en = "X" }
 
 [clues.soap_automat]
@@ -4226,7 +4226,7 @@ to = "clues"
 
 [[locations.developer.scenes.clues.choices]]
 id = "director_not_on_magrathea"
-label = { cs = "Ředitel na Magrathey není", en = "X" }
+label = { cs = "Ředitel na Magrathee není", en = "X" }
 give = { clues = ["director_not_on_magrathea"] }
 to = "clues"
 
