@@ -42,6 +42,9 @@ fn is_image_name(s: &str) -> bool {
     plain && ext.is_some_and(|e| IMAGE_TYPES.contains(&e.as_str()))
 }
 
+/// Pictures above this size (in bytes) get a warning.
+const LARGE_PICTURE: u64 = 500_000;
+
 const BUILTIN_ICONS: &str =
     "generic, map, key, coin, lantern, feather, cell, crystal, decoder, tank, letter, flask";
 
@@ -571,6 +574,27 @@ impl Game {
             .collect()
     }
 
+    /// Warnings for large files in `dir` (the game's images folder). Players
+    /// download every one of them for offline play, used or not, so big
+    /// photos make the first download slow on a weak connection.
+    pub fn large_pictures(dir: &Path) -> Vec<String> {
+        let Ok(entries) = std::fs::read_dir(dir) else { return Vec::new() };
+        let mut warnings: Vec<String> = entries
+            .flatten()
+            .filter_map(|e| Some((e.file_name().to_string_lossy().into_owned(), e.metadata().ok()?.len())))
+            .filter(|(_, size)| *size > LARGE_PICTURE)
+            .map(|(name, size)| {
+                format!(
+                    "picture \"{name}\" is {:.1} MB. Players download every picture for offline play, so on a slow \
+                     connection the first download takes long. About 1000 px wide and under 300 KB is plenty on a phone",
+                    size as f64 / 1_000_000.0
+                )
+            })
+            .collect();
+        warnings.sort();
+        warnings
+    }
+
     /// Errors for pictures missing from `dir` (the game's images folder).
     pub fn check_images(&self, dir: &Path) -> Vec<String> {
         self.images()
@@ -772,6 +796,19 @@ mod tests {
             Game::from_toml(&FIXTURE.replacen("[items.key]\n", "[items.key]\nicon = \"missing.svg\"\n", 1))
                 .unwrap();
         assert_eq!(game.check_icons(&dir).len(), 1);
+        std::fs::remove_dir_all(&dir).unwrap();
+    }
+
+    #[test]
+    fn large_pictures_are_reported() {
+        let dir = std::env::temp_dir().join(format!("stopa-pictures-{}", std::process::id()));
+        std::fs::create_dir_all(&dir).unwrap();
+        std::fs::write(dir.join("small.svg"), vec![b' '; 1000]).unwrap();
+        std::fs::write(dir.join("photo.jpg"), vec![0u8; 2_400_000]).unwrap();
+        let w = Game::large_pictures(&dir);
+        assert_eq!(w.len(), 1, "{w:#?}");
+        assert!(w[0].contains("\"photo.jpg\" is 2.4 MB"), "{w:#?}");
+        assert!(Game::large_pictures(&dir.join("missing")).is_empty());
         std::fs::remove_dir_all(&dir).unwrap();
     }
 

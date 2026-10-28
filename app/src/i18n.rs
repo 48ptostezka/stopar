@@ -207,3 +207,29 @@ pub fn found_at(lang: Lang, places: &str) -> String {
         Lang::En => format!("Found at {places}"),
     }
 }
+
+/// Offline copy downloading: "Stahuji hru pro hraní bez internetu: 12 z 31 souborů…"
+pub fn offline_downloading(lang: Lang, done: u32, total: u32, update: bool) -> String {
+    match (lang, update) {
+        (Lang::Cs, false) => format!(
+            "Stahuji hru pro hraní bez internetu: {done} z {total} souborů. Nech ji otevřenou s připojením, dokud se tu neukáže „Připraveno“."
+        ),
+        (Lang::Cs, true) => format!("Připraveno. Stahuji novou verzi hry: {done} z {total} souborů."),
+        (Lang::En, false) => format!(
+            "Downloading the game for offline play: {done} of {total} files. Keep it open online until this says \"Ready\"."
+        ),
+        (Lang::En, true) => format!("Ready. Downloading a new version of the game: {done} of {total} files."),
+    }
+}
+
+/// The download stopped part way.
+pub fn offline_interrupted(lang: Lang, done: u32, total: u32) -> String {
+    match lang {
+        Lang::Cs => format!(
+            "Stahování se přerušilo ({done} z {total} souborů). Až hru otevřeš s připojením, bude pokračovat tam, kde skončilo. Zatím hra bez internetu nefunguje."
+        ),
+        Lang::En => format!(
+            "The download stopped ({done} of {total} files). It goes on from there the next time you open the game online. Until then, the game doesn't work offline."
+        ),
+    }
+}

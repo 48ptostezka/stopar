@@ -100,7 +100,13 @@ pub fn register_service_worker() {
         );
         return;
     }
-    let _ = navigator.service_worker().register("sw.js");
+    // updateViaCache "none": when the browser checks for a new version, it
+    // fetches sw.js and the file list it imports from the server, never from
+    // its ordinary web cache (GitHub Pages lets that keep files 10 minutes),
+    // so a new upload is noticed on the next visit.
+    let options = web_sys::RegistrationOptions::new();
+    options.set_update_via_cache(web_sys::ServiceWorkerUpdateViaCache::None);
+    let _ = navigator.service_worker().register_with_options("sw.js", &options);
 }
 
 /// Whether the game can start without a network right now.
@@ -113,8 +119,14 @@ pub enum Offline {
     Insecure,
     /// The browser has no service workers.
     Unsupported,
-    /// Registered, but not in control of this page yet (first visit).
+    /// Registered, but nothing downloaded and nothing reported yet.
     Preparing,
+    /// Downloading the offline copy: `done` of `total` files saved. With
+    /// `update`, an older version is already ready offline meanwhile.
+    Downloading { done: u32, total: u32, update: bool },
+    /// The download stopped (the connection dropped). It goes on from where
+    /// it stopped the next time the game is opened online.
+    Interrupted { done: u32, total: u32 },
     /// A service worker controls the page: everything is cached.
     Ready,
 }
@@ -135,6 +147,52 @@ pub fn offline_status() -> Offline {
         Some(_) => Offline::Ready,
         None => Offline::Preparing,
     }
+}
+
+/// Calls `f` whenever the offline state changes: the service worker reports
+/// download progress (see public/sw.js, `report`), or a new version takes
+/// over the page.
+pub fn watch_offline(f: impl Fn(Offline) + Clone + 'static) {
+    if offline_status() == Offline::DevBuild || !has_property(&window().navigator(), "serviceWorker") {
+        return;
+    }
+    let container = window().navigator().service_worker();
+    let has_controller = {
+        let container = container.clone();
+        move || container.controller().is_some()
+    };
+
+    let on_message = {
+        let (f, has_controller) = (f.clone(), has_controller.clone());
+        Closure::<dyn Fn(web_sys::MessageEvent)>::new(move |ev: web_sys::MessageEvent| {
+            let data = ev.data();
+            let field = |name: &str| js_sys::Reflect::get(&data, &JsValue::from_str(name)).ok();
+            if field("type").and_then(|t| t.as_string()).as_deref() != Some("stopa-offline") {
+                return;
+            }
+            let number = |name: &str| field(name).and_then(|v| v.as_f64()).unwrap_or(0.0) as u32;
+            let (done, total) = (number("done"), number("total"));
+            let update = has_controller();
+            match field("state").and_then(|s| s.as_string()).as_deref() {
+                Some("progress") => f(Offline::Downloading { done, total, update }),
+                // An interrupted update leaves the older version working offline.
+                Some("interrupted") if update => f(Offline::Ready),
+                Some("interrupted") => f(Offline::Interrupted { done, total }),
+                _ => {}
+            }
+        })
+    };
+    let _ = container.add_event_listener_with_callback("message", on_message.as_ref().unchecked_ref());
+    on_message.forget(); // lives as long as the app
+
+    let on_controller = Closure::<dyn Fn()>::new(move || {
+        if has_controller() {
+            f(Offline::Ready)
+        }
+    });
+    let _ = container
+        .add_event_listener_with_callback("controllerchange", on_controller.as_ref().unchecked_ref());
+    on_controller.forget();
 }
 
 /// False when the browser knows it has no network. (True doesn't promise

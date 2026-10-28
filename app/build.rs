@@ -36,6 +36,7 @@ fn main() {
     let mut report = game.check();
     report.errors.extend(game.check_images(&images));
     report.errors.extend(game.check_icons(&icons));
+    report.warnings.extend(Game::large_pictures(&images));
     for warning in &report.warnings {
         println!("cargo:warning={}: {warning}", path.display());
     }

@@ -2,6 +2,7 @@ use leptos::prelude::*;
 use stopa_core::Lang;
 
 use crate::{
+    i18n,
     menu::accent_of,
     nav::Screen,
     platform::{self, Offline},
@@ -41,25 +42,32 @@ pub fn Settings() -> impl IntoView {
 }
 
 /// Says whether the game will start without a network, and if not, why.
+/// Updates live while the offline copy downloads.
 #[component]
 fn OfflineStatus() -> impl IntoView {
     let app = use_app();
-    let status = platform::offline_status();
     let text = move || {
-        let ui = app.ui();
-        match status {
-            Offline::Ready => ui.offline_ready,
-            Offline::Preparing => ui.offline_preparing,
-            Offline::Insecure => ui.offline_insecure,
-            Offline::Unsupported => ui.offline_unsupported,
-            Offline::DevBuild => ui.offline_dev,
+        let (ui, lang) = (app.ui(), app.lang());
+        match app.offline.get() {
+            Offline::Ready => ui.offline_ready.to_owned(),
+            Offline::Preparing => ui.offline_preparing.to_owned(),
+            Offline::Downloading { done, total, update } => {
+                i18n::offline_downloading(lang, done, total, update)
+            }
+            Offline::Interrupted { done, total } => i18n::offline_interrupted(lang, done, total),
+            Offline::Insecure => ui.offline_insecure.to_owned(),
+            Offline::Unsupported => ui.offline_unsupported.to_owned(),
+            Offline::DevBuild => ui.offline_dev.to_owned(),
         }
     };
-    let class = if status == Offline::Ready { "status-line" } else { "notice" };
+    let class = move || match app.offline.get() {
+        Offline::Ready | Offline::Downloading { update: true, .. } => "status-line",
+        _ => "notice",
+    };
     view! {
         <section class="setting">
             <h2 class="setting__label">{move || app.ui().offline}</h2>
-            <p class=class>{text}</p>
+            <p class=class role="status">{text}</p>
         </section>
     }
 }

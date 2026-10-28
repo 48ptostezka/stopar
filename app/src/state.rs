@@ -27,6 +27,8 @@ pub struct AppState {
     pub nav: Nav,
     /// What the player just received, shown on the scene they arrived at.
     pub arrival: RwSignal<Option<Arrival>>,
+    /// Whether the game works offline yet, kept up to date while it downloads.
+    pub offline: RwSignal<platform::Offline>,
 }
 
 #[derive(Clone, Debug, PartialEq)]
@@ -87,7 +89,10 @@ impl AppState {
             settings: RwSignal::new(settings),
             nav: Nav::new(),
             arrival: RwSignal::new(None),
+            offline: RwSignal::new(platform::offline_status()),
         };
+        let offline = state.offline;
+        platform::watch_offline(move |status| offline.set(status));
 
         let (progress, nav) = (state.progress, state.nav);
         Effect::new(move |_| progress.with(|p| save(&progress_key(), PROGRESS_VERSION, p)));
