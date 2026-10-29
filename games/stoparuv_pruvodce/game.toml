@@ -59,7 +59,7 @@ description = { cs = "Formulář 67B: Žádost o nahlédnutí do žádostí. Pot
 [items.form_67b_signed]
 icon = "form_67b_signed.svg"
 name = { cs = "Formulář 67B (orazítkovaný)", en = "X" }
-description = { cs = "Formulář 67B: Žádost o nahlédnutí do žádostí. Orazítkovaný referentem Lejstrbachem.", en = "X" }
+description = { cs = "Formulář 67B: Žádost o nahlédnutí do žádostí. Orazítkovaný razítkem referenta Lejstrbacha.", en = "X" }
 
 [items.official_document]
 icon = "official_document.svg"
@@ -178,7 +178,7 @@ title = { cs = "Automat na svěcené mýdlo", en = "X" }
 text = { cs = "Na Bublanině stojí automat na svěcené mýdlo Kultu Velké Mýdlové Bubliny. Mýdlo vydá jen se slevovým kódem. Chrám Kultu je na planetě Bubliblaxie.", en = "X" }
 
 [clues.virus_needs_paradox]
-title = { cs = "Virus v Muzeu Šedi", en = "X" }
+title = { cs = "Virus v Muzeu dvanácti tisíc odstínů šedi", en = "X" }
 text = { cs = "Virus ovládl Muzeum dvanácti tisíc odstínů šedi i jeho kustoda. Zbavit se ho dá jen dobrým logickým paradoxem. Na přemýšlení virus doporučil Veřejnou toitoiku uprostřed vesmíru.", en = "X" }
 
 [clues.gift_for_official]
@@ -4265,7 +4265,7 @@ to = "clues"
 
 [[locations.developer.scenes.clues.choices]]
 id = "virus_needs_paradox"
-label = { cs = "Virus v Muzeu Šedi", en = "X" }
+label = { cs = "Virus v Muzeu dvanácti tisíc odstínů šedi", en = "X" }
 give = { clues = ["virus_needs_paradox"] }
 to = "clues"
 
