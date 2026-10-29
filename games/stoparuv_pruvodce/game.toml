@@ -593,25 +593,52 @@ Vysvětlíte, že hledáte záznam o žádosti o únos jistého pozemšťana. Vo
 „Chybí razítko terénního referenta Lejstrbacha. Je na inspekci. Podle rozpisu měl být zpátky před šesti týdny.“
 """
 text.en = "X"
+pick = "any"
 
 [[locations.form_office.scenes.open.choices]]
 id = "where"
 label = { cs = "Na inspekci kde?", en = "X" }
+when = { without_clues = ["director_station"] }
+give = { items = { form_67b_unsigned = 1 }, clues = ["lejstrbach_inspection"] }
+set = ["traal_lead"]
 to = "where"
+
+[[locations.form_office.scenes.open.choices]]
+id = "met_lejstrbach"
+label = { cs = "Lejstrbacha už jsme potkali", en = "X" }
+when = { clues = ["director_station"], without_items = ["form_67b_unsigned", "form_67b_signed"] }
+give = { items = { form_67b_signed = 1 }, clues = ["boring_official"] }
+to = "met_lejstrbach"
 
 [locations.form_office.scenes.where]
 image = "urad_prepazka.svg"
 alt = { cs = "Vogon za přepážkou a prázdná čekárna.", en = "X" }
 text.cs = """
-Vogon zalistuje v šanonu. „Na Traalu. Nebo na Bublibragisu. Rozpis uvádí obojí. Za chybu v rozpisu odpovídá oddělení rozpisů. To má zavřeno.“
+Vogon zalistuje v šanonu. „Na Bublibragisu. Nebo na Traalu. Rozpis uvádí obojí. Za chybu v rozpisu odpovídá oddělení rozpisů. To má zavřeno.“
 
 Podá vám formulář. „Další!“
 
 V čekárně nikdo není. Všichni už to vzdali.
 """
 text.en = "X"
-give = { items = { form_67b_unsigned = 1 }, clues = ["lejstrbach_inspection"] }
-set = ["traal_lead"]
+
+[locations.form_office.scenes.met_lejstrbach]
+image = "urad_prepazka.svg"
+alt = { cs = "Vogon za přepážkou a prázdná čekárna.", en = "X" }
+text.cs = """
+Vysvětlíte, že referent Lejstrbach se nevrátí, protože je na Traalu zasnoubený.
+
+Vogon poprvé zvedne oči. „A výkaz o zpoždění vyplnil?“ Nevyplnil. Jaká nehoráznost.
+
+Vogon si povzdechne a vytáhne z šuplíku razítko. „Tím pádem jeho razítko přechází
+na nejbližšího úředníka. To jsem bohužel já.“ Otiskne razítko na formulář a podá vám ho.
+
+„S tím budete ve Vogonském archivu čekat roky. Ledaže kolegovi přinesete dárek. Má rád věci nevýslovně nudné.
+Zkuste třeba Muzeum dvanácti tisíc odstínů šedi.“
+
+„Další!“ V čekárně nikdo není. Všichni už to vzdali.
+"""
+text.en = "X"
 
 
 # ---------------------------------- society office
